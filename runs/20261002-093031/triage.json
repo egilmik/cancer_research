@@ -1,0 +1,66 @@
+{
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-taletrectinib-ros1-positive-non-small-cell-lung-cancer": {
+  "relevance": "low",
+  "reason": "FDA approval of taletrectinib for ROS1+ NSCLC; undated in the search result and not a 2026 decision as far as the snippet shows, and not EGFR-directed."
+ },
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-ensartinib-alk-positive-locally-advanced-or-metastatic-non-small-cell-lung-cancer": {
+  "relevance": "low",
+  "reason": "FDA approval dated December 2024, far outside the two-month window; ALK-directed."
+ },
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-durvalumab-limited-stage-small-cell-lung-cancer": {
+  "relevance": "low",
+  "reason": "FDA approval dated December 2024 for LS-SCLC, outside the window."
+ },
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-neoadjuvantadjuvant-nivolumab-resectable-non-small-cell-lung-cancer": {
+  "relevance": "low",
+  "reason": "FDA approval dated October 2024 for perioperative nivolumab, outside the window."
+ },
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-repotrectinib-ros1-positive-non-small-cell-lung-cancer": {
+  "relevance": "low",
+  "reason": "FDA approval of repotrectinib for ROS1+ NSCLC, an older decision (2023), outside the window."
+ },
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-alectinib-adjuvant-treatment-alk-positive-non-small-cell-lung-cancer": {
+  "relevance": "low",
+  "reason": "FDA approval of adjuvant alectinib, an older decision (2024), outside the window."
+ },
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-pembrolizumab-adjuvant-treatment-non-small-cell-lung-cancer": {
+  "relevance": "low",
+  "reason": "FDA approval of adjuvant pembrolizumab, an older decision (2024), outside the window."
+ },
+ "url:https://www.ema.europa.eu/en/news/new-treatment-relapsed-extensive-stage-small-cell-lung-cancer": {
+  "relevance": "medium",
+  "reason": "EMA news item on a new treatment for relapsed ES-SCLC (likely tarlatamab); undated in the result, so recency is unclear."
+ },
+ "url:https://www.ema.europa.eu/en/news/new-treatment-option-patients-advanced-lung-cancer": {
+  "relevance": "low",
+  "reason": "Undated generic EMA news item on an advanced lung cancer treatment; no drug or date identifiable from the snippet."
+ },
+ "url:https://www.ema.europa.eu/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-keytruda-ii-134_en.pdf": {
+  "relevance": "low",
+  "reason": "CHMP opinion from February 2024 (perioperative pembrolizumab), outside the window."
+ },
+ "url:https://www.ema.europa.eu/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-tevimbra-ii-08_en.pdf": {
+  "relevance": "low",
+  "reason": "CHMP opinion from May 2024 (tislelizumab NSCLC), outside the window."
+ },
+ "url:https://www.nyemetoder.no/49597e/contentassets/1deaee85578f4fc386b34ddd596e593e/offentlige-sakspapirer-beslutningsforum-16.-mars-2026.pdf": {
+  "relevance": "high",
+  "reason": "Norwegian Beslutningsforum decisions of 16 March 2026 not previously recorded: tislelizumab + etoposide/platinum introduced for 1L ES-SCLC, tepotinib monotherapy for METex14 NSCLC not introduced."
+ },
+ "url:https://www.nyemetoder.no/aktuelt/beslutningsforum-22-mai-innforer-to-nye-legemidler-for-pasienter-med-lungekreft": {
+  "relevance": "medium",
+  "reason": "Nye Metoder news on two lung cancer drugs introduced on 22 May; the year and the drugs are not identifiable from the snippet (page fetch blocked)."
+ },
+ "url:https://www.nyemetoder.no/aktuelt/beslutningsforum-20.-januar-2025": {
+  "relevance": "low",
+  "reason": "Beslutningsforum decision from January 2025, outside the window."
+ },
+ "url:https://www.nyemetoder.no/metoder/id2024_065": {
+  "relevance": "low",
+  "reason": "Method page for repotrectinib (ROS1+ NSCLC), introduced earlier; no new decision date in the snippet."
+ },
+ "url:https://www.nyemetoder.no/metoder/id2024_019": {
+  "relevance": "medium",
+  "reason": "Nye Metoder method page for amivantamab (EGFR-directed); the decision status/date could not be verified (page fetch blocked), so flagged for manual check."
+ }
+}
