@@ -45,6 +45,7 @@ USER_AGENT = "research-monitor/1.0 (+https://github.com)"
 ID_PATTERN = re.compile(r"^[a-z0-9][a-z0-9-]*$")
 DOI_PATTERN = re.compile(r"10\.\d{4,9}/[^\s\"<>]+")
 TRACKING_PARAM = re.compile(r"^(utm_|fbclid$|gclid$|mc_)")
+RDF_NS = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 
 EXIT_PARTIAL = 3  # some sources failed; the rest were recorded
 
@@ -269,6 +270,16 @@ class PubMed:
         finally:
             self._last = time.monotonic()
 
+    def count(self, term: str, mindate: str, maxdate: str) -> int:
+        raw = self._call("esearch.fcgi", {
+            "db": "pubmed", "term": term, "retmode": "json", "retmax": 0,
+            "datetype": "edat", "mindate": mindate, "maxdate": maxdate,
+        })
+        res = json.loads(raw)["esearchresult"]
+        if "ERROR" in res:
+            raise RuntimeError(f"PubMed: {res['ERROR']}")
+        return int(res.get("count", 0))
+
     def search(self, term: str, mindate: str, maxdate: str, max_results: int):
         ids: list[str] = []
         retstart, count, translation, warnings = 0, 0, "", None
@@ -303,22 +314,40 @@ class PubMed:
         return out
 
 
+def pubmed_window(pubmed: PubMed, term: str, start: dt.date, end: dt.date, max_results: int):
+    """All PMIDs in [start, end]. A window with more than max_results hits is split in half by
+    date until every slice fits, so a long window (a backfill) is retrieved completely instead
+    of being cut at max_results. Only a single day with more hits than that can be truncated."""
+    fmt = lambda d: d.strftime("%Y/%m/%d")  # noqa: E731
+    if start < end and pubmed.count(term, fmt(start), fmt(end)) > max_results:
+        mid = start + (end - start) // 2
+        c1, ids1, tr1, w1, n1 = pubmed_window(pubmed, term, start, mid, max_results)
+        c2, ids2, tr2, w2, n2 = pubmed_window(pubmed, term, mid + dt.timedelta(days=1), end,
+                                              max_results)
+        return c1 + c2, ids1 + ids2, tr1 or tr2, w1 or w2, n1 + n2  # edat days are disjoint
+    count, ids, translation, warnings = pubmed.search(term, fmt(start), fmt(end), max_results)
+    return count, ids, translation, warnings, 1
+
+
 def date_window(runs: list[dict], search_id: str, version, source: str, query, settings: dict,
-                today: dt.date, since: dt.date | None) -> tuple[dt.date, dt.date]:
-    """Start a few days before the last successful window for this exact query ended (indexing
-    lag); duplicates from the overlap are removed by de-duplication."""
+                today: dt.date, since: dt.date | None,
+                until: dt.date | None = None) -> tuple[dt.date, dt.date]:
+    """Start a few days before the latest complete window for this exact query ended (indexing
+    lag); duplicates from the overlap are removed by de-duplication. A truncated window is not
+    complete, so it never moves the start forward; a backfill (--until) never moves it back."""
+    end = min(until, today) if until else today
     if since:
-        return since, today
+        return since, end
     last = None
-    for r in runs:  # chronological
+    for r in runs:
         if (r.get("search") == search_id and r.get("source") == source
                 and r.get("version") == version and r.get("query") == query
-                and r.get("status") == "ok"):
-            last = r
+                and r.get("status") == "ok" and not r.get("truncated")):
+            r_end = dt.date.fromisoformat(r["maxdate"].replace("/", "-"))
+            last = r_end if last is None else max(last, r_end)
     if last:
-        end = dt.date.fromisoformat(last["maxdate"].replace("/", "-"))
-        return end - dt.timedelta(days=int(settings.get("overlap_days", 3))), today
-    return today - dt.timedelta(days=int(settings.get("initial_lookback_days", 30))), today
+        return last - dt.timedelta(days=int(settings.get("overlap_days", 3))), end
+    return today - dt.timedelta(days=int(settings.get("initial_lookback_days", 30))), end
 
 
 # --------------------------------------------------------------------------- clinicaltrials.gov
@@ -353,10 +382,12 @@ def parse_ctgov_study(study: dict, date_field: str) -> dict | None:
     }
 
 
-def fetch_ctgov(spec: dict, start: dt.date, max_results: int) -> tuple[int, list[dict]]:
+def fetch_ctgov(spec: dict, start: dt.date, end: dt.date | None,
+                max_results: int) -> tuple[int, list[dict]]:
     date_field = spec.get("date_field", "StudyFirstPostDate")
+    upper = end.isoformat() if end else "MAX"
     params = {"format": "json", "pageSize": 100, "countTotal": "true",
-              "filter.advanced": f"AREA[{date_field}]RANGE[{start.isoformat()},MAX]"}
+              "filter.advanced": f"AREA[{date_field}]RANGE[{start.isoformat()},{upper}]"}
     for k in ("cond", "intr", "term"):
         if spec.get(k):
             params[f"query.{k}"] = spec[k]
@@ -382,32 +413,61 @@ def strip_html(s: str) -> str:
     return " ".join(html.unescape(re.sub(r"<[^>]+>", " ", s or "")).split())
 
 
-def fetch_feed(url: str, keywords: list[str] | None) -> tuple[int, list[dict]]:
-    import feedparser
+def _local(tag) -> str:
+    return tag.rsplit("}", 1)[-1] if isinstance(tag, str) else ""
 
-    parsed = feedparser.parse(http_request(url))
-    if parsed.bozo and not parsed.entries:
-        raise RuntimeError(f"could not parse feed: {parsed.get('bozo_exception')}")
+
+def parse_feed(raw: bytes) -> list[dict]:
+    """Entries of an RSS 2.0, RSS 1.0 (RDF) or Atom feed, with the standard library only.
+    Child elements are keyed by local name (dc:date -> "date"); the first occurrence wins,
+    except for Atom links, where rel="alternate" (or no rel) is preferred."""
+    try:
+        root = ET.fromstring(raw)
+    except ET.ParseError as e:
+        raise RuntimeError(f"could not parse feed: {e}") from None
+    entries = []
+    for el in root.iter():
+        if _local(el.tag) not in ("item", "entry"):
+            continue
+        e: dict[str, str] = {}
+        for child in el:
+            name = _local(child.tag)
+            if name == "link" and child.get("href"):  # Atom
+                if child.get("rel", "alternate") == "alternate" or "link" not in e:
+                    e["link"] = child.get("href", "").strip()
+                continue
+            text = "".join(child.itertext()).strip()
+            if text and name not in e:
+                e[name] = text
+        if not e.get("link") and el.get(f"{{{RDF_NS}}}about"):
+            e["link"] = el.get(f"{{{RDF_NS}}}about", "")
+        entries.append(e)
+    return entries
+
+
+def fetch_feed(url: str, keywords: list[str] | None) -> tuple[int, list[dict]]:
+    entries = parse_feed(http_request(url))
     kws = [k.lower() for k in (keywords or [])]
     items = []
-    for e in parsed.entries:
+    for e in entries:
         title = " ".join((e.get("title") or "").split())
-        summary = strip_html(e.get("summary") or "")
+        summary = strip_html(e.get("description") or e.get("summary") or e.get("content") or "")
         if kws and not any(k in f"{title} {summary}".lower() for k in kws):
             continue
-        link = e.get("link") or e.get("id") or ""
+        link = e.get("link") or e.get("guid") or e.get("id") or ""
         if not link:
             continue
         doi = ""
-        for cand in (e.get("prism_doi"), e.get("dc_identifier"), e.get("id"), link, summary):
+        for cand in (e.get("doi"), e.get("identifier"), e.get("guid"), e.get("id"), link, summary):
             m = DOI_PATTERN.search(cand or "")
             if m:
                 doi = m.group(0).rstrip(".,;)")
                 break
         items.append({"source": "feed", "feed": url, "url": link, "doi": doi, "title": title,
                       "summary": summary[:2000],
-                      "published": e.get("published") or e.get("updated") or ""})
-    return len(parsed.entries), items
+                      "published": (e.get("pubDate") or e.get("published") or e.get("date")
+                                    or e.get("updated") or "")})
+    return len(entries), items
 
 
 # --------------------------------------------------------------------------- commands
@@ -431,6 +491,9 @@ def cmd_fetch(args) -> int:
         searches = [s for s in cfg["searches"] if s.get("enabled", True)]
 
     since = dt.date.fromisoformat(args.since) if args.since else None
+    until = dt.date.fromisoformat(args.until) if args.until else None
+    if since and until and until < since:
+        sys.exit("--until is before --since")
     now = dt.datetime.now(dt.timezone.utc)
     today = now.date()
     run_id = now.strftime("%Y%m%d-%H%M%S")
@@ -451,17 +514,22 @@ def cmd_fetch(args) -> int:
             if pubmed is None:
                 pubmed = PubMed(settings.get("email") or os.environ.get("NCBI_EMAIL"),
                                 os.environ.get("NCBI_API_KEY"))
-            start, end = date_window(runs, sid, version, "pubmed", query, settings, today, since)
+            start, end = date_window(runs, sid, version, "pubmed", query, settings, today, since,
+                                     until)
             mindate, maxdate = start.strftime("%Y/%m/%d"), end.strftime("%Y/%m/%d")
             rec = dict(base, source="pubmed", query=query, mindate=mindate, maxdate=maxdate)
             if since:
                 rec["since_override"] = args.since
+            if until:
+                rec["until_override"] = args.until
             try:
-                count, ids, translation, warnings = pubmed.search(query, mindate, maxdate,
-                                                                  max_results)
+                count, ids, translation, warnings, slices = pubmed_window(
+                    pubmed, query, start, end, max_results)
                 new = found.collect(pubmed.fetch(ids) if ids else [], sid, seen)
                 rec.update(status="ok", count=count, retrieved=len(ids), new=new,
                            translation=translation)
+                if slices > 1:
+                    rec["slices"] = slices
                 if count > len(ids):
                     rec["truncated"] = True
                 if warnings:
@@ -473,11 +541,11 @@ def cmd_fetch(args) -> int:
         for spec in s.get("clinicaltrials") or []:
             ct_query = {k: spec[k] for k in ("cond", "intr", "term", "date_field") if spec.get(k)}
             start, end = date_window(runs, sid, version, "clinicaltrials", ct_query, settings,
-                                     today, since)
+                                     today, since, until)
             rec = dict(base, source="clinicaltrials", query=ct_query,
                        mindate=start.isoformat(), maxdate=end.isoformat())
             try:
-                total, items = fetch_ctgov(spec, start, max_results)
+                total, items = fetch_ctgov(spec, start, until and end, max_results)
                 rec.update(status="ok", count=total, retrieved=len(items),
                            new=found.collect(items, sid, seen))
                 if total > len(items):
@@ -586,7 +654,9 @@ def main() -> int:
 
     f = sub.add_parser("fetch", help="run searches and record new items")
     f.add_argument("--only", nargs="+", metavar="ID", help="run only these search ids")
-    f.add_argument("--since", metavar="YYYY-MM-DD", help="override PubMed window start (backfill)")
+    f.add_argument("--since", metavar="YYYY-MM-DD", help="override window start (backfill)")
+    f.add_argument("--until", metavar="YYYY-MM-DD",
+                   help="override window end (backfill one slice at a time; default today)")
     f.add_argument("--dry-run", action="store_true", help="query sources but write nothing")
     f.add_argument("-v", "--verbose", action="store_true", help="with --dry-run, print items")
     f.set_defaults(func=cmd_fetch)

@@ -13,7 +13,7 @@ settings:
   overlap_days: 3             # re-check this many days before the last window (indexing lag)
   initial_lookback_days: 30    # first run of a search (or new version) looks back this far; for a
                               # longer backfill, run with `since:` in a few chunks
-  max_results: 500            # per source per run; runs.jsonl flags `truncated` if exceeded
+  max_results: 500            # per request; longer PubMed windows are split by date to fit
 
 searches:
 

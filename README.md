@@ -79,9 +79,14 @@ ROUTINE_PROMPT.md        paste into the routine
 
 - **Changing a query**: bump its `version`. Its window restarts at `initial_lookback_days`, and items
   already seen are still never reported twice.
-- **Backfilling**: `since: YYYY-MM-DD` in the run text, or `fetch --since` locally. This is safe to
-  repeat, because de-duplication filters out anything already recorded.
-- **Truncation**: if a search returns more than `max_results`, its `runs.jsonl` line gets
-  `"truncated": true` and the digest flags it. Narrow the query or raise the limit.
+- **Backfilling**: `since: YYYY-MM-DD` (and optionally `until: YYYY-MM-DD`) in the run text, or
+  `fetch --since/--until` locally. This is safe to repeat, because de-duplication filters out
+  anything already recorded. A long PubMed window is retrieved completely (see below), so a
+  backfill over many months can bring thousands of new items; use `until` to do it a month at a
+  time and keep each run's triage manageable. A backfill never moves the regular window back.
+- **Truncation**: a PubMed window with more than `max_results` hits is split by date until each
+  slice fits (`runs.jsonl` records `"slices"`), so it is only truncated if a single day exceeds the
+  limit. ClinicalTrials.gov is not split. A truncated line gets `"truncated": true`, the digest
+  flags it, and it does not count as a completed window, so the next run starts before it.
 - **Status**: `python scripts/monitor.py status` shows the last successful run, item count and
   latest error per search.

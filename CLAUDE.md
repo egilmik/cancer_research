@@ -28,8 +28,8 @@ in conversation memory. If it isn't in `state/`, `runs/` or `digests/`, it didn'
 ## Scheduled run protocol
 
 1. `pip install -q -r requirements.txt`
-2. `python scripts/monitor.py fetch` (add `--only ID ...` and/or `--since YYYY-MM-DD` if the run
-   prompt asked for it). Note the `run_id` it prints. Exit code 3 means some sources failed: continue.
+2. `python scripts/monitor.py fetch` (add `--only ID ...`, `--since YYYY-MM-DD` and/or
+   `--until YYYY-MM-DD` if the run prompt asked for it). Note the `run_id` it prints. Exit code 3 means some sources failed: continue.
 3. For each entry in `web_queries_to_run` from step 2, run the query with your web search tool.
    Keep only results that are actual publications, preprints, trial records or announcements, not
    navigation or listing pages. Save them as a JSON list of `{"url", "title", "snippet", "date"}` and run:
