@@ -1,33 +1,170 @@
 # Search definitions. One entry per search.
 #
-# Changing an existing query? Bump its `version`. That restarts its PubMed date window
+# Changing an existing query? Bump its `version`. That restarts its date window
 # (initial_lookback_days) and makes it obvious in state/runs.jsonl which query found what.
 # Already-recorded items are never reported again, whatever the version.
+#
+# PubMed note: brand-new records usually have no MeSH terms or publication types yet (indexing
+# takes weeks), so these queries rely on title/abstract [tiab] words. MeSH/[pt] terms are kept
+# only as extras.
 
 settings:
   email: you@example.com      # NCBI asks for a contact address with E-utilities requests
   overlap_days: 3             # re-check this many days before the last window (indexing lag)
-  initial_lookback_days: 30   # first run of a search (or of a new version) looks back this far
-  max_results: 500            # per search per run; runs.jsonl flags `truncated` if exceeded
+  initial_lookback_days: 7    # first run of a search (or new version) looks back this far; for a
+                              # longer backfill, run with `since:` in a few chunks
+  max_results: 500            # per source per run; runs.jsonl flags `truncated` if exceeded
 
 searches:
-  - id: example-search        # lowercase, digits, hyphens; used with --only
-    name: Example search — replace me
+
+  # ------------------------------------------------------------------ EGFR-mutant NSCLC
+  - id: egfr-nsclc
+    name: EGFR-mutant NSCLC — everything
     enabled: true
     version: 1
     criteria: >
-      What makes a hit worth your time. Claude triages every new item against this text,
-      so be specific: study types, populations, interventions, endpoints, what to ignore.
+      EGFR-mutant non-small cell lung cancer. HIGH: phase 2/3 results or updated survival data
+      (e.g. FLAURA2, MARIPOSA and successors); new approvals, label changes or guideline updates;
+      resistance mechanisms with treatment implications (C797S, MET, HER2, histologic
+      transformation); new agents (4th-generation TKIs, ADCs, bispecifics, degraders/PROTACs);
+      CNS efficacy; ctDNA/MRD-guided strategies; head-to-head or sequencing data.
+      MEDIUM: large real-world cohorts, well-done meta-analyses, mechanistic studies with a clear
+      clinical angle, differences in access or outcomes between countries.
+      LOW: case reports, small single-centre retrospectives, bioinformatic signatures without
+      validation, network-pharmacology papers, narrative reviews that add nothing new.
     pubmed:
-      # Paste the query exactly as you would in the PubMed search box.
-      # No date limits here — the script adds them (Entrez date window).
-      query: '("base editing"[tiab] OR "base editor"[tiab]) AND english[la]'
-    # RSS/Atom feeds (journal TOCs, preprint servers, trial registries, news pages).
-    # Each feed's domain must be in the cloud environment's allowed domains.
-    feeds: []
-    #  - https://example.org/feed.xml
-    # Optional: keep only feed entries whose title/summary contains one of these (case-insensitive).
-    feed_keywords: []
-    # Web searches Claude runs with its own search tool, for sites without a feed or API.
-    web: []
-    #  - '"base editing" site:example.org'
+      query: >-
+        ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung carcinoma"[tiab]
+        OR "lung adenocarcinoma"[tiab] OR "lung adenocarcinomas"[tiab] OR NSCLC[tiab]
+        OR "non-small cell lung"[tiab] OR "non-small-cell lung"[tiab]
+        OR "Carcinoma, Non-Small-Cell Lung"[mh])
+        AND
+        (EGFR[tiab] OR EGFRm[tiab] OR "EGFR-mutant"[tiab] OR "EGFR-mutated"[tiab]
+        OR "epidermal growth factor receptor"[tiab] OR "ErbB Receptors"[mh]
+        OR L858R[tiab] OR "exon 19"[tiab] OR "exon 20"[tiab] OR T790M[tiab] OR C797S[tiab]
+        OR "EGFR-TKI"[tiab] OR "EGFR-TKIs"[tiab]
+        OR osimertinib[tiab] OR amivantamab[tiab] OR lazertinib[tiab] OR gefitinib[tiab]
+        OR erlotinib[tiab] OR afatinib[tiab] OR dacomitinib[tiab] OR aumolertinib[tiab]
+        OR almonertinib[tiab] OR furmonertinib[tiab] OR firmonertinib[tiab] OR befotertinib[tiab]
+        OR rezivertinib[tiab] OR sunvozertinib[tiab] OR zipalertinib[tiab] OR mobocertinib[tiab])
+    clinicaltrials:
+      - {cond: "non-small cell lung cancer", term: "EGFR"}                                    # new registrations
+      - {cond: "non-small cell lung cancer", term: "EGFR", date_field: ResultsFirstPostDate}  # results posted
+
+  - id: nsclc-resistance-nextgen
+    name: NSCLC resistance and next-generation agents
+    enabled: true
+    version: 1
+    criteria: >
+      Resistance and what comes after it in NSCLC, EGFR-mutant first. HIGH: clinical data on
+      post-osimertinib options; ADCs (datopotamab deruxtecan, patritumab deruxtecan, sacituzumab
+      tirumotecan and others); 4th-generation EGFR TKIs; EGFR degraders/PROTACs with in vivo data;
+      MET- or HER2-directed strategies after EGFR TKIs; transformation to small cell.
+      MEDIUM: preclinical work on these with a credible path to the clinic.
+      LOW: ADC or resistance papers in other tumour types that only mention lung in passing.
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung adenocarcinoma"[tiab] OR NSCLC[tiab]
+        OR "non-small cell lung"[tiab] OR "non-small-cell lung"[tiab])
+        AND
+        (C797S[tiab] OR "fourth-generation"[tiab] OR "fourth generation"[tiab]
+        OR "4th-generation"[tiab] OR PROTAC[tiab] OR PROTACs[tiab] OR degrader[tiab]
+        OR degraders[tiab] OR "acquired resistance"[tiab] OR "MET amplification"[tiab]
+        OR "HER2 mutation"[tiab] OR "HER2 mutations"[tiab] OR "small cell transformation"[tiab]
+        OR "histologic transformation"[tiab] OR "histological transformation"[tiab]
+        OR datopotamab[tiab] OR "Dato-DXd"[tiab] OR "patritumab deruxtecan"[tiab]
+        OR "HER3-DXd"[tiab] OR "sacituzumab tirumotecan"[tiab] OR "sac-TMT"[tiab]
+        OR telisotuzumab[tiab] OR "antibody-drug conjugate"[tiab]
+        OR "antibody-drug conjugates"[tiab])
+
+  # ------------------------------------------------------------------ lung cancer in general
+  - id: lung-key-evidence
+    name: Lung cancer — trials, meta-analyses, guidelines
+    enabled: true
+    version: 1
+    criteria: >
+      All lung cancer (NSCLC, SCLC). HIGH: phase 3 results, practice-changing phase 2, new
+      guidelines or consensus statements, screening trials, perioperative/adjuvant data,
+      immunotherapy or targeted-therapy results in any driver subgroup.
+      MEDIUM: phase 2 trials, rigorous meta-analyses of RCTs, protocol papers of major trials.
+      LOW: meta-analyses of retrospective studies, trial-design commentaries, regional
+      single-arm studies with small n.
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung carcinoma"[tiab]
+        OR "lung adenocarcinoma"[tiab] OR NSCLC[tiab] OR SCLC[tiab]
+        OR "non-small cell lung"[tiab] OR "non-small-cell lung"[tiab]
+        OR "small cell lung"[tiab] OR "small-cell lung"[tiab])
+        AND
+        ("phase 3"[tiab] OR "phase III"[tiab] OR "phase 2"[tiab] OR "phase II"[tiab]
+        OR randomized[tiab] OR randomised[tiab] OR "meta-analysis"[tiab]
+        OR "systematic review"[tiab] OR guideline[tiab] OR guidelines[tiab] OR consensus[tiab]
+        OR "Randomized Controlled Trial"[pt] OR "Clinical Trial, Phase III"[pt]
+        OR "Practice Guideline"[pt])
+
+  - id: lung-top-journals
+    name: Lung cancer in major journals
+    enabled: true
+    version: 1
+    criteria: >
+      Anything on lung cancer in these journals deserves at least MEDIUM. HIGH if it reports
+      trial results, changes practice, or explains a mechanism with treatment consequences.
+      LOW for letters, corrections and short commentaries.
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung adenocarcinoma"[tiab] OR NSCLC[tiab] OR SCLC[tiab]
+        OR "non-small cell lung"[tiab] OR "small cell lung"[tiab])
+        AND
+        ("N Engl J Med"[ta] OR "Lancet"[ta] OR "Lancet Oncol"[ta] OR "Lancet Respir Med"[ta]
+        OR "J Clin Oncol"[ta] OR "JAMA"[ta] OR "JAMA Oncol"[ta] OR "Nat Med"[ta]
+        OR "Ann Oncol"[ta] OR "Cancer Discov"[ta] OR "Cancer Cell"[ta]
+        OR "J Thorac Oncol"[ta] OR "Nature"[ta] OR "Science"[ta] OR "Cell"[ta])
+
+  - id: lung-nonpharm
+    name: Lung cancer — non-pharmacological interventions
+    enabled: true
+    version: 1
+    criteria: >
+      Non-drug interventions in people with lung cancer and their effect on survival, treatment
+      tolerance, complications or quality of life. HIGH: randomised trials and large prospective
+      cohorts (exercise, prehabilitation, nutrition, body composition, sleep, psychosocial).
+      MEDIUM: smaller trials, feasibility studies with outcome data, good meta-analyses.
+      LOW: prevention/risk epidemiology in people without cancer, surveys, protocols.
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung adenocarcinoma"[tiab] OR NSCLC[tiab] OR SCLC[tiab]
+        OR "non-small cell lung"[tiab] OR "small cell lung"[tiab])
+        AND
+        (exercise[tiab] OR "physical activity"[tiab] OR prehabilitation[tiab]
+        OR rehabilitation[tiab] OR "physical function"[tiab] OR diet[tiab] OR dietary[tiab]
+        OR nutrition[tiab] OR nutritional[tiab] OR fasting[tiab] OR "vitamin D"[tiab]
+        OR "body composition"[tiab] OR sarcopenia[tiab] OR cachexia[tiab] OR sleep[tiab]
+        OR mindfulness[tiab] OR yoga[tiab] OR psychosocial[tiab])
+
+  # ------------------------------------------------------------------ preprints
+  - id: preprints
+    name: Lung cancer preprints (medRxiv, bioRxiv)
+    enabled: true
+    version: 1
+    criteria: >
+      Preprints are not peer reviewed, so say so in the digest. HIGH only for trial results or
+      striking EGFR/resistance findings; most items should be MEDIUM or LOW.
+    feeds:
+      - http://connect.medrxiv.org/medrxiv_xml.php?subject=Oncology
+      - http://connect.biorxiv.org/biorxiv_xml.php?subject=cancer_biology
+    feed_keywords: [lung, nsclc, sclc, egfr]
+
+  # ------------------------------------------------------------------ approvals and access
+  - id: approvals-access
+    name: Approvals, reimbursement and access
+    enabled: true
+    version: 1
+    criteria: >
+      Regulatory and access decisions for lung cancer drugs: FDA approvals, EMA/CHMP opinions,
+      Norwegian Nye Metoder decisions. HIGH: any decision on an EGFR-directed therapy or a
+      lung cancer drug. Ignore pages older than about two months unless they are decisions
+      not yet recorded in this repo.
+    web:
+      - 'FDA approves lung cancer site:fda.gov'
+      - 'CHMP opinion lung cancer site:ema.europa.eu'
+      - 'lungekreft beslutning site:nyemetoder.no'

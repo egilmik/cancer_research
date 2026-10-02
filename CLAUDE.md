@@ -8,7 +8,7 @@ in conversation memory. If it isn't in `state/`, `runs/` or `digests/`, it didn'
 | Path | Written by | Contents |
 |---|---|---|
 | `searches.yaml` | the user (or you, only when asked) | search definitions and triage criteria |
-| `scripts/monitor.py` | — | retrieval + de-duplication; the only writer of `state/` |
+| `scripts/monitor.py` | — | retrieval (PubMed, ClinicalTrials.gov, feeds) + de-duplication; the only writer of `state/` |
 | `state/items.jsonl` | monitor.py | every item ever recorded (append-only) |
 | `state/runs.jsonl` | monitor.py | every search execution: exact query, date window, counts, errors |
 | `runs/<run_id>/new_items.json` | monitor.py | items new in that run, with abstracts |
@@ -22,6 +22,8 @@ in conversation memory. If it isn't in `state/`, `runs/` or `digests/`, it didn'
 - Every item in a digest must come from `runs/<run_id>/new_items.json`. Never add items from memory.
 - A run that finds nothing still gets a digest and a commit, so gaps are visible.
 - Report source errors at the top of the digest. Do not retry a failing source more than once.
+- Report what each study found, with its limitations (design, size, endpoints, follow-up).
+  Do not extrapolate beyond the data or overstate preliminary results.
 
 ## Scheduled run protocol
 
@@ -33,16 +35,21 @@ in conversation memory. If it isn't in `state/`, `runs/` or `digests/`, it didn'
    navigation or listing pages. Save them as a JSON list of `{"url", "title", "snippet", "date"}` and run:
    `python scripts/monitor.py add --run RUN_ID --search ID --query "EXACT QUERY" --file /tmp/web-N.json`
    Run `add` even when you keep zero results (pass `[]`), so the query is logged.
-4. Read `runs/RUN_ID/new_items.json`. For each item, judge relevance against the `criteria` of every
+4. Read `runs/RUN_ID/new_items.json`. If it holds more than about 60 items, work through it in
+   batches of 40 (slice it with python), adding to `triage.json` after each batch. For each item, judge relevance against the `criteria` of every
    search in its `searches` list: `high`, `medium` or `low`, with a one-sentence reason grounded in
    the title/abstract. If the abstract is missing and the PubMed connector is available, you may use
-   it to look the item up. Write `runs/RUN_ID/triage.json` as
+   it to look the item up. For `source: clinicaltrials` items, judge by phase, design, sponsor,
+   interventions and size; `ct_event: results` means results were just posted for that trial.
+   Write `runs/RUN_ID/triage.json` as
    `{"<first key of the item>": {"relevance": "...", "reason": "..."}}`.
 5. Write `digests/RUN_ID.md`:
    - Header: date, searches run, per-source counts and PubMed date windows (from this run's lines in
      `state/runs.jsonl`), any errors or `truncated` flags.
-   - **High**: per item, 2–4 sentences (what was studied, main finding, why it matters for the
-     criteria), then authors, journal, year and link.
+   - **High**, grouped by search: per item, 2–4 sentences (what was studied, main finding with
+     the key numbers, why it matters for the criteria, main limitation), then authors, journal,
+     year and link. New trial registrations go in their own sub-list with phase, sponsor and arms.
+     Mark preprints as "preprint, not peer reviewed".
    - **Medium**: one line each with link.
    - **Low**: title and link only.
 6. Commit and push to `main`:

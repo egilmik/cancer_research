@@ -1,10 +1,12 @@
 # Research monitor
 
-Recurring literature searches (PubMed, RSS/Atom feeds, web) run by a Claude Code routine, with all
-history kept in git.
+Recurring literature searches (PubMed, ClinicalTrials.gov, RSS/Atom feeds, web) run by a Claude Code
+routine, with all history kept in git. Configured for lung cancer and EGFR-mutant NSCLC; see
+`searches.yaml`.
 
-- **Retrieval and de-duplication are deterministic.** `scripts/monitor.py` queries PubMed E-utilities
-  and feeds, and checks every hit against everything ever recorded (PMID, DOI, normalized URL).
+- **Retrieval and de-duplication are deterministic.** `scripts/monitor.py` queries PubMed E-utilities,
+  the ClinicalTrials.gov API and feeds, and checks every hit against everything ever recorded (PMID,
+  DOI, NCT id, normalized URL).
 - **Judgement is Claude's.** Claude triages the new items against each search's criteria and writes a digest.
 - **Git is the transaction.** A run's state, triage and digest land in one commit. If a run dies before
   pushing, nothing is recorded and the next run picks up the same window again.
@@ -25,8 +27,9 @@ ROUTINE_PROMPT.md        paste into the routine
 1. **Create a private GitHub repo** from this folder and push it. Leave `main` unprotected: the
    routine commits state there, and routines refuse to push to protected branches.
 
-2. **Edit `searches.yaml`.** Set your email (NCBI asks for one) and replace the example search. Paste
-   PubMed queries exactly as you'd type them in the PubMed search box; the script adds the date window.
+2. **Edit `searches.yaml`.** Set your email (NCBI asks for one) and adjust the searches and triage
+   criteria. PubMed queries are written as you'd type them in the PubMed search box; the script adds
+   the date window.
 
 3. **Optional: test locally.**
    ```bash
@@ -36,14 +39,23 @@ ROUTINE_PROMPT.md        paste into the routine
 
 4. **Create a cloud environment** at claude.ai/code (environment selector → new environment):
    - Network access: **Custom**. Tick "Also include default list of common package managers"
-     (needed for `pip install`), and add `eutils.ncbi.nlm.nih.gov` plus the domain of every feed in
-     `searches.yaml`. Without this, PubMed calls fail with 403 `host_not_allowed`.
+     (needed for `pip install`), and add these allowed domains:
+     ```
+     eutils.ncbi.nlm.nih.gov
+     clinicaltrials.gov
+     connect.medrxiv.org
+     connect.biorxiv.org
+     ```
+     Add the domain of any feed you add later. Blocked sources fail with 403 `host_not_allowed`,
+     which the script reports in the digest.
    - Optional: an NCBI API key as `NCBI_API_KEY` (raises the rate limit from 3 to 10 requests/s).
 
 5. **Create the routine** at claude.ai/code/routines → New routine:
    - Prompt: paste `ROUTINE_PROMPT.md`.
    - Repository: this repo. Environment: the one from step 4.
-   - Trigger: Schedule, e.g. weekly at 07:07 (avoid the exact hour; those runs can start late).
+   - Trigger: Schedule, **weekdays** at e.g. 06:07 (avoid the exact hour; those runs can start late).
+     Weekdays rather than weekly because the medRxiv/bioRxiv feeds only list the latest 30 posts,
+     so a weekly run would miss preprints. Each run is then small (roughly 25–35 new items).
      Optionally add an **API** trigger too, for on-demand runs from scripts.
    - Connectors: all of yours are included by default. Remove everything except PubMed (optional,
      used only to enrich items without abstracts).
