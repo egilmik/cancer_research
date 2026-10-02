@@ -1,0 +1,33 @@
+# Search definitions. One entry per search.
+#
+# Changing an existing query? Bump its `version`. That restarts its PubMed date window
+# (initial_lookback_days) and makes it obvious in state/runs.jsonl which query found what.
+# Already-recorded items are never reported again, whatever the version.
+
+settings:
+  email: you@example.com      # NCBI asks for a contact address with E-utilities requests
+  overlap_days: 3             # re-check this many days before the last window (indexing lag)
+  initial_lookback_days: 30   # first run of a search (or of a new version) looks back this far
+  max_results: 500            # per search per run; runs.jsonl flags `truncated` if exceeded
+
+searches:
+  - id: example-search        # lowercase, digits, hyphens; used with --only
+    name: Example search — replace me
+    enabled: true
+    version: 1
+    criteria: >
+      What makes a hit worth your time. Claude triages every new item against this text,
+      so be specific: study types, populations, interventions, endpoints, what to ignore.
+    pubmed:
+      # Paste the query exactly as you would in the PubMed search box.
+      # No date limits here — the script adds them (Entrez date window).
+      query: '("base editing"[tiab] OR "base editor"[tiab]) AND english[la]'
+    # RSS/Atom feeds (journal TOCs, preprint servers, trial registries, news pages).
+    # Each feed's domain must be in the cloud environment's allowed domains.
+    feeds: []
+    #  - https://example.org/feed.xml
+    # Optional: keep only feed entries whose title/summary contains one of these (case-insensitive).
+    feed_keywords: []
+    # Web searches Claude runs with its own search tool, for sites without a feed or API.
+    web: []
+    #  - '"base editing" site:example.org'
