@@ -9,9 +9,9 @@
 # only as extras.
 
 settings:
-  email: you@example.com      # NCBI asks for a contact address with E-utilities requests
+  email: egilmikalsen@gmail.com      # NCBI asks for a contact address with E-utilities requests
   overlap_days: 3             # re-check this many days before the last window (indexing lag)
-  initial_lookback_days: 7    # first run of a search (or new version) looks back this far; for a
+  initial_lookback_days: 30    # first run of a search (or new version) looks back this far; for a
                               # longer backfill, run with `since:` in a few chunks
   max_results: 500            # per source per run; runs.jsonl flags `truncated` if exceeded
 
