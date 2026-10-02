@@ -43,6 +43,9 @@ in conversation memory. If it isn't in `state/`, `runs/` or `digests/`, it didn'
    interventions and size; `ct_event: results` means results were just posted for that trial.
    Write `runs/RUN_ID/triage.json` as
    `{"<first key of the item>": {"relevance": "...", "reason": "..."}}`.
+   **Backfill runs** (fetch with `--until`, or `--since` more than ~3 months back): every item
+   still gets a relevance, but `low` items may have an empty reason (`""`) and `medium` reasons
+   should be one short line. `high` items get the full treatment as usual.
 5. Write `digests/RUN_ID.md`:
    - Header: date, searches run, per-source counts and PubMed date windows (from this run's lines in
      `state/runs.jsonl`), any errors or `truncated` flags.
