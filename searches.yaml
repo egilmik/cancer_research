@@ -173,6 +173,43 @@ searches:
       - {cond: "lung cancer", term: "mRNA vaccine"}                                    # new registrations
       - {cond: "lung cancer", term: "mRNA vaccine", date_field: ResultsFirstPostDate}  # results posted
 
+  # ------------------------------------------------------------------ drug repurposing
+  - id: lung-repurposed
+    name: Lung cancer — repurposed (non-oncology) drugs
+    enabled: true
+    version: 1
+    criteria: >
+      Existing non-cancer drugs studied for lung cancer (NSCLC, SCLC): antihistamines
+      (e.g. loratadine, cetirizine, desloratadine, diphenhydramine), metformin, statins, aspirin
+      and NSAIDs, beta-blockers, antidiabetics (SGLT2, GLP-1), antibiotics/antifungals/antiparasitics
+      (itraconazole, mebendazole, ivermectin, doxycycline), antipsychotics/antidepressants,
+      disulfiram, bisphosphonates, vitamin D, and similar. HIGH: randomised trials and trial
+      registrations; large prospective or population cohorts that adjust for confounding and
+      report survival or response; effects on immunotherapy or EGFR-TKI outcomes (e.g. antihistamine
+      use with ICIs); preclinical work with in vivo data and a stated clinical path.
+      MEDIUM: smaller or single-centre retrospective cohorts, rigorous meta-analyses, in vivo-only studies.
+      LOW: in vitro-only or docking/network-pharmacology papers, narrative reviews, case reports, and
+      studies where the drug is only a covariate. Flag immortal-time bias and confounding by
+      indication in observational studies.
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung carcinoma"[tiab]
+        OR "lung adenocarcinoma"[tiab] OR NSCLC[tiab] OR SCLC[tiab]
+        OR "non-small cell lung"[tiab] OR "non-small-cell lung"[tiab]
+        OR "small cell lung"[tiab] OR "small-cell lung"[tiab])
+        AND
+        (repurpos*[tiab] OR repositioning[tiab] OR "drug repositioning"[mh]
+        OR antihistamine*[tiab] OR "histamine H1"[tiab] OR "H1 antihistamine*"[tiab]
+        OR loratadine[tiab] OR desloratadine[tiab] OR cetirizine[tiab] OR fexofenadine[tiab]
+        OR diphenhydramine[tiab] OR cimetidine[tiab] OR famotidine[tiab]
+        OR metformin[tiab] OR statin[tiab] OR statins[tiab] OR aspirin[tiab]
+        OR "beta-blocker*"[tiab] OR propranolol[tiab] OR itraconazole[tiab]
+        OR mebendazole[tiab] OR ivermectin[tiab] OR disulfiram[tiab] OR doxycycline[tiab]
+        OR "SGLT2"[tiab] OR "GLP-1"[tiab] OR chloroquine[tiab] OR hydroxychloroquine[tiab])
+    clinicaltrials:
+      - {cond: "lung cancer", term: "repurposing OR antihistamine OR metformin OR statin OR propranolol OR loratadine"}
+      - {cond: "lung cancer", term: "repurposing OR antihistamine OR metformin OR statin OR propranolol OR loratadine", date_field: ResultsFirstPostDate}
+
   # ------------------------------------------------------------------ preprints
   - id: preprints
     name: Lung cancer preprints (medRxiv, bioRxiv)
