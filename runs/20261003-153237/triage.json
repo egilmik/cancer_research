@@ -1,0 +1,4142 @@
+{
+ "pmid:38949315": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38948258": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38947755": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38944423": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38939825": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38936505": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38935111": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38933492": {
+  "relevance": "medium",
+  "reason": "Anti-ROR1 CAR-NK plus N-803 in neuroblastoma xenografts."
+ },
+ "pmid:38932383": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38928445": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38928301": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38927974": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38925679": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38925463": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38924746": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38922759": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38922297": {
+  "relevance": "medium",
+  "reason": "GPC3 CAR-NK for HCC with xenograft data."
+ },
+ "pmid:38920716": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38920653": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38919533": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38919067": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38918817": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38918616": {
+  "relevance": "medium",
+  "reason": "In vivo CRISPR screens identify CAR-NK checkpoints in tumour-bearing mice."
+ },
+ "pmid:38918390": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38918278": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38912057": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38911868": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38909866": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38904586": {
+  "relevance": "medium",
+  "reason": "GD2 plus GPC2 dual CAR-T in high-risk neuroblastoma, in vivo."
+ },
+ "pmid:38904025": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38901879": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38901497": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38900051": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38899741": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38895447": {
+  "relevance": "medium",
+  "reason": "CSPG4 CAR-macrophages in melanoma models (preprint)."
+ },
+ "pmid:38894542": {
+  "relevance": "medium",
+  "reason": "HER2 synNotch/CEA CAR combination in CRC, in vivo preclinical."
+ },
+ "pmid:38892913": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38891962": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38887472": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38887285": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38886898": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38886844": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38886114": {
+  "relevance": "medium",
+  "reason": "EBV-driven TCR-T resistance mechanism, xenograft data."
+ },
+ "pmid:38882639": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38882528": {
+  "relevance": "medium",
+  "reason": "FAP/GPC3 bispecific CAR-T for HCC with in vivo data."
+ },
+ "pmid:38881757": {
+  "relevance": "medium",
+  "reason": "GPC3 CAR-M in HCC with mouse data."
+ },
+ "pmid:38881053": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38880927": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38879754": {
+  "relevance": "medium",
+  "reason": "IFN-gamma promoter-driven TRUCK CAR-T, in vivo solid tumour data."
+ },
+ "pmid:38878230": {
+  "relevance": "medium",
+  "reason": "Bcl-2-modified CAR-T for solid tumours, xenograft."
+ },
+ "pmid:38877641": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38875505": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38873646": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38872830": {
+  "relevance": "medium",
+  "reason": "MAGE-A4 assay for HLA-A*02 TCR-T patient eligibility; clinical-trial screening validation."
+ },
+ "pmid:38869449": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38867077": {
+  "relevance": "high",
+  "reason": "Phase 1 first-in-human PSCA CAR-T in mCRPC (n=14): grade 1-2 CRS in 5/14, PSA decline >30% in 4/14, one DLT (grade 3 cystitis); CAR-T persistence limited beyond 28 days, small single-arm dose-finding study."
+ },
+ "pmid:38866822": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38864238": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38863635": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38855424": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38855110": {
+  "relevance": "medium",
+  "reason": "MSLN CAR-T with Tim3/A2a targeting in cervical cancer xenograft."
+ },
+ "pmid:38853073": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38852648": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38852096": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38848684": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38844787": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38843831": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38843652": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38843541": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38840781": {
+  "relevance": "medium",
+  "reason": "TLR4 signalling domains in CAR-T against solid tumours, mouse models."
+ },
+ "pmid:38836106": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38835760": {
+  "relevance": "medium",
+  "reason": "HDAC11 silencing enhances CAR-T in prostate cancer, in vivo."
+ },
+ "pmid:38835055": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38833844": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38833102": {
+  "relevance": "medium",
+  "reason": "CD39 level in GPC3 CAR-T for HCC, in vivo efficacy."
+ },
+ "pmid:38832119": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38830992": {
+  "relevance": "high",
+  "reason": "Final phase 1 results of satri-cel (CLDN18.2 CAR-T) in GI cancers (n=98 dosed, median follow-up 32.4 months): ORR 38.8%, DCR 91.8%, all CRS grade 1-2, gastric mucosal injury in 8.2%; single-arm, heterogeneous cohorts, early-phase."
+ },
+ "pmid:38826342": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38824567": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38821771": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38819641": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38819280": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38812569": {
+  "relevance": "medium",
+  "reason": "CXCL10/IL15 co-expressing CAR-T in gastric cancer xenografts."
+ },
+ "pmid:38810311": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38809963": {
+  "relevance": "medium",
+  "reason": "Payload-delivering engineered gamma-delta T cells in osteosarcoma models."
+ },
+ "pmid:38807673": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38805125": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38801961": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38800555": {
+  "relevance": "medium",
+  "reason": "CAR-T against nfP2X7 in ovarian cancer xenografts."
+ },
+ "pmid:38799160": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38792020": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38791398": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38789477": {
+  "relevance": "medium",
+  "reason": "SSEA-4 as Ewing sarcoma immune target with in vivo xenograft work."
+ },
+ "pmid:38789450": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38789421": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38788547": {
+  "relevance": "medium",
+  "reason": "PD-1-CD28 receptor plus CD19 CAR TILs in solid tumour models, in vivo."
+ },
+ "pmid:38788449": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38788174": {
+  "relevance": "high",
+  "reason": "Pooled phase I/Ib analysis of CT041 (CLDN18.2 CAR-T) in previously treated pancreatic cancer (n=24): ORR 16.7%, DCR 70.8%, mPFS 3.3 and mOS 10.0 months, CRS grade 1-2; small non-randomised pooled early-phase data."
+ },
+ "pmid:38783803": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38783148": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38781557": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38777680": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38776682": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38775200": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38774284": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38773263": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38773088": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38771996": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38771986": {
+  "relevance": "high",
+  "reason": "Phase I GD2 CAR-T with constitutive IL-7R (C7R) in paediatric CNS tumours/DMG (n=11): no DLT, grade 1 tumour-inflammation neurotoxicity in 7/8, PR by iRANO in 2/7 DMG patients; very small dose-escalation trial with transient benefit."
+ },
+ "pmid:38769505": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38769449": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38768670": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38768669": {
+  "relevance": "medium",
+  "reason": "CAR-T target concept tested in resistant cells with in vivo data."
+ },
+ "pmid:38767611": {
+  "relevance": "medium",
+  "reason": "B7-H3 iCasp9 CAR-T in uveal melanoma liver metastasis models."
+ },
+ "pmid:38766710": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38766252": {
+  "relevance": "medium",
+  "reason": "Pooled-screen-derived IL13Ra2 CARs in glioblastoma xenografts (preprint)."
+ },
+ "pmid:38765247": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38763321": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38762272": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38762271": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38759618": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38759487": {
+  "relevance": "medium",
+  "reason": "Acidity-targeting universal CAR-T for solid tumours, in vivo."
+ },
+ "pmid:38754916": {
+  "relevance": "high",
+  "reason": "Phase 1 third-generation GD2 CAR-T in metastatic melanoma, colorectal cancer and one sarcoma (n=12): feasible point-of-care manufacturing, no DLT or severe AEs, improved expansion with modified manufacturing; primarily safety/biology with no efficacy claims."
+ },
+ "pmid:38754430": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38751795": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38750365": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38750075": {
+  "relevance": "medium",
+  "reason": "GPC3 CAR-T with GLUT1 or AGK in HCC, mouse model."
+ },
+ "pmid:38747974": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38746996": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38746119": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38745000": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38744281": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38740147": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38737799": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38736504": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38735819": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38733717": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38733699": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38731853": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38730483": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38730243": {
+  "relevance": "medium",
+  "reason": "STING agonist IMSA101 combined with CAR-T in syngeneic models."
+ },
+ "pmid:38729264": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38727262": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38727261": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38726005": {
+  "relevance": "medium",
+  "reason": "PD-L1-targeted CAR-like myeloid cells in solid tumour mouse models."
+ },
+ "pmid:38725673": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38723627": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38722382": {
+  "relevance": "medium",
+  "reason": "HER2 CAR-NK PET imaging in ovarian cancer mice."
+ },
+ "pmid:38720457": {
+  "relevance": "medium",
+  "reason": "GLUT1 overexpression in CAR-T in RCC and GBM mouse models."
+ },
+ "pmid:38718110": {
+  "relevance": "medium",
+  "reason": "TMIGD2-costimulated TOP CAR in solid tumour models."
+ },
+ "pmid:38717140": {
+  "relevance": "medium",
+  "reason": "B7-H3 CAR EBV-specific T cells off-the-shelf, xenograft."
+ },
+ "pmid:38702509": {
+  "relevance": "medium",
+  "reason": "HER2 CAR-T in glioblastoma in vitro and in vivo."
+ },
+ "pmid:38700775": {
+  "relevance": "medium",
+  "reason": "CLDN18.2 CAR-T with PD1/CD28 switch receptor in gastric cancer xenograft."
+ },
+ "pmid:38699288": {
+  "relevance": "medium",
+  "reason": "Metabolic priming of GD2 TRAC-CAR-T, in vivo xenograft persistence."
+ },
+ "pmid:38698555": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38695995": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38694508": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38693513": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38691335": {
+  "relevance": "medium",
+  "reason": "Bcl-2 overexpression in murine CAR-T against solid tumour."
+ },
+ "pmid:38688579": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38688275": {
+  "relevance": "medium",
+  "reason": "ADA1/CD26 metabolic refuelling of CAR-T in mouse tumour models."
+ },
+ "pmid:38685487": {
+  "relevance": "medium",
+  "reason": "Novel IL13Ra2 CAR-T for glioma in vitro and in vivo."
+ },
+ "pmid:38685033": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38680498": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38679698": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38677758": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38675903": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38673757": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38670972": {
+  "relevance": "medium",
+  "reason": "CAR affinity and PD-1/PD-L1 sensitivity, in vivo solid tumour data."
+ },
+ "pmid:38670095": {
+  "relevance": "medium",
+  "reason": "IL-6-capturing chimeric receptor on CAR-T, in vivo mouse data."
+ },
+ "pmid:38669002": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38667465": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38666913": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38663960": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38663406": {
+  "relevance": "medium",
+  "reason": "iPSC-derived anti-PSCA CAR macrophages in pancreatic cancer mouse model."
+ },
+ "pmid:38660136": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38659815": {
+  "relevance": "high",
+  "reason": "Preprint (not peer reviewed): up to 18-year follow-up of first-generation GD2 CAR-T/EBV-CTL trial in neuroblastoma; 3/11 active-disease patients had CR (2 sustained, one 18+ years), with greater transgene persistence in long-term survivors; small, early first-generation product, non-randomised."
+ },
+ "pmid:38659368": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38659003": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38658805": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38658775": {
+  "relevance": "high",
+  "reason": "Phase 1 autologous HER2 CAR-T after lymphodepletion in advanced sarcoma (n=13): grade 1-2 CRS mostly, DLT with grade 3-4 CRS at the highest dose, clinical benefit in 50%; small single-arm safety-primary trial."
+ },
+ "pmid:38655095": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38654820": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38652178": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38650924": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38650920": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38648796": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38647528": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38646501": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38645666": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38645165": {
+  "relevance": "high",
+  "reason": "Preprint (not peer reviewed): first-in-human IL15-armoured GPC3 CAR-T in solid cancers; IL15 increased expansion with DCR 66% and response rate 33% versus no responses without IL15, more CRS controlled by iCasp9 switch; small early-phase cohorts, non-randomised comparison."
+ },
+ "pmid:38643203": {
+  "relevance": "medium",
+  "reason": "IL-21 receptor-armed TCR-T for HCC with in vivo data."
+ },
+ "pmid:38641176": {
+  "relevance": "medium",
+  "reason": "Mesothelin CAR-T with IL-12 immunocytokine, xenograft durable efficacy."
+ },
+ "pmid:38640784": {
+  "relevance": "medium",
+  "reason": "Implantable CAR-T factory for solid tumours, in vivo."
+ },
+ "pmid:38640714": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38639669": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38638377": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38637886": {
+  "relevance": "medium",
+  "reason": "CD70 VHH CAR-T for RCC, xenograft."
+ },
+ "pmid:38637885": {
+  "relevance": "medium",
+  "reason": "Mesothelin/MUC16 CAR-T in ovarian cancer xenografts."
+ },
+ "pmid:38634982": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38631354": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38626338": {
+  "relevance": "medium",
+  "reason": "CAR-T with TAM re-education in glioblastoma mouse models."
+ },
+ "pmid:38625840": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38625492": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38625071": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38623463": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38622705": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38619641": {
+  "relevance": "medium",
+  "reason": "B7H3 CAR with IL7Ra signalling, in vivo solid tumour data."
+ },
+ "pmid:38613842": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38612911": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38612786": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38612592": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38610954": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38610029": {
+  "relevance": "medium",
+  "reason": "FGFR4 nanobody CAR-T for HCC with in vivo efficacy"
+ },
+ "pmid:38609574": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38609317": {
+  "relevance": "medium",
+  "reason": "TGFbRIIDN-armoured ROR1 CAR-T, xenograft efficacy in solid tumours"
+ },
+ "pmid:38607056": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38604812": {
+  "relevance": "medium",
+  "reason": "MUC16/CA125 repeat-domain CAR-T with orthotopic and PDX efficacy in ovarian cancer"
+ },
+ "pmid:38604310": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38603955": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38603888": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38601455": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38601439": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38601159": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38600376": {
+  "relevance": "medium",
+  "reason": "FOXO1 overexpression improves CAR-T persistence and in vivo efficacy in solid tumour models"
+ },
+ "pmid:38598902": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38598802": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38596297": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38596253": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38593230": {
+  "relevance": "high",
+  "reason": "Preclinical GD2-CAR T with antigen-inducible IL18 (neuroblastoma/GD2+ solid tumours): eradicated xenografts and GMP manufacturing shown, first-in-human trial registered (EU CT 2022-501725-21-00); no clinical data yet."
+ },
+ "pmid:38592708": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38588880": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38588525": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38586013": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38584391": {
+  "relevance": "medium",
+  "reason": "Allorejection-resistant off-the-shelf CAR-NKT from HSCs, in vivo preclinical"
+ },
+ "pmid:38583815": {
+  "relevance": "medium",
+  "reason": "IL-2 mutein-armed CAR-T improves control of solid tumours in preclinical models"
+ },
+ "pmid:38583184": {
+  "relevance": "high",
+  "reason": "Phase I (n=16 ccRCC) of allogeneic CD70 CAR-T CTX130: no DLT, disease control 81.3%, one durable CR at 3 years; small single-arm early-phase study."
+ },
+ "pmid:38582965": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38582787": {
+  "relevance": "medium",
+  "reason": "RevCAR T/NK-92 against Fn14 in glioblastoma, in vitro and in vivo"
+ },
+ "pmid:38581991": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38577661": {
+  "relevance": "medium",
+  "reason": "Injectable scaffold for CAR-T in solid tumours; no abstract, likely preclinical in vivo"
+ },
+ "pmid:38576614": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38574625": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38574067": {
+  "relevance": "medium",
+  "reason": "HLA-independent mesothelin-targeting TCR (HiT) T cells eradicate xenografted solid tumours"
+ },
+ "pmid:38573683": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38571678": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38571495": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38570883": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38566988": {
+  "relevance": "medium",
+  "reason": "iPSC-derived CD276 CAR-NK against oesophageal SCC, mouse xenograft"
+ },
+ "pmid:38563783": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38562932": {
+  "relevance": "medium",
+  "reason": "UniCAR T with biotin-trastuzumab linker for HER2 tumours, spheroid and xenograft data"
+ },
+ "pmid:38562821": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38562720": {
+  "relevance": "medium",
+  "reason": "Preprint: metabolic priming of GD2 TRAC-CAR T improves persistence in vivo"
+ },
+ "pmid:38561833": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38561797": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38561367": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38560185": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38558812": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38558810": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38558735": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38557898": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38556773": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38554158": {
+  "relevance": "medium",
+  "reason": "Canine B7-H3 CAR-T with CXCR2 eradicates osteosarcoma xenografts in mice"
+ },
+ "pmid:38551501": {
+  "relevance": "medium",
+  "reason": "GD2 CAR-T for medulloblastoma, orthotopic mouse efficacy with safety switch; trial NCT05298995 ongoing"
+ },
+ "pmid:38551245": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38550594": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38550578": {
+  "relevance": "medium",
+  "reason": "Low-dose 177Lu-DOTATATE radionuclide therapy combined with CAR-T enhances tumour response in vivo"
+ },
+ "pmid:38547867": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38545126": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38545119": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38545100": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38542199": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38541651": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38539542": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38534465": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38534423": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38533510": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38528698": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38527265": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38526025": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38516299": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38515237": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38514871": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38513998": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38511141": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38508241": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38508081": {
+  "relevance": "medium",
+  "reason": "CD19 CAR iNK targeting pericytes in glioblastoma model, in vivo xenograft"
+ },
+ "pmid:38503878": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38501360": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38498792": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38498249": {
+  "relevance": "medium",
+  "reason": "TRKB-targeting CAR-T with HCC xenograft efficacy"
+ },
+ "pmid:38494399": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38493204": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38492569": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38491394": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38491381": {
+  "relevance": "medium",
+  "reason": "Affinity-tuned anti-CAIX CAR-T mitigating off-tumour toxicity, orthotopic RCC mouse model"
+ },
+ "pmid:38487523": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38487163": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38486856": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38485187": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38483400": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38482238": {
+  "relevance": "medium",
+  "reason": "Regional mesothelin CAR-T in CRC liver metastasis orthotopic and PDX mouse models"
+ },
+ "pmid:38481806": {
+  "relevance": "medium",
+  "reason": "CLDN6 CAR-NK-92MI in ovarian cancer subcutaneous and intraperitoneal models"
+ },
+ "pmid:38480922": {
+  "relevance": "high",
+  "reason": "Phase 1 interim (n=6) intrathecal EGFR/IL13Ra2 bivalent CAR-T in rGBM: early ICANS-like neurotoxicity, one DLT, tumour reductions but no objective responses by mRANO; very small, short follow-up."
+ },
+ "pmid:38480731": {
+  "relevance": "high",
+  "reason": "HLA class II-restricted TCR against HPV18 E7 induced tumour remission in mice with phase I trial under way; preclinical data only, xenograft/mouse models."
+ },
+ "pmid:38477966": {
+  "relevance": "high",
+  "reason": "First-in-human n=3 intraventricular EGFRvIII CARv3-TEAM-E in rGBM: no grade >3 AEs, rapid radiographic regression but transient in two of three; tiny case series."
+ },
+ "pmid:38475830": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38474415": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38473878": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38473408": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38473265": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38471620": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38469682": {
+  "relevance": "medium",
+  "reason": "DLL3 TREM1/DAP12 multichain CAR-T eradicates SCLC xenografts"
+ },
+ "pmid:38467616": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38458640": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38458175": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38456901": {
+  "relevance": "medium",
+  "reason": "SynNotch PD-L1 monobody-gated CAR-T restrains tumour growth in murine model"
+ },
+ "pmid:38456710": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38455976": {
+  "relevance": "medium",
+  "reason": "CAR-T against OVV-implanted A56 antigen reduces tumour size in NOD/SCID mice"
+ },
+ "pmid:38455373": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38454126": {
+  "relevance": "high",
+  "reason": "Phase I (n=65) locoregional IL-13Ra2 CAR-T in recurrent high-grade glioma: feasible, no DLT, grade 3+ probable toxicities in 2 patients, stable disease or better in a subset; heterogeneous arms, no controls."
+ },
+ "pmid:38449858": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38448658": {
+  "relevance": "medium",
+  "reason": "Lyophilised lymph node delivery of mesothelin CAR-T prevents recurrence in PDX models"
+ },
+ "pmid:38448290": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38445322": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38443969": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38440217": {
+  "relevance": "medium",
+  "reason": "Lymph-node-biomimetic scaffold expands CAR-T in vivo and inhibits cervical tumour growth"
+ },
+ "pmid:38438647": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38438220": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38437821": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38436882": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38434676": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38433349": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38430810": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38430289": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38430267": {
+  "relevance": "medium",
+  "reason": "Ectopic CXCR2 on CAR-T improves infiltration in PDAC in vivo"
+ },
+ "pmid:38425407": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38425341": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38417916": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38416830": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38414005": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38413223": {
+  "relevance": "medium",
+  "reason": "Endosialin (CD248) CAR-T targeting perivascular cells, mouse efficacy"
+ },
+ "pmid:38412034": {
+  "relevance": "medium",
+  "reason": "EBV-specific HLA-DP5-restricted CD4 TCR-T inhibits NPC xenograft growth"
+ },
+ "pmid:38408567": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38407902": {
+  "relevance": "medium",
+  "reason": "TOPK inhibitor enhances CAR-T memory and HCC control in mice"
+ },
+ "pmid:38405747": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38401848": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38399429": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38395378": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38393682": {
+  "relevance": "medium",
+  "reason": "Mesothelin CAR-TEAM secreting anti-FAP/CD3 in PDAC mouse models"
+ },
+ "pmid:38393587": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38391024": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38390321": {
+  "relevance": "medium",
+  "reason": "MUC1 CAR-NK (iPSC) against tongue SCC, xenograft efficacy"
+ },
+ "pmid:38388813": {
+  "relevance": "medium",
+  "reason": "SUV39H1 knockout CAR-T with in vivo persistence in solid tumour models"
+ },
+ "pmid:38388705": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38386420": {
+  "relevance": "medium",
+  "reason": "Metformin+rapamycin priming improves CAR-T function in murine glioma"
+ },
+ "pmid:38384458": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38384128": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38382528": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38380966": {
+  "relevance": "medium",
+  "reason": "iPSC-derived rejuvenated GD2 CAR-T against SCLC, in vivo data"
+ },
+ "pmid:38374693": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38374055": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38372353": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38371623": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38370665": {
+  "relevance": "medium",
+  "reason": "Preprint: integrin a4-null LINGO1 CAR-T for Ewing sarcoma avoiding CNS targeting"
+ },
+ "pmid:38370401": {
+  "relevance": "medium",
+  "reason": "GM3(Neu5Gc) ganglioside CAR-T with xenograft testing; limited efficacy noted"
+ },
+ "pmid:38369833": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38368374": {
+  "relevance": "medium",
+  "reason": "CAR-IL-15/IL-15Ra T plus GLIPR1 knockdown in gastric cancer, in vivo"
+ },
+ "pmid:38367240": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38367235": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38359664": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38355356": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38349553": {
+  "relevance": "medium",
+  "reason": "Atovaquone plus TCR-T in HCC xenograft mouse model"
+ },
+ "pmid:38349311": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38347092": {
+  "relevance": "medium",
+  "reason": "CAR.IL-24-T cells target CSCs, in vitro and in vivo"
+ },
+ "pmid:38296248": {
+  "relevance": "medium",
+  "reason": "MnOx nanoenzyme-armed CAR-NK in solid tumour-bearing mice"
+ },
+ "pmid:38339374": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38339311": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38339244": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38339219": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38338658": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38336975": {
+  "relevance": "medium",
+  "reason": "TYRP1 CAR-T for melanoma with in vivo murine/PDX efficacy and safety; clinical preparation under way"
+ },
+ "pmid:38334638": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38334625": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38331849": {
+  "relevance": "medium",
+  "reason": "IL-15 armoured CD70 CAR-NK targeting tumour and CAFs, in vivo mouse data"
+ },
+ "pmid:38327771": {
+  "relevance": "medium",
+  "reason": "Anti-PD-L1-secreting CAIX CAR-T in humanised ccRCC mouse model"
+ },
+ "pmid:38326511": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38325903": {
+  "relevance": "medium",
+  "reason": "Low-affinity HER2 CAR-T efficacy without toxicity in mice"
+ },
+ "pmid:38323317": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38318175": {
+  "relevance": "medium",
+  "reason": "Ewing sarcoma TCR-transgenic T cells plus oncolytic virus in xenograft model"
+ },
+ "pmid:38316518": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38316094": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38313231": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38312512": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38310449": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38308969": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38307835": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38307549": {
+  "relevance": "medium",
+  "reason": "CCR10 co-expression improves TCR-T trafficking in xenograft model"
+ },
+ "pmid:38302615": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38294639": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38284230": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38279989": {
+  "relevance": "medium",
+  "reason": "CEACAM sdAb-based CAR-T efficacy in pancreatic xenografts"
+ },
+ "pmid:38279265": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38279258": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38278838": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38275119": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38270462": {
+  "relevance": "medium",
+  "reason": "Syngeneic/immunocompetent MUC1 CAR-T efficacy and safety in mice"
+ },
+ "pmid:38270373": {
+  "relevance": "medium",
+  "reason": "Amphiphile vaccine boosting of TCR-T in mice eradicates solid tumours"
+ },
+ "pmid:38266449": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38263004": {
+  "relevance": "medium",
+  "reason": "IL-21 NKG2D CAR-NK in lung cancer with in vivo suppression"
+ },
+ "pmid:38260279": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38254876": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38254822": {
+  "relevance": "medium",
+  "reason": "FOLR1 CAR-T for ovarian cancer, xenograft model and automated manufacturing"
+ },
+ "pmid:38250867": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38249856": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38245855": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38245520": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38244773": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38243600": {
+  "relevance": "medium",
+  "reason": "MAGE-A4/HLA-A*02:01 scFv CAR-T reduces tumour growth in mice"
+ },
+ "pmid:38243252": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38242769": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38240892": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38235405": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38232985": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38231165": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38227666": {
+  "relevance": "medium",
+  "reason": "Mesothelin CAR-T resistance to shed MSLN overcome by juxtamembrane epitope; xenograft data."
+ },
+ "pmid:38226974": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38216766": {
+  "relevance": "high",
+  "reason": "Phase 1 (NCT03726515, n=7) of repeated peripheral anti-EGFRvIII CAR T plus pembrolizumab in newly diagnosed GBM: no DLT, but median PFS 5.2 mo and OS 11.8 mo, i.e. no efficacy; small single-arm study."
+ },
+ "pmid:38214607": {
+  "relevance": "medium",
+  "reason": "CAR targeting FMRP combined with N-glycan-altered T cells; lung cancer xenograft efficacy."
+ },
+ "pmid:38214445": {
+  "relevance": "medium",
+  "reason": "Oncolytic virus delivering CD19t to retarget CD19 CAR-T in pancreatic cancer xenografts."
+ },
+ "pmid:38213392": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38213150": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38212893": {
+  "relevance": "medium",
+  "reason": "CAR-T against sialylated HEG1 in mesothelioma with xenograft efficacy."
+ },
+ "pmid:38212843": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38212279": {
+  "relevance": "medium",
+  "reason": "Puerarin depot boosts CAR-NK in solid tumour xenografts."
+ },
+ "pmid:38203786": {
+  "relevance": "medium",
+  "reason": "Novel ESMA CAR design in TNBC xenograft models."
+ },
+ "pmid:38203757": {
+  "relevance": "medium",
+  "reason": "STEAP1 CAR costimulatory/spacer comparison with in vivo testing in prostate/Ewing models."
+ },
+ "pmid:38203736": {
+  "relevance": "medium",
+  "reason": "csGRP78 CAR-T eliminates lung cancer xenografts."
+ },
+ "pmid:38201618": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38201595": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38201551": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38201467": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38201305": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38201238": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38199607": {
+  "relevance": "medium",
+  "reason": "Membrane-anchored tumour-targeted IL-12 T cells vs CAFs/ECM in osteosarcoma xenografts."
+ },
+ "pmid:38198534": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38195534": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38194915": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38194912": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38192614": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38191243": {
+  "relevance": "medium",
+  "reason": "Orthotopic pancreatic models for evaluating adoptive T-cell therapy in mice."
+ },
+ "pmid:38190111": {
+  "relevance": "medium",
+  "reason": "TCR-engineered T cells vs autochthonous neoantigens in mouse solid tumour models."
+ },
+ "pmid:38187773": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38187386": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38186028": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38185609": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38183840": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38182561": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38178096": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38177245": {
+  "relevance": "medium",
+  "reason": "SMAD7-expressing CAR-T improves persistence and safety in solid tumour mouse models."
+ },
+ "pmid:38175598": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38174732": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38173841": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38171332": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38169746": {
+  "relevance": "medium",
+  "reason": "AND-gated RevCAR T-cells vs colorectal cancer, in vivo data."
+ },
+ "pmid:38168999": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38168996": {
+  "relevance": "medium",
+  "reason": "IL-10-armoured CAR T clear solid tumours and metastases in syngeneic/xenograft mice."
+ },
+ "pmid:38168956": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38168227": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38168186": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38167707": {
+  "relevance": "medium",
+  "reason": "IL-12 reprograms CAR-NKT cells with in vivo antitumour activity."
+ },
+ "pmid:38162672": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40256427": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39351439": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39350256": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39346763": {
+  "relevance": "medium",
+  "reason": "Muc16CD as new CAR-T target in pancreatic cancer with in vivo efficacy."
+ },
+ "pmid:39342365": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39341801": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39339264": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39339180": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39337333": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39336897": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39335203": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39335157": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39329751": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39328262": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39321207": {
+  "relevance": "medium",
+  "reason": "Armoured (dnTGFbRII) CLDN18.2 CAR-T AZD6422 active in gastric/oesophageal/pancreatic PDX models; preclinical only."
+ },
+ "pmid:39317919": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39316265": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39316248": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39316087": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39315411": {
+  "relevance": "medium",
+  "reason": "CD8a domains enhance GUCY2C CAR-T efficacy in vivo."
+ },
+ "pmid:39311156": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39308793": {
+  "relevance": "medium",
+  "reason": "TYRP1 CAR-T control melanoma in preclinical in vivo models."
+ },
+ "pmid:39308543": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39307298": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39306853": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39306365": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39298141": {
+  "relevance": "high",
+  "reason": "Single-arm phase 1 of GCC19CART (CD19/GCC CAR T) in refractory mCRC, n=15: CRS common but manageable, ORR 40% with partial responses in 6 patients, median OS 22.8 mo; small, single-centre, non-randomised."
+ },
+ "pmid:39301256": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39301026": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39299100": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39294470": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39287991": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39283669": {
+  "relevance": "high",
+  "reason": "Preclinical work plus four patients with solid tumours infused with PD-1/CD28-CD19 CAR PD-1+ T cells: no severe toxicity, one melanoma CR (6.7 mo), three SD; n=4, exploratory, mostly in vitro data."
+ },
+ "pmid:39281717": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39280588": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39278427": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39273062": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39273050": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39272956": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39269445": {
+  "relevance": "medium",
+  "reason": "PTPRZ1 RNA CAR-T with bystander activity in GBM xenografts."
+ },
+ "pmid:39266656": {
+  "relevance": "medium",
+  "reason": "Stim-R signalling-programmed CAR-T with xenograft potency data."
+ },
+ "pmid:39266215": {
+  "relevance": "medium",
+  "reason": "MCAM CAR-NK plus NKTR-255/magrolimab in Ewing sarcoma xenografts."
+ },
+ "pmid:39266213": {
+  "relevance": "medium",
+  "reason": "HLA-A11-restricted HERV-E TCR-T regresses RCC xenografts; GMP process developed, no clinical data."
+ },
+ "pmid:39264449": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39260044": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39258745": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39258379": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39257746": {
+  "relevance": "medium",
+  "reason": "Preprint: spatiotemporal tumour-CAR-T dynamics after local administration in mouse solid cancers."
+ },
+ "pmid:39255722": {
+  "relevance": "medium",
+  "reason": "EphA2 CAR-T for prostate cancer with in vivo efficacy."
+ },
+ "pmid:39255444": {
+  "relevance": "high",
+  "reason": "STRIvE-02 first-in-human phase I of systemic B7-H3 CAR T in paediatric/young adult solid tumours (n=16 enrolled, 9 treated): no first-infusion DLT, one PERCIST partial response after second infusion with CRS/transaminitis; limited antitumour activity, very small."
+ },
+ "pmid:39253082": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39251462": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39245737": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39243425": {
+  "relevance": "medium",
+  "reason": "Astragalus polysaccharide enhances CAR-T in tumour-bearing mice."
+ },
+ "pmid:39243423": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39240694": {
+  "relevance": "medium",
+  "reason": "B7-H3 CAR-Vd1 T cells active across solid tumour xenografts."
+ },
+ "pmid:39240078": {
+  "relevance": "medium",
+  "reason": "IL7/CCL19 CAR-T efficacy in GBM and pancreatic mouse models."
+ },
+ "pmid:39238483": {
+  "relevance": "medium",
+  "reason": "Pharmacy/manufacturing series of >300 intracranial CAR T doses (HER2/EGFR/B7-H3) in children with CNS tumours."
+ },
+ "pmid:39237261": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39235633": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39229803": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39228124": {
+  "relevance": "medium",
+  "reason": "ADRB2 inhibition improves CAR-T vs prostate cancer in mice."
+ },
+ "pmid:39225630": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39220881": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39220879": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39220130": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39220111": {
+  "relevance": "medium",
+  "reason": "Oncolytic foamy virus displaying CD19 for CAR-T in solid tumour models."
+ },
+ "pmid:39219644": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39219278": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39216468": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39215816": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39214066": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39213364": {
+  "relevance": "medium",
+  "reason": "Multi-armoured allogeneic MUC1 CAR-T given intratumourally in TNBC models."
+ },
+ "pmid:39212926": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39212050": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39211164": {
+  "relevance": "medium",
+  "reason": "Rab5 counters CAR capture-induced CAR-T dysfunction in mice."
+ },
+ "pmid:39211122": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39210780": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39202398": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39201348": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39199683": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39199637": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39199630": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39199421": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39198632": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39198161": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39196960": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39196390": {
+  "relevance": "medium",
+  "reason": "IL-21/CXCL9 GPC3 CAR-T plus PD-1 blockade in HCC xenografts."
+ },
+ "pmid:39194679": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39193002": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39192980": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39187850": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39184661": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39183320": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39181760": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39179412": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39179404": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39178136": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39175095": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39172612": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39172012": {
+  "relevance": "medium",
+  "reason": "ROPN1-directed HLA-A2 TCR-T for TNBC with in vivo efficacy and GMP-style safety assays."
+ },
+ "pmid:39171531": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39170844": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39169645": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39169624": {
+  "relevance": "medium",
+  "reason": "Nrf2 targeting potentiates CD8 and CAR-T in xenograft models."
+ },
+ "pmid:39169622": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39169164": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39168033": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39164422": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39164224": {
+  "relevance": "medium",
+  "reason": "CAR-T secreting bispecific innate cell engagers in neuroblastoma xenografts."
+ },
+ "pmid:39156126": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39150543": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39137402": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39136096": {
+  "relevance": "medium",
+  "reason": "hESC-derived mesothelin CAR-NK in ovarian cancer animal models."
+ },
+ "pmid:39136031": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39135206": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39134804": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39133195": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39130478": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39129178": {
+  "relevance": "medium",
+  "reason": "FAP/CLDN18.2 dual-targeted CAR-T in mouse pancreatic cancer."
+ },
+ "pmid:39127338": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39123467": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39123420": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39123358": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39123202": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39122001": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39119270": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39118957": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39117831": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39114666": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39113807": {
+  "relevance": "medium",
+  "reason": "eMIATAC protein degradation to enhance CAR-T, in vivo data."
+ },
+ "pmid:39113701": {
+  "relevance": "medium",
+  "reason": "PCSK9 inhibition enhances TCR-T and anti-PD-1 in HCC models."
+ },
+ "pmid:39111833": {
+  "relevance": "medium",
+  "reason": "EphA3 CAR-T in glioma/DMG xenografts with memory responses."
+ },
+ "pmid:39111832": {
+  "relevance": "medium",
+  "reason": "EphA3 CAR-T against GBM in preclinical mouse models."
+ },
+ "pmid:39111352": {
+  "relevance": "medium",
+  "reason": "Peptide-based bispecific EGFR/stroma CAR-T in xenografts."
+ },
+ "pmid:39111147": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39111016": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39107717": {
+  "relevance": "medium",
+  "reason": "EpCAM CAR-T against colorectal cancer in xenograft mice."
+ },
+ "pmid:39105978": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39105847": {
+  "relevance": "medium",
+  "reason": "CAR dendritic cells delivering a tumoricidal factor in mouse models."
+ },
+ "pmid:39105809": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39105196": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39103972": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39101835": {
+  "relevance": "medium",
+  "reason": "B7-H3 CAR-T redirected to chemokines for osteosarcoma homing in mice."
+ },
+ "pmid:39098176": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39098016": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39097198": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39096620": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39095594": {
+  "relevance": "medium",
+  "reason": "ROBO1 CAR-T in GBM xenografts."
+ },
+ "pmid:39095551": {
+  "relevance": "medium",
+  "reason": "CD98hc CAR-T as target in NSCLC with in vivo data."
+ },
+ "pmid:39095226": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39093824": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39093440": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39092645": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39091493": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39091030": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39086477": {
+  "relevance": "medium",
+  "reason": "FAP scFv CAR-T efficacy and safety in mouse xenografts."
+ },
+ "pmid:39086131": {
+  "relevance": "medium",
+  "reason": "dnTGFbRII armoured bicistronic CAR-T in GBM mouse model."
+ },
+ "pmid:39082348": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39080180": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39079777": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39069888": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39068872": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39067370": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39065760": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39064229": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39061247": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39061136": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39061100": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39060547": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39059390": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39055165": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39054741": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39051583": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39049849": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39048916": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39048817": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39047616": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39047419": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39047033": {
+  "relevance": "medium",
+  "reason": "Proton radiation plus MSLN CAR-T in PDAC, in vivo."
+ },
+ "pmid:39044834": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39043604": {
+  "relevance": "medium",
+  "reason": "B7-H3 CAR-T with IL-8 receptor homing in pediatric sarcoma, in vivo."
+ },
+ "pmid:39043602": {
+  "relevance": "medium",
+  "reason": "rhIL-7-hyFc combined with CAR-T in solid tumour models, in vivo."
+ },
+ "pmid:39038917": {
+  "relevance": "high",
+  "reason": "First-in-human dose-escalation basket trial (n=16, HLA-A*02:01, MAGEA1 TCR-T IMA202): no DLTs, 13 CRS (one grade 3), 2 grade 1 ICANS; best response SD in 11/16, no objective responses, persistence for weeks to months; small, early-phase."
+ },
+ "pmid:39036370": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39033780": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39033659": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39032146": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39028827": {
+  "relevance": "medium",
+  "reason": "CD5 deletion boosts CAR/TCR-T activity against solid tumours in vivo."
+ },
+ "pmid:39023820": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39023168": {
+  "relevance": "medium",
+  "reason": "Hypoxia/H2O2-tolerant CAR-NK against postoperative TNBC relapse (preclinical)."
+ },
+ "pmid:39021098": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39019408": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39019005": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39016046": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39013724": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39009446": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39007060": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39004911": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39000281": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38996027": {
+  "relevance": "medium",
+  "reason": "MSLN CAR memory-like NK cells in ovarian cancer xenografts."
+ },
+ "pmid:38994929": {
+  "relevance": "medium",
+  "reason": "Radiation combined with CAR-T in GBM models, in vivo."
+ },
+ "pmid:38994360": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38993780": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38993289": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38989708": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38989163": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38987430": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38986820": {
+  "relevance": "medium",
+  "reason": "BCL6-engineered CD4 T cells enhance CAR-T in PDAC models."
+ },
+ "pmid:38986609": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38982561": {
+  "relevance": "medium",
+  "reason": "IL-13Ra2/TGF-b bispecific CAR-T in GBM models, in vivo."
+ },
+ "pmid:38979201": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38978673": {
+  "relevance": "high",
+  "reason": "Phase I (NCT04196413, n=11 treated) sequential IV then intracerebroventricular GD2-CART in H3K27M DMG: grade 4 CRS DLTs at DL2, universal tumour inflammation-associated neurotoxicity, 4 major volumetric reductions and one CR >30 months; very small single-arm series."
+ },
+ "pmid:38978106": {
+  "relevance": "medium",
+  "reason": "Rapidly manufactured CD276 CAR-T in PDAC, in vivo."
+ },
+ "pmid:38975278": {
+  "relevance": "medium",
+  "reason": "FAP CAR-T with bystander killing in GBM models."
+ },
+ "pmid:38974711": {
+  "relevance": "medium",
+  "reason": "Liposome antigen-modification enabling universal TCR-T, in vivo mouse data."
+ },
+ "pmid:38973261": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38972151": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38971152": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38964787": {
+  "relevance": "medium",
+  "reason": "Off-the-shelf ERp57 CAR-NK for solid tumours, in vivo."
+ },
+ "pmid:38962002": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38959337": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38957786": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38954079": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38954030": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38954022": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38954005": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38953982": {
+  "relevance": "medium",
+  "reason": "CAR-T delivering oncolytic HSV in vivo."
+ },
+ "pmid:38953027": {
+  "relevance": "medium",
+  "reason": "FcgRI T cells plus antibodies for solid tumours, in vivo."
+ },
+ "pmid:39737899": {
+  "relevance": "high",
+  "reason": "Phase 1 (NCT02744287, n=33) PSCA-targeted BPX-601 rimiducid-switchable CAR-T in mPDAC/mCRPC: two DLTs and two treatment-related deaths at the top mCRPC dose led to termination without an RP2D; 2 PRs in mCRPC, persistence and tumour infiltration shown."
+ },
+ "pmid:39735543": {
+  "relevance": "medium",
+  "reason": "In vivo mRNA/LNP TROP2 CAR myeloid cells, mouse and NHP data, no clinical path stated."
+ },
+ "pmid:39735354": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39734708": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39734323": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39732363": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39732302": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39731596": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39729997": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39726591": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39725192": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39723214": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39722028": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39721923": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39717204": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39713739": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39711568": {
+  "relevance": "medium",
+  "reason": "IL13RA2 GEMM for CAR-T in pediatric high-grade glioma, in vivo."
+ },
+ "pmid:39704015": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39702579": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39702149": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39701088": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39699103": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39697210": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39695851": {
+  "relevance": "medium",
+  "reason": "G-CSF limits CAR.GD2 T-cell response in osteosarcoma model."
+ },
+ "pmid:39695004": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39694135": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39693800": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39689708": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39684867": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39682207": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39682106": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39675505": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39674638": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39674417": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39656982": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39673127": {
+  "relevance": "medium",
+  "reason": "TGF-b-inverting CAR-T in solid tumour models, in vivo."
+ },
+ "pmid:39673125": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39672954": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39669560": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39667221": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39667204": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39664380": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39664377": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39664011": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39663681": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39663402": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39662251": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39660132": {
+  "relevance": "medium",
+  "reason": "NY-ESO-1 TCR-T mechanism in melanoma xenograft."
+ },
+ "pmid:39659573": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39657679": {
+  "relevance": "medium",
+  "reason": "Patient GBO avatars correlated with EGFR-IL13Ra2 CAR-T phase 1 CSF data (6 sets)."
+ },
+ "pmid:39657666": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39654888": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39653553": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39651893": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39651191": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39651170": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39650646": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39648123": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39643883": {
+  "relevance": "medium",
+  "reason": "c-MET CAR-macrophages in PDAC models, in vivo."
+ },
+ "pmid:39643037": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39642980": {
+  "relevance": "medium",
+  "reason": "Secreted CD47-targeting CAR-T in solid tumour models, in vivo."
+ },
+ "pmid:39639359": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39637991": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39637858": {
+  "relevance": "medium",
+  "reason": "CD97-targeted CAR Th9 cells in GBM models, in vivo."
+ },
+ "pmid:39632807": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39631664": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39628840": {
+  "relevance": "medium",
+  "reason": "mRNA-LNP in situ CAR monocytes, in vivo solid tumour data."
+ },
+ "pmid:39627822": {
+  "relevance": "medium",
+  "reason": "MSLN CAR-NK in colorectal cancer, in vivo."
+ },
+ "pmid:39627312": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39627205": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39625823": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39624055": {
+  "relevance": "medium",
+  "reason": "IL-12 oNDV plus CAR-T in orthotopic NSCLC models."
+ },
+ "pmid:39622582": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39622255": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39620227": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39617755": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39617174": {
+  "relevance": "medium",
+  "reason": "Engineered CAR-macrophage signalling domain, in vivo."
+ },
+ "pmid:39617146": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39615863": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39615332": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39613972": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39612322": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39612280": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39609867": {
+  "relevance": "high",
+  "reason": "Clinical report of autologous mesothelin CAR-macrophages in two ovarian cancer patients (IV infusion): acceptable safety but no efficacy shown; n=2, letter, proof-of-concept only."
+ },
+ "pmid:39609705": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39609420": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39609126": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39608172": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39607022": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39606234": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39604730": {
+  "relevance": "high",
+  "reason": "Phase 1 trials of GPC3 CAR-T with or without IL-15 armouring in solid cancers: unarmoured cells safe but no responses; 15.CAR gave greater expansion, 66% disease control and 33% response rate with more CRS (controllable with IL-1/IL-6 blockade or iC9 switch); small cohorts, early-phase."
+ },
+ "pmid:39603960": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39601444": {
+  "relevance": "medium",
+  "reason": "HLA-A2-restricted GPC3 TCR-T in HCC models, in vivo."
+ },
+ "pmid:39595996": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39594705": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39594628": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39592929": {
+  "relevance": "medium",
+  "reason": "c-Met CAR-macrophages in PDAC, in vivo."
+ },
+ "pmid:39591514": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39589646": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39588940": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39585688": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39585513": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39583310": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39582866": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39579510": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39578426": {
+  "relevance": "medium",
+  "reason": "Radiotherapy plus CLDN18.2 CAR-T in PDAC models."
+ },
+ "pmid:39576012": {
+  "relevance": "medium",
+  "reason": "Affinity-tuned MSLN CAR-T with reduced off-tumour toxicity in mice."
+ },
+ "pmid:39572159": {
+  "relevance": "medium",
+  "reason": "MAGE-A4 pMHC CAR-T with improved in vivo function."
+ },
+ "pmid:39572158": {
+  "relevance": "medium",
+  "reason": "IL-18R-supported tenascin C CAR-T in pediatric sarcoma/brain tumour models."
+ },
+ "pmid:39570653": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39570554": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39569202": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39568237": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39566469": {
+  "relevance": "medium",
+  "reason": "NKG2D adaptor CAR-T against solid tumours, in vivo."
+ },
+ "pmid:39564453": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39564107": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39562005": {
+  "relevance": "medium",
+  "reason": "B7-H3 nanobody CAR-T in GBM, in vivo with off-tumour toxicity warning."
+ },
+ "pmid:39561966": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39560834": {
+  "relevance": "medium",
+  "reason": "B7-H3 CAR-T in renal cell carcinoma xenografts."
+ },
+ "pmid:39559715": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39557820": {
+  "relevance": "medium",
+  "reason": "p95HER2 CAR-T in solid tumour models."
+ },
+ "pmid:39557544": {
+  "relevance": "medium",
+  "reason": "Membrane-restricted IL-12 TCR-T promotes antigen spreading in mice."
+ },
+ "pmid:39555054": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39554906": {
+  "relevance": "medium",
+  "reason": "MCAM CAR-NK plus NKTR-255 in neuroblastoma, in vivo."
+ },
+ "pmid:39551173": {
+  "relevance": "medium",
+  "reason": "NKG7 expression enhances CAR-T in liquid and solid tumours."
+ },
+ "pmid:39551117": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39548594": {
+  "relevance": "medium",
+  "reason": "MSLN CAR-T with pembrolizumab in gastric/colorectal xenografts."
+ },
+ "pmid:39548510": {
+  "relevance": "high",
+  "reason": "Single-arm open-label trial (ChiCTR2100046544, n=8) of MSLN multichain DAP-CAR-T in ovarian cancer and mesothelioma: 2 PR and 4 SD with acceptable safety, plus preclinical xenograft data; very small, short follow-up."
+ },
+ "pmid:39546589": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39544174": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39542653": {
+  "relevance": "medium",
+  "reason": "DLL4 CAR-T with neoadjuvant chemo in HER2+ breast cancer models."
+ },
+ "pmid:39542517": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39542025": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39541355": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39539894": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39539554": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39539024": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39538378": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39538038": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39537919": {
+  "relevance": "high",
+  "reason": "Phase I (NCT04196413 arm A), 13 enrolled/11 dosed: IV then intracerebroventricular GD2-CAR T in H3K27M+ DIPG/spinal DMG; primary endpoints feasibility/tolerability; small single-arm early-phase data."
+ },
+ "pmid:39533415": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39533264": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39533105": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39532433": {
+  "relevance": "medium",
+  "reason": "ICOS-CAR-T in TNBC, in vivo mouse models."
+ },
+ "pmid:39530593": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39524212": {
+  "relevance": "medium",
+  "reason": "HPV16 E6 TCR-mimic nanobody CAR-T, in vivo cervical cancer activity."
+ },
+ "pmid:39523444": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39523098": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39523093": {
+  "relevance": "medium",
+  "reason": "IL-21/CCL19 NKP30 CAR-T in lung cancer, preclinical with in vivo component."
+ },
+ "pmid:39521782": {
+  "relevance": "medium",
+  "reason": "Anti-EGFRvIII CAR-T plus CD47 blocker in GBM, in vivo."
+ },
+ "pmid:39518676": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39518043": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39516118": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39514948": {
+  "relevance": "medium",
+  "reason": "B7-H3 CAR-T in RCC, preclinical in vivo."
+ },
+ "pmid:39512765": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39512605": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39512355": {
+  "relevance": "medium",
+  "reason": "TGFb switch receptor/trap T cells, in vivo solid tumour model."
+ },
+ "pmid:39511890": {
+  "relevance": "medium",
+  "reason": "MSLN-CAR-T with PPI in brain metastasis model, in vivo."
+ },
+ "pmid:39506843": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39502703": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39501358": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39498846": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39498357": {
+  "relevance": "medium",
+  "reason": "PD-L1 CAR-T targeting tumour and suppressive cells, preclinical."
+ },
+ "pmid:39497707": {
+  "relevance": "medium",
+  "reason": "Hydrogel with METTL3 inhibitor plus CAR-NK in postsurgical CRC, in vivo."
+ },
+ "pmid:39497428": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39495525": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39493894": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39490997": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39490640": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39489212": {
+  "relevance": "medium",
+  "reason": "pHLIP surrogate antigen for universal CAR-T, in vivo."
+ },
+ "pmid:39487875": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39487859": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39484723": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39483965": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39483470": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39486594": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39485013": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39482120": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39478866": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39474340": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39472748": {
+  "relevance": "medium",
+  "reason": "synNotch CAR-T with ECM degradation in solid tumours, in vivo."
+ },
+ "pmid:39472498": {
+  "relevance": "medium",
+  "reason": "GPA33-targeted cellular therapy in CRC, in vivo."
+ },
+ "pmid:39468753": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39467936": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39467630": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39466110": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39466024": {
+  "relevance": "high",
+  "reason": "Phase I ROR1 CAR-T, 21 pts (3 CLL, 18 TNBC/NSCLC): well tolerated, 1 DLT; 1/18 solid-tumour partial response, poor tumour infiltration and CAR immunogenicity limited activity."
+ },
+ "pmid:39465481": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39460647": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39456909": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39455719": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39454410": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39453576": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39453574": {
+  "relevance": "medium",
+  "reason": "Dual-targeting CAR-T for KRAS-mutant PDAC, in vivo."
+ },
+ "pmid:39451213": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39450490": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39450161": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39450160": {
+  "relevance": "medium",
+  "reason": "CXCR5/IL-7 CAR-T in osteosarcoma, in vivo."
+ },
+ "pmid:39445844": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39445067": {
+  "relevance": "medium",
+  "reason": "CAR-T after low-dose radiotherapy, preclinical in vivo survival benefit."
+ },
+ "pmid:39443795": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39443641": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39441641": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39441479": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39441235": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39439803": {
+  "relevance": "medium",
+  "reason": "Analysis of 174 registered TCR-T trials (registry-level, no pooled outcomes)."
+ },
+ "pmid:39438476": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39433885": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39433427": {
+  "relevance": "medium",
+  "reason": "MSLN-CAR-T with microenvironment alkalization in TNBC, in vivo."
+ },
+ "pmid:39431011": {
+  "relevance": "medium",
+  "reason": "CD39 nanobody plus CAR-T in ovarian cancer, in vivo."
+ },
+ "pmid:39428649": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39426662": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39425546": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39423821": {
+  "relevance": "medium",
+  "reason": "NKG2A/C switch receptor T cells vs HLA-E+ GBM xenograft."
+ },
+ "pmid:39423512": {
+  "relevance": "medium",
+  "reason": "Self-activating MSLN CAR-NK blocking TGFb1 in pancreatic tumours, in vivo."
+ },
+ "pmid:39421021": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39420062": {
+  "relevance": "medium",
+  "reason": "De novo designed binder CAR-T (EGFR, CD276) in GBM models, in vivo."
+ },
+ "pmid:39418640": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39417976": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39417449": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39417304": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39415291": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39413693": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39409901": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39409881": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39408896": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39408696": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39407796": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39406935": {
+  "relevance": "medium",
+  "reason": "Transient oncofetal-CS CAR-T in solid tumours, in vivo."
+ },
+ "pmid:39404764": {
+  "relevance": "high",
+  "reason": "Regulatory decision: FDA accelerated approval (Aug 2024) of afami-cel, HLA-A*02-restricted MAGE-A4 TCR-T, for advanced synovial sarcoma; review article summarising development, not primary data."
+ },
+ "pmid:39404622": {
+  "relevance": "medium",
+  "reason": "Claudin 18.2 TAC T cells, preclinical in vivo."
+ },
+ "pmid:39403625": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39403527": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39402681": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39402668": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39400611": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39399500": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39399167": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39397869": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39396988": {
+  "relevance": "medium",
+  "reason": "Radiotherapy plus CAR-NK in HCC, in vivo."
+ },
+ "pmid:39392900": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39391254": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39390143": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39389490": {
+  "relevance": "medium",
+  "reason": "NKG2D CAR-T with nanogel for melanoma, in vivo intratumoural."
+ },
+ "pmid:39386578": {
+  "relevance": "medium",
+  "reason": "IL-6 and T-cell immunity in PDAC incl. CAR-T, mouse data (preprint)."
+ },
+ "pmid:39386211": {
+  "relevance": "medium",
+  "reason": "Phase I NCT03893019 CD20 CAR-T manufacturing in melanoma; product characterisation only, no clinical outcomes."
+ },
+ "pmid:39383607": {
+  "relevance": "medium",
+  "reason": "hPSC-derived Megf10/CD3z CAR-M, in vivo solid tumour data."
+ },
+ "pmid:39382819": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39382681": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39381633": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39380987": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39380917": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39379603": {
+  "relevance": "medium",
+  "reason": "SIRPa-silenced CAR-M in solid tumours, in vivo."
+ },
+ "pmid:39379249": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39377038": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39376988": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39376579": {
+  "relevance": "medium",
+  "reason": "SSTR2 peptide-guided adaptor CAR-T in NETs, in vivo."
+ },
+ "pmid:39373395": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39372944": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39371522": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39369212": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39368372": {
+  "relevance": "medium",
+  "reason": "Cabozantinib plus CAIX CAR-T in renal cancer, in vivo."
+ },
+ "pmid:39368275": {
+  "relevance": "medium",
+  "reason": "Triboelectric stimulation plus CAR-T in solid tumour models, preclinical."
+ },
+ "pmid:39367952": {
+  "relevance": "medium",
+  "reason": "Intracranial B7-H3 CAR-T/CAR-NK in patient-derived GBM xenograft."
+ },
+ "pmid:39366753": {
+  "relevance": "medium",
+  "reason": "GUCY2C CAR-T antigen-independent activation, in vivo GI tumour models."
+ },
+ "pmid:39366148": {
+  "relevance": "medium",
+  "reason": "Self-driving aFR CAR-NK (CXCL10) in ovarian cancer, in vivo."
+ },
+ "pmid:39367093": {
+  "relevance": "medium",
+  "reason": "E. coli-delivered IL18 mutein boosting CAR-NK, in vivo."
+ },
+ "pmid:39364863": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39364321": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39359850": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39358663": {
+  "relevance": "medium",
+  "reason": "EpCAM CAR-T with PD-1 blockade in lung cancer brain metastasis models, in vivo (negative result)."
+ },
+ "pmid:39353594": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39352918": {
+  "relevance": "medium",
+  "reason": "PD1CD28 chimeric molecule on EGFRvIII CAR-T in GBM xenografts."
+ },
+ "pmid:39354225": {
+  "relevance": "medium",
+  "reason": "CAR-NKT vs CAR-T in immunocompetent mouse solid tumour models."
+ },
+ "nct:NCT06652243": {
+  "relevance": "high",
+  "reason": "New registration: GPC3-targeted off-the-shelf CAR-NK (SN301A) in advanced HCC; EARLY_PHASE1, planned n=12, sponsor Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, status RECRUITING."
+ },
+ "nct:NCT06478251": {
+  "relevance": "high",
+  "reason": "New registration: KRAS-mutant TCR-T (NW-301V/D) in advanced solid tumours; PHASE1, planned n=9, sponsor TingBo Liang, status RECRUITING."
+ },
+ "nct:NCT06484556": {
+  "relevance": "high",
+  "reason": "New registration: KRAS-mutant TCR-T (NW-301V/D) in advanced solid tumours; PHASE1, planned n=9, sponsor Tao Zhang, status RECRUITING."
+ },
+ "nct:NCT06248697": {
+  "relevance": "high",
+  "reason": "New registration: MSLN CAR-T secreting PD1/CTLA-4 nanobody in advanced solid tumours; EARLY_PHASE1, planned n=16, sponsor Shanghai Cell Therapy Group Co.,Ltd, status RECRUITING."
+ },
+ "nct:NCT06198296": {
+  "relevance": "high",
+  "reason": "New registration: IL-15/IL-21 armoured GPC3 CAR-T in GPC3+ paediatric/adult solid tumours (HCC, hepatoblastoma, sarcomas); PHASE1, planned n=21, sponsor Baylor College of Medicine, status RECRUITING."
+ },
+ "nct:NCT06484790": {
+  "relevance": "high",
+  "reason": "New registration: KRAS-mutant TCR-T (NW-301V/D) in advanced solid tumours; PHASE1, planned n=9, sponsor Ting Deng, status RECRUITING."
+ },
+ "nct:NCT06478693": {
+  "relevance": "high",
+  "reason": "New registration: MT-303 (GPC3-targeted myeloid cell therapy) alone or with atezolizumab/bevacizumab in HCC; PHASE1, planned n=70, sponsor Myeloid Therapeutics, status RECRUITING."
+ },
+ "nct:NCT06478459": {
+  "relevance": "high",
+  "reason": "New registration: EUS-guided intratumoural CAR-NK in unresectable pancreatic cancer; EARLY_PHASE1, planned n=20, sponsor Zhejiang University, status UNKNOWN."
+ },
+ "nct:NCT06218914": {
+  "relevance": "high",
+  "reason": "New registration: KRAS G12D TCR-T (NT-112, AZD0240) in NSCLC/CRC/PDAC/endometrial; PHASE1, planned n=108, sponsor AstraZeneca, status RECRUITING."
+ },
+ "nct:NCT06503497": {
+  "relevance": "high",
+  "reason": "New registration: NKG2D CAR-NK after second-line chemotherapy in pancreatic cancer; EARLY_PHASE1, planned n=30, sponsor Zhejiang University, status UNKNOWN."
+ },
+ "nct:NCT06617000": {
+  "relevance": "high",
+  "reason": "New registration: SCG101 TCR-T in HBV-related HCC; PHASE1, planned n=38, sponsor SCG Cell Therapy Pte. Ltd., status UNKNOWN."
+ },
+ "nct:NCT06221553": {
+  "relevance": "high",
+  "reason": "New registration: loco-regional B7-H3 CAR-T with IL-7Ra domain in DIPG; PHASE1, planned n=9, sponsor Chulalongkorn University, status RECRUITING."
+ },
+ "nct:NCT06372236": {
+  "relevance": "high",
+  "reason": "New registration: UTAA06 (B7-H3-targeted cell therapy) in advanced solid tumours; PHASE1, planned n=10, sponsor Peking University, status COMPLETED."
+ },
+ "nct:NCT06454890": {
+  "relevance": "high",
+  "reason": "New registration: Trop2 CAR-NK in relapsed/refractory NSCLC; PHASE1/PHASE2, planned n=50, sponsor Henan Cancer Hospital, status NOT_YET_RECRUITING."
+ },
+ "nct:NCT06660420": {
+  "relevance": "high",
+  "reason": "New registration: PRAME TCR-engineered NK cells in recurrent/refractory melanoma; PHASE1, planned n=39, sponsor M.D. Anderson Cancer Center, status RECRUITING."
+ },
+ "nct:NCT06690281": {
+  "relevance": "high",
+  "reason": "New registration: KRAS G12D/G12V or TP53 R175H TCR-transduced PBL adjuvant in GI cancers (withdrawn, 0 enrolled); PHASE2, planned n=0, sponsor National Cancer Institute (NCI), status WITHDRAWN."
+ },
+ "nct:NCT06646263": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT06515314": {
+  "relevance": "high",
+  "reason": "New registration: AFP-specific TCR-T (HRYZ-T102) in AFP+ HCC; PHASE1, planned n=12, sponsor Shanghai Ruiliyuan Biotechnology Co., Ltd., status RECRUITING."
+ },
+ "nct:NCT06480565": {
+  "relevance": "high",
+  "reason": "New registration: ADI-270 (allogeneic gamma-delta CAR, ccRCC) ; PHASE1/PHASE2, planned n=60, sponsor Adicet Therapeutics, status ACTIVE_NOT_RECRUITING."
+ },
+ "nct:NCT06562647": {
+  "relevance": "high",
+  "reason": "New registration: SY001 mesothelin-targeted cell therapy in advanced solid tumours (ovarian); NA, planned n=2, sponsor Cell Origin Biotech (Hangzhou) Co., Ltd., status RECRUITING."
+ },
+ "nct:NCT06500819": {
+  "relevance": "high",
+  "reason": "New registration: autologous B7-H3 CAR-T (IV) in paediatric neuroblastoma/sarcoma/osteosarcoma; PHASE1, planned n=41, sponsor Stanford University, status RECRUITING."
+ },
+ "nct:NCT06399419": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT06572956": {
+  "relevance": "high",
+  "reason": "New registration: CAR-T/CAR-NK in recurrent/refractory solid tumours (target unspecified); EARLY_PHASE1, planned n=10, sponsor The Second Hospital of Shandong University, status UNKNOWN."
+ },
+ "nct:NCT06505551": {
+  "relevance": "high",
+  "reason": "New registration: SCG142 TCR-T in HPV16/52+ carcinomas; PHASE1/PHASE2, planned n=66, sponsor SCG Cell Therapy Pte. Ltd., status NOT_YET_RECRUITING."
+ },
+ "nct:NCT06324240": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT06748872": {
+  "relevance": "high",
+  "reason": "New registration: MDG1015 TCR-T in ovarian, GEJ cancer and sarcomas; PHASE1, planned n=55, sponsor Medigene AG, status NOT_YET_RECRUITING."
+ },
+ "nct:NCT06619886": {
+  "relevance": "high",
+  "reason": "New registration: TP53 R248Q TCR-T in advanced solid tumours; EARLY_PHASE1, planned n=9, sponsor Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, status NOT_YET_RECRUITING."
+ },
+ "nct:NCT06305299": {
+  "relevance": "high",
+  "reason": "New registration: iC9-CAR.B7-H3 CAR-T in recurrent ovarian cancer; PHASE1, planned n=27, sponsor UNC Lineberger Comprehensive Cancer Center, status RECRUITING."
+ },
+ "nct:NCT06544720": {
+  "relevance": "high",
+  "reason": "New registration: SCG142 TCR-T in HPV-associated carcinomas; PHASE1, planned n=18, sponsor The Affiliated Hospital of Qingdao University, status RECRUITING."
+ },
+ "nct:NCT06487377": {
+  "relevance": "high",
+  "reason": "New registration: IX001 KRAS-mutant TCR-T in pancreatic/colorectal cancer (withdrawn, 0 enrolled); PHASE1, planned n=0, sponsor Shanghai Pudong Hospital, status WITHDRAWN."
+ },
+ "nct:NCT06224738": {
+  "relevance": "high",
+  "reason": "New registration: HER2 CAR-M in HER2+ gastric cancer with peritoneal metastases; EARLY_PHASE1, planned n=9, sponsor First People's Hospital of Hangzhou, status UNKNOWN."
+ },
+ "nct:NCT06358053": {
+  "relevance": "high",
+  "reason": "New registration: CRTE7A2-01 HPV16 E7 TCR-T in HPV16+ cancers; PHASE1, planned n=24, sponsor Corregene Biotechnology Co., Ltd, status NOT_YET_RECRUITING."
+ },
+ "nct:NCT06717022": {
+  "relevance": "high",
+  "reason": "New registration: CHT102 allogeneic mesothelin CAR-T in solid tumours; NA, planned n=24, sponsor Tianjin Medical University Cancer Institute and Hospital, status RECRUITING."
+ },
+ "nct:NCT06197178": {
+  "relevance": "high",
+  "reason": "New registration: LCAR-G08 GCC-targeted CAR-T in GI tumours (terminated); PHASE1, planned n=17, sponsor Peking University, status TERMINATED."
+ },
+ "nct:NCT06431100": {
+  "relevance": "high",
+  "reason": "New registration: TCR-T cells in gastric, oesophageal, cervical, NSCLC and TNBC (target unspecified); phase n/a, planned n=10, sponsor Beijing Geekgene Technology Co., LTD, status RECRUITING."
+ },
+ "nct:NCT06355908": {
+  "relevance": "high",
+  "reason": "New registration: IL13Ra2 CAR-T in recurrent/refractory glioma (suspended); PHASE1, planned n=30, sponsor Yang Zhang, status SUSPENDED."
+ },
+ "nct:NCT06254807": {
+  "relevance": "high",
+  "reason": "New registration: CT-0525 HER2 CAR-monocytes in HER2+ solid tumours; PHASE1, planned n=6, sponsor Carisma Therapeutics Inc, status UNKNOWN."
+ },
+ "nct:NCT06482905": {
+  "relevance": "high",
+  "reason": "New registration: TX103 B7-H3 CAR-T in recurrent grade 4 glioma; PHASE1, planned n=52, sponsor Tcelltech Inc., status RECRUITING."
+ },
+ "nct:NCT06739226": {
+  "relevance": "high",
+  "reason": "New registration: antigen-specific CAR-T, CTL and DC vaccine combination in melanoma; PHASE1/PHASE2, planned n=30, sponsor Shenzhen Geno-Immune Medical Institute, status NOT_YET_RECRUITING."
+ },
+ "nct:NCT06590246": {
+  "relevance": "high",
+  "reason": "New registration: C-CAR031 armoured GPC3 CAR-T in HCC; PHASE1/PHASE2, planned n=121, sponsor Shanghai AbelZeta Ltd., status RECRUITING."
+ },
+ "nct:NCT06676982": {
+  "relevance": "high",
+  "reason": "New registration: CD19 CAR-T (CNCT19) in advanced HCC; PHASE1, planned n=12, sponsor Zhejiang University, status RECRUITING."
+ },
+ "nct:NCT06612645": {
+  "relevance": "high",
+  "reason": "New registration: B7-H3/IL-7Ra CAR-T (CMD03) in paediatric solid tumours; PHASE1, planned n=9, sponsor Chulalongkorn University, status RECRUITING."
+ },
+ "nct:NCT06461624": {
+  "relevance": "high",
+  "reason": "New registration: GPC3 CAR-T (CBG166) in advanced HCC; PHASE1, planned n=15, sponsor Zhejiang University, status RECRUITING."
+ },
+ "nct:NCT06347068": {
+  "relevance": "high",
+  "reason": "New registration: iC9-CAR.B7-H3 CAR-T in TNBC; PHASE1, planned n=42, sponsor UNC Lineberger Comprehensive Cancer Center, status RECRUITING."
+ },
+ "nct:NCT06253520": {
+  "relevance": "high",
+  "reason": "New registration: KRAS-mutant TCR-T plus KRAS vaccine (GRT-C903/R904) in solid cancers; PHASE1, planned n=210, sponsor National Cancer Institute (NCI), status ACTIVE_NOT_RECRUITING."
+ },
+ "nct-results:NCT03354390": {
+  "relevance": "high",
+  "reason": "Results posted: Phase 1 HERV-E TCR-T in metastatic ccRCC (NHLBI), enrolment 17, status active not recruiting; outcome data not reviewed here from the registry record."
+ },
+ "nct-results:NCT02107755": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT06048705": {
+  "relevance": "high",
+  "reason": "Results posted: Phase 1 Adaptimmune GSK3901961 engineered TCR-T in synovial sarcoma/MRCLS, 7 enrolled, terminated."
+ },
+ "nct-results:NCT03146650": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT04526509": {
+  "relevance": "high",
+  "reason": "Results posted: Phase 1 Adaptimmune master protocol of next-gen NY-ESO-1/LAGE-1a TCR-T (GSK3901961, GSK3845097, GSK4427296), 12 enrolled, terminated."
+ },
+ "nct-results:NCT02027935": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT02519322": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT05100316": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT01326871": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT03648372": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT02506153": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT01625260": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT05943990": {
+  "relevance": "high",
+  "reason": "Results posted: Phase 1 Adaptimmune GSK3845097 TCR-T in synovial sarcoma/MRCLS, 5 enrolled, terminated."
+ },
+ "nct-results:NCT04396860": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT01950390": {
+  "relevance": "low",
+  "reason": ""
+ }
+}
