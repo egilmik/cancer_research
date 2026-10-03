@@ -1,0 +1,694 @@
+{
+ "pmid:39729487": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39719543": {
+  "relevance": "high",
+  "reason": "SEER-Medicare cohort (lung n=20,133, median follow-up 1.7 y) with time-dependent Cox models (addresses immortal-time bias): post-diagnosis statin use linked to lower cancer-specific mortality (HR 0.81, 0.74-0.88) with duration dose-response; observational, confounding by indication/healthy-user effects remain, and not lung-specific by histology or stage."
+ },
+ "pmid:39693907": {
+  "relevance": "medium",
+  "reason": "Asenapine as survivin inhibitor with in vivo tumour growth data; not lung-specific."
+ },
+ "pmid:39693892": {
+  "relevance": "high",
+  "reason": "Randomised phase II (n=72, ES-SCLC) adding hydroxychloroquine to platinum doublet: no PFS benefit (HR 1.12, 0.69-1.84) or OS benefit (HR 0.83), with more grade >=3 AEs (83% vs 28%, partly due to higher initial gemcitabine dose); small, underpowered, negative result for a repurposed antimalarial."
+ },
+ "pmid:39687197": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39671723": {
+  "relevance": "medium",
+  "reason": "Sericin plus hydroxychloroquine in DEN-induced mouse lung carcinogenesis; in vivo only."
+ },
+ "pmid:39671301": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39669836": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39669580": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39647902": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39630019": {
+  "relevance": "high",
+  "reason": "Preclinical study of repurposed antifibrotic pirfenidone with vinorelbine/carboplatin in three NSCLC lines plus A549 xenograft: triplet reduced tumour growth with a better toxicity profile than doublet, authors propose perioperative use; single xenograft model, no clinical data."
+ },
+ "pmid:39624248": {
+  "relevance": "medium",
+  "reason": "Single-arm phase II regorafenib plus oral methotrexate in KRAS-mutant NSCLC; missed primary endpoint, toxic."
+ },
+ "pmid:39613779": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39605917": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39598555": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39581614": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39560490": {
+  "relevance": "high",
+  "reason": "Two retrospective NSCLC cohorts plus mouse models: metformin associated with improved recurrence-free survival after lobectomy in overweight patients (HR 0.47, 0.24-0.94) and PFS on ICIs in overweight patients (HR 0.60, 0.39-0.93), with obese-mouse support; retrospective, subgroup finding, residual confounding/indication bias likely."
+ },
+ "pmid:39536976": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39535278": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39528101": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39527027": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39522095": {
+  "relevance": "medium",
+  "reason": "Cyproheptadine (antihistamine) reduces lung metastasis in mouse models; in vivo preclinical."
+ },
+ "pmid:39521852": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39511611": {
+  "relevance": "medium",
+  "reason": "Biomarker analysis (GDF15) of randomised phase II metformin plus CRT trial; metformin arm was negative."
+ },
+ "pmid:39507043": {
+  "relevance": "high",
+  "reason": "Retrospective single-centre cohort (n=211 advanced lung cancer on PD-1/PD-L1 ICIs, IPTW-balanced): concomitant H1 antihistamine linked to longer mPFS (12.7 vs 4.3 mo) and mOS (32.8 vs 18.1 mo); retrospective, single centre, short-term use so immortal-time bias and confounding by indication are possible despite IPTW."
+ },
+ "pmid:39505930": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39499771": {
+  "relevance": "medium",
+  "reason": "Maprotiline lowers PD-L1 via SPOP, in vivo synergy with anti-CTLA4; mostly colorectal/network-based."
+ },
+ "pmid:39497512": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39490205": {
+  "relevance": "high",
+  "reason": "Territory-wide Hong Kong cohort (279,894 IHD patients; 6,561 with lung cancer, 547 on trimetazidine): trimetazidine use associated with lower all-cause mortality (adjusted HR 0.65; pre-existing lung cancer HR 0.49), mostly non-cardiovascular deaths; retrospective with comparator of nitrates, residual confounding and immortal-time bias possible, authors call for RCTs."
+ },
+ "pmid:39488880": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39478582": {
+  "relevance": "medium",
+  "reason": "HCQ plus venetoclax in SCLC CDX/PDX models; in vivo only."
+ },
+ "pmid:39477309": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39475035": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39467160": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39460964": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39432502": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39416139": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39409895": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39398965": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39397003": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39386238": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39375410": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39369700": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39365528": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39360581": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39353727": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39354464": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39350337": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39349433": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39346064": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39342317": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39332188": {
+  "relevance": "medium",
+  "reason": "Pazopanib plus metformin in urethane-induced lung cancer mice; in vivo preclinical."
+ },
+ "pmid:39329956": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39321212": {
+  "relevance": "high",
+  "reason": "VA cohort of 3,413 NSCLC patients on ICIs (324 on azoles) with Cox and propensity matching and exclusion of late azole starts to limit immortal-time bias: azoles overall not associated with OS (HR 0.96), clotrimazole showed HR 0.71 (0.56-0.91) but PS-matched result was not significant (HR 0.74, p=0.058, n=101 per arm); retrospective, mostly male veterans, small subgroup."
+ },
+ "pmid:39308527": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39308524": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39308168": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39269895": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39263038": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39252854": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39245263": {
+  "relevance": "medium",
+  "reason": "Letrozole/omega-3 PUFA sensitises NSCLC immune-xenografts to pembrolizumab; preclinical."
+ },
+ "pmid:39233020": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39206686": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39204406": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39202556": {
+  "relevance": "medium",
+  "reason": "Lithuanian population cohort: metformin dose-dependently lowers lung cancer incidence (HR 0.69); retrospective, adjusted for age/sex only."
+ },
+ "pmid:39199578": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41169944": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39194678": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39193327": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39179096": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39139854": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39135791": {
+  "relevance": "medium",
+  "reason": "Three-hospital retrospective cohort (n=516 ICI patients, 76 on metformin): metformin tied to better OS/PFS in lung subgroup; small, confounding."
+ },
+ "pmid:39134516": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39111630": {
+  "relevance": "medium",
+  "reason": "Disulfiram/copper plus adavosertib in p53-deficient NSCLC xenografts; in vivo preclinical."
+ },
+ "pmid:39107837": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39103522": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39090580": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39056757": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39055652": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39054566": {
+  "relevance": "medium",
+  "reason": "Auranofin plus sorafenib in SCLC cells with xenograft data; preclinical."
+ },
+ "pmid:39051063": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39040528": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39040065": {
+  "relevance": "medium",
+  "reason": "Metformin Mn-nanocarrier plus PD-1 inhibitor reduces tumour growth in vivo; preclinical."
+ },
+ "pmid:39017606": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39010219": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39005681": {
+  "relevance": "high",
+  "reason": "Taiwan registry propensity-matched cohort of unresectable stage III squamous NSCLC receiving CCRT: statin use during CCRT associated with better OS (adjusted HR 0.60, 0.53-0.68) and lung cancer-specific survival (HR 0.61) with dose-response; retrospective, one histology, confounding by indication and immortal-time bias possible given exposure defined during treatment."
+ },
+ "pmid:39005266": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39001440": {
+  "relevance": "medium",
+  "reason": "TriNetX cohort of ~1M T2DM patients: GLP-1RA lowest lung cancer risk vs insulin (HR 0.49); incidence not survival, retrospective."
+ },
+ "pmid:38979602": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38979441": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38974972": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38962807": {
+  "relevance": "medium",
+  "reason": "Disulfiram derivative DS-NAC active in orthotopic lung cancer mice; novel compound, in vivo."
+ },
+ "pmid:38956168": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38953310": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38928407": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38925223": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38923653": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38914305": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38911377": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38908969": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38906021": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38880437": {
+  "relevance": "medium",
+  "reason": "Target trial emulation of statins in Hong Kong: no meaningful effect on lung cancer incidence; lung is one of several subtypes."
+ },
+ "pmid:38863255": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38854429": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38850595": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38849644": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38835347": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38834983": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38819098": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38811809": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38799168": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38789495": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38781180": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38766071": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38764064": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38751642": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38713180": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38681078": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38670047": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38662768": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38613572": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38600056": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38568289": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38562019": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38523909": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38519469": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38515178": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38513387": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38505087": {
+  "relevance": "medium",
+  "reason": "Mebendazole reduces NSCLC xenograft growth via ROS/STAT3; preclinical."
+ },
+ "pmid:38491813": {
+  "relevance": "medium",
+  "reason": "Systematic review/meta-analysis of randomised trials of repurposed CV/anti-inflammatory drugs across cancers; not lung-specific."
+ },
+ "pmid:38486234": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38480835": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38479708": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38478558": {
+  "relevance": "medium",
+  "reason": "Korean NHIS cohort: statin use linked to lower lung cancer development and better OS in IPF patients; retrospective."
+ },
+ "pmid:38478170": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38477518": {
+  "relevance": "medium",
+  "reason": "New-user active-comparator cohort of SGLT2i vs DPP-4i: no reduced short-term lung cancer risk (HR 0.96); short follow-up."
+ },
+ "pmid:38473324": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38455663": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38449802": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38444002": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38441569": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38416196": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38414717": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38408314": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38397073": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38367783": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38358644": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38348009": {
+  "relevance": "medium",
+  "reason": "Retrospective multicentre study (n=171) of beta-blockers with ICIs in NSCLC; non-significant trend, small."
+ },
+ "pmid:38322326": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38320903": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38319906": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38312035": {
+  "relevance": "medium",
+  "reason": "Metformin plus atorvastatin in benzopyrene-induced lung cancer in mice; in vivo preclinical."
+ },
+ "pmid:38288787": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38258539": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38258076": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38249892": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38249886": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38239811": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38237714": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38232717": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38201607": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38198846": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38186308": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38168007": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38165806": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38163906": {
+  "relevance": "medium",
+  "reason": "Metformin plus caloric restriction improves chemo/chemo-immunotherapy in LKB1-mutant NSCLC mouse and PDX models; in vivo."
+ },
+ "pmid:38163866": {
+  "relevance": "high",
+  "reason": "Retrospective analysis finding dose-dependent association of loratadine use with improved lung cancer survival, backed by in vitro and in vivo work implicating apoptosis/pyroptosis via PPAR-gamma/caspase-8; antihistamine repurposing with mechanistic support, but retrospective design with possible confounding and cohort size/effect sizes not clear from abstract."
+ },
+ "pmid:38161699": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:38159979": {
+  "relevance": "high",
+  "reason": "Randomised phase II of metformin vs placebo with SBRT for early-stage NSCLC, but only 15 patients randomised (14 vs 1) so effectively single-arm; 5-y OS 46%, no grade >=3 AEs, outcomes similar to historic controls and authors state results do not support therapeutic metformin; very small, underpowered long-term follow-up."
+ },
+ "nct:NCT06312137": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT06676917": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT06580002": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT06704620": {
+  "relevance": "high",
+  "reason": "New phase 3 trial registration (n=430, Tianjin Medical University Cancer Institute): tislelizumab plus platinum chemotherapy with or without diphenhydramine (H1 antagonist) in advanced NSCLC; tests efficacy and toxicity, status not yet recruiting."
+ }
+}
