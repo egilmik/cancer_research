@@ -210,6 +210,52 @@ searches:
       - {cond: "lung cancer", term: "repurposing OR antihistamine OR metformin OR statin OR propranolol OR loratadine"}
       - {cond: "lung cancer", term: "repurposing OR antihistamine OR metformin OR statin OR propranolol OR loratadine", date_field: ResultsFirstPostDate}
 
+  # ------------------------------------------------------------------ CAR-T in solid tumours
+  - id: car-t-solid
+    name: CAR-T cell therapy in solid tumours (all types)
+    enabled: true
+    version: 1
+    criteria: >
+      CAR-T cell therapy in any solid tumour (not haematological malignancies), including lung,
+      GI, liver, pancreatic, brain (glioma/GBM, DIPG), neuroblastoma and other paediatric
+      tumours, sarcoma, ovarian, breast, prostate, renal, mesothelioma, head and neck.
+      HIGH: clinical trial results (any phase, with response rates, survival, toxicity such as
+      CRS/ICANS/on-target off-tumour effects, and cell persistence); new trial registrations
+      (note target antigen, e.g. claudin 18.2, GPC3, GD2, B7-H3, mesothelin, HER2, EGFR, CEA,
+      and route, e.g. intratumoural, intraventricular, regional); regulatory decisions; novel
+      constructs (armoured, logic-gated, in vivo CAR-T) with in vivo data and a stated clinical
+      path. MEDIUM: preclinical in vivo studies of new targets or combinations, rigorous
+      meta-analyses of clinical trials, large real-world or manufacturing/safety series.
+      LOW: in vitro-only work, narrative reviews, bioinformatic target-discovery papers, case
+      reports, and papers that only mention solid tumours in passing. Report phase, n and
+      follow-up for clinical data; do not generalise early-phase response rates.
+    pubmed:
+      query: >-
+        ("CAR-T"[tiab] OR "CAR T"[tiab] OR "CAR-T cell"[tiab] OR "CAR-T cells"[tiab]
+        OR "chimeric antigen receptor"[tiab] OR "chimeric antigen receptors"[tiab]
+        OR "Receptors, Chimeric Antigen"[mh])
+        AND
+        ("solid tumor"[tiab] OR "solid tumors"[tiab] OR "solid tumour"[tiab] OR "solid tumours"[tiab]
+        OR "solid cancer"[tiab] OR "solid cancers"[tiab]
+        OR "lung cancer"[tiab] OR NSCLC[tiab] OR SCLC[tiab] OR mesothelioma[tiab]
+        OR glioma[tiab] OR glioblastoma[tiab] OR "diffuse midline glioma"[tiab]
+        OR neuroblastoma[tiab] OR sarcoma[tiab] OR medulloblastoma[tiab]
+        OR "hepatocellular carcinoma"[tiab] OR "pancreatic cancer"[tiab]
+        OR "pancreatic ductal adenocarcinoma"[tiab] OR "gastric cancer"[tiab]
+        OR "gastroesophageal"[tiab] OR "colorectal cancer"[tiab]
+        OR "ovarian cancer"[tiab] OR "breast cancer"[tiab] OR "prostate cancer"[tiab]
+        OR "renal cell carcinoma"[tiab] OR melanoma[tiab] OR "head and neck"[tiab]
+        OR "biliary tract"[tiab] OR cholangiocarcinoma[tiab] OR "bladder cancer"[tiab]
+        OR "cervical cancer"[tiab] OR "endometrial cancer"[tiab]
+        OR "claudin 18.2"[tiab] OR "CLDN18.2"[tiab] OR GPC3[tiab] OR GD2[tiab]
+        OR "B7-H3"[tiab] OR mesothelin[tiab])
+        NOT
+        (lymphoma[ti] OR lymphomas[ti] OR leukemia[ti] OR leukaemia[ti] OR myeloma[ti]
+        OR "B-cell"[ti] OR "B cell"[ti] OR lupus[ti] OR "autoimmune"[ti])
+    clinicaltrials:
+      - {intr: "chimeric antigen receptor", term: "solid tumor OR glioma OR glioblastoma OR neuroblastoma OR sarcoma OR carcinoma OR mesothelioma OR melanoma"}
+      - {intr: "chimeric antigen receptor", term: "solid tumor OR glioma OR glioblastoma OR neuroblastoma OR sarcoma OR carcinoma OR mesothelioma OR melanoma", date_field: ResultsFirstPostDate}
+
   # ------------------------------------------------------------------ preprints
   - id: preprints
     name: Lung cancer preprints (medRxiv, bioRxiv)
