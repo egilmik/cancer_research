@@ -1,0 +1,663 @@
+[
+  {
+    "source": "pubmed",
+    "pmid": "42783445",
+    "doi": "10.3390/medsci14050572",
+    "pmcid": "PMC13609654",
+    "title": "COVID-19 mRNA Vaccines as Antigen-Agnostic Immunomodulators: A Repurposing Perspective.",
+    "authors": "Minoretti P, Emanuele E",
+    "journal": "Med Sci (Basel)",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Since 2020, billions of doses of COVID-19 messenger RNA (mRNA) lipid nanoparticle vaccines have been administered worldwide, generating one of the largest pharmacovigilance databases for a modern therapeutic class. Intriguingly, their immunopharmacologic profile-including the engagement of innate nucleic acid sensors, systemic type I interferon signaling, dendritic cell-mediated cross-priming of CD8+ T cells, and upregulation of programmed cell death ligand 1 (PD-L1)-may extend beyond COVID-19 prophylaxis. Retrospective evidence from six independent cohorts, one of which is a multinational health-data network, indicated that vaccination within 100 days of immune checkpoint inhibitor (ICI) initiation may improve survival of patients with malignancies, including in immunologically cold tumors, although a substantial fraction of the original effect may be attributed to pandemic-era selection bias. Here, we examine the mechanistic basis and available evidence for the repurposing of licensed COVID-19 mRNA vaccines as antigen-agnostic immunomodulators. We identified five candidate contexts for prospective evaluation-namely, (1) PD-L1-negative non-small cell lung cancer initiating ICI therapy, (2) perioperative immune dysfunction in major cardiac surgery, (3) chronic hepatitis B, (4) chronic HIV with persistent immune exhaustion, and (5) sepsis-induced immunoparalysis. Methodological foundations for confirmatory assessment-comprising target trial emulation, Mendelian randomization, and pragmatic trial design-are now sufficiently developed to enable implementation. Prospective evaluation of the antigen-agnostic repurposing hypothesis is operationally feasible, albeit constrained by residual confounding and uncertainty about the durability of vaccine-induced innate reprogramming.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42783445/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:42783445",
+      "doi:10.3390/medsci14050572"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42749398",
+    "doi": "10.1016/j.jgeb.2026.100717",
+    "pmcid": "PMC13266021",
+    "title": "mRNA-based therapeutics in lung Cancer: Mechanisms, applications, and translational challenges.",
+    "authors": "Wehbe I, Tlili A",
+    "journal": "J Genet Eng Biotechnol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Lung cancer remains one of the most prevalent and lethal malignancies worldwide owing to late diagnosis, molecular heterogeneity, and development of therapeutic resistance. Recent global cancer statistics indicate that it accounts for approximately 2.5 million new cases and 1.8 million deaths annually. The rise of messenger RNA (mRNA) technology has become a highly effective approach in the fight against infectious diseases, particularly highlighted by its successful use in COVID-19 vaccines. Accordingly, mRNA-based therapeutics have emerged as a versatile and adaptable approach with a high potential to address the limitations of conventional cancer treatments. This review aims to provide a comprehensive overview of the available cancer treatments and their limitations, summarize the molecular and cellular mechanisms involved in lung cancer progression, and introduce the mRNA-based approach and its application in lung cancer, including mRNA vaccines, targeted protein therapy, immune-modulating therapy, gene editing, and cellular reprogramming approaches. Furthermore, we discuss the main mechanisms underlying mRNA-based therapies, address current applications, and evaluate approaches to overcome the limitations and challenges associated with mRNA-based therapies. Overall, mRNA-based therapy represents a flexible and rapidly evolving approach that, with further research and development, will reshape precision treatment of lung cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42749398/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:42749398",
+      "doi:10.1016/j.jgeb.2026.100717"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42721899",
+    "doi": "10.1016/j.retram.2026.103606",
+    "pmcid": "",
+    "title": "Clinical translation of mRNA-based cancer vaccines for solid tumors.",
+    "authors": "AlKhafaje Z, H M, Dash A et al.",
+    "journal": "Curr Res Transl Med",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Vaccines that use messenger RNA (mRNA) have become a promising platform that is transforming cancer immunotherapy. These mRNA vaccines can be generated and manufactured quickly due to their modular design and can also induce CD4⁺ T-cell and CD8⁺ T-cell responses, in contrast to conventional protein or peptide-based vaccines. Additionally, synthetic mRNA can be optimized through various strategies (e.g., codon optimization, chemical modifications, and polyepitopic design) to not only ensure efficient antigen expression and immune activation but also to mitigate excessive innate immune sensing. Technologies that deliver mRNA vaccines (lipid nanoparticles, dendritic cell-based formulations, self-adjuvanted mRNA constructs, and viral vector systems) have all supported the development of mRNA-vaccine clinical applications while providing unique advantages in stability, antigen presentation, or immunogenicity. Clinical trials in the early phases involving a variety of solid tumors, such as pancreatic cancer, glioblastoma, renal cell carcinoma, melanoma, and non-small cell lung cancer, show that mRNA vaccines can elicit durable T-cell responses, expand high-avidity T-cell clones, and, in some cases, prolong recurrence-free survival. However, the clinical benefit has been variable, often limited by tumor heterogeneity, immune evasion, and immunodominance. Combination strategies utilizing immune checkpoint inhibitors, chemotherapy, and adoptive T-cell therapy are under investigation. This review synthesizes evidence from published clinical studies and 65 registered clinical trials on mRNA-based cancer vaccines, summarizing key molecular principles, delivery strategies, clinical translation in solid tumors, and ongoing opportunities for future therapeutic development.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42721899/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:42721899",
+      "doi:10.1016/j.retram.2026.103606"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42707601",
+    "doi": "10.3389/fonc.2026.1933939",
+    "pmcid": "PMC13548799",
+    "title": "KRAS mutations as architects of the tumor immune microenvironment: implications for combination therapies.",
+    "authors": "Ramachandran V, Koyou HL, Raajasekar S et al.",
+    "journal": "Front Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Oncogenic KRAS mutations rank among the most prevalent driver alterations in human malignancies, reaching near-universal frequency (~98%) in pancreatic ductal adenocarcinoma (PDAC) and high prevalence in colorectal cancer (CRC, ~52%) and lung adenocarcinoma (LAC, ~32%). Beyond their canonical roles in promoting cell-intrinsic proliferation and survival through the MAPK/ERK and PI3K/AKT cascades, KRAS mutations actively sculpt a profoundly immunosuppressive tumor microenvironment (TME), which constitutes a major barrier to both targeted therapy and immunotherapy. Through coordinated programs encompassing inflammatory cytokine secretion, downregulation of antigen presentation machinery, tumor-associated macrophage (TAM) reprogramming, myeloid-derived suppressor cell (MDSC) expansion, and PD-L1 upregulation, KRAS-mutant tumors establish robust immune exclusion. These programs are further stratified by co-mutations in STK11, KEAP1, and TP53, which define distinct immune phenotypes ranging from inflamed to profoundly immune-excluded \"cold\" tumors. The recent approval of covalent KRAS G12C inhibitors, sotorasib and adagrasib, has revealed that targeted KRAS blockade can remodel the TME toward an immunostimulatory state, providing a mechanistic rationale for combining KRAS-directed agents with immune checkpoint blockade, STING agonists, and neoantigen vaccines. This mini-review synthesizes the current knowledge of KRAS-immune crosstalk, highlights existing controversies and research gaps, and evaluates emerging combination strategies designed to convert immune exclusion into durable anti-tumor immunity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707601/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:42707601",
+      "doi:10.3389/fonc.2026.1933939"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42662466",
+    "doi": "10.1016/j.ijpx.2026.100634",
+    "pmcid": "PMC13520980",
+    "title": "Delivering the blueprint: Advances and challenges in mRNA therapeutics for the respiratory system.",
+    "authors": "Jia F, Ma L, Li Y",
+    "journal": "Int J Pharm X",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "The success of mRNA vaccines has established lipid nanoparticles (LNPs) as a clinically validated delivery platform, yet their application to pulmonary therapeutics presents formidable challenges. This review systematically summarizes the mechanisms, delivery methods, key challenges, safety considerations, and translational gaps associated with mRNA-LNP therapeutics for pulmonary disorders. It surveys LNP-mediated delivery to pulmonary cell populations, distinguishing readily accessible targets (such as alveolar type II cells, bronchial epithelia, and macrophages) from refractory cell types (including T cells and rare fibroblast subsets). The evolution of LNPs is traced through three generations: from initial hepatic-optimized carriers, to lung-tropic selective organ targeting (SORT) formulations, and onward to contemporary precision-engineered aerosol systems. These advances have enabled diverse mRNA-based therapeutic modalities, encompassing protein replacement, gene editing, cell reprogramming, and cancer immunotherapy, each of which is examined with emphasis on their distinct mechanisms of action and safety profiles. Lung cancer represents a particularly intractable therapeutic challenge. Stromal barriers and tumor-associated macrophages render most lung-selective LNPs ineffective in orthotopic models, necessitating development strategies decoupled from those for non-malignant indications. Significant translational gaps persist, including a limited understanding of inhaled delivery barriers, insufficient long-term safety data for repeated dosing regimens, and the poor predictive value of healthy rodent models. While AI-guided lipid discovery, biodegradable formulations, and active targeting strategies offer considerable promise, clinical success will demand rigorous validation in disease-relevant preclinical models.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42662466/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:42662466",
+      "doi:10.1016/j.ijpx.2026.100634"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42654486",
+    "doi": "10.3390/medicina62081588",
+    "pmcid": "PMC13515006",
+    "title": "Impact of COVID-19 Vaccination on Patients with Non-Small Cell Lung Cancer Receiving First-Line Immune Checkpoint Inhibitor Therapy: Real-World Evidence from Romania.",
+    "authors": "Gheorghiță V, Cotan HT, Pistol A et al.",
+    "journal": "Medicina (Kaunas)",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Background: The interaction between COVID-19 vaccination and immune checkpoint inhibitor (ICI) therapy in advanced non-small cell lung cancer (NSCLC) remains incompletely characterized. Methods: Retrospective cohort study of 139 patients with stage IV NSCLC treated with first-line ICI-based therapy, stratified by vaccination status and total doses received (0-1 vs. ≥2). Progression-free (PFS) and overall survival (OS) were analyzed by Kaplan-Meier and Cox regression; logistic regression explored factors associated with treatment-related toxicity. Results: Vaccinated patients had longer median PFS (13.0 vs. 11.0 months) and OS (29.0 vs. 24.0 months; both p < 0.001). In multivariable models these associations were attenuated and of borderline significance (OS HR = 0.83, 95% CI 0.69-0.99; PFS HR = 0.79, 95% CI 0.62-0.99). Outcomes were also more favorable with ≥2 doses (median PFS 14.0 vs. 12.0 months, p = 0.001; median OS 30.0 vs. 24.0 months, p < 0.001), and tumor mutational status was the strongest independent predictor of survival. In an exploratory model, ≥2 doses were associated with higher odds of any-grade toxicity (OR = 2.47, p = 0.037); events were predominantly low grade, with no Grade 4 or 5 toxicity. Conclusions: COVID-19 vaccination was associated with improved PFS and OS in stage IV NSCLC receiving first-line ICI therapy, with a dose-related pattern. The association was attenuated after adjustment for tumor biology and is hypothesis-generating. These findings support the safety and potential clinical relevance of vaccination in this population and underline the need for structured monitoring during immunotherapy. Prospective validation is required.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42654486/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:42654486",
+      "doi:10.3390/medicina62081588"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42604060",
+    "doi": "10.1016/j.lana.2026.101596",
+    "pmcid": "PMC13476578",
+    "title": "Projected lives saved and economic value of mRNA cancer immunotherapies in the United States.",
+    "authors": "Wells CR, Pandey A, Bawden C et al.",
+    "journal": "Lancet Reg Health Am",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Messenger RNA (mRNA) technology helped prevent millions of deaths during the COVID-19 pandemic and is emerging as a promising cancer treatment modality. Early-phase trials suggest mRNA immunotherapies can improve overall and recurrence-free survival. However, the U.S. Department of Health and Human Services has terminated investment in this transformative platform. Although the funding cuts target infectious-disease vaccines, they could also slow broader research across the platform, with implications for cancer applications. To assess the potential public health and economic value of mRNA immunotherapies as cancer treatments, we combined early clinical trial evidence with incidence- and demographic-adjusted survival estimates from the National Cancer Institute's SEER program to project outcomes for non-small cell lung cancer, pancreatic cancer, renal cell carcinoma, and metastatic melanoma. We then applied the U.S. Department of Health and Human Services' Value of a Statistical Life Year ($604,246; 3% discount rate) to quantify the economic value associated with survival gains. Among U.S. patients diagnosed with these cancers in a single year, mRNA immunotherapies could avert an estimated 49,415 (95% CrI: 28,233-71,085) deaths. The corresponding economic value is estimated at $75.55 (95% CrI: $44.20-$103.43) billion, substantially exceeding the funding cut and highlighting the long-term value of continued innovation in mRNA-based therapeutics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42604060/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:42604060",
+      "doi:10.1016/j.lana.2026.101596"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42579432",
+    "doi": "10.1021/acsnano.6c04529",
+    "pmcid": "",
+    "title": "Intratracheal Delivery of mRNA Lipid Nanoparticles Reprograms Alveolar Macrophages for Pulmonary Cancer Immunotherapy.",
+    "authors": "Zhou J, Li T, Zhang W et al.",
+    "journal": "ACS Nano",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Pulmonary delivery of lipid nanoparticle (LNP)-based mRNA vaccines offers a promising strategy for localized lung cancer immunotherapy, yet how distinct pulmonary administration routes determine cellular targeting and therapeutic efficacy remains poorly understood. Here, we systematically evaluate intranasal and intratracheal delivery of mRNA-LNP vaccines and reveal a route-dependent immunological mechanism governing lung-targeted tumor vaccination. Although intratracheal administration yields only a 2.6-fold increase in total pulmonary protein expression compared to intranasal delivery, it produces a striking 26.8-fold enhancement in functional mRNA transfection efficiency within alveolar macrophages, the dominant antigen-presenting cell population in the alveolar space. This selective targeting reprograms alveolar macrophages toward an activated antigen-presenting phenotype, promoting efficient antigen presentation, robust CD8+ T-cell responses, and superior prophylactic and therapeutic efficacy in pulmonary tumor models. Notably, local depletion of alveolar macrophages completely abolishes the antitumor protection conferred by intratracheal vaccination, establishing their indispensable role in mediating pulmonary mRNA vaccine efficacy. Together, these findings provide mechanistic insights into lung-targeted mRNA cancer vaccination driven by alveolar macrophage engagement, providing critical insights for the design of next-generation LNP-based nanomedicines for lung cancer immunotherapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42579432/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:42579432",
+      "doi:10.1021/acsnano.6c04529"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42504429",
+    "doi": "10.1021/acsami.6c10662",
+    "pmcid": "",
+    "title": "Precisely Engineered Block Copolymers for Efficient PTEN mRNA Therapy of Non-Small Cell Lung Cancer.",
+    "authors": "Zhao H, Zhang S, Tian C et al.",
+    "journal": "ACS Appl Mater Interfaces",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Restoring the tumor suppressor PTEN (phosphatase and tensin homolog) offers a promising therapeutic strategy for nonsmall cell lung cancer (NSCLC). In particular, mRNA-based therapy provides a compelling alternative to small molecules and DNA-based gene therapy, combining high specificity with an excellent safety profile. However, its clinical translation hinges on the development of safe and efficient delivery systems. In this study, we present a rationally designed diblock copolymer that mediates highly effective PTEN mRNA delivery both in vitro and in vivo. The copolymer consists of a stealth PEG block and a cationic binding block, with precisely engineered 3-acrylamidophenylboronic acid (AAPBA) and N-(3-dimethylaminopropyl) methacrylamide (DMAPMA) units. Following optimization of the PEG chain length, the structure PEG45-b-P(AAPBA21-co-DMAPMA18) achieved a critical balance of delivery properties, leading to enhanced cellular uptake, facilitated endosomal escape, and enabled mRNA release for protein translation. When further functionalized with folic acid (FA), the copolymer successfully restored PTEN expression and inhibited tumor growth (81.0% relative to the PBS control group) in vivo, with no significant toxicity observed under the tested conditions. We anticipate that this block copolymer-based PTEN mRNA delivery platform could provide a promising new approach for the treatment of NSCLC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42504429/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:42504429",
+      "doi:10.1021/acsami.6c10662"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42476285",
+    "doi": "10.1016/j.canlet.2026.218743",
+    "pmcid": "",
+    "title": "Circular RNA-based therapeutic vaccine elicits potent antigen-specific antitumor immunity and remodels tumor microenvironment in lung cancer.",
+    "authors": "Chen S, Weng L, Liu X et al.",
+    "journal": "Cancer Lett",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Despite the success in infectious diseases, mRNA vaccines have inherent limitations in stability and immunogenicity. Non-small cell lung cancer remains the leading cause of cancer-related death worldwide, with poor prognosis in advanced stages, underscoring the urgent need for novel therapeutic strategies. Previously, we have developed a scarless circular RNA synthesis platform (NeoAna) that exhibited enhanced stability and long-lasting antigen expression with minimal cytotoxicity compared to mRNA. In this study, we construct a circRNA vaccine using NY-ESO-1 as the antigen and deliver circRNA vaccine with lipid nanoparticles. The circRNA vaccine elicited robust innate and adaptive immune responses both in vitro and in vivo. It demonstrated superior antitumor efficacy relative to mRNA vaccine, achieving 93.1% tumor inhibition when combined with immune checkpoint blockade. Prophylactic vaccination prevented tumor establishment, while adjuvant therapy conferred protection against tumor re-challenge, highlighting durable immune memory. Mechanistically, circRNA vaccine promoted dendritic cell maturation and enhanced tumor infiltration of T cells, and mediated antitumor immunity in a CD8+ T cell-dependent manner. Additionally, single-nucleus RNA sequencing revealed that it remodeled the tumor microenvironment toward a pro-inflammatory and antitumor phenotype. Following circRNA vaccination, the proportions of cytotoxic T cells, pro-inflammatory macrophages, and antigen-presenting cancer-associated fibroblasts were all increased within the tumor microenvironment, accompanied by activation of immunity-related signaling pathways. In conclusion, our findings demonstrate the immunogenicity and therapeutic potential of the NeoAna circRNA-based therapeutic vaccine, supporting its further evaluation in clinical trials.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42476285/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:42476285",
+      "doi:10.1016/j.canlet.2026.218743"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42379805",
+    "doi": "10.21873/invivo.14401",
+    "pmcid": "PMC13322103",
+    "title": "Impact of COVID-19 Vaccine Type on the Efficacy and Safety of Nivolumab in Patients With Metastatic Non-small-cell Lung Cancer: A Multicenter Study.",
+    "authors": "Karabuga B, Büyükkör M, Karaçin C et al.",
+    "journal": "In Vivo",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "abstract": "BACKGROUND/AIM: The effect of COVID-19 vaccine type on the outcomes of therapy immune checkpoint inhibitors remains unclear, and concerns persist regarding whether mRNA-based vaccines may negatively impact treatment efficacy or increase immune-related toxicity. This study aimed to evaluate the association between COVID-19 vaccination type and the efficacy and safety of nivolumab in patients with metastatic non-small-cell lung cancer (NSCLC).\nPATIENTS AND METHODS: We retrospectively analyzed 138 patients with driver-negative metastatic NSCLC treated with second-line nivolumab. Patients were classified as receiving virion-based (Sinovac) only, mRNA-based only, or both types of vaccines. Treatment response, progression-free survival, objective response rate, clinical benefit rate clinical benefit rate and immune-related adverse events were compared.\nRESULTS: The overall response and clinical benefit rates were similar across vaccination groups, with no significant differences observed (p=0.38 and p=0.16, respectively). Median progression-free survival did not differ significantly among the different groups (p=0.39). The incidence of any-grade and grade 3-4 immune-related adverse events was comparable across groups, although grade 1-2 immune-related adverse events were more frequent among patients who had received at least one dose of Sinovac.\nCONCLUSION: In patients with metastatic NSCLC receiving second-line nivolumab, the efficacy and safety profile of nivolumab did not differ according to the type of COVID-19 vaccine patients had received prior to therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42379805/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:42379805",
+      "doi:10.21873/invivo.14401"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42236116",
+    "doi": "10.1136/jitc-2026-015132",
+    "pmcid": "PMC13239367",
+    "title": "Repurposing COVID-19 (and other) mRNA vaccines to boost cancer immunotherapy efficacy: mechanistic insights and future directions.",
+    "authors": "Gujar S, Pol JG, Vijayan VV et al.",
+    "journal": "J Immunother Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "A recent study by Grippin et al showed that COVID-19 mRNA-lipid nanoparticle vaccines can be strategically implemented to fundamentally reshape the immunosuppressive tumor microenvironment and boost the efficacy of immune checkpoint inhibitors (ICIs) even in patients bearing cancer types that are usually refractory to ICIs. Mechanistically, innate immunological responses elicited by COVID-19 mRNA vaccine negate multiple tumor-associated immune evasion mechanisms and ultimately enable functionally competent polyclonal antitumor CD8+ T responses. As many mRNA vaccines are already, or on the point of being, approved for human use, the translational potential of therapies combining mRNA vaccines with ICIs is unprecedented. Indeed, the strategic repurposing of COVID-19 (and other) mRNA vaccines represents a clinically feasible and immediately translatable approach to potentiate the efficacy of ICI-based cancer immunotherapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42236116/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:42236116",
+      "doi:10.1136/jitc-2026-015132"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42068906",
+    "doi": "10.1016/j.vaccine.2026.128659",
+    "pmcid": "",
+    "title": "Neoantigen-based T cell vaccines design strategies, therapeutic barriers, and clinical advances.",
+    "authors": "Shi J, Wang J, Luo H et al.",
+    "journal": "Vaccine",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Over the past several decades, immunotherapy has emerged as a transformative paradigm in oncology. Within this domain, vaccines targeting tumor-specific neoantigens represent one of the most advanced approaches, engineered to activate the host immune system and elicit potent, antigen-specific T-cell responses. By stimulating both CD8+ cytotoxic and CD4+ helper T cells, these vaccines enable highly selective tumor cell elimination while establishing durable immunological memory. Despite their promise, the rational development and clinical translation of neoantigen-based vaccines remain constrained by substantial challenges that limit their broad therapeutic impact. This review provides a comprehensive synthesis of the field, tracing the entire pipeline from the molecular origin and computational prediction of neoantigens to the design principles guiding vaccine formulation. It examines mechanisms of action across diverse platforms-including mRNA, peptide, and dendritic cell vaccines-and explores synergistic strategies that combine adjuvants or immune checkpoint blockade to enhance efficacy. In addition, we critically evaluate key barriers to success, such as immunosuppressive tumor microenvironments, T-cell dysfunction, and antigenic escape. Finally, we highlight recent clinical advances aimed at overcoming these barriers, thereby outlining a framework for optimizing neoantigen vaccine design to maximize their therapeutic potential in cancer treatment. Notably, encouraging progress has been reported in malignancies such as non-small cell lung cancer and melanoma, underscoring the translational promise of this strategy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42068906/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:42068906",
+      "doi:10.1016/j.vaccine.2026.128659"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "41984335",
+    "doi": "10.1007/s13402-026-01199-1",
+    "pmcid": "PMC13083697",
+    "title": "Next-generation neoantigen mRNA vaccines: Immuno-engineering strategies for precision cancer immunotherapy.",
+    "authors": "Li X, Jabbarzadeh Kaboli P, Roozitalab G et al.",
+    "journal": "Cell Oncol (Dordr)",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Neoantigen mRNA vaccines have progressed from experimental constructs to clinically evaluated immunotherapies grounded in tumor genomics and modular RNA engineering. By encoding tumor-restricted antigens, these platforms aim to induce targeted T-cell responses while minimizing off-target toxicity. Early clinical studies, particularly in melanoma and non-small cell lung cancer, demonstrate that personalized and hybrid vaccine strategies can expand tumor-reactive T-cell clones and improve recurrence-free outcomes when combined with immune checkpoint blockade. However, challenges including manufacturing timelines, HLA diversity, tumor heterogeneity, and immune editing limit broad implementation. Recent advances in antigen prioritization algorithms, transcript design, and delivery platforms have improved translational feasibility and reduced production variability. Shared and off-the-shelf approaches targeting recurrent driver mutations offer scalable alternatives, while adaptive strategies incorporating ctDNA monitoring raise the possibility of dynamic vaccine updating during treatment. Integration with immune-modulating therapies and rational clinical positioning, particularly in adjuvant and minimal residual disease settings, are likely to define near-term success. Collectively, neoantigen mRNA vaccination represents a flexible therapeutic framework rather than a single platform. Its long-term impact will depend on aligning molecular engineering, immune calibration, manufacturing scalability, and regulatory adaptation to achieve durable clinical.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41984335/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:41984335",
+      "doi:10.1007/s13402-026-01199-1"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "41976774",
+    "doi": "10.3390/jcm15072475",
+    "pmcid": "PMC13073436",
+    "title": "Impact of Prior mRNA COVID-19 Vaccination on PFS2 in NSCLC Patients Receiving Second-Line Immune Checkpoint Inhibitors: A Real-World Analysis.",
+    "authors": "Çelik S, Kavak EE, Zeynelgil E et al.",
+    "journal": "J Clin Med",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Background: Immune checkpoint inhibitors (ICIs) targeting the PD-1 axis represent standard second-line therapy for metastatic non-small cell lung cancer (NSCLC). Emerging data suggest that SARS-CoV-2 mRNA vaccines may enhance antitumor immunity through innate immune activation and type I interferon signaling, potentially sensitizing tumors to PD-1 blockade. The clinical impact of patients initiating second-line nivolumab remains unclear. Methods: In this retrospective single-center cohort study, 88 patients with recurrent stage IV NSCLC who received second-line nivolumab between 1 January 2023 and 1 January 2026 were analyzed. Vaccination exposure was defined using a 6-month pre-treatment window prior to nivolumab initiation (T0). Patients were stratified according to receipt of ≥2 versus 0-1 mRNA COVID-19 vaccine doses within the 6 months preceding T0 (n = 45 and n = 43, respectively). The primary endpoint was progression-free survival from nivolumab initiation (PFS2). Survival outcomes were estimated using the Kaplan-Meier method and evaluated using Cox regression models. Results: With a median follow-up of 22.4 months, median PFS2 for the overall cohort was 11.1 months (95% CI, 9.4-15.1). Patients receiving ≥2 mRNA doses had significantly longer PFS2 than those receiving 0-1 dose (14.0 vs. 9.6 months; p = 0.04). In multivariable analysis, ≥2 doses were independently associated with reduced risk of progression or death (aHR 0.52, 95% CI 0.31-0.88; p = 0.01). Non-adenocarcinoma histology and baseline brain metastasis were independently associated with shorter PFS2. Conclusions: Receipt of ≥2 mRNA vaccine doses within 6 months before nivolumab initiation was independently associated with prolonged PFS2 in metastatic NSCLC. Prospective multicenter validation is warranted.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41976774/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:41976774",
+      "doi:10.3390/jcm15072475"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "41921304",
+    "doi": "10.1016/j.ctrv.2026.103125",
+    "pmcid": "",
+    "title": "Neoantigen-based dendritic cell vaccines in lung cancer: overcoming immunosuppressive barriers for durable antitumor immunity.",
+    "authors": "Li Z, Feiyue Z, Luyu H et al.",
+    "journal": "Cancer Treat Rev",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Cancer immunotherapies developed based on mechanisms of tumour immune evasion represent a major breakthrough in the history of cancer treatment, capable of reversing T-cell exhaustion induced by tumours through immune checkpoint blockade. However, the predominant focus on T cells as central players in antitumour immunity may have led to the oversight of the crucial role played by dendritic cells (DCs), which are essential for activating and directing T cells against tumour cells. DCs comprise a diverse group of antigen-presenting cells that play an indispensable role in initiating and regulating both innate and adaptive immune responses. Strategies aimed at modulating DC function to enhance cancer immunotherapy are therefore of critical importance. Beyond the development of novel immune checkpoint inhibitors, neoantigen-based DC vaccines represent a promising approach for developing personalised precision immunotherapies. Here, we review the molecular mechanisms underlying DC immunosuppression within the lung tumour microenvironment, how tumour-infiltrating DCs influence immunity and tolerance in the cancer setting, the mechanisms by which tumour-specific neoantigens elicit immune responses, the identification of neoantigens, and recent clinical advances in neoantigen-targeted vaccines for lung cancer. We also discuss recent progress in DC vaccine-based cancer immunotherapies from both preclinical studies and clinical trials.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41921304/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:41921304",
+      "doi:10.1016/j.ctrv.2026.103125"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "41893776",
+    "doi": "10.3390/vaccines14030239",
+    "pmcid": "PMC13030069",
+    "title": "A Precision-Engineered DC-Targeting mRNA-LNP Neoantigen Vaccine Elicits Stronger T Cell Responses and Exhibits Superior Tumor Control.",
+    "authors": "Liu Q, Liu Y, Li J et al.",
+    "journal": "Vaccines (Basel)",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Background/Objectives: Messenger RNA (mRNA) vaccine technology has shown great potential in the prevention of infectious diseases and treatment of cancers, but its full potential is limited by non-specific delivery mediated by the current lipid nanoparticle (LNP) platform. Methods: Here, we developed a dendritic cell (DC)-targeting LNP incorporated with an ultra-high-affinity CLEC9A-specific nanobody that facilitates enhanced DC uptake but reduced liver accumulation. We assessed the therapeutic efficacy of nanobody-functionalized lipid nanoparticles (Nb-LNPs) in a mouse Lewis lung carcinoma (LLC) model, alongside an evaluation of T cell-mediated immune responses and dendritic cell activation, facilitated by the delivery of mRNA-based neoantigen vaccines. Results: Compared with the use of an unfunctionalized LNP, personalized mRNA cancer vaccines encapsulated with this Nb-LNP demonstrated not only superior anti-tumor effects but also a favorable bio-safety profile in a mouse Lewis lung carcinoma model. The mRNA Nb-LNP neoantigen vaccines also induced substantially higher levels of DC maturation and more potent antigen-specific T cell responses, in particular CD4+ T cell responses, which are critical for initiation of anti-tumor immunity and immune memory. Conclusions: Taken together, these results suggest that precision-engineered LNPs conjugated with a CLEC9A-specific antibody or nanobody could be a promising platform for delivering mRNA vaccines specifically to dendritic cells, improving their prophylactic or therapeutic effects.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41893776/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:41893776",
+      "doi:10.3390/vaccines14030239"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "41690454",
+    "doi": "10.1016/j.canlet.2026.218319",
+    "pmcid": "",
+    "title": "Validation of \"SARS-CoV-2 mRNA vaccines sensitize tumors to immune checkpoint blockade\" in an independent cohort of 4,407 patients.",
+    "authors": "Arbel R, Rokach L, Razi T et al.",
+    "journal": "Cancer Lett",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "A recent study1 has demonstrated that SARS-CoV-2 mRNA vaccination within 100 days of initiating immune checkpoint inhibitor (ICI) therapy is associated with improved overall survival (OS) in patients with non-small cell lung cancer (NSCLC) and malignant melanoma. We sought to validate these findings in an independent and larger real-world cohort. Using clinical and survival data from the Clalit Health Services, we reproduced the primary analyses of Grippin et al. and confirmed that COVID-19 mRNA vaccination near the time of ICI initiation correlates with improved patient outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41690454/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:41690454",
+      "doi:10.1016/j.canlet.2026.218319"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "41634728",
+    "doi": "10.1186/s13045-026-01778-7",
+    "pmcid": "PMC12896110",
+    "title": "Lung cancer vaccines to enhance immune checkpoint inhibitor therapy: evidence and future perspectives.",
+    "authors": "Tang Z, Zha L, Liang R et al.",
+    "journal": "J Hematol Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Immune checkpoint inhibitors (ICIs) have transformed the treatment landscape of lung cancer over the past decade, markedly improving antitumor responses, overall survival, and quality of life. However, durable clinical benefit is achieved in only a subset of patients, and resistance to ICIs remains a major clinical challenge. Mechanistically, resistance arises from multiple, often overlapping processes, including inadequate tumor antigen presentation, dysfunctional T-cell priming and expansion, and the presence of physical and immunosuppressive barriers within the tumor microenvironment that limit immune cell infiltration and effector function. Cancer vaccines have re-emerged as a rational immunotherapeutic strategy to overcome these obstacles by inducing de novo or amplifying pre-existing tumor-specific immune responses, thereby enhancing long-term immunological memory while maintaining a favorable safety profile. Advances in antigen discovery, neoantigen prediction, and vaccine platforms have accelerated the development of both personalized and off-the-shelf neoantigen vaccines. Although personalized neoantigen vaccines have gained considerable attention following the success of mRNA-based COVID-19 vaccines, off-the-shelf approaches offer advantages in scalability, cost, and manufacturing timelines, facilitating broader clinical implementation. Accumulating preclinical and clinical evidence suggests that cancer vaccines are more effective in the adjuvant setting than in the metastatic setting, where high tumor burden and an immunosuppressive tumor microenvironment constrain vaccine-induced immune responses. Consistent with their limited efficacy as monotherapy, contemporary clinical trials increasingly evaluate cancer vaccines in combination with ICIs or other immunotherapeutic agents to enhance T-cell activation, reverse immune suppression, and restore antitumor immunity. This review synthesizes current mechanistic insights, highlights ongoing clinical efforts, and discusses future directions for rational cancer vaccine development in lung cancer, with an emphasis on overcoming resistance to ICI.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41634728/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:41634728",
+      "doi:10.1186/s13045-026-01778-7"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "41577418",
+    "doi": "10.1016/j.aca.2026.345080",
+    "pmcid": "",
+    "title": "Rapid and one-pot detection of nucleic acids within mRNA vaccines based on a dual amplification strategy with PER-CSD.",
+    "authors": "Yin F, He M, Pan H et al.",
+    "journal": "Anal Chim Acta",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "abstract": "BACKGROUND: mRNA vaccines have emerged as a promising and innovative approach in cancer immunotherapy, offering high selectivity, rapid development, and the potential for personalized treatment. Analyzing the concentration of mRNA molecules in serum and urine samples enables researchers to assess stability, delivery efficiency, and potential degradation, all of which impact therapeutic efficacy and safety. Traditional detection methods are associated with challenges, including operational complexity and time consumption. Therefore, it is of great significance to establish a rapid, reliable, and easy-to-operate detection strategy.\nRESULTS: In this research, we have established a novel analytical platform based on primer exchange reaction (PER) and catalytic strand displacement (CSD), enabling one-pot and rapid detection of mRNA vaccines for non-small cell lung cancer (NSCLC). Specifically, the target can activate the upstream PER, which features a fully enclosed dumbbell-shaped hairpin structure, bringing about the generation of substantial trigger molecules. Thereafter, the trigger binds to the exposed toehold domain of the probe, which is modified with fluorescent groups, initiating the CSD process and producing a prominent fluorescence signal. In this system, triggers can be recycled to enable a secondary stage of signal amplification. In addition, this strategy performs dual signal amplification for sensitive detection in an isothermal, rapid, and one-pot way.\nSIGNIFICANCE: Ultimately, this research innovatively established a fluorescence biosensor based on primer exchange reaction and catalytic strand displacement, achieving dual signal amplification for rapid, one-pot, and isothermal detection. The fully enclosed dumbbell-shaped hairpin structure facilitates enhanced stability and reduced background noise. These advancements have created a convenient and user-friendly platform for the in vitro detection of nucleic acids within mRNA vaccines and may inspire scalable detection platforms for other mRNA treatments.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41577418/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:41577418",
+      "doi:10.1016/j.aca.2026.345080"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "41500407",
+    "doi": "10.1016/j.jconrel.2026.114601",
+    "pmcid": "",
+    "title": "An inhalable liquid-core lipid nanoplatform enables macrophage-mediated mRNA delivery to lung tumors.",
+    "authors": "Liu C, Zhang Z, Yuan Y et al.",
+    "journal": "J Control Release",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "abstract": "Immunotherapeutic failures in non-small cell lung cancer (NSCLC) and other solid tumors are often attributed to tumor-induced T cell dysfunction. However, current treatments frequently fail to initiate a complete cancer-immunity cycle within the immunosuppressive tumor microenvironment (TME). Inspired by intercellular RNA transfer mediated by extracellular vesicles (EVs), we developed an inhalable nanoplatform (p53 mRNA/lipid liquid nanoparticle complex, known as LLX) to \"relay\" delivery of p53 mRNA from tumor-associated macrophages (TAMs) to NSCLC cells, overcoming the challenges posed by passive diffusion and size limitations within the solid TME. After inhalation in a lung orthotopic tumor model, LLX uniformly dispersed throughout the lung airways and markedly boosted LLX-EV production by TAMs. This in vivo strategy of generating endogenous EVs loaded with exogenous mRNA not only induced p53-mediated apoptosis in NSCLC cells but also fundamentally reshaped the TME by directly modulating the TAM phenotype and alleviating T cell exhaustion. Our results show that p53 mRNA/LLX resulted in sustained tumor regression, underscoring its potential to expand the therapeutic scope of gene immunotherapy by effectively tackling key challenges in solid tumor treatment, such as immunosuppression and the limited transfection efficiency of mRNA.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41500407/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:41500407",
+      "doi:10.1016/j.jconrel.2026.114601"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "41479562",
+    "doi": "10.32607/actanaturae.27707",
+    "pmcid": "PMC12755870",
+    "title": "mRNA-Based Personalized Cancer Vaccines: Opportunities, Challenges and Outcomes.",
+    "authors": "Ibragimova AA, Fedorov AA, Kirilenko KM et al.",
+    "journal": "Acta Naturae",
+    "year": "2025",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "mRNA-based cancer vaccines represent an innovative approach to cancer treatment. Cancer mRNA vaccines are structurally based on specific tumor antigens, a technique which enables the patient's immune system to become activated against cancer cells. Clinical trials of mRNA vaccines against various types of tumors, including melanoma, lung cancer, pancreatic carcinoma, breast cancer and others, are currently underway. Because of their favorable safety profile and adaptability, these therapeutics hold considerable promise in efforts to enhance cancer treatment efficacy and prolong patient life. This review outlines steps in the development of manufacturing technologies for mRNA-based therapeutics, describes the algorithm used to design personalized anti-tumor mRNA vaccines, discusses their practical implementation, and summarizes current clinical trials in cancer immunotherapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41479562/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:41479562",
+      "doi:10.32607/actanaturae.27707"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07652125",
+    "ct_event": "registered",
+    "title": "RGL-270 + ICI in Advanced NSCLC",
+    "status": "RECRUITING",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 40,
+    "sponsor": "Guangdong Association of Clinical Trials",
+    "conditions": [
+      "NSCLC"
+    ],
+    "interventions": [
+      "RGL-270 in Combination with PD-1/PD-L1 Inhibitors",
+      "Physician's Choice SOC"
+    ],
+    "summary": "This is a single-center, open-label, investigator-initiated clinical trial. It aims to evaluate the safety and tolerability of RGL-270 in combination with a PD-1/PD-L1 inhibitor, to assess immunogenicity, preliminary efficacy, and exploratory biomarkers and to observe the safety and effectiveness of PD-1/PD-L1 inhibitor monotherapy in advanced NSCLC subjects through a real-world observational cohort.",
+    "posted": "2026-06-16",
+    "url": "https://clinicaltrials.gov/study/NCT07652125",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "nct:NCT07652125"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07729241",
+    "ct_event": "registered",
+    "title": "COVICI-SURV: COVID-19 Vaccination Around ICI Start and Survival",
+    "status": "COMPLETED",
+    "phases": [],
+    "enrollment": 95015,
+    "sponsor": "Groupe Hospitalier Pitie-Salpetriere",
+    "conditions": [
+      "Cancer",
+      "Immune Checkpoint Inhibitors",
+      "COVID-19 Vaccination",
+      "Survival"
+    ],
+    "interventions": [],
+    "summary": "COVICI-SURV is a nationwide, retrospective observational cohort study using the French national health data system (SNDS) to evaluate whether COVID-19 vaccination, particularly mRNA vaccination, received within 100 days before or after immune checkpoint inhibitor (ICI) initiation is associated with survival among adults with cancer. The cohort includes 95,015 adults initiating anti-PD-1, anti-PD-L1 or anti-CTLA-4 therapy between 28 December 2020 and 22 March 2023. Pre-ICI vaccination is analysed using inverse probability of treatment weighting, and post-ICI vaccination among patients without COVID-19 vaccination in the preceding 100 days is analysed using a cloning-censoring-weighting target-trial emulation. The primary outcome is all-cause mortality; secondary outcomes include cancer-specific mortality, non-COVID-19 mortality and real-world progression-free survival. Follow-up extends to 31 December 2024 for all-cause mortality and to 31 December 2023 for cause-specific mortality.",
+    "posted": "2026-07-27",
+    "url": "https://clinicaltrials.gov/study/NCT07729241",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "nct:NCT07729241"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07745790",
+    "ct_event": "registered",
+    "title": "Safety and Efficacy of Multimodal Thermal Therapy (MTT) Combined With KRAS G12V mRNA Vaccine, S-1, and Sintilimab in Patients With Metastatic Pancreatic Cancer",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 20,
+    "sponsor": "Ruijin Hospital",
+    "conditions": [
+      "Pancreatic Ductal Adenocarcinoma",
+      "Liver Neoplasms",
+      "Lung Neoplasms"
+    ],
+    "interventions": [
+      "Multimodal Thermal Therapy (MTT) System",
+      "KRAS G12V mRNA Vaccine",
+      "Sintilimab",
+      "S-1"
+    ],
+    "summary": "This is a single-arm, single-center, exploratory clinical study. A total of 20 participants with metastatic pancreatic ductal adenocarcinoma (with liver or lung metastasis) who have experienced disease progression after or are intolerant to standard first-line chemotherapy (based on the AG regimen \\[Albumin-bound Paclitaxel plus Gemcitabine\\]) will be enrolled.The study aims to evaluate the safety, efficacy, and underlying immunological mechanisms of Multimodal Thermal Therapy (MTT) combined with a KRAS G12V mRNA vaccine, S-1, and Sintilimab.",
+    "posted": "2026-08-04",
+    "url": "https://clinicaltrials.gov/study/NCT07745790",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "nct:NCT07745790"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07597070",
+    "ct_event": "registered",
+    "title": "Universal Immunization to Fortify Immunotherapy Efficacy and Response",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 500,
+    "sponsor": "University of Florida",
+    "conditions": [
+      "Stage 4 NSCLC"
+    ],
+    "interventions": [
+      "Pfizer-BioNTech mRNA COVID-19 vaccine"
+    ],
+    "summary": "Although immune checkpoint inhibitors (ICIs) have substantially extended survival in many patients, most patients do not achieve durable responses on these treatments. There is a substantial unmet need for methods to sensitize more patients to ICIs. Studies have shown that personalized mRNA lipid nanoparticle vaccines enhance antitumor immunity in combination with PD1 inhibition, under the assumption that these vaccines generate T cells reactive against the targets encoded by the mRNA in the vaccines. However, it was recently found that mRNA vaccines targeting non-tumor antigens are also powerful adjuvants to immune checkpoint blockade.\n\nRetrospective clinical data strongly suggests that receipt of COVID mRNA vaccines with ICIs is responsible for significant improvements in three-year overall survival in multiple large cohorts of patients with non-small cell lung cancer (NSCLC). Patients treated with these vaccines also have increased expression of programmed death ligand 1 (PD-L1) on their tumors.\n\nThis trial is designed to evaluate whether the Pfizer-BioNTech COVID mRNA vaccine improves responses to ICIs in patients with stage IV non-small cell lung cancer.",
+    "posted": "2026-05-19",
+    "url": "https://clinicaltrials.gov/study/NCT07597070",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "nct:NCT07597070"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT04872738",
+    "ct_event": "results",
+    "title": "Patient Experiences With the COVID-19 Vaccination After Breast Cancer Treatment",
+    "status": "COMPLETED",
+    "phases": [],
+    "enrollment": 714,
+    "sponsor": "Massachusetts General Hospital",
+    "conditions": [
+      "Breast Cancer Related Lymphedema",
+      "Covid19"
+    ],
+    "interventions": [
+      "Survey"
+    ],
+    "summary": "This study aims to elicit patient experiences, choices, and side effects associated with the COVID-19 vaccine after breast cancer surgery. Lymph node swelling is a known and common side effect of both the Moderna and Pfizer COVID-19 vaccines. This is the body's normal reaction to the vaccine. It is worrisome that lymph node swelling after the vaccine mimics that found in breast cancer which has spread to the lymph nodes. This side effect will cause worry and anxiety amongst patients as a result. For patients who have had lymph node removal (axillary lymph node dissection or sentinel lymph node biopsy) and are at risk of lymphedema, the investigators are concerned that the lymph node swelling may tax the lymphatic system and incite lymphedema in those at risk or worsen it in those with BCRL. Fear of lymphedema is high in this population and the investigators need to better understand what risk, if any, lymph node swelling after the COVID-19 vaccine imparts to BCRL risk.",
+    "posted": "2026-01-06",
+    "url": "https://clinicaltrials.gov/study/NCT04872738",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "nct-results:NCT04872738"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT05831787",
+    "ct_event": "results",
+    "title": "COVID19 OutcomeS in Myeloma and the Impact of VaCcines",
+    "status": "COMPLETED",
+    "phases": [],
+    "enrollment": 201,
+    "sponsor": "ASH Research Collaborative",
+    "conditions": [
+      "Multiple Myeloma"
+    ],
+    "interventions": [
+      "Patient Reported Outcomes"
+    ],
+    "summary": "The COVID-19 pandemic has had an outsized impact on individuals with underlying social and medical vulnerability, leading to increased rates of severe disease, hospitalization, and death in these groups. Participants with underlying immune compromise, such as those with multiple myeloma, represent one such group. The advent of vaccines against SARS-CoV-2 has significantly limited morbidity and mortality across all groups, but the effectiveness of vaccination in individuals who are less likely to mount sufficient antibody response is uncertain. For this reason, booster vaccines have been recommended for those with underlying immune compromise. However, several key gaps remain in our understanding of how to best protect these individuals.\n\nThere is a dearth of real-world evidence about the effectiveness of vaccination and boosters in patients who are immunocompromised, and very little information specifically about the recently approved mRNA boosters. Additionally, rates of vaccination and booster uptake in the United States remain low. A rapid, decentralized method of ascertaining information related to booster vaccine response and adverse events related to vaccines and COVID-19 infection is critical not only to answer questions about the booster vaccines, but to develop an infrastructure for answering similar questions about future vaccines or other diseases.",
+    "posted": "2026-05-18",
+    "url": "https://clinicaltrials.gov/study/NCT05831787",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "nct-results:NCT05831787"
+    ]
+  }
+]

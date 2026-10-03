@@ -1,0 +1,470 @@
+[
+  {
+    "source": "pubmed",
+    "pmid": "39586009",
+    "doi": "10.1021/jacs.4c14500",
+    "pmcid": "",
+    "title": "Crown-like Biodegradable Lipids Enable Lung-Selective mRNA Delivery and Dual-Modal Tumor Imaging In Vivo.",
+    "authors": "Chen Z, Yang Y, Qiu X et al.",
+    "journal": "J Am Chem Soc",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "abstract": "Systemic mRNA delivery to specific cell types remains a great challenge. We herein report a new class of crown-like biodegradable ionizable lipids (CBILs) for predictable lung-selective mRNA delivery by leveraging the metal coordination chemistry. Each CBIL contains an impressive crown-like amino core that coordinates with various metal ions such as Zn2+ and further regulates the in vivo organ-targeting behavior of lipid nanoparticles (LNPs). The representative CBIL (Zn-9C-SCC-10)-formulated LNPs could exclusively deliver mRNA to the lung after systemic administration. Notably, following intravenous administration of 0.2 mg kg-1 Cre mRNA, Zn-9C-SCC-10 LNPs enabled the highly efficient gene editing of all lung epithelial and endothelial cells up to 43 and 61%, respectively, outperforming the current state-of-the-art LNPs in lung epithelial cell delivery. Moreover, compared to DLin-MC3-DMA LNPs with the addition of cationic lipid (DOTAP), our approach yielded a 44.6-fold enhancement in pulmonary mRNA expression and significantly improved biosafety in vivo. Taking advantage of paramagnetic gadolinium ion, Gd-12C-SCC-10 LNPs allowed the potent mRNA delivery to cancer cells and successfully illuminated lung tumors by magnetic and bioluminescent dual-mode imaging, facilitating the early discovery and diagnosis of lung cancer. This work will open a new avenue to rationally design predictable LNPs, as well as address the major challenges of mRNA delivery to specific cells in the lung tissues for treating a wide variety of diseases.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39586009/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:39586009",
+      "doi:10.1021/jacs.4c14500"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "39354147",
+    "doi": "10.1038/s41565-024-01747-6",
+    "pmcid": "PMC12207990",
+    "title": "Combinatorial design of siloxane-incorporated lipid nanoparticles augments intracellular processing for tissue-specific mRNA therapeutic delivery.",
+    "authors": "Xue L, Zhao G, Gong N et al.",
+    "journal": "Nat Nanotechnol",
+    "year": "2025",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Systemic delivery of messenger RNA (mRNA) for tissue-specific targeting using lipid nanoparticles (LNPs) holds great therapeutic potential. Nevertheless, how the structural characteristics of ionizable lipids (lipidoids) impact their capability to target cells and organs remains unclear. Here we engineered a class of siloxane-based ionizable lipids with varying structures and formulated siloxane-incorporated LNPs (SiLNPs) to control in vivo mRNA delivery to the liver, lung and spleen in mice. The siloxane moieties enhance cellular internalization of mRNA-LNPs and improve their endosomal escape capacity, augmenting their mRNA delivery efficacy. Using organ-specific SiLNPs to deliver gene editing machinery, we achieve robust gene knockout in the liver of wild-type mice and in the lungs of both transgenic GFP and Lewis lung carcinoma (LLC) tumour-bearing mice. Moreover, we showed effective recovery from viral infection-induced lung damage by delivering angiogenic factors with lung-targeted Si5-N14 LNPs. We envision that our SiLNPs will aid in the clinical translation of mRNA therapeutics for next-generation tissue-specific protein replacement therapies, regenerative medicine and gene editing.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39354147/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:39354147",
+      "doi:10.1038/s41565-024-01747-6"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "39335671",
+    "doi": "10.3390/biomedicines12092158",
+    "pmcid": "PMC11429153",
+    "title": "Revolutionizing Cancer Treatment: Recent Advances in Immunotherapy.",
+    "authors": "Ghemrawi R, Abuamer L, Kremesh S et al.",
+    "journal": "Biomedicines",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Cancer immunotherapy has emerged as a transformative approach in oncology, utilizing the body's immune system to specifically target and destroy malignant cells. This review explores the scope and impact of various immunotherapeutic strategies, including monoclonal antibodies, chimeric antigen receptor (CAR)-T cell therapy, checkpoint inhibitors, cytokine therapy, and therapeutic vaccines. Monoclonal antibodies, such as Rituximab and Trastuzumab, have revolutionized treatment paradigms for lymphoma and breast cancer by offering targeted interventions that reduce off-target effects. CAR-T cell therapy presents a potentially curative option for refractory hematologic malignancies, although challenges remain in effectively treating solid tumors. Checkpoint inhibitors have redefined the management of cancers like melanoma and lung cancer; however, managing immune-related adverse events and ensuring durable responses are critical areas of focus. Cytokine therapy continues to play a vital role in modulating the immune response, with advancements in cytokine engineering improving specificity and reducing systemic toxicity. Therapeutic vaccines, particularly mRNA-based vaccines, represent a frontier in personalized cancer treatment, aiming to generate robust, long-lasting immune responses against tumor-specific antigens. Despite these advancements, the field faces significant challenges, including immune resistance, tumor heterogeneity, and the immunosuppressive tumor microenvironment. Future research should address these obstacles through emerging technologies, such as next-generation antibodies, Clustered Regularly Interspaced Short Palindromic Repeat (CRISPR)-based gene editing, and AI-driven drug discovery. By integrating these novel approaches, cancer immunotherapy holds the promise of offering more durable, less toxic, and highly personalized treatment options, ultimately improving patient outcomes and survival rates.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39335671/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:39335671",
+      "doi:10.3390/biomedicines12092158"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "39325256",
+    "doi": "10.1007/s10238-024-01436-7",
+    "pmcid": "PMC11427492",
+    "title": "Personalized neoantigen cancer vaccines: current progression, challenges and a bright future.",
+    "authors": "Wu DW, Jia SP, Xing SJ et al.",
+    "journal": "Clin Exp Med",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Tumor neoantigens possess specific immunogenicity and personalized therapeutic vaccines based on neoantigens which have shown promising results in some clinical trials, with broad application prospects. However, the field is developing rapidly and there are currently few relevant review articles. Summarizing and analyzing the status of global personalized neoantigen vaccine clinical trials will provide important data for all stakeholders in drug development. Based on the Trialtrove database, a retrospective analysis was conducted using trial quantity as a key indicator for neo-adjuvant and adjuvant therapy anti-PD-1/PD-L1 clinical trials initiated before the end of 2022. The time trend of newly initiated trials was investigated. The sponsor type, host country, treatment mode, combination strategy, tested drugs, and targeted cancer types of these trials were summarized. As of December 2022, a total of 199 trials were included in the analysis. Among these studies, Phase I studies were the most numerous (119, 59.8%), and Phase I studies have been the predominant study type since 2015. Peptide vaccines were the largest neoantigen vaccines type, accounting for 64.8% of all clinical trials. Based on peptide delivery platforms, the proportion of trials was highest for the DC system (32, 16.1%), followed by LNP (11, 5.5%), LPX (11, 5.5%), and viruses (7, 3.5%). Most vaccines were applied in trials as a monotherapy (133/199, 66.8%), meanwhile combining immunotherapeutic drugs was the most common form for combination therapy. In terms of indications, the largest number of trials involved three or more unspecified solid tumors (50/199, 25.1%), followed by non-small cell lung cancer (24/199, 12.1%) and pancreatic cancer (15/199, 7.5%). The clinical development of personalized neoantigen cancer vaccines is still in the early stage. A clear shift in delivery systems from peptides to DC and liposomal platforms, with the largest number of studies in Asia, collectively marks a new era in the field. The adjuvant or maintenance therapy, and the combination treatment with ICIs are becoming the important clinical development orientation. As research on tumor-immune interactions intensifies, the design, development, and application of neoantigen vaccines are bound to develop rapidly, which will bring a new revolution in the future cancer treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39325256/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:39325256",
+      "doi:10.1007/s10238-024-01436-7"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "38915714",
+    "doi": "10.1101/2024.06.11.598497",
+    "pmcid": "PMC11195133",
+    "title": "Synthesis of ionizable lipopolymers using split-Ugi reaction for pulmonary delivery of various size RNAs and gene editing.",
+    "authors": "Vlasova KY, Kerr A, Pennock ND et al.",
+    "journal": "bioRxiv",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ],
+    "abstract": "We present an efficient approach for synthesizing cationic poly(ethylene imine) derivatives using the multicomponent split-Ugi reaction to rapidly create a library of complex functional ionizable lipopolymers. We synthesized a diverse library of 155 polymers, formulated them into polyplexes to establish structure-activity relationships crucial for endosomal escape and efficient transfection. After discovering a lead structure, lipopolymer-lipid hybrid nanoparticles are introduced to preferentially deliver to and elicit effective mRNA transfection in lung endothelium and immune cells, including T cells with low in vivo toxicity. The lipopolymer-lipid hybrid nanoparticles showed 300-fold improvement in systemic mRNA delivery to the lung compared to in vivo -JetPEI ® . Lipopolymer-lipid hybrid nanoparticles demonstrated efficient delivery of mRNA-based therapeutics for treatment of two different disease models. Lewis Lung cancer progression was significantly delayed after treatment with loaded IL-12 mRNA in U155@lipids after repeated i.v. administration. Systemic delivery of human CFTR (hCFTR) mRNA resulted in production of functional form of CFTR protein in the lungs. The functionality of hCFTR protein was confirmed by restoration of CFTR- mediated chloride secretion in conductive airway epithelia in CFTR knockout mice after nasal instillation of hCFTR mRNA loaded U155@lipids. We further showed that, U155@lipids nanoparticles can deliver complex CRISPR-Cas9 based RNA cargo to the lung, achieving 5.6 ± 2.4 % gene editing in lung tissue. Moreover, we demonstrated successful PD-1 gene knockout of T cells in vivo . Our results highlight a versatile delivery platform for systemic delivering of mRNA of various sizes for gene therapy for a variety of therapeutics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38915714/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:38915714",
+      "doi:10.1101/2024.06.11.598497"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "38844699",
+    "doi": "10.1186/s41824-024-00196-7",
+    "pmcid": "PMC11156812",
+    "title": "Response to COVID-19 vaccination imaged by PD-L1 PET scanning.",
+    "authors": "MacManus MP, Akhurst T, Lewin SR et al.",
+    "journal": "EJNMMI Rep",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: During a phase 0 clinical trial of an investigational programmed cell death ligand-1 (PD-L1) PET tracer in patients with non-small cell lung cancer (NSCLC), three patients received booster doses of COVID-19 vaccines before PD-L1 imaging.\nMETHODS: Five patients underwent whole-body PET/CT imaging with a novel PD-L1 tracer, constructed by attaching 89Zr to the anti PD-L1 antibody durvalumab. Intramuscular (deltoid) booster doses of mRNA BNT162b2 COVID-19 mRNA vaccine were coincidentally given to three patients in the month before PD-L1 tracer injection.\nRESULTS: Two recently-vaccinated patients, in remission of NSCLC and receiving non-immunosuppressive cancer therapies (immunotherapy and tyrosine kinase inhibitor respectively), showed increasing PD-L1 tracer uptake in ipsilateral axillary lymph nodes. No asymmetric nodal uptake was seen in a third recently-vaccinated patient who was receiving immunosuppressive chemotherapy, or in two patients not recently-vaccinated.\nCONCLUSION: Immune response to mRNA BNT162b2 vaccination may involve regulation by PD-L1 positive immune cells in local draining lymph nodes in immunocompetent patients.\nTRIAL REGISTRATION: This trial was registered with the Australian New Zealand Clinical Trials Registry. Registration number ACTRN12621000171819. Date of Trial Registration 8/2/2021. Date of enrolment of 1st patient 11/4/2021. URL of trial registry record: https://www.australianclinicaltrials.gov.au/anzctr/trial/ACTRN12621000171819 .",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38844699/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:38844699",
+      "doi:10.1186/s41824-024-00196-7"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "38752363",
+    "doi": "10.1089/nat.2024.0010",
+    "pmcid": "PMC11250842",
+    "title": "Multiplexed In Vivo Screening Using Barcoded Aptamer Technology to Identify Oligonucleotide-Based Targeting Reagents.",
+    "authors": "Thomas BJ, Guldenpfennig C, Daniels MA et al.",
+    "journal": "Nucleic Acid Ther",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, N.I.H., Extramural"
+    ],
+    "abstract": "Recent FDA approvals of mRNA vaccines, short-interfering RNAs, and antisense oligonucleotides highlight the success of oligonucleotides as therapeutics. Aptamers are excellent affinity reagents that can selectively label protein biomarkers, but their clinical application has lagged. When formulating a given aptamer for in vivo use, molecular design details can determine biostability and biodistribution; therefore, extensive postselection manipulation is often required for each new design to identify clinically useful reagents harboring improved pharmacokinetic properties. Few methods are available to comprehensively screen such aptamers, especially in vivo, constituting a significant bottleneck in the field. In this study, we introduce barcoded aptamer technology (BApT) for multiplexed screening of predefined aptamer formulations in vitro and in vivo. We demonstrate this technology by simultaneously investigating 20 aptamer formulations, each harboring different molecular designs, for targeting Non-Small Cell Lung Cancer cells and tumors. Screening in vitro identified a 45 kDa bispecific formulation as the best cancer cell targeting reagent, whereas screening in vivo identified a 30 kDa monomeric formulation as the best tumor-specific targeting reagent. The multiplexed analysis pipeline also identified biodistribution phenotypes shared among formulations with similar molecular architectures. The BApT approach we describe here has the potential for broad application to fields where oligonucleotide-based targeting reagents are desired.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38752363/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:38752363",
+      "doi:10.1089/nat.2024.0010"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "38721587",
+    "doi": "10.1016/j.csbj.2024.04.056",
+    "pmcid": "PMC11076661",
+    "title": "Integrated immunogenomic analysis of single-cell and bulk profiling reveals novel tumor antigens and subtype-specific therapeutic agents in lung adenocarcinoma.",
+    "authors": "Tian S, Luo M, Liao X et al.",
+    "journal": "Comput Struct Biotechnol J",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: In recent years, mRNA-based vaccines with promising safety and functional characteristics have gained significant momentum in cancer immunotherapy. However, stable immunological molecular subtypes of lung adenocarcinoma (LUAD) and novel tumor antigens for LUAD mRNA vaccine development remain elusive. Therefore, a novel approach is urgently needed to identify suitable LUAD subtypes and potential tumor antigens.\nMETHODS: The Cancer Genome Atlas (TCGA), the Genotype Tissue Expression (GTEx), and Gene Expression Omnibus (GEO) databases were utilized to retrieve gene expression data. The LUAD Immunological Multi-Omics Classification (LIMOC) system was developed using seven machine learning (ML) algorithms by performing integrative immunogenomic analysis of single-cell and bulk tissue transcriptome profiling. Subsequently, a panel of approaches was applied to identify novel tumor antigens.\nRESULTS: First, the LIMOC system was construct to identify three subtypes: LIMOC1, LIMOC2, and LIMOC3. Second, we identified CHIT1, LILRA4, and MEP1A as novel tumor antigens in LUAD; these genes were up-regulated, amplified, and mutated, and showed a positive association with APC infiltration, making them promising candidates for designing mRNA vaccines. Notably, the LIMOC2 subtype had the worst prognosis and could benefit most from mRNA immunization. Furthermore, we performed a comprehensive in silico screening of approximately 2000 compounds and identified Sorafenib and Azacitidine as potential subtype-specific therapeutic agents.\nCONCLUSIONS: Overall, our study established a robust LIMOC system and identified CHIT1, LILRA4, and MEP1A as promising tumor antigen candidates for development of anti-LUAD mRNA vaccines, particularly for the LIMOC2 subtype.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38721587/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:38721587",
+      "doi:10.1016/j.csbj.2024.04.056"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "38675792",
+    "doi": "10.3390/vaccines12040409",
+    "pmcid": "PMC11054997",
+    "title": "Design and Characterization of a New Formulation for the Delivery of COVID-19-mRNA Vaccine to the Nasal Mucosa.",
+    "authors": "Altay Benetti A, Tan EYZ, Chang ZW et al.",
+    "journal": "Vaccines (Basel)",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Chitosan, a natural polysaccharide derived from chitin, possesses biocompatibility, biodegradability, and mucoadhesive characteristics, making it an attractive material for the delivery of mRNA payloads to the nasal mucosa and promoting their uptake by target cells such as epithelial and immune cells (e.g., dendritic cells and macrophages). In this project, we aimed at developing novel lipid-based nanoformulations for mRNA delivery to counteract the pandemic caused by SARS-CoV-2 virus. The formulations achieved a mRNA encapsulation efficiency of ~80.2% with chitosan-lipid nanoparticles, as measured by the RiboGreen assay. Furthermore, the evaluation of SARS-CoV-2 Spike (S) receptor-binding domain (RBD) expression via ELISA for our vaccine formulations showed transfection levels in human embryonic kidney cells (HEK 293), lung carcinoma cells (A549), and dendritic cells (DC 2.4) equal to 9.9 ± 0.1 ng/mL (174.7 ± 1.1 fold change from untreated cells (UT)), 7.0 ± 0.2 ng/mL (128.1 ± 4.9 fold change from UT), and 0.9 ± 0.0 ng/mL (18.0 ± 0.1 fold change from UT), respectively. Our most promising vaccine formulation was also demonstrated to be amenable to lyophilization with minimal degradation of loaded mRNA, paving the way towards a more accessible and stable vaccine. Preliminary in vivo studies in mice were performed to assess the systemic and local immune responses. Nasal bronchoalveolar lavage fluid (BALF) wash showed that utilizing the optimized formulation resulted in local antibody concentrations and did not trigger any systemic antibody response. However, if further improved and developed, it could potentially contribute to the management of COVID-19 through nasopharyngeal immunization strategies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38675792/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:38675792",
+      "doi:10.3390/vaccines12040409"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "38657273",
+    "doi": "10.1002/adma.202400307",
+    "pmcid": "",
+    "title": "Tumor-Tailored Ionizable Lipid Nanoparticles Facilitate IL-12 Circular RNA Delivery for Enhanced Lung Cancer Immunotherapy.",
+    "authors": "Xu S, Xu Y, Solek NC et al.",
+    "journal": "Adv Mater",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "abstract": "The advancement of message RNA (mRNA) -based immunotherapies for cancer is highly dependent on the effective delivery of RNA (Ribonucleic) payloads using ionizable lipid nanoparticles (LNPs). However, the clinical application of these therapies is hindered by variable mRNA expression among different cancer types and the risk of systemic toxicity. The transient expression profile of mRNA further complicates this issue, necessitating frequent dosing and thus increasing the potential for adverse effects. Addressing these challenges, a high-throughput combinatorial method is utilized to synthesize and screen LNPs that efficiently deliver circular RNA (circRNA) to lung tumors. The lead LNP, H1L1A1B3, demonstrates a fourfold increase in circRNA transfection efficiency in lung cancer cells over ALC-0315, the industry-standard LNPs, while providing potent immune activation. A single intratumoral injection of H1L1A1B3 LNPs, loaded with circRNA encoding interleukin-12 (IL-12), induces a robust immune response in a Lewis lung carcinoma model, leading to marked tumor regression. Immunological profiling of treated tumors reveals substantial increments in CD45+ leukocytes and enhances infiltration of CD8+ T cells, underscoring the ability of H1L1A1B3 LNPs to modulate the tumor microenvironment favorably. These results highlight the potential of tailored LNP platforms to advance RNA drug delivery for cancer therapy, broadening the prospects for RNA immunotherapeutics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38657273/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:38657273",
+      "doi:10.1002/adma.202400307"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "38641048",
+    "doi": "10.1016/j.lfs.2024.122652",
+    "pmcid": "",
+    "title": "Lung cancer vaccination from concept to reality: A critical review of clinical trials and latest advances.",
+    "authors": "Sanaei MJ, Pourbagheri-Sigaroodi A, Rezvani A et al.",
+    "journal": "Life Sci",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Lung cancer is a highly lethal malignancy that poses a significant burden on public health worldwide. There have been numerous therapeutic approaches, among which cancer vaccines have emerged as a promising approach to harnessing the patient's immune system to induce long-lasting anti-tumor immunity. The current study aims to provide an overview of cancer vaccination in the context of lung cancer to establish a clearer landscape for lung cancer treatment. To provide a comprehensive review, we not only gathered the published studies of lung cancer vaccination and discussed their effectiveness and safety profile but also analyzed all the relevant clinical trials registered on www.clinicaltrials.gov until March 2024. We demonstrated all utilized vaccine platforms along with having a glance at novel technologies such as mRNA vaccines. The present review discussed the challenges and shortcomings of lung cancer vaccination, as well as the way they could be managed to pave the way for reaching the most optimized vaccine formulation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38641048/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:38641048",
+      "doi:10.1016/j.lfs.2024.122652"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "38465978",
+    "doi": "10.1097/RLU.0000000000005150",
+    "pmcid": "",
+    "title": "Widespread Reactive Lymphatic and Splenic FDG Avidity After mRNA COVID Vaccination.",
+    "authors": "Kavanaugh M, Shah HJ",
+    "journal": "Clin Nucl Med",
+    "year": "2024",
+    "pub_types": [
+      "Case Reports",
+      "Journal Article"
+    ],
+    "abstract": "A 75-year-old woman with history of metastatic lung adenocarcinoma in remission develops new widespread FDG-avid lymphadenopathy in the neck, chest, abdomen, and pelvis on surveillance PET/CT, as well as intense FDG uptake in the spleen, without evidence of local recurrence. Short-term follow-up PET demonstrates near-complete resolution of FDG-avid lymphatic and splenic FDG avidity without interval change in management. Further history reveals that the patient received her fifth dose of COVID mRNA vaccine 6 days before the abnormal PET. Although unilateral axillary adenopathy after COVID vaccination is well-recognized, this widespread symmetric lymphatic and splenic FDG avidity is a significantly rarer phenomenon.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38465978/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:38465978",
+      "doi:10.1097/rlu.0000000000005150"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "38450656",
+    "doi": "10.1021/acsnano.3c13039",
+    "pmcid": "",
+    "title": "Antiangiogenic Therapeutic mRNA Delivery Using Lung-Selective Polymeric Nanomedicine for Lung Cancer Treatment.",
+    "authors": "Le ND, Nguyen BL, Patil BR et al.",
+    "journal": "ACS Nano",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "abstract": "Therapeutic antibodies that block vascular endothelial growth factor (VEGF) show clinical benefits in treating nonsmall cell lung cancers (NSCLCs) by inhibiting tumor angiogenesis. Nonetheless, the therapeutic effects of systemically administered anti-VEGF antibodies are often hindered in NSCLCs because of their limited distribution in the lungs and their adverse effects on normal tissues. These challenges can be overcome by delivering therapeutic antibodies in their mRNA form to lung endothelial cells, a primary target of VEGF-mediated pulmonary angiogenesis, to suppress the NSCLCs. In this study, we synthesized derivatives of poly(β-amino esters) (PBAEs) and prepared nanoparticles to encapsulate the synthetic mRNA encoding bevacizumab, an anti-VEGF antibody used in the clinic. Optimization of nanoparticle formulations resulted in a selective lung transfection after intravenous administration. Notably, the optimized PBAE nanoparticles were distributed in lung endothelial cells, resulting in the secretion of bevacizumab. We analyzed the protein corona on the lung- and spleen-targeting nanoparticles using proteomics and found distinctive features potentially contributing to their organ-selectivity. Lastly, bevacizumab mRNA delivered by the lung-targeting PBAE nanoparticles more significantly inhibited tumor proliferation and angiogenesis than recombinant bevacizumab protein in orthotopic NSCLC mouse models, supporting the therapeutic potential of bevacizumab mRNA therapy and its selective delivery through lung-targeting nanoparticles. Our proof-of-principle results highlight the clinical benefits of nanoparticle-mediated mRNA therapy in anticancer antibody treatment in preclinical models.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38450656/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:38450656",
+      "doi:10.1021/acsnano.3c13039"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "38331967",
+    "doi": "10.1038/s41598-024-53622-y",
+    "pmcid": "PMC10853282",
+    "title": "Discovery of lung adenocarcinoma tumor antigens and ferroptosis subtypes for developing mRNA vaccines.",
+    "authors": "Chen Y, Zhang C, Li Y et al.",
+    "journal": "Sci Rep",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "mRNA vaccines are becoming a feasible alternative for treating cancer. To develop mRNA vaccines against LUAD, potential antigens were identified and LUAD ferroptosis subtypes distinguished for selecting appropriate patients. The genome expression omnibus, cancer genome atlas (TCGA) and FerrDB were used to collect gene expression profiles, clinical information, and the genes involved in ferroptosis, respectively. cBioPortal was used to visualize and compare genetic alterations, GEPIA2 to calculate prognostic factors of the selected antigens, and TIMER to visualize the relationship between potential antigens and tumor immune cell infiltration. Consensus clustering analysis was utilized to identify ferroptosis subtypes and their prognostic value assessed by Log-rank and cox regression tests. The modules of ferroptosis-related gene screening were conducted by weight gene co-expression network analysis. The LUAD ferroptosis landscape was visualized through dimensionality reduction and graph learning. Six tumor antigens had obvious LUAD-mutations, positively correlated with different antigen-presenting cells, and might induce tumor cell ferroptosis. LUAD patients were stratified into three ferroptosis subtypes (FS1, FS2, and FS3) according to diverse molecular, cellular, and clinical characteristics. FS3 showed the highest tumor mutation burden and the most somatic mutations, deemed potential indicators of mRNA vaccine effectiveness. Moreover, different ferroptosis subtypes expressed distinct immune checkpoints and immunogenic cell death modulators. AGPS, NRAS, MTDH, PANX1, NOX4, and PPARD are potentially suitable for mRNA vaccinations against LUAD, specifically in patients with FS3 tumors. This study defines vaccination candidates and establishes a theoretical basis for LUAD mRNA vaccinations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38331967/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:38331967",
+      "doi:10.1038/s41598-024-53622-y"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "38280084",
+    "doi": "10.1007/s00262-023-03598-x",
+    "pmcid": "PMC10821847",
+    "title": "Personalized neoantigen vaccine enhances the therapeutic efficacy of bevacizumab and anti-PD-1 antibody in advanced non-small cell lung cancer.",
+    "authors": "Lin X, Tang S, Guo Y et al.",
+    "journal": "Cancer Immunol Immunother",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Clinically, a considerable number of non-small cell lung cancer (NSCLC) patients are unable to receive or resist chemotherapy, and the efficacy of non-chemotherapy treatment strategies based on anti-angiogenic agents combined with immune checkpoint blockade is still unsatisfactory. Neoantigen vaccine, based on personalized tumor DNA mutations, could elicit tumor specific T cell infiltration into the tumor site, exerting potent anti-tumor efficacy. Here, we evaluated the feasibility and safety of a new antitumor strategy by adding neoantigen vaccine to the regimen of bevacizumab and anti-PD-1 antibody. Firstly, 7 novel immunogenic neoantigen peptides were identified and developed for neoantigen vaccine (LLCvac), which can elicit strong antitumor immune response in vivo. Then, in orthotopic lung cancer model, LLCvac further combining with bevacizumab and anti-PD-1 antibody exerted a stronger antitumor effect, exhibiting significant decrease of tumor volume without obvious toxicity. Furthermore, tumor immune microenvironment assessment also showed that the proportion of neoantigen-specific T cells in blood could be induced dramatically by the combined therapy. And a large amount of neoantigen-specific Ki67-positive CD8+ T cells were found in tumor tissues, which infiltrated tumor tissues effectively to kill tumor cells expressing identified neoantigens. Overall, these results suggested that this combined therapy could safely induce robust antitumor efficacy, serving as an effective chemotherapy-free strategy for NSCLC treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38280084/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:38280084",
+      "doi:10.1007/s00262-023-03598-x"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "38177076",
+    "doi": "10.1136/jitc-2023-007922",
+    "pmcid": "PMC10773442",
+    "title": "mRNA vaccines against SARS-CoV-2 induce divergent antigen-specific T-cell responses in patients with lung cancer.",
+    "authors": "Song NJ, Chakravarthy KB, Jeon H et al.",
+    "journal": "J Immunother Cancer",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ],
+    "abstract": "BACKGROUND: The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant is highly transmissible and evades pre-established immunity. Messenger RNA (mRNA) vaccination against ancestral strain spike protein can induce intact T-cell immunity against the Omicron variant, but efficacy of booster vaccination in patients with late-stage lung cancer on immune-modulating agents including anti-programmed cell death protein 1(PD-1)/programmed death-ligand 1 (PD-L1) has not yet been elucidated.\nMETHODS: We assessed T-cell responses using a modified activation-induced marker assay, coupled with high-dimension flow cytometry analyses. Peripheral blood mononuclear cells (PBMCs) were stimulated with various viral peptides and antigen-specific T-cell responses were evaluated using flow cytometry.\nRESULTS: Booster vaccines induced CD8+ T-cell response against the ancestral SARS-CoV-2 strain and Omicron variant in both non-cancer subjects and patients with lung cancer, but only a marginal induction was detected for CD4+ T cells. Importantly, antigen-specific T cells from patients with lung cancer showed distinct subpopulation dynamics with varying degrees of differentiation compared with non-cancer subjects, with evidence of dysfunction. Notably, female-biased T-cell responses were observed.\nCONCLUSION: We conclude that patients with lung cancer on immunotherapy show a substantial qualitative deviation from non-cancer subjects in their T-cell response to mRNA vaccines, highlighting the need for heightened protective measures for patients with cancer to minimize the risk of breakthrough infection with the Omicron and other future variants.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38177076/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:38177076",
+      "doi:10.1136/jitc-2023-007922"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "38166691",
+    "doi": "10.1186/s12885-023-11757-7",
+    "pmcid": "PMC10763439",
+    "title": "Screening of novel tumor-associated antigens for lung adenocarcinoma mRNA vaccine development based on pyroptosis phenotype genes.",
+    "authors": "Zhou F, Wang M, Wang Z et al.",
+    "journal": "BMC Cancer",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "This study aimed to identify new pyroptosis-associated tumor antigens for use in mRNA vaccines and the screening of sensitive LUAD populations suitable for vaccination. The association between tumor immune infiltrating cell abundance and potential tumor antigens was investigated and visualized using the analysis modules of gene expression, clinical outcomes, and somatic copy number variation. In addition, the pyroptosis-related genes (PRGs) were clustered, the relative pyroptosis subtypes (PSs) and gene modules were identified, and the prognostic value of the PSs was examined. The expression of key PRGs in two lung adenocarcinoma cell lines was verified by RT-qPCR. Four tumor pyroptosis-associated antigens, CARD8, NAIP, NLRP1, and NLRP3, were screened as potential candidates for LUAD mRNA vaccine development. In the construction of consensus clusters for PRGs, two PSs, PS1 and PS2, were classified, in which patients with PS1 LUAD had a better prognosis. In contrast, patients with PS2 LUAD may have better responsiveness to mRNA vaccine treatment. The key PRGs can be regarded as biomarkers to predict the LUAD prognosis and identify patients suitable for mRNA vaccines. The RT-qPCR results showed that the expression levels of CSMD3, LRP1B, MUC16 and TTN were significantly increased in the two lung adenocarcinoma cell lines, while the expression levels of CARD8, TP53 and ZFHX4 were significantly reduced. The antigens CARD8, NAIP, NLRP1, and NLRP3, which are associated with tumor pyroptosis, could be candidate molecules for LUAD mRNA vaccine development. Patients with PS2 LUAD may be suitable candidates for mRNA vaccine treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38166691/",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "pmid:38166691",
+      "doi:10.1186/s12885-023-11757-7"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT06735508",
+    "ct_event": "registered",
+    "title": "MRNA Neoantigen Vaccine in Non-Small Cell Lung Cancer",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [
+      "EARLY_PHASE1"
+    ],
+    "enrollment": 40,
+    "sponsor": "Guangdong Provincial People's Hospital",
+    "conditions": [
+      "NSCLC"
+    ],
+    "interventions": [
+      "mRNA Neoantigen Vaccine",
+      "Adebrelimab"
+    ],
+    "summary": "Brief Summary: This study is an open, prospective, exploratory clinical trial designed to evaluate the safety,ability, immunogenicity, and preliminary efficacy of a personalized neoantigen mRNA vaccine in combination with adebelimab as adjuvant treatment for patients with non-small cell lung cancer (NSCLC).\n\nThe primary objectives of this study are to answer the following key questions:\n\n1. The incidence of dose-limiting toxicities (DLTs) during the designated observation period.\n2. The incidence and severity of adverse events (AEs) and serious adverse events (SAEs).\n3. The determination of the maximum tolerated dose (MTD) or maximum administered dose (MAD).",
+    "posted": "2024-12-16",
+    "url": "https://clinicaltrials.gov/study/NCT06735508",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "nct:NCT06735508"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT06685653",
+    "ct_event": "registered",
+    "title": "Personalized Neoantigen MRNA Vaccine Combined with Adebrelimab in Non-Small Cell Lung Cancer Patients",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [
+      "EARLY_PHASE1"
+    ],
+    "enrollment": 65,
+    "sponsor": "Nanjing Tianyinshan Hospital",
+    "conditions": [
+      "NSCLC"
+    ],
+    "interventions": [
+      "Adebrelimab+RGL-270",
+      "Adebrelimab+RGL-270/single RGL-270"
+    ],
+    "summary": "This is a phase IIT , it is an open-label study designed to evaluate the safety and tolerability of personalized mRNA tumor vaccine RGL-270 targeting tumor-specific neoantigens and Adebrelimab (a humanized PD-L1 monoclonal antibody) in patients with resectable NSCLC and those with NSCLC who have relapsed or metastasized after first-line standard therapy.",
+    "posted": "2024-11-12",
+    "url": "https://clinicaltrials.gov/study/NCT06685653",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "nct:NCT06685653"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT05016622",
+    "ct_event": "results",
+    "title": "Booster Dose Trial",
+    "status": "TERMINATED",
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 106,
+    "sponsor": "Montefiore Medical Center",
+    "conditions": [
+      "Cancer"
+    ],
+    "interventions": [
+      "BNT162b2 vaccine"
+    ],
+    "summary": "The goal of this study is to assess the safety and effectiveness of COVID vaccine booster doses in patients with cancer who have not developed an antibody after the U.S. Food and Drug Administration (FDA) Emergency Use Authorized COVID primary vaccination series.",
+    "posted": "2024-07-31",
+    "url": "https://clinicaltrials.gov/study/NCT05016622",
+    "searches": [
+      "lung-mrna"
+    ],
+    "keys": [
+      "nct-results:NCT05016622"
+    ]
+  }
+]
