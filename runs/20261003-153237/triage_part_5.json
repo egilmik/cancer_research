@@ -1,0 +1,782 @@
+{
+ "pmid:39537919": {
+  "relevance": "high",
+  "reason": "Phase I (NCT04196413 arm A), 13 enrolled/11 dosed: IV then intracerebroventricular GD2-CAR T in H3K27M+ DIPG/spinal DMG; primary endpoints feasibility/tolerability; small single-arm early-phase data."
+ },
+ "pmid:39533415": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39533264": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39533105": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39532433": {
+  "relevance": "medium",
+  "reason": "ICOS-CAR-T in TNBC, in vivo mouse models."
+ },
+ "pmid:39530593": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39524212": {
+  "relevance": "medium",
+  "reason": "HPV16 E6 TCR-mimic nanobody CAR-T, in vivo cervical cancer activity."
+ },
+ "pmid:39523444": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39523098": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39523093": {
+  "relevance": "medium",
+  "reason": "IL-21/CCL19 NKP30 CAR-T in lung cancer, preclinical with in vivo component."
+ },
+ "pmid:39521782": {
+  "relevance": "medium",
+  "reason": "Anti-EGFRvIII CAR-T plus CD47 blocker in GBM, in vivo."
+ },
+ "pmid:39518676": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39518043": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39516118": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39514948": {
+  "relevance": "medium",
+  "reason": "B7-H3 CAR-T in RCC, preclinical in vivo."
+ },
+ "pmid:39512765": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39512605": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39512355": {
+  "relevance": "medium",
+  "reason": "TGFb switch receptor/trap T cells, in vivo solid tumour model."
+ },
+ "pmid:39511890": {
+  "relevance": "medium",
+  "reason": "MSLN-CAR-T with PPI in brain metastasis model, in vivo."
+ },
+ "pmid:39506843": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39502703": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39501358": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39498846": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39498357": {
+  "relevance": "medium",
+  "reason": "PD-L1 CAR-T targeting tumour and suppressive cells, preclinical."
+ },
+ "pmid:39497707": {
+  "relevance": "medium",
+  "reason": "Hydrogel with METTL3 inhibitor plus CAR-NK in postsurgical CRC, in vivo."
+ },
+ "pmid:39497428": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39495525": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39493894": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39490997": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39490640": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39489212": {
+  "relevance": "medium",
+  "reason": "pHLIP surrogate antigen for universal CAR-T, in vivo."
+ },
+ "pmid:39487875": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39487859": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39484723": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39483965": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39483470": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39486594": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39485013": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39482120": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39478866": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39474340": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39472748": {
+  "relevance": "medium",
+  "reason": "synNotch CAR-T with ECM degradation in solid tumours, in vivo."
+ },
+ "pmid:39472498": {
+  "relevance": "medium",
+  "reason": "GPA33-targeted cellular therapy in CRC, in vivo."
+ },
+ "pmid:39468753": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39467936": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39467630": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39466110": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39466024": {
+  "relevance": "high",
+  "reason": "Phase I ROR1 CAR-T, 21 pts (3 CLL, 18 TNBC/NSCLC): well tolerated, 1 DLT; 1/18 solid-tumour partial response, poor tumour infiltration and CAR immunogenicity limited activity."
+ },
+ "pmid:39465481": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39460647": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39456909": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39455719": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39454410": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39453576": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39453574": {
+  "relevance": "medium",
+  "reason": "Dual-targeting CAR-T for KRAS-mutant PDAC, in vivo."
+ },
+ "pmid:39451213": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39450490": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39450161": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39450160": {
+  "relevance": "medium",
+  "reason": "CXCR5/IL-7 CAR-T in osteosarcoma, in vivo."
+ },
+ "pmid:39445844": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39445067": {
+  "relevance": "medium",
+  "reason": "CAR-T after low-dose radiotherapy, preclinical in vivo survival benefit."
+ },
+ "pmid:39443795": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39443641": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39441641": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39441479": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39441235": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39439803": {
+  "relevance": "medium",
+  "reason": "Analysis of 174 registered TCR-T trials (registry-level, no pooled outcomes)."
+ },
+ "pmid:39438476": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39433885": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39433427": {
+  "relevance": "medium",
+  "reason": "MSLN-CAR-T with microenvironment alkalization in TNBC, in vivo."
+ },
+ "pmid:39431011": {
+  "relevance": "medium",
+  "reason": "CD39 nanobody plus CAR-T in ovarian cancer, in vivo."
+ },
+ "pmid:39428649": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39426662": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39425546": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39423821": {
+  "relevance": "medium",
+  "reason": "NKG2A/C switch receptor T cells vs HLA-E+ GBM xenograft."
+ },
+ "pmid:39423512": {
+  "relevance": "medium",
+  "reason": "Self-activating MSLN CAR-NK blocking TGFb1 in pancreatic tumours, in vivo."
+ },
+ "pmid:39421021": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39420062": {
+  "relevance": "medium",
+  "reason": "De novo designed binder CAR-T (EGFR, CD276) in GBM models, in vivo."
+ },
+ "pmid:39418640": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39417976": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39417449": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39417304": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39415291": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39413693": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39409901": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39409881": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39408896": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39408696": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39407796": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39406935": {
+  "relevance": "medium",
+  "reason": "Transient oncofetal-CS CAR-T in solid tumours, in vivo."
+ },
+ "pmid:39404764": {
+  "relevance": "high",
+  "reason": "Regulatory decision: FDA accelerated approval (Aug 2024) of afami-cel, HLA-A*02-restricted MAGE-A4 TCR-T, for advanced synovial sarcoma; review article summarising development, not primary data."
+ },
+ "pmid:39404622": {
+  "relevance": "medium",
+  "reason": "Claudin 18.2 TAC T cells, preclinical in vivo."
+ },
+ "pmid:39403625": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39403527": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39402681": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39402668": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39400611": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39399500": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39399167": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39397869": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39396988": {
+  "relevance": "medium",
+  "reason": "Radiotherapy plus CAR-NK in HCC, in vivo."
+ },
+ "pmid:39392900": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39391254": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39390143": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39389490": {
+  "relevance": "medium",
+  "reason": "NKG2D CAR-T with nanogel for melanoma, in vivo intratumoural."
+ },
+ "pmid:39386578": {
+  "relevance": "medium",
+  "reason": "IL-6 and T-cell immunity in PDAC incl. CAR-T, mouse data (preprint)."
+ },
+ "pmid:39386211": {
+  "relevance": "medium",
+  "reason": "Phase I NCT03893019 CD20 CAR-T manufacturing in melanoma; product characterisation only, no clinical outcomes."
+ },
+ "pmid:39383607": {
+  "relevance": "medium",
+  "reason": "hPSC-derived Megf10/CD3z CAR-M, in vivo solid tumour data."
+ },
+ "pmid:39382819": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39382681": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39381633": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39380987": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39380917": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39379603": {
+  "relevance": "medium",
+  "reason": "SIRPa-silenced CAR-M in solid tumours, in vivo."
+ },
+ "pmid:39379249": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39377038": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39376988": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39376579": {
+  "relevance": "medium",
+  "reason": "SSTR2 peptide-guided adaptor CAR-T in NETs, in vivo."
+ },
+ "pmid:39373395": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39372944": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39371522": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39369212": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39368372": {
+  "relevance": "medium",
+  "reason": "Cabozantinib plus CAIX CAR-T in renal cancer, in vivo."
+ },
+ "pmid:39368275": {
+  "relevance": "medium",
+  "reason": "Triboelectric stimulation plus CAR-T in solid tumour models, preclinical."
+ },
+ "pmid:39367952": {
+  "relevance": "medium",
+  "reason": "Intracranial B7-H3 CAR-T/CAR-NK in patient-derived GBM xenograft."
+ },
+ "pmid:39366753": {
+  "relevance": "medium",
+  "reason": "GUCY2C CAR-T antigen-independent activation, in vivo GI tumour models."
+ },
+ "pmid:39366148": {
+  "relevance": "medium",
+  "reason": "Self-driving aFR CAR-NK (CXCL10) in ovarian cancer, in vivo."
+ },
+ "pmid:39367093": {
+  "relevance": "medium",
+  "reason": "E. coli-delivered IL18 mutein boosting CAR-NK, in vivo."
+ },
+ "pmid:39364863": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39364321": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39359850": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39358663": {
+  "relevance": "medium",
+  "reason": "EpCAM CAR-T with PD-1 blockade in lung cancer brain metastasis models, in vivo (negative result)."
+ },
+ "pmid:39353594": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:39352918": {
+  "relevance": "medium",
+  "reason": "PD1CD28 chimeric molecule on EGFRvIII CAR-T in GBM xenografts."
+ },
+ "pmid:39354225": {
+  "relevance": "medium",
+  "reason": "CAR-NKT vs CAR-T in immunocompetent mouse solid tumour models."
+ },
+ "nct:NCT06652243": {
+  "relevance": "high",
+  "reason": "New registration: GPC3-targeted off-the-shelf CAR-NK (SN301A) in advanced HCC; EARLY_PHASE1, planned n=12, sponsor Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, status RECRUITING."
+ },
+ "nct:NCT06478251": {
+  "relevance": "high",
+  "reason": "New registration: KRAS-mutant TCR-T (NW-301V/D) in advanced solid tumours; PHASE1, planned n=9, sponsor TingBo Liang, status RECRUITING."
+ },
+ "nct:NCT06484556": {
+  "relevance": "high",
+  "reason": "New registration: KRAS-mutant TCR-T (NW-301V/D) in advanced solid tumours; PHASE1, planned n=9, sponsor Tao Zhang, status RECRUITING."
+ },
+ "nct:NCT06248697": {
+  "relevance": "high",
+  "reason": "New registration: MSLN CAR-T secreting PD1/CTLA-4 nanobody in advanced solid tumours; EARLY_PHASE1, planned n=16, sponsor Shanghai Cell Therapy Group Co.,Ltd, status RECRUITING."
+ },
+ "nct:NCT06198296": {
+  "relevance": "high",
+  "reason": "New registration: IL-15/IL-21 armoured GPC3 CAR-T in GPC3+ paediatric/adult solid tumours (HCC, hepatoblastoma, sarcomas); PHASE1, planned n=21, sponsor Baylor College of Medicine, status RECRUITING."
+ },
+ "nct:NCT06484790": {
+  "relevance": "high",
+  "reason": "New registration: KRAS-mutant TCR-T (NW-301V/D) in advanced solid tumours; PHASE1, planned n=9, sponsor Ting Deng, status RECRUITING."
+ },
+ "nct:NCT06478693": {
+  "relevance": "high",
+  "reason": "New registration: MT-303 (GPC3-targeted myeloid cell therapy) alone or with atezolizumab/bevacizumab in HCC; PHASE1, planned n=70, sponsor Myeloid Therapeutics, status RECRUITING."
+ },
+ "nct:NCT06478459": {
+  "relevance": "high",
+  "reason": "New registration: EUS-guided intratumoural CAR-NK in unresectable pancreatic cancer; EARLY_PHASE1, planned n=20, sponsor Zhejiang University, status UNKNOWN."
+ },
+ "nct:NCT06218914": {
+  "relevance": "high",
+  "reason": "New registration: KRAS G12D TCR-T (NT-112, AZD0240) in NSCLC/CRC/PDAC/endometrial; PHASE1, planned n=108, sponsor AstraZeneca, status RECRUITING."
+ },
+ "nct:NCT06503497": {
+  "relevance": "high",
+  "reason": "New registration: NKG2D CAR-NK after second-line chemotherapy in pancreatic cancer; EARLY_PHASE1, planned n=30, sponsor Zhejiang University, status UNKNOWN."
+ },
+ "nct:NCT06617000": {
+  "relevance": "high",
+  "reason": "New registration: SCG101 TCR-T in HBV-related HCC; PHASE1, planned n=38, sponsor SCG Cell Therapy Pte. Ltd., status UNKNOWN."
+ },
+ "nct:NCT06221553": {
+  "relevance": "high",
+  "reason": "New registration: loco-regional B7-H3 CAR-T with IL-7Ra domain in DIPG; PHASE1, planned n=9, sponsor Chulalongkorn University, status RECRUITING."
+ },
+ "nct:NCT06372236": {
+  "relevance": "high",
+  "reason": "New registration: UTAA06 (B7-H3-targeted cell therapy) in advanced solid tumours; PHASE1, planned n=10, sponsor Peking University, status COMPLETED."
+ },
+ "nct:NCT06454890": {
+  "relevance": "high",
+  "reason": "New registration: Trop2 CAR-NK in relapsed/refractory NSCLC; PHASE1/PHASE2, planned n=50, sponsor Henan Cancer Hospital, status NOT_YET_RECRUITING."
+ },
+ "nct:NCT06660420": {
+  "relevance": "high",
+  "reason": "New registration: PRAME TCR-engineered NK cells in recurrent/refractory melanoma; PHASE1, planned n=39, sponsor M.D. Anderson Cancer Center, status RECRUITING."
+ },
+ "nct:NCT06690281": {
+  "relevance": "high",
+  "reason": "New registration: KRAS G12D/G12V or TP53 R175H TCR-transduced PBL adjuvant in GI cancers (withdrawn, 0 enrolled); PHASE2, planned n=0, sponsor National Cancer Institute (NCI), status WITHDRAWN."
+ },
+ "nct:NCT06646263": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT06515314": {
+  "relevance": "high",
+  "reason": "New registration: AFP-specific TCR-T (HRYZ-T102) in AFP+ HCC; PHASE1, planned n=12, sponsor Shanghai Ruiliyuan Biotechnology Co., Ltd., status RECRUITING."
+ },
+ "nct:NCT06480565": {
+  "relevance": "high",
+  "reason": "New registration: ADI-270 (allogeneic gamma-delta CAR, ccRCC) ; PHASE1/PHASE2, planned n=60, sponsor Adicet Therapeutics, status ACTIVE_NOT_RECRUITING."
+ },
+ "nct:NCT06562647": {
+  "relevance": "high",
+  "reason": "New registration: SY001 mesothelin-targeted cell therapy in advanced solid tumours (ovarian); NA, planned n=2, sponsor Cell Origin Biotech (Hangzhou) Co., Ltd., status RECRUITING."
+ },
+ "nct:NCT06500819": {
+  "relevance": "high",
+  "reason": "New registration: autologous B7-H3 CAR-T (IV) in paediatric neuroblastoma/sarcoma/osteosarcoma; PHASE1, planned n=41, sponsor Stanford University, status RECRUITING."
+ },
+ "nct:NCT06399419": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT06572956": {
+  "relevance": "high",
+  "reason": "New registration: CAR-T/CAR-NK in recurrent/refractory solid tumours (target unspecified); EARLY_PHASE1, planned n=10, sponsor The Second Hospital of Shandong University, status UNKNOWN."
+ },
+ "nct:NCT06505551": {
+  "relevance": "high",
+  "reason": "New registration: SCG142 TCR-T in HPV16/52+ carcinomas; PHASE1/PHASE2, planned n=66, sponsor SCG Cell Therapy Pte. Ltd., status NOT_YET_RECRUITING."
+ },
+ "nct:NCT06324240": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT06748872": {
+  "relevance": "high",
+  "reason": "New registration: MDG1015 TCR-T in ovarian, GEJ cancer and sarcomas; PHASE1, planned n=55, sponsor Medigene AG, status NOT_YET_RECRUITING."
+ },
+ "nct:NCT06619886": {
+  "relevance": "high",
+  "reason": "New registration: TP53 R248Q TCR-T in advanced solid tumours; EARLY_PHASE1, planned n=9, sponsor Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, status NOT_YET_RECRUITING."
+ },
+ "nct:NCT06305299": {
+  "relevance": "high",
+  "reason": "New registration: iC9-CAR.B7-H3 CAR-T in recurrent ovarian cancer; PHASE1, planned n=27, sponsor UNC Lineberger Comprehensive Cancer Center, status RECRUITING."
+ },
+ "nct:NCT06544720": {
+  "relevance": "high",
+  "reason": "New registration: SCG142 TCR-T in HPV-associated carcinomas; PHASE1, planned n=18, sponsor The Affiliated Hospital of Qingdao University, status RECRUITING."
+ },
+ "nct:NCT06487377": {
+  "relevance": "high",
+  "reason": "New registration: IX001 KRAS-mutant TCR-T in pancreatic/colorectal cancer (withdrawn, 0 enrolled); PHASE1, planned n=0, sponsor Shanghai Pudong Hospital, status WITHDRAWN."
+ },
+ "nct:NCT06224738": {
+  "relevance": "high",
+  "reason": "New registration: HER2 CAR-M in HER2+ gastric cancer with peritoneal metastases; EARLY_PHASE1, planned n=9, sponsor First People's Hospital of Hangzhou, status UNKNOWN."
+ },
+ "nct:NCT06358053": {
+  "relevance": "high",
+  "reason": "New registration: CRTE7A2-01 HPV16 E7 TCR-T in HPV16+ cancers; PHASE1, planned n=24, sponsor Corregene Biotechnology Co., Ltd, status NOT_YET_RECRUITING."
+ },
+ "nct:NCT06717022": {
+  "relevance": "high",
+  "reason": "New registration: CHT102 allogeneic mesothelin CAR-T in solid tumours; NA, planned n=24, sponsor Tianjin Medical University Cancer Institute and Hospital, status RECRUITING."
+ },
+ "nct:NCT06197178": {
+  "relevance": "high",
+  "reason": "New registration: LCAR-G08 GCC-targeted CAR-T in GI tumours (terminated); PHASE1, planned n=17, sponsor Peking University, status TERMINATED."
+ },
+ "nct:NCT06431100": {
+  "relevance": "high",
+  "reason": "New registration: TCR-T cells in gastric, oesophageal, cervical, NSCLC and TNBC (target unspecified); phase n/a, planned n=10, sponsor Beijing Geekgene Technology Co., LTD, status RECRUITING."
+ },
+ "nct:NCT06355908": {
+  "relevance": "high",
+  "reason": "New registration: IL13Ra2 CAR-T in recurrent/refractory glioma (suspended); PHASE1, planned n=30, sponsor Yang Zhang, status SUSPENDED."
+ },
+ "nct:NCT06254807": {
+  "relevance": "high",
+  "reason": "New registration: CT-0525 HER2 CAR-monocytes in HER2+ solid tumours; PHASE1, planned n=6, sponsor Carisma Therapeutics Inc, status UNKNOWN."
+ },
+ "nct:NCT06482905": {
+  "relevance": "high",
+  "reason": "New registration: TX103 B7-H3 CAR-T in recurrent grade 4 glioma; PHASE1, planned n=52, sponsor Tcelltech Inc., status RECRUITING."
+ },
+ "nct:NCT06739226": {
+  "relevance": "high",
+  "reason": "New registration: antigen-specific CAR-T, CTL and DC vaccine combination in melanoma; PHASE1/PHASE2, planned n=30, sponsor Shenzhen Geno-Immune Medical Institute, status NOT_YET_RECRUITING."
+ },
+ "nct:NCT06590246": {
+  "relevance": "high",
+  "reason": "New registration: C-CAR031 armoured GPC3 CAR-T in HCC; PHASE1/PHASE2, planned n=121, sponsor Shanghai AbelZeta Ltd., status RECRUITING."
+ },
+ "nct:NCT06676982": {
+  "relevance": "high",
+  "reason": "New registration: CD19 CAR-T (CNCT19) in advanced HCC; PHASE1, planned n=12, sponsor Zhejiang University, status RECRUITING."
+ },
+ "nct:NCT06612645": {
+  "relevance": "high",
+  "reason": "New registration: B7-H3/IL-7Ra CAR-T (CMD03) in paediatric solid tumours; PHASE1, planned n=9, sponsor Chulalongkorn University, status RECRUITING."
+ },
+ "nct:NCT06461624": {
+  "relevance": "high",
+  "reason": "New registration: GPC3 CAR-T (CBG166) in advanced HCC; PHASE1, planned n=15, sponsor Zhejiang University, status RECRUITING."
+ },
+ "nct:NCT06347068": {
+  "relevance": "high",
+  "reason": "New registration: iC9-CAR.B7-H3 CAR-T in TNBC; PHASE1, planned n=42, sponsor UNC Lineberger Comprehensive Cancer Center, status RECRUITING."
+ },
+ "nct:NCT06253520": {
+  "relevance": "high",
+  "reason": "New registration: KRAS-mutant TCR-T plus KRAS vaccine (GRT-C903/R904) in solid cancers; PHASE1, planned n=210, sponsor National Cancer Institute (NCI), status ACTIVE_NOT_RECRUITING."
+ },
+ "nct-results:NCT03354390": {
+  "relevance": "high",
+  "reason": "Results posted: Phase 1 HERV-E TCR-T in metastatic ccRCC (NHLBI), enrolment 17, status active not recruiting; outcome data not reviewed here from the registry record."
+ },
+ "nct-results:NCT02107755": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT06048705": {
+  "relevance": "high",
+  "reason": "Results posted: Phase 1 Adaptimmune GSK3901961 engineered TCR-T in synovial sarcoma/MRCLS, 7 enrolled, terminated."
+ },
+ "nct-results:NCT03146650": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT04526509": {
+  "relevance": "high",
+  "reason": "Results posted: Phase 1 Adaptimmune master protocol of next-gen NY-ESO-1/LAGE-1a TCR-T (GSK3901961, GSK3845097, GSK4427296), 12 enrolled, terminated."
+ },
+ "nct-results:NCT02027935": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT02519322": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT05100316": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT01326871": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT03648372": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT02506153": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT01625260": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT05943990": {
+  "relevance": "high",
+  "reason": "Results posted: Phase 1 Adaptimmune GSK3845097 TCR-T in synovial sarcoma/MRCLS, 5 enrolled, terminated."
+ },
+ "nct-results:NCT04396860": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT01950390": {
+  "relevance": "low",
+  "reason": ""
+ }
+}
