@@ -1,0 +1,800 @@
+# High-priority items by search
+
+## egfr-nsclc (252)
+
+- Induction and concurrent aumolertinib with radiotherapy for EGFR-mutated stage III NSCLC: results of phase III ADVANCE trial and real-world validation. — https://pubmed.ncbi.nlm.nih.gov/42764281/
+- Evaluation of MET Detection Methods and Cutoffs in EGFR-Mutated Non-small Cell Lung Cancer Following Disease Progression on Osimertinib in the phase II SAVANNAH study. — https://pubmed.ncbi.nlm.nih.gov/42752799/
+- Adjuvant Osimertinib in Resected EGFR-Mutated Stage IB-IIIA Non-Small Cell Lung Cancer: Exploratory 8-year Overall Survival Landmark Update from the ADAURA Trial [161/175]. — https://pubmed.ncbi.nlm.nih.gov/42732874/
+- Long-term safety of first-line osimertinib plus platinum-pemetrexed in EGFR-mutated advanced NSCLC: FLAURA2. — https://pubmed.ncbi.nlm.nih.gov/42728193/
+- Clinical utility of molecular residual disease detection in early-stage resected EGFR-mutated non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/42706268/
+- A Study to Assess Intravenous (IV) Telisotuzumab Adizutecan Compared to Standard of Care in Adult Participants Previously Treated, EGFR Wildtype, Locally Advanced/Metastatic Non-Squamous Non-Small Cell Lung Cancer — https://clinicaltrials.gov/study/NCT07821684
+- Adjuvant ctDNA-Adapted Treatment With Zipalertinib in Early-Stage Atypical EGFR-Mutant NSCLC — https://clinicaltrials.gov/study/NCT07802834
+- JIN-A02 Plus Amivantamab in EGFR-Mutant NSCLC After Third-Generation EGFR-TKI Failure — https://clinicaltrials.gov/study/NCT07798921
+- Consolidative Stereotactic Radiotherapy for Oligo-Residual Advanced EGFR-Mutant NSCLC After First-Line Third-Generation EGFR-TKI Plus Chemotherapy — https://clinicaltrials.gov/study/NCT07822984
+- Phase 1 Study of ATRA Plus a PD-1 Inhibitor in EGFR-Mutant NSCLC After Third-Generation EGFR-TKI Resistance — https://clinicaltrials.gov/study/NCT07842887
+- Perioperative Targeted Therapy in Resectable or Potentially Resectable Stage III Non-small Cell Lung Cancer With Rare Driver Mutations — https://clinicaltrials.gov/study/NCT07829744
+- Double Blind Placebo Controlled Controlled Study of Adjuvant MEDI4736 In Completely Resected NSCLC — https://clinicaltrials.gov/study/NCT02273375
+- Central Nervous System Activity of Lazertinib in EGFR-Mutated NSCLC With Prior EGFR TKI Exposure: A Pooled Analysis of KCSG-LU20-15 and LU21-01. — https://pubmed.ncbi.nlm.nih.gov/42670582/
+- Three-year adjuvant treatment of icotinib in stage II-IIIA EGFR-mutated lung adenocarcinoma (ICWIP): a randomized, double-blind, placebo-controlled phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/42660909/
+- Osimertinib plus anlotinib in untreated, EGFR-mutated, advanced non-small-cell lung cancer with concurrent alterations: a multicenter phase II study. — https://pubmed.ncbi.nlm.nih.gov/42658660/
+- Sutetinib for Patients with Non-Small Cell Lung Cancer Harboring Uncommon EGFR Mutations: A Multicenter, Open-Label, Phase IIb Trial. — https://pubmed.ncbi.nlm.nih.gov/42637134/
+- Ivonescimab plus chemotherapy versus placebo plus chemotherapy in patients with advanced EGFR-mutated non-small-cell lung cancer after disease progression on EGFR tyrosine kinase inhibitor therapy (HARMONi): a multicentre, randomised, double-blind, phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/42636833/
+- Andamertinib: First Approval. — https://pubmed.ncbi.nlm.nih.gov/42616343/
+- Therapeutic targeting of RAS-mediated resistance in oncogene-driven lung cancer. — https://pubmed.ncbi.nlm.nih.gov/42612796/
+- Mefatinib versus gefitinib as a first-line treatment for EGFR-mutated non-small cell lung cancer: a randomized, double-blind, multicenter phase III study. — https://pubmed.ncbi.nlm.nih.gov/42586967/
+- Osimertinib With or Without Chemotherapy in Advanced Non-Small Cell Lung Cancer With EGFR and Concurrent TP53 Mutations: A Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/42574006/
+- Impact of Genomic Subtype on Intracranial Outcomes in Treatment-naive EGFR mutant NSCLC with Osimertinib (IGnITE). — https://pubmed.ncbi.nlm.nih.gov/42520966/
+- Assessing time to symptomatic progression, a patient-relevant efficacy endpoint, in the MARIPOSA study in non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/42492306/
+- First-Line Sunvozertinib in NSCLC with EGFR Exon 20 Insertion Mutations. — https://pubmed.ncbi.nlm.nih.gov/42212913/
+- Compound EGFR Mutations Are Predominantly P-Loop and Alpha-C Helix Compressing Mutations With Increased Responsiveness to Second- Versus Third-Generation Tyrosine Kinase Inhibitors. — https://pubmed.ncbi.nlm.nih.gov/42191070/
+- Aumolertinib as adjuvant therapy in resected EGFR-mutated non-small-cell lung cancer (ARTS): a double-blind, multicentre, randomised, controlled, phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/41539318/
+- Osimertinib With or Without Primary Lung Tumor Resection for EGFR-Mutant Oligometastatic Non-Small Cell Lung Cancer — https://clinicaltrials.gov/study/NCT07738172
+- Pivotal Study to Evaluate YL202 Versus Docetaxel in Patients With Locally Advanced or Metastatic EGFR Sensitive Mutation Non-Squamous Non-Small Cell Lung Cancer — https://clinicaltrials.gov/study/NCT07416994
+- Study of Izalontamab Brengitecan (BMS-986507) in Combination With Osimertinib Versus Osimertinib Monotherapy or Osimertinib in Combination With Platinum-based Chemotherapy for EGFRmt Non-small Cell Lung Cancer (IZABRIGHT-Lung02) — https://clinicaltrials.gov/study/NCT07680790
+- A Study Comparing BL-B01D1 in Combination With Osimertinib Versus Osimertinib Alone in Patients With Locally Advanced, Unresectable EGFR-mutated Non-small Cell Lung Cancer(Stage III) Whose Disease Has Not Progressed Following Definitive Platinum-based Chemoradiation Therapy(PANKU-Lung08) — https://clinicaltrials.gov/study/NCT07640789
+- Phase III Study of HS-10504 Versus Platinum-Based Doublet Chemotherapy in Patients With C797S+ NSCLC — https://clinicaltrials.gov/study/NCT07754123
+- A Study of BL-B01D1 in Combination With Osimertinib as Perioperative Therapy in Patients With EGFR-mutated Resectable Non-small Cell Lung Cancer(PANKU-Lung09) — https://clinicaltrials.gov/study/NCT07642024
+- A Phase Ⅲ Clinical Study of SYS6010 in Combination With Osimertinib in Patients With Locally Advanced or Metastatic NSCLC — https://clinicaltrials.gov/study/NCT07376382
+- A Study of Osimertinib With or Without Chemotherapy Versus Chemotherapy Alone as Neoadjuvant Therapy for Patients With EGFRm Positive Resectable Non-Small Cell Lung Cancer — https://clinicaltrials.gov/study/NCT04351555
+- A Study to Evaluate Chemotherapy Plus Osimertinib Against Chemotherapy Plus Placebo in Patients With Non-small Cell Lung Cancer (NSCLC) — https://clinicaltrials.gov/study/NCT04765059
+- ABC-lung: Atezolizumab, Bevacizumab and Chemotherapy in EGFR-mutant Non-small Cell Lung Carcinoma — https://clinicaltrials.gov/study/NCT04245085
+- A Study of Lazertinib With Subcutaneous Amivantamab Compared With Intravenous Amivantamab in Participants With Epidermal Growth Factor Receptor (EGFR)-Mutated Advanced or Metastatic Non-small Cell Lung Cancer — https://clinicaltrials.gov/study/NCT05388669
+- A Study Evaluating Platinum-Pemetrexed-Atezolizumab (+/-Bevacizumab) for Patients With Stage IIIB/IV Non-squamous Non-small Cell Lung Cancer With EGFR Mutations, ALK Rearrangement or ROS1 Fusion Progressing After Targeted Therapies — https://clinicaltrials.gov/study/NCT04042558
+- Osimertinib Plus Savolitinib in EGFRm+/MET+ NSCLC Following Prior Osimertinib — https://clinicaltrials.gov/study/NCT03778229
+- Patient-Reported Outcomes in FLAURA2: Osimertinib with or without Chemotherapy in Patients with Previously Untreated EGFR-Mutated Advanced Non-Small Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/41801128/
+- Genomic Profiling of Epidermal Growth Factor Receptor Mutation-Positive Non-Small Cell Lung Cancer after Progression on First-line Osimertinib: Phase II ORCHARD Study. — https://pubmed.ncbi.nlm.nih.gov/41790029/
+- Upfront treatment with osimertinib in lung cancer patients with and without active brain metastases, and the role of ctDNA as a biomarker; a phase II clinical trial (the FIOL study). — https://pubmed.ncbi.nlm.nih.gov/41723914/
+- 2025 Taiwan guidelines on the drug therapy of lung cancer: Advanced non-squamous cell carcinoma with actionable oncogenic drivers. — https://pubmed.ncbi.nlm.nih.gov/41708470/
+- Overall survival for amivantamab plus lazertinib versus osimertinib as first-line treatment in Asian participants with EGFR-mutant advanced NSCLC: A MARIPOSA subset analysis. — https://pubmed.ncbi.nlm.nih.gov/41689889/
+- Prevention and management of amivantamab-induced dermatologic toxicities: a European expert consensus and practical algorithm. — https://pubmed.ncbi.nlm.nih.gov/41671631/
+- Patient-reported outcomes and time to symptomatic progression from PAPILLON: amivantamab plus chemotherapy vs chemotherapy as first-line treatment of EGFR exon 20 insertion-mutated advanced NSCLC. — https://pubmed.ncbi.nlm.nih.gov/41671629/
+- JIN-A02, a Mutant-Selective Fourth-Generation EGFR Inhibitor, Overcomes C797S-Mediated Resistance and Demonstrates Intracranial Activity in NSCLC. — https://pubmed.ncbi.nlm.nih.gov/41649868/
+- HBE-843, a Novel, Potent, and Selective EGFR Targeting PROTAC for the Treatment of Non-Small-Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/41635121/
+- First-line Aumolertinib (EGFR tyrosine kinase inhibitor) plus apatinib (VEGFR inhibitor) versus aumolertinib in EGFR-mutant non-small cell lung cancer patients: a randomized, multicenter, phase II trial. — https://pubmed.ncbi.nlm.nih.gov/41629265/
+- Lazertinib with stereotactic body radiotherapy in oligometastatic EGFR-mutant non-small-cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/41604814/
+- Double-dose firmonertinib as first-line treatment in patients with locally advanced or metastatic non-small-cell lung cancer harboring EGFR L858R mutation: a prospective, multicenter, phase II study (FIRM). — https://pubmed.ncbi.nlm.nih.gov/41554745/
+- Aumolertinib with carboplatin-pemetrexed versus aumolertinib for nonsmall cell lung cancer with EGFR and concomitant tumor suppressor genes (ACROSS2): An open-label, multicenter, randomized phase 3 study. — https://pubmed.ncbi.nlm.nih.gov/41818162/
+- Rezivertinib in EGFR-Mutated Non-Small Cell Lung Cancer Patients with Central Nervous System Metastasis: Central Nervous System Efficacy from the Phase III REZOR Study. — https://pubmed.ncbi.nlm.nih.gov/41924561/
+- Patient-Relevant Outcomes From the Phase III MARIPOSA-2 Trial: Amivantamab-Chemotherapy Versus Chemotherapy in EGFR-Mutant Advanced Non-Small-Cell Lung Cancer Following Disease Progression on Osimertinib. — https://pubmed.ncbi.nlm.nih.gov/41544603/
+- Osimertinib with or without savolitinib as first-line treatment for MET-aberrant, EGFR-mutant NSCLC: randomized phase 2 trial (FLOWERS). — https://pubmed.ncbi.nlm.nih.gov/41530133/
+- Comparative efficacy and safety of post-TKI treatments for advanced EGFR-mutant non-small-cell lung cancer: a systematic review and network meta-analysis. — https://pubmed.ncbi.nlm.nih.gov/41520595/
+- Atezolizumab Combined With Cisplatin Plus Vinorelbine as Adjuvant Therapy for Completely Resected NSCLC With EGFR Mutation (West Japan Oncology Group 11719L: ADJUST Study). — https://pubmed.ncbi.nlm.nih.gov/41953249/
+- Long‑term outcomes of prophylactic cranial irradiation in high‑risk metastatic NSCLC: Final PRoT‑BM analysis. — https://pubmed.ncbi.nlm.nih.gov/41831620/
+- Subcutaneous Delivery of Amivantamab in Patients With Advanced Solid Malignancies: The Phase Ib PALOMA Study. — https://pubmed.ncbi.nlm.nih.gov/41807198/
+- Phase II study of ramucirumab plus erlotinib for treatment-naïve patients with EGFR-mutant non-squamous non-small cell lung cancer and pleural effusion (RELAY-Effusion). — https://pubmed.ncbi.nlm.nih.gov/42096800/
+- Asia-Pacific practical consensus in the management of adverse events related to amivantamab-based therapies in non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/42048802/
+- Durvalumab Plus Chemotherapy in Patients With EGFR-Mutated Advanced NSCLC Whose Disease Progressed on First-Line Osimertinib: ORCHARD. — https://pubmed.ncbi.nlm.nih.gov/42039685/
+- Mechanisms of Acquired Resistance Following Dual EGFR/MET Inhibition in MET-Amplified EGFR TKI-Resistant Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/42008741/
+- Osimertinib after definitive CRT in unresectable stage III EGFR-mutated NSCLC: safety outcomes from the phase III LAURA study. — https://pubmed.ncbi.nlm.nih.gov/42296617/
+- Neoadjuvant sintilimab plus chemotherapy in EGFR-mutant non-small cell lung cancer (NEOTIDE/CTONG2104): phase II trial and correlative genomic analysis in China. — https://pubmed.ncbi.nlm.nih.gov/42256683/
+- Osimertinib plus selumetinib in patients with EGFR-mutated advanced NSCLC with BRAF alterations post-progression on first-line osimertinib: ORCHARD. — https://pubmed.ncbi.nlm.nih.gov/42202477/
+- Osimertinib plus Gefitinib in Patients with EGFR-Mutated Advanced Non-Small Cell Lung Cancer and EGFR (C797X) Mutation Following First-Line Osimertinib: ORCHARD. — https://pubmed.ncbi.nlm.nih.gov/42440354/
+- Durvalumab plus etoposide-platinum in patients with epidermal growth factor receptor (EGFR)-mutated advanced NSCLC and neuroendocrine transformation after first-line osimertinib: ORCHARD. — https://pubmed.ncbi.nlm.nih.gov/42361644/
+- Phase Ib of repotrectinib plus osimertinib in patients with EGFR-mutated advanced non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/42155306/
+- BCL-2/BCL-xL inhibitor pelcitoclax with osimertinib for EGFR-mutated advanced non-small-cell lung cancer: a phase 1b trial. — https://pubmed.ncbi.nlm.nih.gov/42442920/
+- High-dose furmonertinib as first-line treatment for untreated EGFR-mutated advanced NSCLC with central nervous system metastases: A phase 2 trial. — https://pubmed.ncbi.nlm.nih.gov/42379171/
+- Clinical Significance of EGFR Amplification in Patients with EGFR-Mutated Metastatic Non-Small Cell Lung Cancer Receiving First-line Osimertinib. — https://pubmed.ncbi.nlm.nih.gov/42446521/
+- Safety, Pharmacokinetics, and Efficacy of Asandeutertinib in Advanced EGFR-mutated NSCLC: A Phase 1 Dose-Escalation and Dose-Expansion Study. — https://pubmed.ncbi.nlm.nih.gov/39929334/
+- Rezivertinib versus gefitinib as first-line therapy for patients with EGFR-mutated locally advanced or metastatic non-small-cell lung cancer (REZOR): a multicentre, double-blind, randomised, phase 3 study. — https://pubmed.ncbi.nlm.nih.gov/39914443/
+- First-Line Mobocertinib Versus Platinum-Based Chemotherapy in Patients With EGFR Exon 20 Insertion-Positive Metastatic Non-Small Cell Lung Cancer in the Phase III EXCLAIM-2 Trial. — https://pubmed.ncbi.nlm.nih.gov/39879577/
+- Durvalumab, Tremelimumab, and Platinum Chemotherapy in EGFR Mutation-Positive NSCLC: An Open-Label Phase 2 Trial (ILLUMINATE). — https://pubmed.ncbi.nlm.nih.gov/39877028/
+- Preventing Infusion-Related Reactions With Intravenous Amivantamab-Results From SKIPPirr, a Phase 2 Study: A Brief Report. — https://pubmed.ncbi.nlm.nih.gov/39864547/
+- Neratinib Efficacy in Patients With EGFR Exon 18-Mutant Non-Small-Cell Lung Cancer: Findings From the SUMMIT Basket Trial. — https://pubmed.ncbi.nlm.nih.gov/39828466/
+- Results from a phase Ib study of telisotuzumab vedotin in combination with osimertinib in patients with c-Met protein-overexpressing, EGFR-mutated locally advanced/metastatic non-small-cell lung cancer (NSCLC) after progression on prior osimertinib. — https://pubmed.ncbi.nlm.nih.gov/39805351/
+- [Clinical Practice Guidelines for the Management of Brain Metastases from Non-small Cell Lung Cancer with Actionable Gene Alterations in China (2025 Edition)]. — https://pubmed.ncbi.nlm.nih.gov/39763097/
+- Datopotamab Deruxtecan in Advanced or Metastatic Non-Small Cell Lung Cancer With Actionable Genomic Alterations: Results From the Phase II TROPION-Lung05 Study. — https://pubmed.ncbi.nlm.nih.gov/39761483/
+- Consensus on the lung cancer management after third-generation EGFR-TKI resistance. — https://pubmed.ncbi.nlm.nih.gov/39759798/
+- Monitoring of Circulating Tumor DNA and Indication of De-Escalation Adjuvant Targeted Therapy for EGFR-Mutated NSCLC After Complete Resection. — https://pubmed.ncbi.nlm.nih.gov/39758595/
+- A phase II trial of anlotinib plus EGFR-TKIs in advanced non-small cell lung cancer with gradual, oligo, or potential progression after EGFR-TKIs treatment (CTONG-1803/ALTER-L001). — https://pubmed.ncbi.nlm.nih.gov/39757186/
+- Amivantamab Plus Lazertinib in Patients With EGFR-Mutant NSCLC After Progression on Osimertinib and Platinum-Based Chemotherapy: Results From CHRYSALIS-2 Cohort A. — https://pubmed.ncbi.nlm.nih.gov/39755170/
+- A Prospective Phase II Trial of First-Line Osimertinib for Patients With EGFR Mutation-Positive NSCLC and Poor Performance Status (OPEN/TORG2040). — https://pubmed.ncbi.nlm.nih.gov/39755169/
+- Neoadjuvant Aumolertinib for unresectable stage III EGFR-mutant non-small cell lung cancer: a single-arm phase II trial. — https://pubmed.ncbi.nlm.nih.gov/40169605/
+- Randomized Phase III Study of EGFR Tyrosine Kinase Inhibitor and Intercalated Platinum-Doublet Chemotherapy for Non-Small Cell Lung Cancer Harboring EGFR Mutation. — https://pubmed.ncbi.nlm.nih.gov/40162917/
+- Molecular residual disease analysis of adjuvant osimertinib in resected EGFR-mutated stage IB-IIIA non-small-cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/40097663/
+- Aumolertinib plus chemotherapy as first-line treatment for advanced NSCLC with EGFR exon 19 deletion or exon 21 L858R: a phase II trial. — https://pubmed.ncbi.nlm.nih.gov/40088185/
+- A randomised non-comparative phase II study of atezolizumab, bevacizumab and chemotherapy in EGFR-mutant NSCLC with acquired resistance - The ETOP 15-19 ABC-lung trial. — https://pubmed.ncbi.nlm.nih.gov/40023017/
+- Basal-shift transformation leads to EGFR therapy-resistance in human lung adenocarcinoma. — https://pubmed.ncbi.nlm.nih.gov/40350470/
+- Lazertinib for Patients with NSCLC Harboring Uncommon EGFR Mutations: A Phase II Multicenter Trial. — https://pubmed.ncbi.nlm.nih.gov/40350080/
+- Amivantamab plus lazertinib versus osimertinib as first-line treatment in EGFR-mutated advanced non-small cell lung cancer: MARIPOSA Asian subset. — https://pubmed.ncbi.nlm.nih.gov/40300278/
+- Pragmatic Randomized Study of Afatinib Versus Chemotherapy for Patients With Non-Small Cell Lung Cancer With Uncommon Epidermal Growth Factor Receptor Mutations: ACHILLES/TORG1834. — https://pubmed.ncbi.nlm.nih.gov/40239133/
+- Sacituzumab tirumotecan in advanced non-small-cell lung cancer with or without EGFR mutations: phase 1/2 and phase 2 trials. — https://pubmed.ncbi.nlm.nih.gov/40210967/
+- PMDA regulatory update on approval and revision of the precautions for use of anticancer drugs; approval of amivantamab plus lazertinib for non-small cell lung cancer, durvalumab for small cell lung cancer, tislelizumab for esophageal cancer, tisotumab vedotin for cervical cancer, ivosidenib for leukemia, and venetoclax for lymphoma in Japan. — https://pubmed.ncbi.nlm.nih.gov/40214878/
+- High-Dose Aumolertinib for Untreated EGFR-Variant Non-Small Cell Lung Cancer With Brain Metastases: The ACHIEVE Phase 2 Nonrandomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/40569623/
+- Management of Patients With Early-Stage Non-Small Cell Lung Cancer: An American College of Chest Physicians Clinical Practice Guideline. — https://pubmed.ncbi.nlm.nih.gov/40562304/
+- Targeting both wild-type EGFR and its drug-resistant mutants with erlotinib-aptamer conjugates. — https://pubmed.ncbi.nlm.nih.gov/40554308/
+- Efficacy and safety of limertinib versus gefitinib as first-line treatment for locally advanced or metastatic non-small-cell lung cancer with EGFR-sensitising mutation: a randomised, double-blind, double-dummy, phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/40550238/
+- Limertinib: First Approval. — https://pubmed.ncbi.nlm.nih.gov/40549097/
+- Targeting WEE1 to Overcome ARID1A Mutation-Driven Osimertinib Resistance in EGFR-Mutant Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/40518016/
+- A Pooled Analysis of Datopotamab Deruxtecan in Patients With EGFR-Mutated NSCLC. — https://pubmed.ncbi.nlm.nih.gov/40516821/
+- PMDA regulatory update on approval and revision of the precautions for use of anticancer drugs; approval of belantamab mafodotin for multiple myeloma, asciminib for leukemia, osimertinib for lung cancer, amivantamab for lung cancer, and pembrolizumab for pleural mesothelioma in Japan. — https://pubmed.ncbi.nlm.nih.gov/40481943/
+- Sacituzumab tirumotecan versus docetaxel for previously treated EGFR-mutated advanced non-small cell lung cancer: multicentre, open label, randomised controlled trial. — https://pubmed.ncbi.nlm.nih.gov/40473437/
+- HS-10375, a selective EGFR C797S tyrosine kinase inhibitor, in advanced non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/40468352/
+- Savolitinib plus osimertinib in epidermal growth factor receptor (EGFR)-mutated advanced non-small cell lung cancer with MET overexpression and/or amplification following disease progression on osimertinib: primary results from the phase II SAVANNAH study. — https://pubmed.ncbi.nlm.nih.gov/40461383/
+- Neoadjuvant Osimertinib for Resectable EGFR-Mutated Non-Small Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/40454705/
+- A trispecific antibody targeting EGFR/cMET/VEGF-A demonstrates multiple mechanisms of action to inhibit wild-type and mutant NSCLC animal models. — https://pubmed.ncbi.nlm.nih.gov/40452841/
+- Zipalertinib in Patients With Epidermal Growth Factor Receptor Exon 20 Insertion-Positive Non-Small Cell Lung Cancer Previously Treated With Platinum-Based Chemotherapy With or Without Amivantamab. — https://pubmed.ncbi.nlm.nih.gov/40450572/
+- A pomalidomide-based gefitinib PROTAC degrader effectively inhibits lung cancer progression in EGFR-TKIs-acquired resistant models by targeting EGFR degradation and ETFA-mediated ATP generation. — https://pubmed.ncbi.nlm.nih.gov/40815992/
+- Dacomitinib in the treatment of EGFR-mutated non-small cell lung cancer with brain metastases: an open-label, multicenter, phase II study. — https://pubmed.ncbi.nlm.nih.gov/40811939/
+- [Chinese Medical Association guideline for clinical diagnosis and treatment of lung cancer (2025 edition)]. — https://pubmed.ncbi.nlm.nih.gov/40796288/
+- [Chinese Medical Association guideline for clinical diagnosis and treatment of lung cancer (2025 edition)]. — https://pubmed.ncbi.nlm.nih.gov/40796286/
+- Longitudinal Circulating Tumor DNA-Guided Resistance Analysis During Second-Line Osimertinib Treatment. — https://pubmed.ncbi.nlm.nih.gov/40792215/
+- Eradicating Drug-tolerant Persister Cells in EGFR-Mutated Non-Small Cell Lung Cancer by Targeting TROP2 with CAR-T Cellular Therapy. — https://pubmed.ncbi.nlm.nih.gov/40762432/
+- Comprehensive first-in-human phase I/II study of FHND-9041 in patients with EGFR-mutated advanced non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/40752090/
+- Final Analysis Results and Patient-Reported Outcomes From DESTINY-Lung02-A Dose-Blinded, Randomized, Phase 2 Study of Trastuzumab Deruxtecan in Patients With HER2-Mutant Metastatic NSCLC. — https://pubmed.ncbi.nlm.nih.gov/40749900/
+- A Cyclized Bivalent Aptamer-Based Protein Degrader Targeting Receptor Tyrosine Kinases Overcomes Resistance to Inhibitors in Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/40728393/
+- Discovery of a Novel EGFR PROTAC Degrader against C797S Resistance Mutation with Potent Antitumor Efficacy in NSCLC Treatment. — https://pubmed.ncbi.nlm.nih.gov/40640988/
+- Efficacy and safety of sunvozertinib monotherapy as first-line treatment in NSCLC patients with EGFR exon 20 insertion mutations: A phase 2, single-center trial. — https://pubmed.ncbi.nlm.nih.gov/40618881/
+- Lazertinib Versus Osimertinib in Previously Untreated EGFR-Mutant Advanced NSCLC: A Randomized, Double-Blind, Exploratory Analysis From MARIPOSA. — https://pubmed.ncbi.nlm.nih.gov/40617394/
+- Poziotinib for EGFR exon 20-insertion NSCLC: Clinical efficacy of the phase 2 ZENITH trial and differential impact of EGFR exon 20 insertion location on sensitivity. — https://pubmed.ncbi.nlm.nih.gov/40993146/
+- Biological impact of chemotherapy during treatment with EGFR tyrosine kinase inhibitors for non-small cell lung cancer positive for EGFR activating mutations. — https://pubmed.ncbi.nlm.nih.gov/40974872/
+- A phase II study of afatinib in combination with pemetrexed and carboplatin in patients with EGFR mutation-positive non-squamous, advanced non-small cell lung cancer (NSCLC) refractory to first-line osimertinib treatment: NEJ025B study. — https://pubmed.ncbi.nlm.nih.gov/40957291/
+- [Chinese expert consensus on epidermal growth factor receptor tyrosine kinase inhibitors for the treatment of non-small cell lung cancer (2025 edition)]. — https://pubmed.ncbi.nlm.nih.gov/40953975/
+- Overall Survival with Amivantamab-Lazertinib in EGFR-Mutated Advanced NSCLC — https://pubmed.ncbi.nlm.nih.gov/40923797/
+- Survival with Osimertinib plus Chemotherapy in EGFR-Mutated Advanced NSCLC — https://pubmed.ncbi.nlm.nih.gov/41104938/
+- Sacituzumab Tirumotecan in EGFR-TKI-Resistant, EGFR-Mutated Advanced NSCLC — https://pubmed.ncbi.nlm.nih.gov/41124220/
+- Sevabertinib in Advanced HER2-Mutant Non-Small-Cell Lung Cancer — https://pubmed.ncbi.nlm.nih.gov/41104928/
+- Phase II Dose-Randomized Study of Sunvozertinib in Platinum-Pretreated NSCLC With EGFR Exon 20 Insertion Mutations (WU-KONG1B) — https://pubmed.ncbi.nlm.nih.gov/40923280/
+- Adjuvant icotinib for resected EGFR-mutated stage II-IIIA NSCLC (ICTAN, GASTO1002) — https://pubmed.ncbi.nlm.nih.gov/40866342/
+- COMPEL: osimertinib plus platinum-based chemotherapy after progression on first-line osimertinib — https://pubmed.ncbi.nlm.nih.gov/41139117/
+- Amivantamab-Chemotherapy in NSCLC with EGFR Exon 20 Insertions: crossover-adjusted endpoints from PAPILLON — https://pubmed.ncbi.nlm.nih.gov/41184595/
+- Osimertinib Plus Savolitinib After First-Line Osimertinib With MET Amplification (ORCHARD) — https://pubmed.ncbi.nlm.nih.gov/41130408/
+- Patritumab deruxtecan (HER3-DXd) in active brain metastases of NSCLC (TUXEDO-3) — https://pubmed.ncbi.nlm.nih.gov/41167214/
+- Phase 2 Study of Amivantamab Plus Lazertinib in Previously Treated EGFR-Mutant Lung Cancers With Brain and Leptomeningeal Metastases — https://pubmed.ncbi.nlm.nih.gov/41139066/
+- Lazertinib plus pemetrexed in EGFR-mutant NSCLC with leptomeningeal metastases (KCSG LU 21-01, LAZARUS) — https://pubmed.ncbi.nlm.nih.gov/41202701/
+- Central Nervous System Outcomes of Lazertinib: Pooled Analysis From LASER201 and LASER301 — https://pubmed.ncbi.nlm.nih.gov/41067998/
+- Osimertinib plus consolidative radiotherapy for advanced EGFR-mutant NSCLC — https://pubmed.ncbi.nlm.nih.gov/41054436/
+- Enhanced Versus Standard Dermatologic Management With Amivantamab-Lazertinib: The COCOON Trial — https://pubmed.ncbi.nlm.nih.gov/40923969/
+- Gefitinib with or without bevacizumab in EGFR L858R-positive advanced non-squamous NSCLC (BEVA-FLFX-001) — https://pubmed.ncbi.nlm.nih.gov/41234598/
+- Enozertinib Is a Selective, Brain-Penetrant EGFR Inhibitor for EGFR Exon 20 and Atypical Mutations — https://pubmed.ncbi.nlm.nih.gov/41196054/
+- AZ14289671, a selective blood-brain barrier penetrant irreversible TKI targeting EGFR exon 20 insertions — https://pubmed.ncbi.nlm.nih.gov/40858103/
+- EGFR-targeted liposomal PROTAC with epigenetic regulation for osimertinib-resistant lung cancer — https://pubmed.ncbi.nlm.nih.gov/40842076/
+- Targeted degradation of EGFR 19Del by PROTACs suppresses tumor growth in NSCLC — https://pubmed.ncbi.nlm.nih.gov/41208859/
+- FDA approves second-line TROP2-directed antibody-drug conjugate Dato-DXd for EGFR-mutated NSCLC — https://pubmed.ncbi.nlm.nih.gov/41178651/
+- EGFR exon 20-targeting sunvozertinib granted accelerated approval for advanced NSCLC — https://pubmed.ncbi.nlm.nih.gov/41178650/
+- Trastuzumab Deruxtecan in Patients With HER2-Overexpressing NSCLC: Results From Part 1 of the Open-Label, Multicenter, Phase 1b DESTINY-Lung03 Trial. — https://pubmed.ncbi.nlm.nih.gov/41448488/
+- First-line serplulimab plus chemotherapy with or without HLX04 versus chemotherapy in locally advanced or metastatic non-squamous non-small-cell lung cancer (ASTRUM-002): a randomised, double-blind, multicentre phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/41354044/
+- Efficacy and safety with aumolertinib plus anlotinib for untreated EGFR-mutant NSCLC with brain metastases. — https://pubmed.ncbi.nlm.nih.gov/41326640/
+- A prospective, multicenter, comprehensive genomic profile signature study in patients with EGFR-mutant advanced non-small cell lung cancer at the first-line treatment failure of osimertinib. — https://pubmed.ncbi.nlm.nih.gov/41326340/
+- Amivantamab Plus Lazertinib in Atypical EGFR-Mutated Advanced Non-Small Cell Lung Cancer: Results From CHRYSALIS-2. — https://pubmed.ncbi.nlm.nih.gov/41325571/
+- Savolitinib Plus Osimertinib in Epidermal Growth Factor Receptor-Mutated, MET-Amplified Advanced Non-Small Cell Lung Cancer: A Randomized Phase II trial. — https://pubmed.ncbi.nlm.nih.gov/41308232/
+- RELAY+: Final Overall Survival With Ramucirumab Plus Gefitinib in Patients With Untreated EGFR-Mutated Metastatic NSCLC. — https://pubmed.ncbi.nlm.nih.gov/41278399/
+- First-line treatment in EGFR-mutated non-small cell lung cancer: brief report of an individual patient data comparison of phase 3 clinical trials. — https://pubmed.ncbi.nlm.nih.gov/41270639/
+- Clinical Significance of MTAP Deletions and Their Overlap With Concurrent Oncogenic Driver Alterations Including EGFR in NSCLC. — https://pubmed.ncbi.nlm.nih.gov/41260457/
+- Andamertinib in Advanced NSCLC With EGFR Exon 20 Insertions After Platinum-Based Chemotherapy or Immunotherapy: Results From the Phase 2 KANNON Study. — https://pubmed.ncbi.nlm.nih.gov/41248848/
+- NCT06908772: Glumetinib plus osimertinib, first line — https://clinicaltrials.gov/study/NCT06908772
+- NCT06927986: SYS6010 vs platinum chemotherapy in EGFR-mutant NSCLC — https://clinicaltrials.gov/study/NCT06927986
+- NCT07128199: Adjuvant zipalertinib in resected NSCLC with uncommon EGFR mutations — https://clinicaltrials.gov/study/NCT07128199
+- NCT06970639: Furmonertinib plus chemotherapy vs osimertinib in EGFR-mutant NSCLC with brain metastases — https://clinicaltrials.gov/study/NCT06970639
+- NCT07005102: Telisotuzumab adizutecan plus osimertinib in EGFR-mutant NSCLC — https://clinicaltrials.gov/study/NCT07005102
+- NCT07182682: Adjuvant sunvozertinib for EGFR exon 20 insertion or PACC mutations — https://clinicaltrials.gov/study/NCT07182682
+- NCT06829459: Glumetinib plus osimertinib vs chemotherapy after EGFR-TKI resistance with MET alteration — https://clinicaltrials.gov/study/NCT06829459
+- NCT07185997: Firmonertinib vs osimertinib/afatinib in EGFR PACC mutations — https://clinicaltrials.gov/study/NCT07185997
+- NCT06970782: Vebreltinib plus PLB1004 vs chemotherapy after EGFR-TKI failure with MET alteration — https://clinicaltrials.gov/study/NCT06970782
+- NCT07109531: ASKC202 plus limertinib vs chemotherapy after EGFR-TKI progression with MET alteration — https://clinicaltrials.gov/study/NCT07109531
+- NCT07183189: SHR-A2009 plus aumolertinib vs aumolertinib, first line — https://clinicaltrials.gov/study/NCT07183189
+- NCT07058519: ctDNA-guided adaptive osimertinib after osimertinib plus chemotherapy — https://clinicaltrials.gov/study/NCT07058519
+- NCT06838273: BL-B01D1 plus osimertinib vs osimertinib, first line — https://clinicaltrials.gov/study/NCT06838273
+- NCT07155187: Telisotuzumab adizutecan alone or with osimertinib vs standard of care — https://clinicaltrials.gov/study/NCT07155187
+- NCT06956001: Firmonertinib vs platinum chemotherapy in EGFR PACC or L861Q mutations — https://clinicaltrials.gov/study/NCT06956001
+- NCT07100080: Izalontamab brengitecan vs platinum-pemetrexed after EGFR-TKI failure — https://clinicaltrials.gov/study/NCT07100080
+- NCT03521154: Osimertinib after chemoradiation in unresectable stage III EGFR-mutant NSCLC (results posted) — https://clinicaltrials.gov/study/NCT03521154
+- NCT04988295: Amivantamab-chemotherapy with or without lazertinib after osimertinib (results posted) — https://clinicaltrials.gov/study/NCT04988295
+- Overall Survival From the EORTC LCG-1613 APPLE Trial of Osimertinib Versus Gefitinib Followed by Osimertinib in Advanced EGFR-Mutant Non-Small-Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/38324744/
+- Nivolumab Plus Chemotherapy in Epidermal Growth Factor Receptor-Mutated Metastatic Non-Small-Cell Lung Cancer After Disease Progression on Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitors: Final Results of CheckMate 722. — https://pubmed.ncbi.nlm.nih.gov/38252907/
+- First-in-human phase I study of BEBT-109 in previously treated EGFR exon 20 insertion-mutated advanced non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/38521070/
+- Executive summary of the American Radium Society appropriate use criteria for brain metastases in epidermal growth factor receptor mutated-mutated and ALK-fusion non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/38459978/
+- Discovery of a Novel Potent EGFR Inhibitor Against EGFR Activating Mutations and On-Target Resistance in NSCLC. — https://pubmed.ncbi.nlm.nih.gov/38330145/
+- Functional Heterogeneity in MET Pathway Activation in PDX Models of Osimertinib-resistant EGFR-driven Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/38276867/
+- Ningetinib plus gefitinib in EGFR-mutant non-small-cell lung cancer with MET and AXL dysregulations: A phase 1b clinical trial and biomarker analysis. — https://pubmed.ncbi.nlm.nih.gov/38181454/
+- A Phase II trial of alternating osimertinib and gefitinib therapy in advanced EGFR-T790M positive non-small cell lung cancer: OSCILLATE. — https://pubmed.ncbi.nlm.nih.gov/38418463/
+- Efficacy and safety of intrathecal pemetrexed for TKI-failed leptomeningeal metastases from EGFR+ NSCLC: an expanded, single-arm, phase II clinical trial. — https://pubmed.ncbi.nlm.nih.gov/38377785/
+- Translational insights and overall survival in the U31402-A-U102 study of patritumab deruxtecan (HER3-DXd) in EGFR-mutated NSCLC. — https://pubmed.ncbi.nlm.nih.gov/38369013/
+- Amivantamab plus lazertinib versus osimertinib in first-line EGFR-mutant advanced non-small-cell lung cancer with biomarkers of high-risk disease: a secondary analysis from MARIPOSA. — https://pubmed.ncbi.nlm.nih.gov/38942080/
+- Amivantamab plus Lazertinib in Previously Untreated EGFR-Mutated Advanced NSCLC. — https://pubmed.ncbi.nlm.nih.gov/38924756/
+- Detecting Small Cell Transformation in Patients with Advanced EGFR Mutant Lung Adenocarcinoma through Epigenomic cfDNA Profiling. — https://pubmed.ncbi.nlm.nih.gov/38912901/
+- Neoadjuvant and Adjuvant Treatments for Early Stage Resectable NSCLC: Consensus Recommendations From the International Association for the Study of Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/38901648/
+- Subcutaneous Versus Intravenous Amivantamab, Both in Combination With Lazertinib, in Refractory Epidermal Growth Factor Receptor-Mutated Non-Small Cell Lung Cancer: Primary Results From the Phase III PALOMA-3 Study. — https://pubmed.ncbi.nlm.nih.gov/38857463/
+- Phase II Efficacy and Safety of 80 mg Osimertinib in Patients With Leptomeningeal Metastases Associated With Epidermal Growth Factor Receptor Mutation-Positive Non-Small Cell Lung Cancer (BLOSSOM). — https://pubmed.ncbi.nlm.nih.gov/38828959/
+- Osimertinib after Chemoradiotherapy in Stage III EGFR-Mutated NSCLC. — https://pubmed.ncbi.nlm.nih.gov/38828946/
+- BL-B01D1, a first-in-class EGFR-HER3 bispecific antibody-drug conjugate, in patients with locally advanced or metastatic solid tumours: a first-in-human, open-label, multicentre, phase 1 study. — https://pubmed.ncbi.nlm.nih.gov/38823410/
+- Ivonescimab Plus Chemotherapy in Non-Small Cell Lung Cancer With EGFR Variant: A Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/38820549/
+- EHMT2-mediated transcriptional reprogramming drives neuroendocrine transformation in non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/38814866/
+- Discovery of novel EGFR-PROTACs capable of degradation of multiple EGFR-mutated proteins. — https://pubmed.ncbi.nlm.nih.gov/38759458/
+- Design, synthesis, and antitumor activity evaluation of potent fourth-generation EGFR inhibitors for treatment of Osimertinib resistant non-small cell lung cancer (NSCLC). — https://pubmed.ncbi.nlm.nih.gov/38691906/
+- Gefitinib vs Gefitinib Plus Pemetrexed and Carboplatin Chemotherapy in EGFR-Variant Lung Cancer-Long-Term Results of a Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/38662354/
+- Pembrolizumab Plus Chemotherapy for Metastatic NSCLC With Programmed Cell Death Ligand 1 Tumor Proportion Score Less Than 1%: Pooled Analysis of Outcomes After Five Years of Follow-Up — https://pubmed.ncbi.nlm.nih.gov/38642841/
+- Overcoming Osimertinib Resistance with AKT Inhibition in EGFRm-Driven Non-Small Cell Lung Cancer with PIK3CA/PTEN Alterations — https://pubmed.ncbi.nlm.nih.gov/38630555/
+- Nicotinamide in Combination with EGFR-TKIs for the Treatment of Stage IV Lung Adenocarcinoma with EGFR Mutations: A Randomized Double-Blind (Phase IIb) Trial — https://pubmed.ncbi.nlm.nih.gov/38593249/
+- Co-occurring EGFR p.E709X Mutation Mediates Primary Resistance to the Third-Generation EGFR-TKIs in EGFR p.G719X-Mutant Patients with Advanced NSCLC — https://pubmed.ncbi.nlm.nih.gov/38578683/
+- [Chinese Expert Consensus on the Standardized Diagnosis and Treatment of Non‑small Cell Lung Cancer with EGFR Exon 20 Insertion Mutations (2024 Edition)] — https://pubmed.ncbi.nlm.nih.gov/39147702/
+- Lazertinib in EGFR-Variant Non-Small Cell Lung Cancer With CNS Failure to Prior EGFR Tyrosine Kinase Inhibitors: A Nonrandomized Controlled Trial — https://pubmed.ncbi.nlm.nih.gov/39145962/
+- Gefitinib (an EGFR tyrosine kinase inhibitor) plus anlotinib (an multikinase inhibitor) for untreated, EGFR-mutated, advanced non-small cell lung cancer (FL-ALTER): a multicenter phase III trial — https://pubmed.ncbi.nlm.nih.gov/39134529/
+- Adaptive radiotherapy (up to 74 Gy) or standard radiotherapy (66 Gy) for patients with stage III non-small-cell lung cancer, according to [18F]FDG-PET tumour residual uptake at 42 Gy (RTEP7-IFCT-1402): a multicentre, randomised, controlled phase 2 trial — https://pubmed.ncbi.nlm.nih.gov/39134086/
+- Tepotinib plus osimertinib in patients with EGFR-mutated non-small-cell lung cancer with MET amplification following progression on first-line osimertinib (INSIGHT 2): a multicentre, open-label, phase 2 trial — https://pubmed.ncbi.nlm.nih.gov/39089305/
+- Befotertinib for patients with pretreated EGFR T790M mutated locally advanced or metastatic NSCLC: Final overall survival results from a phase 2 trial — https://pubmed.ncbi.nlm.nih.gov/39089004/
+- Ivonescimab: First Approval — https://pubmed.ncbi.nlm.nih.gov/39073550/
+- Tyrosine Kinase Inhibitors With and Without Up-Front Stereotactic Radiosurgery for Brain Metastases From EGFR and ALK Oncogene-Driven Non-Small Cell Lung Cancer (TURBO-NSCLC) — https://pubmed.ncbi.nlm.nih.gov/39047224/
+- Longitudinal Analyses of Circulating Tumor DNA for the Detection of EGFR Mutation-Positive Advanced NSCLC Progression During Treatment: Data From FLAURA and AURA3 — https://pubmed.ncbi.nlm.nih.gov/39029876/
+- Neoadjuvant Osimertinib for the Treatment of Stage I-IIIA Epidermal Growth Factor Receptor-Mutated Non-Small Cell Lung Cancer: A Phase II Multicenter Study — https://pubmed.ncbi.nlm.nih.gov/39028931/
+- Central nervous system efficacy of aumolertinib versus gefitinib in patients with untreated, EGFR-mutated, advanced non-small cell lung cancer: data from a randomized phase III trial (AENEAS) — https://pubmed.ncbi.nlm.nih.gov/39016053/
+- Capmatinib plus nazartinib in patients with EGFR-mutated non-small cell lung cancer — https://pubmed.ncbi.nlm.nih.gov/38986421/
+- Transferrin receptor targeting chimeras for membrane protein degradation — https://pubmed.ncbi.nlm.nih.gov/39322661/
+- Osimertinib after definitive chemoradiotherapy in unresectable stage III epidermal growth factor receptor-mutated non-small-cell lung cancer: analyses of central nervous system efficacy and distant progression from the phase III LAURA study. — https://pubmed.ncbi.nlm.nih.gov/39289145/
+- High-Dose Furmonertinib in Patients With EGFR-Mutated NSCLC and Leptomeningeal Metastases: A Prospective Real-World Study. — https://pubmed.ncbi.nlm.nih.gov/39260521/
+- ctDNA Dynamics and Mechanisms of Acquired Resistance in Patients Treated with Osimertinib with or without Bevacizumab from the Randomized Phase II ETOP-BOOSTER Trial. — https://pubmed.ncbi.nlm.nih.gov/39250635/
+- A bispecific antibody targeting EGFR and AXL delays resistance to osimertinib. — https://pubmed.ncbi.nlm.nih.gov/39216477/
+- [Chinese Medical Association guideline for clinical diagnosis and treatment of lung cancer (2024 edition)]. — https://pubmed.ncbi.nlm.nih.gov/39193605/
+- Phase III KEYNOTE-789 Study of Pemetrexed and Platinum With or Without Pembrolizumab for Tyrosine Kinase Inhibitor-Resistant, EGFR-Mutant, Metastatic Nonsquamous Non-Small Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/39173098/
+- Efficacy and safety of immune checkpoint inhibitors for individuals with advanced EGFR-mutated non-small-cell lung cancer who progressed on EGFR tyrosine-kinase inhibitors: a systematic review, meta-analysis, and network meta-analysis. — https://pubmed.ncbi.nlm.nih.gov/39159630/
+- BLU-945, a potent and selective next-generation EGFR TKI, has antitumor activity in models of osimertinib-resistant non-small-cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/39444426/
+- Treatment Patterns and Clinical Outcomes in Patients With EGFR-Mutated Non-Small-Cell Lung Cancer After Progression on Osimertinib. — https://pubmed.ncbi.nlm.nih.gov/39462746/
+- Small cell transformation in EGFR-mutated non-small cell lung cancer: DLL3 expression and efficacy of immune checkpoint inhibitors or tyrosine kinase inhibitors combined with chemotherapy. — https://pubmed.ncbi.nlm.nih.gov/39423775/
+- Overcoming tyrosine kinase inhibitor resistance in lung cancer brain metastasis with CTLA4 blockade. — https://pubmed.ncbi.nlm.nih.gov/39423817/
+- Final Analysis Data and Exploratory Biomarker Analysis of a Randomized Phase 2 Study of Osimertinib Plus Bevacizumab Versus Osimertinib Monotherapy for Untreated Patients With Nonsquamous NSCLC Harboring EGFR Mutations: The WJOG9717L Study. — https://pubmed.ncbi.nlm.nih.gov/39399795/
+- Safety and efficacy of consolidative stereotactic radiotherapy for oligo-residual EGFR-mutant non-small cell lung cancer after first-line third-generation EGFR-tyrosine kinase inhibitors: a single-arm, phase 2 trial. — https://pubmed.ncbi.nlm.nih.gov/39398493/
+- Benmelstobart plus anlotinib in patients with EGFR-positive advanced NSCLC after failure of EGFR TKIs therapy: a phase I/II study. — https://pubmed.ncbi.nlm.nih.gov/39389963/
+- First-line zorifertinib for EGFR-mutant non-small cell lung cancer with central nervous system metastases: The phase 3 EVEREST trial. — https://pubmed.ncbi.nlm.nih.gov/39389055/
+- A Multicenter Open-Label Randomized Phase II Study of Osimertinib With and Without Ramucirumab in Tyrosine Kinase Inhibitor-Naive EGFR-Mutant Metastatic Non-Small Cell Lung Cancer (RAMOSE trial). — https://pubmed.ncbi.nlm.nih.gov/39378386/
+- Thoracic Radiotherapy Improves the Survival in Patients With EGFR-Mutated Oligo-Organ Metastatic Non-Small Cell Lung Cancer Treated With Epidermal Growth Factor Receptor-Tyrosine Kinase Inhibitors: A Multicenter, Randomized, Controlled, Phase III Trial. — https://pubmed.ncbi.nlm.nih.gov/39374473/
+- RELAY: Final Overall Survival for Erlotinib Plus Ramucirumab or Placebo in Untreated, EGFR-Mutated Metastatic NSCLC — https://pubmed.ncbi.nlm.nih.gov/39622410/
+- A Study of HS-20117 Combined With Aumolertinib in Participants With Advanced Non-Squamous Non-Small Cell Lung Cancer — https://clinicaltrials.gov/study/NCT06417008
+- JMT101 in Combination With Osimertinib Versus Osimertinib Alone as First-Line Treatment for EGFR-Sensitive Non-Squamous NSCLC — https://clinicaltrials.gov/study/NCT06735391
+- Phase III Study of AK112 for NSCLC Patients (HARMONi) — https://clinicaltrials.gov/study/NCT06396065
+- A Study of SKB264 in Combination With Osimertinib Versus Osimertinib in EGFR-Mutant Non-Squamous NSCLC — https://clinicaltrials.gov/study/NCT06670196
+- Sacituzumab Tirumotecan (MK-2870) Versus Pemetrexed and Carboplatin in EGFR-Mutated NSCLC After EGFR-TKI (MK-2870-009) — https://clinicaltrials.gov/study/NCT06305754
+- First-line Osimertinib With or Without Datopotamab Deruxtecan for EGFRm NSCLC (TROPION-Lung14) — https://clinicaltrials.gov/study/NCT06350097
+- A Study of SHR-A2009 Versus Platinum-based Chemotherapy in EGFR-mutated, Advanced or Metastatic NSCLC — https://clinicaltrials.gov/study/NCT06671379
+- Adjuvant Target Therapy Guided by ctDNA-MRD in EGFR-mutant II-IIIA NSCLC (ECTOP-1022) — https://clinicaltrials.gov/study/NCT06323148
+- A Study Comparing BL-B01D1 With Platinum Based Chemotherapy in NSCLC (PANKU-Lung01) — https://clinicaltrials.gov/study/NCT06382116
+- Dato-DXd With or Without Osimertinib Compared With Platinum-Based Doublet Chemotherapy in EGFR-Mutated NSCLC (TROPION-Lung15) — https://clinicaltrials.gov/study/NCT06417814
+- KEYNOTE-789: Pemetrexed + Platinum With or Without Pembrolizumab in TKI-Resistant EGFR-Mutated Non-squamous NSCLC — https://clinicaltrials.gov/study/NCT03515837
+- INSIGHT 2: Tepotinib Plus Osimertinib in Osimertinib-Relapsed MET-Amplified NSCLC — https://clinicaltrials.gov/study/NCT03940703
+- FLAURA2: Osimertinib With or Without Chemotherapy as First-Line Treatment in EGFR-Mutated NSCLC — https://clinicaltrials.gov/study/NCT04035486
+- LASER301: Lazertinib as First-Line Treatment in EGFR-Mutation-Positive Advanced NSCLC — https://clinicaltrials.gov/study/NCT04248829
+- PAPILLON: Amivantamab Plus Carboplatin-Pemetrexed vs Carboplatin-Pemetrexed in EGFR Exon 20 Insertion NSCLC — https://clinicaltrials.gov/study/NCT04538664
+- MARIPOSA: Amivantamab and Lazertinib Versus Osimertinib in EGFR-Mutated Advanced NSCLC — https://clinicaltrials.gov/study/NCT04487080
+- HERTHENA-Lung01: Patritumab Deruxtecan in EGFR-mutated NSCLC — https://clinicaltrials.gov/study/NCT04619004
+
+## nsclc-resistance-nextgen (24)
+
+- Systemic and intracranial activity of antibody-drug conjugates in patients with non-small cell lung cancer and brain metastases: A systematic review and meta-analysis. — https://pubmed.ncbi.nlm.nih.gov/42815252/
+- SYS6010, epidermal growth factor receptor-targeting antibody-drug conjugate for advanced non-small cell lung cancer: A phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/42594871/
+- EGFR-mutant NSCLC progressing on first-line osimertinib: rebiopsy in real-world and impact of second-line therapies (the "Rebiopsy on Osi" study). — https://pubmed.ncbi.nlm.nih.gov/42502985/
+- Trastuzumab Deruxtecan in Patients From China With Pretreated HER2-Mutant Non-Small Cell Lung Cancer: Final Analysis of the Phase 2, Single-Arm DESTINY-Lung05 Trial. — https://pubmed.ncbi.nlm.nih.gov/42480250/
+- [Chinese Expert Consensus on Diagnosis and Treatment of Non-small Cell Lung Cancer with MET Abnormality (2026 Version)]. — https://pubmed.ncbi.nlm.nih.gov/42452862/
+- Telisotuzumab Vedotin Monotherapy in Patients With Previously Treated c-Met Protein Overexpressing, Nonsquamous, EGFR Wild-type Advanced NSCLC: Updated Analysis of the LUMINOSITY Trial. — https://pubmed.ncbi.nlm.nih.gov/42368479/
+- Histological transformation in lung cancer: a single-arm meta-analysis and systematic review. — https://pubmed.ncbi.nlm.nih.gov/42163145/
+- Vebreltinib plus EGFR-TKI for EGFR-mutated NSCLC with MET-driven resistance: A real-world study of Chinese patients. — https://pubmed.ncbi.nlm.nih.gov/42068890/
+- Long-Term Impact of First-Line Amivantamab Plus Lazertinib Versus Osimertinib on Mechanisms of Acquired Resistance in MARIPOSA: A Brief Report. — https://pubmed.ncbi.nlm.nih.gov/42061572/
+- Efficacy, safety, and biomarker analysis of datopotamab deruxtecan in advanced non-small cell lung cancer: ICARUS-LUNG01 phase 2 study. — https://pubmed.ncbi.nlm.nih.gov/41999747/
+- Savolitinib plus osimertinib versus chemotherapy for advanced, EGFR mutation-positive, MET-amplified non-small-cell lung cancer in China (SACHI): interim analysis of a multicentre, open-label, phase 3 randomised controlled trial. — https://pubmed.ncbi.nlm.nih.gov/41544643/
+- Genomic landscape of clinically acquired resistance alterations in patients treated with KRASG12C inhibitors. — https://pubmed.ncbi.nlm.nih.gov/39914665/
+- Trastuzumab rezetecan, a HER2-directed antibody-drug conjugate, in patients with advanced HER2-mutant non-small-cell lung cancer (HORIZON-Lung): phase 2 results from a multicentre, single-arm study. — https://pubmed.ncbi.nlm.nih.gov/40020696/
+- Perioperative durvalumab plus chemotherapy plus new agents for resectable non-small-cell lung cancer: the platform phase 2 NeoCOAST-2 trial. — https://pubmed.ncbi.nlm.nih.gov/40450142/
+- A B7H3-targeting antibody-drug conjugate in advanced solid tumors: a phase 1/1b trial — https://pubmed.ncbi.nlm.nih.gov/40082695/
+- Phase 2 Open-Label Study of Sacituzumab Govitecan as Second-Line Therapy in Patients With Extensive-Stage SCLC: Results From TROPiCS-03 — https://pubmed.ncbi.nlm.nih.gov/39755168/
+- Vebreltinib in MET amplification-driven advanced non-small-cell lung cancer (KUNPENG): a single-arm, multi-cohort, multicentre, phase 2 study — https://pubmed.ncbi.nlm.nih.gov/41365311/
+- First-Line Sacituzumab Govitecan Plus Pembrolizumab in Metastatic NSCLC: PD-L1 TPS Less Than 50% and More Than or Equal to 50% Cohorts of the EVOKE-02 Study — https://pubmed.ncbi.nlm.nih.gov/41173143/
+- TROP-2-targeted antibody-drug conjugate SHR-A1921 for advanced or metastatic solid tumors: A first-in-human phase 1 study — https://pubmed.ncbi.nlm.nih.gov/41135519/
+- Ifinatamab Deruxtecan in Patients With Extensive-Stage Small Cell Lung Cancer: Primary Analysis of the Phase II IDeate-Lung01 Trial — https://pubmed.ncbi.nlm.nih.gov/41086386/
+- First-line sacituzumab tirumotecan with tagitanlimab in advanced non-small-cell lung cancer: a phase 2 trial — https://pubmed.ncbi.nlm.nih.gov/40830660/
+- Trastuzumab deruxtecan in patients with metastatic non-small-cell lung cancer (DESTINY-Lung01): primary results of the HER2-overexpressing cohorts from a single-arm, phase 2 trial. — https://pubmed.ncbi.nlm.nih.gov/38547891/
+- Efficacy and Safety of Taletrectinib in Chinese Patients With ROS1+ Non-Small Cell Lung Cancer: The Phase II TRUST-I Study — https://pubmed.ncbi.nlm.nih.gov/38822758/
+- Datopotamab Deruxtecan Versus Docetaxel for Previously Treated Advanced or Metastatic Non-Small Cell Lung Cancer: The Randomized, Open-Label Phase III TROPION-Lung01 Study. — https://pubmed.ncbi.nlm.nih.gov/39250535/
+
+## lung-key-evidence (53)
+
+- [Oncology Society of Chinese Medical Association guideline for clinical diagnosis and treatment of lung cancer (2026 edition)]. — https://pubmed.ncbi.nlm.nih.gov/42764215/
+- [Oncology Society of Chinese Medical Association guideline for clinical diagnosis and treatment of lung cancer (2026 edition)]. — https://pubmed.ncbi.nlm.nih.gov/42763208/
+- 2026 Revised recommendations of the American Association for Thoracic Surgery (AATS) 2023 Expert Consensus Document: Staging and multidisciplinary management of patients with early-stage non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/42790620/
+- Perioperative Durvalumab for Resectable Non-Small Cell Lung Cancer: Updated Outcomes From the Phase III AEGEAN Trial. — https://pubmed.ncbi.nlm.nih.gov/42664473/
+- Consensus recommendations for the management of Dato-DXd-associated adverse events in patients with advanced/metastatic NSCLC: insights from a multiregional steering committee. — https://pubmed.ncbi.nlm.nih.gov/42558967/
+- Patient-reported outcomes with tarlatamab in extensive-stage small cell lung cancer after platinum-based chemotherapy: results from the phase 3 DeLLphi-304 trial. — https://pubmed.ncbi.nlm.nih.gov/42679738/
+- Crizotinib versus observation or placebo for surgically resected early-stage ALK-positive non-small-cell lung cancer (Eastern Cooperative Oncology Group-American College of Radiology Imaging Network E4512): a phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/42641639/
+- Adjuvant alectinib versus chemotherapy in resected ALK-positive non-small-cell lung cancer (ALINA): health-related quality-of-life and safety outcomes from a randomised, open-label, phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/42636834/
+- Daily low-dose carboplatin or weekly carboplatin plus nab-paclitaxel for concurrent chemoradiotherapy in older patients with locally advanced non-small cell lung cancer (JCOG1914): A randomized phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/42636548/
+- Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, Version 2026.3.3. — https://pubmed.ncbi.nlm.nih.gov/42607282/
+- Guideline for the Comprehensive Perioperative Management of Older Patients With Lung Cancer (2025). — https://pubmed.ncbi.nlm.nih.gov/42576681/
+- Health Communication and Stepped Reminders Interventions for Lung Cancer Screening: A Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/42574003/
+- ACR Appropriateness Criteria® Indolent Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/42573542/
+- SKYSCRAPER-03: a phase III study of tiragolumab plus atezolizumab versus durvalumab in locally advanced, unresectable, stage III NSCLC after platinum-based concurrent chemoradiation. — https://pubmed.ncbi.nlm.nih.gov/42562209/
+- Bridging evidence and practice: international multidisciplinary consensus on non-metastatic NSCLC. — https://pubmed.ncbi.nlm.nih.gov/42532338/
+- RATIONALE-303: Long-Term Outcomes of Tislelizumab in Previously Treated Advanced/Metastatic NSCLC. — https://pubmed.ncbi.nlm.nih.gov/42529140/
+- Adjuvant Nivolumab vs Observation in Resected Non-Small Cell Lung Cancer: A Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/42224490/
+- Selpercatinib in Early-Stage RET Fusion-Positive Non-Small-Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/42223087/
+- Ivonescimab plus chemotherapy versus tislelizumab plus chemotherapy in advanced squamous non-small-cell lung cancer (HARMONi-6): interim overall survival analysis of a randomised, double-blind, phase 3 trial in China. — https://pubmed.ncbi.nlm.nih.gov/42218899/
+- Lorlatinib versus crizotinib as first-line treatment for advanced ALK-positive non-small-cell lung cancer: 7-year update from the phase III CROWN study. — https://pubmed.ncbi.nlm.nih.gov/42217582/
+- Serplulimab Plus Chemotherapy, with or without HLX04, versus Chemotherapy as First-Line Treatment for Nonsquamous NSCLC: Final Survival Analysis of the Phase III ASTRUM-002 Study. — https://pubmed.ncbi.nlm.nih.gov/42282892/
+- SAFFRON-301: a randomised phase III study of sitravatinib in combination with tislelizumab in patients with locally advanced or metastatic non-small cell lung cancer — https://pubmed.ncbi.nlm.nih.gov/41737914/
+- Efficacy and Safety of Ultra-Low-Dose Immunotherapy in Relapsed Refractory Solid Tumors: Phase III Superiority Randomized Trial (DELII) — https://pubmed.ncbi.nlm.nih.gov/41604598/
+- Four-Year Outcomes for Nivolumab With Chemotherapy and Bevacizumab in Patients With Nonsquamous NSCLC in the TASUKI-52 — https://pubmed.ncbi.nlm.nih.gov/41611341/
+- Clinical outcomes with perioperative nivolumab by nodal status in patients with stage III resectable NSCLC: phase 3 CheckMate 77T exploratory analysis — https://pubmed.ncbi.nlm.nih.gov/41507539/
+- Ten-year overall survival in resectable stage-III NSCLC - Results of the randomized ESPATUE trial - Long-term survival and competing risk analysis — https://pubmed.ncbi.nlm.nih.gov/41702246/
+- The clinical and cost-effectiveness of paravertebral blockade versus thoracic epidural blockade in reducing chronic post-thoracotomy pain: TOPIC2 RCT synopsis — https://pubmed.ncbi.nlm.nih.gov/41664616/
+- NCCN Guidelines® Insights: Small Cell Lung Cancer, Version 2.2026 — https://pubmed.ncbi.nlm.nih.gov/41671459/
+- ACR Appropriateness Criteria® Radiologic Management of Pulmonary Nodules and Masses: Update 2025 — https://pubmed.ncbi.nlm.nih.gov/41721805/
+- China National Lung Cancer Screening Guideline with Low-dose Computed Tomography (2025 Version) — https://pubmed.ncbi.nlm.nih.gov/41565348/
+- Non-Small Cell Lung Cancer, Version 4.2026, NCCN Clinical Practice Guidelines In Oncology. — https://pubmed.ncbi.nlm.nih.gov/41956107/
+- Early repetitive transcranial magnetic stimulation for preventing chronic postoperative pain in older adults: a randomized clinical sub-study. — https://pubmed.ncbi.nlm.nih.gov/41943114/
+- Efficacy and safety of savolitinib in Chinese patients with locally advanced or metastatic MET exon 14-mutated non-small cell lung cancer: final results of a confirmatory Phase 3b study. — https://pubmed.ncbi.nlm.nih.gov/41938023/
+- ESTRO-EORTC expert guideline on target delineation and radiotherapy details for stage I-III small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/41932500/
+- [Chinese Expert Consensus on Clinical Management of Oncogene Addicted Non-small Cell Lung Cancer with Leptomeningeal Metastasis (2026 Edition)]. — https://pubmed.ncbi.nlm.nih.gov/41916910/
+- A Subgroup Analysis of Perioperative Pembrolizumab in Clinical Stage II Non-Small-Cell Lung Cancer from the Randomized KEYNOTE-671 Study. — https://pubmed.ncbi.nlm.nih.gov/41875364/
+- Randomised trial of delivering co-located, personalised stop-smoking support within lung cancer screening: the YESS study. — https://pubmed.ncbi.nlm.nih.gov/41825863/
+- First-Line Tislelizumab Plus Chemotherapy for Advanced or Metastatic Squamous Non-Small Cell Lung Cancer: 4-Year Long-Term Follow-Up from RATIONALE-307. — https://pubmed.ncbi.nlm.nih.gov/41811656/
+- Nivolumab plus chemoradiotherapy followed by nivolumab with or without ipilimumab for untreated locally advanced stage III NSCLC: a randomized phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/42129521/
+- Final overall survival analysis of the APPLE study: atezolizumab and platinum-pemetrexed with or without bevacizumab for metastatic nonsquamous non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/42127535/
+- The 2026 American Association for Thoracic Surgery Expert Consensus Document: Evaluation and management of N2+ non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/42081972/
+- Five-year overall survival in JCOG1205/1206: irinotecan or etoposide plus cisplatin for resected high-grade neuroendocrine carcinoma of the lung. — https://pubmed.ncbi.nlm.nih.gov/42000139/
+- The Society of Thoracic Surgeons Expert Consensus Document (2026) on Addressing Definition and Practices of Sublobar Resection in Non-Small Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/42320552/
+- [Chinese Expert Consensus on Delta-like Ligand 3-T Cell Engager Therapy for SCLC]. — https://pubmed.ncbi.nlm.nih.gov/42290048/
+- SEPAR-SECT Recommendations for Perioperative Invasive Mediastinal Staging of Non-small Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/42276952/
+- ERS/ESGE/ESTS clinical practice guidelines on endobronchial and oesophageal endosonography for the diagnosis and staging of lung cancer. — https://pubmed.ncbi.nlm.nih.gov/42167778/
+- Surgical Outcomes of Perioperative Toripalimab in Stage III Resectable Non-Small Cell Lung Cancer: Post Hoc Analysis of the Neotorch Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/42455561/
+- Evaluation of Biomarkers for Sacituzumab Govitecan in Metastatic Non-Small Cell Lung Cancer: Insights From the EVOKE-01 Study. — https://pubmed.ncbi.nlm.nih.gov/42447505/
+- Neoadjuvant and perioperative chemo-immunotherapy in early-stage non-small cell lung cancer: international expert panel meeting by AIOT. — https://pubmed.ncbi.nlm.nih.gov/42470746/
+- ESTRO clinical practice guideline on high-dose thoracic reirradiation for non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/42468604/
+- Program Guidelines for the National Lung Cancer Screening Program: Targeted Lung Cancer Screening in High-Risk Individuals in Australia. — https://pubmed.ncbi.nlm.nih.gov/42438375/
+- SEPAR-SECT recommendations for perioperative invasive mediastinal staging of non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/42373333/
+- Chinese expert consensus on radiotherapy combined with immunotherapy for unresectable lung cancer (2026 Edition). — https://pubmed.ncbi.nlm.nih.gov/42413815/
+
+## lung-top-journals (138)
+
+- Tambotatug Pelitecan in Small-Cell Lung Cancer after Platinum-Based Therapy. — https://pubmed.ncbi.nlm.nih.gov/42734213/
+- Final Biomarker and Efficacy Analyses of Lorlatinib in Patients With ALK-Positive Advanced Non-Small Cell Lung Cancer in a Phase 2 Study. — https://pubmed.ncbi.nlm.nih.gov/42749050/
+- Oral KRAS G12D inhibitor GFH375 for previously treated advanced solid tumors with KRASG12D mutations: a phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/42745055/
+- Patient-reported symptom monitoring in patients with lung cancer (SYMPRO-Lung trial): long-term, post-hoc survival results of a multicentre, stepped-wedged, cluster-randomised clinical trial. — https://pubmed.ncbi.nlm.nih.gov/42727592/
+- Induction and consolidation atezolizumab with stereotactic body radiation therapy versus radiation alone in high-risk, early-stage non-small-cell lung cancer (SWOG/NRG S1914): a multicentre, open-label, superiority, phase 3, randomised controlled trial. — https://pubmed.ncbi.nlm.nih.gov/42702214/
+- Daraxonrasib for Previously Treated RAS-Mutant Non-Small-Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/42685317/
+- Izalontamab Brengitecan (Iza-Bren), a First-in-Class EGFR-HER3 Bispecific Antibody-Drug Conjugate in Extensive-Stage Small Cell Lung Cancer: Results From a Phase Ib Study. — https://pubmed.ncbi.nlm.nih.gov/42497381/
+- SHR-A2102, a nectin-4 directed antibody-drug conjugate, in patients with pretreated advanced solid tumours: a multicentre, single-arm, phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/42636836/
+- Targeting TROP2 in drug-tolerant persister cells delays EGFR tyrosine kinase inhibitor resistance in non-small-cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/42314664/
+- SEZ6-targeting antibody-drug conjugate ABBV-706 in advanced small cell lung cancer and solid tumors: a phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/42225988/
+- Sacituzumab tirumotecan plus pembrolizumab versus pembrolizumab in PD-L1-positive advanced non-small-cell lung cancer (OptiTROP-Lung05): interim analysis of a randomised, open-label, phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/42214392/
+- Thymic radiation is associated with worse outcomes in patients with NSCLC. — https://pubmed.ncbi.nlm.nih.gov/42641684/
+- Five-Year Outcomes of Perioperative Pembrolizumab for Early-Stage Non-Small-Cell Lung Cancer From the Randomized KEYNOTE-671 Study. — https://pubmed.ncbi.nlm.nih.gov/42628840/
+- Biomarkers of nivolumab benefit in resectable non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/42587156/
+- Comprehensive Patient-Reported Outcomes from NRG Oncology/Alliance LU005: A Randomized Trial of Chemoradiation With or Without Atezolizumab in Limited-Stage SCLC. — https://pubmed.ncbi.nlm.nih.gov/42532339/
+- SKYSCRAPER-01: Tiragolumab in Combination With Atezolizumab in Previously Untreated PD-L1-High, Locally Advanced, Unresectable or Metastatic Non-Small Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/42507968/
+- Durvalumab With Radiation Therapy in Patients With Inoperable Locally Advanced Non-Small Cell Lung Cancer Ineligible for Concurrent Chemoradiotherapy (DART). — https://pubmed.ncbi.nlm.nih.gov/42462186/
+- AdvanTIG-302: Phase 3 Study of Ociperlimab (Anti-TIGIT) Plus Tislelizumab (Anti-PD-1) Versus Pembrolizumab in Untreated, Locally Advanced, Unresectable, or Metastatic NSCLC With PD-L1 Expression of 50% or More. — https://pubmed.ncbi.nlm.nih.gov/42448175/
+- Phase III Study of Niraparib Plus Pembrolizumab as Maintenance Therapy for Advanced or Metastatic NSCLC (ZEAL-1L). — https://pubmed.ncbi.nlm.nih.gov/42431263/
+- Consolidative Thoracic Radiotherapy With Atezolizumab Maintenance in Extensive-Stage Small Cell Lung Cancer: The Phase 2 TREASURE Randomized Clinical Trial (AIO-TRK-0320). — https://pubmed.ncbi.nlm.nih.gov/42424047/
+- Ensartinib in Resected ALK-Positive Non-Small-Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/42418775/
+- Ifebemtinib plus garsorasib as first-line treatment for KRASG12C-mutated non-small-cell lung cancer in China: a multicentre, single-arm expansion cohort from a phase 1b/2 trial. — https://pubmed.ncbi.nlm.nih.gov/42413526/
+- Differential impact of proton pump inhibitors and antibiotics on immunotherapy efficacy after chemoradiotherapy in locally advanced non-small-cell lung cancer: a post-hoc analysis of the PACIFIC trial. — https://pubmed.ncbi.nlm.nih.gov/42398520/
+- Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, Version 2026.3.2. — https://pubmed.ncbi.nlm.nih.gov/42372216/
+- Brief Report: Aumolertinib as a Switch Therapy in Osimertinib-Intolerant NSCLC-The ACTIVE Trial. — https://pubmed.ncbi.nlm.nih.gov/42341878/
+- Bispecific Antibody Ivonescimab Added to Chemotherapy in EGFR-Variant Non-Small Cell Lung Cancer: The HARMONi-A Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/42307937/
+- Cemiplimab Plus Chemotherapy Versus Chemotherapy in Advanced NSCLC: 5-Year Results From Phase 3 EMPOWER-Lung 3 Part 2 Trial. — https://pubmed.ncbi.nlm.nih.gov/42297188/
+- Aumolertinib with or without chemotherapy in EGFR-mutated advanced non-small-cell lung cancer (AENEAS2): an open-label, multicentre, randomised, controlled, phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/42296979/
+- IASLC Update on Classification of Pulmonary Neuroendocrine Neoplasms. — https://pubmed.ncbi.nlm.nih.gov/42251892/
+- First-Line Serplulimab in Extensive-Stage Small Cell Lung Cancer: Secondary Analysis of the ASTRUM-005 Phase 3 Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/42240984/
+- Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, 2026.3.1. — https://pubmed.ncbi.nlm.nih.gov/42190143/
+- Therapy for Stage IV Non-Small Cell Lung Cancer Without Driver Alterations: ASCO Living Guideline, 2026.3.1. — https://pubmed.ncbi.nlm.nih.gov/42190141/
+- Tiragolumab Plus Atezolizumab and Chemotherapy for Advanced Nonsquamous Non-Small Cell Lung Cancer: The Phase 3 SKYSCRAPER-06 Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/42060297/
+- Deulorlatinib (TGRX-326) in ALK Gene Fusion Positive NSCLC After Failure of Second-Generation Inhibitors: A Single-Arm, Multicenter, Phase 2 Trial. — https://pubmed.ncbi.nlm.nih.gov/42031067/
+- JYP0322, a highly selective and brain-penetrant ROS1 inhibitor, overcomes ROS1G2032R resistance mutation in NSCLC: The first-in-human phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/42030931/
+- Blockade of Tumor-Intrinsic TGFβ Signaling Drives Hyperprogression in Small Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/42018154/
+- Long-Term Efficacy and Safety of Taletrectinib in Patients With ROS1+ Non-Small Cell Lung Cancer: Results From the Phase II TRUST-I Study. — https://pubmed.ncbi.nlm.nih.gov/42013573/
+- First-in-Human, Phase I Study of Sigvotatug Vedotin, an Integrin Beta-6-Directed Antibody-Drug Conjugate: Results From Dose Expansion in Advanced Non-Small Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/42008777/
+- First-Line Zongertinib in Advanced HER2-Mutant Non-Small-Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/41985129/
+- SKYSCRAPER-02C: A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Atezolizumab Plus Carboplatin and Etoposide With or Without Tiragolumab in Patients With Untreated Extensive-Stage SCLC in China. — https://pubmed.ncbi.nlm.nih.gov/41950998/
+- Definitive Radiotherapy to the Primary Tumor in Stage IV NSCLC: A Consensus Statement From the International Association for the Study of Lung Cancer Advanced Radiation Technology Subcommittee. — https://pubmed.ncbi.nlm.nih.gov/41934464/
+- Fulzerasib plus cetuximab in first-line KRASG12C-mutated non-small-cell lung cancer (KROCUS): a single-arm, multicentre, phase 1b/2 trial. — https://pubmed.ncbi.nlm.nih.gov/41926959/
+- Durvalumab Consolidation in Limited-Stage SCLC: Outcomes by Prior Concurrent Chemoradiotherapy and Prophylactic Cranial Irradiation in the Phase 3 ADRIATIC Trial. — https://pubmed.ncbi.nlm.nih.gov/41921748/
+- Gotistobart or docetaxel in metastatic squamous non-small cell lung cancer: stage 1 of the randomized phase 3 PRESERVE-003 trial. — https://pubmed.ncbi.nlm.nih.gov/41896648/
+- Final Efficacy and Safety Data From the Phase I/II ARROW Study of Pralsetinib in Patients With Advanced RET Fusion-Positive Non-Small Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/41886723/
+- Setidegrasib in Advanced Non-Small-Cell Lung Cancer and Pancreatic Cancer. — https://pubmed.ncbi.nlm.nih.gov/41879829/
+- AI-based chest X-ray prioritization in the lung cancer diagnostic pathway: the LungIMPACT randomized controlled trial. — https://pubmed.ncbi.nlm.nih.gov/41876649/
+- Datopotamab Deruxtecan Plus Pembrolizumab With or Without Platinum-Based Chemotherapy for Advanced or Metastatic NSCLC: The Phase Ib TROPION-Lung02 Trial. — https://pubmed.ncbi.nlm.nih.gov/41871716/
+- Survival outcome of VATS compared with open lobectomy for lung cancer: an individual patient data meta-analysis of randomised trials. — https://pubmed.ncbi.nlm.nih.gov/41864749/
+- Benmelstobart plus anlotinib versus pembrolizumab as first-line treatment for PD-L1-positive, advanced non-small-cell lung cancer (CAMPASS): a blinded, randomised, controlled, phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/41825453/
+- First-Line Tislelizumab Plus Chemotherapy Versus Placebo Plus Chemotherapy in Extensive-Stage SCLC: A Long-Term Survival and Programmed Death-Ligand 1 Subgroup Analysis From the Randomized, Phase 3 RATIONALE-312 Trial. — https://pubmed.ncbi.nlm.nih.gov/41796863/
+- Combination of Lurbinectedin Plus Irinotecan: Preclinical and Early Clinical Results in Patients With Relapsed SCLC. — https://pubmed.ncbi.nlm.nih.gov/41791703/
+- HS-20093, a B7-H3-targeted antibody-drug conjugate in lung cancer: Results from the ARTEMIS-001 phase 1a/b trial. — https://pubmed.ncbi.nlm.nih.gov/41791381/
+- ELIOS: A Multicenter, Molecular Profiling Study of Patients with EGFR-Mutant Advanced Non-Small Cell Lung Cancer Treated with First-Line Osimertinib. — https://pubmed.ncbi.nlm.nih.gov/41790042/
+- Osimertinib plus datopotamab deruxtecan in patients with EGFR-mutated advanced NSCLC after progression on first-line osimertinib: ORCHARD. — https://pubmed.ncbi.nlm.nih.gov/41780641/
+- Izalontamab Brengitecan in Locally Advanced or Metastatic Non-Small Cell Lung Cancer With Actionable Genomic Alterations Outside of Classical EGFR Mutations: A Phase Ib Study. — https://pubmed.ncbi.nlm.nih.gov/41779981/
+- Four-Year Outcomes of First-Line Nivolumab Plus Ipilimumab for 6 Months Versus Continuation in Patients With Advanced NSCLC: Results of the Randomized IFCT-1701 "DICIPLE" Phase III Trial. — https://pubmed.ncbi.nlm.nih.gov/41690366/
+- Patient-Reported Outcomes With Consolidation Durvalumab Versus Placebo After Concurrent Chemoradiotherapy in Limited-Stage SCLC: Results From the Phase 3 ADRIATIC Trial. — https://pubmed.ncbi.nlm.nih.gov/41621752/
+- Izalontamab brengitecan (Iza-bren; BL-B01D1), a first-in-class EGFR-HER3 bispecific antibody-drug conjugate, for patients with EGFR-mutated NSCLC: pooled analysis of phase I and phase II trials. — https://pubmed.ncbi.nlm.nih.gov/41611210/
+- Fecal microbiota transplantation plus immunotherapy in non-small cell lung cancer and melanoma: the phase 2 FMT-LUMINate trial. — https://pubmed.ncbi.nlm.nih.gov/41606121/
+- Osimertinib and Stereotactic Radiosurgery for Brain Metastases in EGFR-Mutated Lung Cancer: The STARLET Joint Analysis of OUTRUN and LUOSICNS Randomized Trials. — https://pubmed.ncbi.nlm.nih.gov/41534788/
+- Adjuvant Durvalumab in Completely Resected Early-Stage Non-Small Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/41529222/
+- Chemoradiation ± Atezolizumab in Limited-Stage Small Cell Lung Cancer: Results of NRG Oncology/Alliance LU005. — https://pubmed.ncbi.nlm.nih.gov/41529214/
+- First-Line Camrelizumab Versus Placebo Plus Chemotherapy With or Without Radiotherapy for Brain Metastases in NSCLC: The CTONG 2003 Randomized Placebo-Controlled Trial. — https://pubmed.ncbi.nlm.nih.gov/39929333/
+- Efficacy of Zenocutuzumab in NRG1 Fusion-Positive Cancer. — https://pubmed.ncbi.nlm.nih.gov/39908431/
+- A Single-Arm Phase 2 Study of Sotorasib Plus Carboplatin and Pemetrexed in Patients With Advanced Nonsquamous NSCLC With KRAS G12C Mutation (WJOG14821L, SCARLET). — https://pubmed.ncbi.nlm.nih.gov/39828218/
+- Brain radiotherapy combined with camrelizumab and platinum-doublet chemotherapy for previously untreated advanced non-small-cell lung cancer with brain metastases (C-Brain): a multicentre, single-arm, phase 2 trial. — https://pubmed.ncbi.nlm.nih.gov/39756446/
+- Subcutaneous versus intravenous pembrolizumab, in combination with chemotherapy, for treatment of metastatic non-small-cell lung cancer: the phase III 3475A-D77 trial. — https://pubmed.ncbi.nlm.nih.gov/40157574/
+- Cemiplimab Monotherapy for First-Line Treatment of Patients with Advanced NSCLC With PD-L1 Expression of 50% or Higher: Five-Year Outcomes of EMPOWER-Lung 1. — https://pubmed.ncbi.nlm.nih.gov/40118215/
+- Ivonescimab versus pembrolizumab for PD-L1-positive non-small cell lung cancer (HARMONi-2): a randomised, double-blind, phase 3 study in China. — https://pubmed.ncbi.nlm.nih.gov/40057343/
+- HER2-Selective Tyrosine Kinase Inhibitor, Zongertinib (BI 1810631), in Patients With Advanced/Metastatic Solid Tumors With HER2 Alterations: A Phase Ia Dose-Escalation Study. — https://pubmed.ncbi.nlm.nih.gov/40030100/
+- Clonal driver neoantigen loss under EGFR TKI and immune selection pressures. — https://pubmed.ncbi.nlm.nih.gov/39972134/
+- Atezolizumab plus bevacizumab and chemotherapy in metastatic nonsquamous NSCLC: the randomized double-blind phase 3 IMpower151 trial. — https://pubmed.ncbi.nlm.nih.gov/40379995/
+- Zongertinib in Previously Treated HER2-Mutant Non-Small-Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/40293180/
+- Patritumab Deruxtecan (HER3-DXd; MK-1022) in Non-Small Cell Lung Cancer After Platinum-Based Chemotherapy and Immunotherapy. — https://pubmed.ncbi.nlm.nih.gov/40554742/
+- Perioperative tislelizumab plus neoadjuvant chemotherapy for patients with resectable non-small-cell lung cancer: final analysis of the randomized RATIONALE-315 trial — https://pubmed.ncbi.nlm.nih.gov/41344593/
+- Longitudinal ultrasensitive ctDNA monitoring for high-resolution lung cancer risk prediction — https://pubmed.ncbi.nlm.nih.gov/41205598/
+- Ivonescimab plus chemotherapy versus tislelizumab plus chemotherapy as first-line treatment for advanced squamous non-small-cell lung cancer (HARMONi-6): a randomised, double-blind, phase 3 trial — https://pubmed.ncbi.nlm.nih.gov/41125109/
+- Alectinib versus crizotinib in previously untreated ALK-positive advanced non-small cell lung cancer: final overall survival analysis of the phase III ALEX study — https://pubmed.ncbi.nlm.nih.gov/41110693/
+- Updated Overall Survival Analysis From the Phase II PHAROS Study of Encorafenib Plus Binimetinib in Patients With BRAF V600E-Mutant Metastatic Non-Small Cell Lung Cancer — https://pubmed.ncbi.nlm.nih.gov/41109959/
+- Simultaneous Durvalumab and Platinum-Based Chemoradiotherapy in Unresectable Stage III Non-Small Cell Lung Cancer: The Phase III PACIFIC-2 Study — https://pubmed.ncbi.nlm.nih.gov/41082707/
+- Early and locally advanced non-small-cell lung cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up — https://pubmed.ncbi.nlm.nih.gov/40885528/
+- Hippocampal Avoidance During Prophylactic Cranial Irradiation for Patients With Small Cell Lung Cancer: Randomized Phase II/III Trial NRG-CC003 — https://pubmed.ncbi.nlm.nih.gov/40789106/
+- Adagrasib versus docetaxel in KRASG12C-mutated non-small-cell lung cancer (KRYSTAL-12): a randomised, open-label, phase 3 trial — https://pubmed.ncbi.nlm.nih.gov/40783289/
+- Phase III Study of Mediastinal Lymph Node Dissection for Ground Glass Opacity-Dominant Lung Adenocarcinoma — https://pubmed.ncbi.nlm.nih.gov/40690727/
+- Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, Version 2025.1 — https://pubmed.ncbi.nlm.nih.gov/40674661/
+- Adjuvant chemotherapy for stage IA-IIA non-squamous, non-small-cell lung cancer identified as molecular high-risk by a 14-gene expression profile (AIM-HIGH): an international, randomised, phase 3 trial — https://pubmed.ncbi.nlm.nih.gov/40578381/
+- Updated treatment recommendations for systemic treatment: from the ESMO oncogene-addicted metastatic NSCLC living guideline — https://pubmed.ncbi.nlm.nih.gov/40571160/
+- Efficacy and safety of first-line maintenance therapy with lurbinectedin plus atezolizumab in extensive-stage small-cell lung cancer (IMforte): a randomised, multicentre, open-label, phase 3 trial — https://pubmed.ncbi.nlm.nih.gov/40473449/
+- Tarlatamab in Small-Cell Lung Cancer after Platinum-Based Chemotherapy — https://pubmed.ncbi.nlm.nih.gov/40454646/
+- Overall Survival with Neoadjuvant Nivolumab plus Chemotherapy in Lung Cancer — https://pubmed.ncbi.nlm.nih.gov/40454642/
+- Activating Mutations in the MET Kinase Domain Co-Occur With Other Driver Oncogenes and Mediate Resistance to Targeted Therapy in NSCLC — https://pubmed.ncbi.nlm.nih.gov/40185329/
+- Taletrectinib in ROS1+ Non-Small Cell Lung Cancer: TRUST — https://pubmed.ncbi.nlm.nih.gov/40179330/
+- Cerebrospinal fluid circulating tumor DNA profiling for risk stratification and matched treatment of central nervous system metastases — https://pubmed.ncbi.nlm.nih.gov/40016451/
+- Selpercatinib in RET Fusion-Positive Non-Small Cell Lung Cancer: Final Safety and Efficacy, Including Overall Survival, From the LIBRETTO-001 Phase I/II Trial — https://pubmed.ncbi.nlm.nih.gov/39983053/
+- Perioperative Toripalimab Plus Chemotherapy for Patients With Resectable Non-Small Cell Lung Cancer: The Neotorch Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/38227033/
+- Pembrolizumab With or Without Lenvatinib for First-Line Metastatic NSCLC With Programmed Cell Death-Ligand 1 Tumor Proportion Score of at least 1% (LEAP-007): A Randomized, Double-Blind, Phase 3 Trial. — https://pubmed.ncbi.nlm.nih.gov/38159809/
+- Telisotuzumab Vedotin Monotherapy in Patients With Previously Treated c-Met Protein-Overexpressing Advanced Nonsquamous EGFR-Wildtype Non-Small Cell Lung Cancer in the Phase II LUMINOSITY Trial. — https://pubmed.ncbi.nlm.nih.gov/38843488/
+- Plinabulin plus docetaxel versus docetaxel in patients with non-small-cell lung cancer after disease progression on platinum-based regimen (DUBLIN-3): a phase 3, international, multicentre, single-blind, parallel group, randomised controlled trial. — https://pubmed.ncbi.nlm.nih.gov/39265599/
+- Zongertinib (BI 1810631), an Irreversible HER2 TKI, Spares EGFR Signaling and Improves Therapeutic Response in Preclinical Models and Patients with HER2-Driven Cancers. — https://pubmed.ncbi.nlm.nih.gov/39248702/
+- Durvalumab With or Without Tremelimumab in Combination With Chemotherapy in First-Line Metastatic NSCLC: Five-Year Overall Survival Outcomes From the Phase 3 POSEIDON Trial. — https://pubmed.ncbi.nlm.nih.gov/39243945/
+- Durvalumab Versus Chemotherapy as First-line Treatment for Metastatic NSCLC With Tumor PD-L1 Expression of 25% or Higher: Results From the Randomized Phase 3 PEARL Study. — https://pubmed.ncbi.nlm.nih.gov/39521433/
+- Capmatinib in MET exon 14-mutated non-small-cell lung cancer: final results from the open-label, phase 2 GEOMETRY mono-1 trial. — https://pubmed.ncbi.nlm.nih.gov/39362249/
+- LIBELULE: A Randomized Phase III Study to Evaluate the Clinical Relevance of Early Liquid Biopsy in Patients With Suspicious Metastatic Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/39694415/
+- Final Overall Survival and Long-Term Safety of Lorlatinib in Patients With ALK-Positive NSCLC From the Pivotal Phase 2 Study: A Brief Report. — https://pubmed.ncbi.nlm.nih.gov/39581380/
+- Perioperative tislelizumab plus neoadjuvant chemotherapy for patients with resectable non-small-cell lung cancer (RATIONALE-315): an interim analysis of a randomised clinical trial. — https://pubmed.ncbi.nlm.nih.gov/39581197/
+- Systemic Therapy for Small Cell Lung Cancer: ASCO Guideline Rapid Recommendation Update. — https://pubmed.ncbi.nlm.nih.gov/39565968/
+- Toripalimab Plus Chemotherapy as a First-Line Therapy for Extensive-Stage Small Cell Lung Cancer: The Phase 3 EXTENTORCH Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/39541202/
+- Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, Version 2024.2. — https://pubmed.ncbi.nlm.nih.gov/39531596/
+- The Phase 3 KEYLYNK-006 Study of Pembrolizumab Plus Olaparib Versus Pembrolizumab Plus Pemetrexed as Maintenance Therapy for Metastatic Nonsquamous NSCLC. — https://pubmed.ncbi.nlm.nih.gov/39521434/
+- Nivolumab plus ipilimumab versus carboplatin-based doublet as first-line treatment for patients with advanced non-small-cell lung cancer aged ≥70 years or with an ECOG performance status of 2 (GFPC 08-2015 ENERGY): a randomised, open-label, phase 3 study. — https://pubmed.ncbi.nlm.nih.gov/39486424/
+- Pembrolizumab With or Without Maintenance Olaparib for Metastatic Squamous NSCLC That Responded to First-Line Pembrolizumab Plus Chemotherapy. — https://pubmed.ncbi.nlm.nih.gov/39477187/
+- Perioperative chemotherapy and nivolumab in non-small-cell lung cancer (NADIM): 5-year clinical outcomes from a multicentre, single-arm, phase 2 trial. — https://pubmed.ncbi.nlm.nih.gov/39419061/
+- CTLA4 blockade abrogates KEAP1/STK11-related resistance to PD-(L)1 inhibitors. — https://pubmed.ncbi.nlm.nih.gov/39385035/
+- Stereotactic vs Hypofractionated Radiotherapy for Inoperable Stage I Non-Small Cell Lung Cancer: The LUSTRE Phase 3 Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/39298144/
+- Neoadjuvant pembrolizumab plus chemotherapy followed by adjuvant pembrolizumab compared with neoadjuvant chemotherapy alone in patients with early-stage non-small-cell lung cancer (KEYNOTE-671): a randomised, double-blind, placebo-controlled, phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/39288781/
+- Durvalumab after Chemoradiotherapy in Limited-Stage Small-Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/39268857/
+- Telehealth vs In-Person Early Palliative Care for Patients With Advanced Lung Cancer: A Multisite Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/39259563/
+- Comparison of platinum combination chemotherapy plus pembrolizumab versus platinum combination chemotherapy plus nivolumab-ipilimumab for treatment-naive advanced non-small-cell lung cancer in Japan (JCOG2007): an open-label, multicentre, randomised, phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/39159638/
+- High-dose hyperfractionated simultaneous integrated boost radiotherapy versus standard-dose radiotherapy for limited-stage small-cell lung cancer in China: a multicentre, open-label, randomised, phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/39146944/
+- Management of Stage III Non-Small Cell Lung Cancer: ASCO Guideline Rapid Recommendation Update. — https://pubmed.ncbi.nlm.nih.gov/39042842/
+- Benmelstobart, anlotinib and chemotherapy in extensive-stage small-cell lung cancer: a randomized phase 3 trial. — https://pubmed.ncbi.nlm.nih.gov/38992123/
+- Circulating Tumor DNA-Guided De-Escalation Targeted Therapy for Advanced Non-Small Cell Lung Cancer: A Nonrandomized Controlled Trial. — https://pubmed.ncbi.nlm.nih.gov/38869865/
+- Sacituzumab Govitecan Versus Docetaxel for Previously Treated Advanced or Metastatic Non-Small Cell Lung Cancer: The Randomized, Open-Label Phase III EVOKE-01 Study. — https://pubmed.ncbi.nlm.nih.gov/38843511/
+- Recommendations for the use of next-generation sequencing (NGS) for patients with advanced cancer in 2024: a report from the ESMO Precision Medicine Working Group. — https://pubmed.ncbi.nlm.nih.gov/38834388/
+- Stepped Palliative Care for Patients With Advanced Lung Cancer: A Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/38824442/
+- Lorlatinib Versus Crizotinib in Patients With Advanced ALK-Positive Non-Small Cell Lung Cancer: 5-Year Outcomes From the Phase III CROWN Study. — https://pubmed.ncbi.nlm.nih.gov/38819031/
+- Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, Version 2024.1. — https://pubmed.ncbi.nlm.nih.gov/38815183/
+- Perioperative Nivolumab in Resectable Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/38749033/
+- RESILIENT Part 2: A Randomized, Open-Label Phase III Study of Liposomal Irinotecan Versus Topotecan in Adults With Relapsed Small Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/38648575/
+- Alectinib in Resected ALK-Positive Non-Small-Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/38598794/
+- CONTACT-01: A Randomized Phase III Trial of Atezolizumab + Cabozantinib Versus Docetaxel for Metastatic Non-Small Cell Lung Cancer After a Checkpoint Inhibitor and Chemotherapy. — https://pubmed.ncbi.nlm.nih.gov/38552197/
+- Tislelizumab Plus Platinum and Etoposide Versus Placebo Plus Platinum and Etoposide as First-Line Treatment for Extensive-Stage SCLC (RATIONALE-312): A Multicenter, Double-Blind, Placebo-Controlled, Randomized, Phase 3 Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/38460751/
+- Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, Version 2023.3. — https://pubmed.ncbi.nlm.nih.gov/38417091/
+- First-line penpulimab combined with paclitaxel and carboplatin for metastatic squamous non-small-cell lung cancer in China (AK105-302): a multicentre, randomised, double-blind, placebo-controlled phase 3 clinical trial. — https://pubmed.ncbi.nlm.nih.gov/38309287/
+- Iruplinalkib (WX-0593) Versus Crizotinib in ALK TKI-Naive Locally Advanced or Metastatic ALK-Positive NSCLC: Interim Analysis of a Randomized, Open-Label, Phase 3 Study (INSPIRE). — https://pubmed.ncbi.nlm.nih.gov/38280448/
+- Repotrectinib in ROS1 Fusion-Positive Non-Small-Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/38197815/
+- A global phase 3 study of serplulimab plus chemotherapy as first-line treatment for advanced squamous non-small-cell lung cancer (ASTRUM-004). — https://pubmed.ncbi.nlm.nih.gov/38181795/
+
+## approvals-access (5)
+
+- FDA approves zidesamtinib for ROS1-positive non-small cell lung cancer — https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-zidesamtinib-ros1-positive-non-small-cell-lung-cancer
+- FDA grants accelerated approval to zongertinib for HER2 (ERBB2) TKD-mutant non-squamous NSCLC — https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-zongertinib-unresectable-or-metastatic-non-squamous-non-small-cell
+- CHMP positive opinion: Imdylltra (tarlatamab) for extensive-stage small cell lung cancer — https://www.ema.europa.eu/en/documents/smop-initial/chmp-summary-positive-opinion-imdylltra_en.pdf
+- CHMP positive opinion: Imfinzi (durvalumab) variation for resectable NSCLC at high risk of recurrence — https://www.ema.europa.eu/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-imfinzi-ema-vr-0000282058_en.pdf
+- Beslutningsforum for nye metoder, 16 March 2026 (Norway) — https://www.nyemetoder.no/49597e/contentassets/1deaee85578f4fc386b34ddd596e593e/offentlige-sakspapirer-beslutningsforum-16.-mars-2026.pdf
+
+## lung-nonpharm (20)
+
+- A 12-Week Structured Antioxidant-Focused Dietary Intervention Improves Cognitive Function and Oxidative Stress Biomarkers in Lung Cancer Patients with Cancer-Related Cognitive Impairment: A Randomized Controlled Trial. — https://pubmed.ncbi.nlm.nih.gov/42650196/
+- Behavioral speech therapy intervention can improve the postoperative pain and performance status of lung cancer patients undergoing thoracoscopic surgery. — https://pubmed.ncbi.nlm.nih.gov/42611082/
+- Effectiveness of an Interdisciplinary Integrated Care Model on Perioperative Outcomes in Patients Undergoing Lung Cancer Surgery: A Randomized Controlled Trial. — https://pubmed.ncbi.nlm.nih.gov/42503044/
+- Holistic oncologic management improves quality of life in driver gene negative advanced NSCLC a latent growth curve modeling study. — https://pubmed.ncbi.nlm.nih.gov/42437787/
+- Effects of Telerehabilitation Based on Motion Recognition Technology on Exercise Endurance of Patients With Non-Small Cell Lung Cancer After Surgery: Single-Center, Prospective, Open-Label, Randomized Controlled Trial. — https://pubmed.ncbi.nlm.nih.gov/42373087/
+- Effects of CALM-based psycho-oncological counseling on the emotional well-being of relatives of people living with lung cancer: Results of a randomized controlled trial. — https://pubmed.ncbi.nlm.nih.gov/42186802/
+- Perioperative Normobaric Hyperoxia Combined With Pulmonary Rehabilitation Intervention for Enhanced Short-Term Recovery in Lung Cancer Surgery. — https://pubmed.ncbi.nlm.nih.gov/42120327/
+- Impact of the Oncologist's Recommendation on Exercise Levels and Quality of Life in Patients With Lung Cancer: The ORE Randomized Controlled Trial. — https://pubmed.ncbi.nlm.nih.gov/42036773/
+- Pre-diagnosis recreational physical activity and lung cancer survival within the California teachers study. — https://pubmed.ncbi.nlm.nih.gov/42018036/
+- Effect of preoperative respiratory prehabilitation on cardiopulmonary function in patients undergoing lung resection for non-small cell lung cancer: a randomized controlled trial. — https://pubmed.ncbi.nlm.nih.gov/42010447/
+- Effectiveness of mindfulness-based stress reduction in managing fatigue, anxiety, and depression among non-small cell lung cancer patients receiving surgery and adjuvant chemotherapy: A randomized controlled trial. — https://pubmed.ncbi.nlm.nih.gov/41931358/
+- Leisure-Time Physical Activity and Cancer Mortality Among Cancer Survivors — https://pubmed.ncbi.nlm.nih.gov/41701497/
+- Effects of 2 Rehabilitation Protocols on Pulmonary Function in Lung Cancer Patients After Thoracoscopic Surgery: A Randomized Controlled Trial of Baduanjin Versus Bedside Cycle Ergometer Training — https://pubmed.ncbi.nlm.nih.gov/41632620/
+- Nurse-supported hybrid home-based pulmonary rehabilitation improves psychological distress, quality of life, and functional performance in advanced lung cancer: A randomized controlled trial — https://pubmed.ncbi.nlm.nih.gov/41666769/
+- Randomized controlled trial: Synergistic effect of three-ball mindfulness breathing rehabilitation training following pulmonary lobectomy for lung cancer — https://pubmed.ncbi.nlm.nih.gov/41739224/
+- The Society of Thoracic Surgeons (2025) Expert Consensus Document on Interventions for Screen-Detected Lung Nodules — https://pubmed.ncbi.nlm.nih.gov/41633462/
+- Intelligent Breathing Training Using a Digital Device for Postoperative Lung Cancer Patients: A Randomized Controlled Trial. — https://pubmed.ncbi.nlm.nih.gov/41506643/
+- Long-Term Effects of High-Intensity Training after Lung Cancer Surgery-A 5-Yr Follow-Up of a Randomized Controlled Trial. — https://pubmed.ncbi.nlm.nih.gov/41851742/
+- A multidisciplinary comfort-enhanced recovery after surgery program improves perioperative patient-reported outcomes after lung cancer surgery: a randomized controlled trial. — https://pubmed.ncbi.nlm.nih.gov/41816488/
+- Association of Sleep-Related Hypoxemia With Survival in Patients With Non-Small Cell Lung Cancer: The NEOSAS Groupe Français de Pneumo-Cancérologie Study Group. — https://pubmed.ncbi.nlm.nih.gov/41812988/
+
+## lung-mrna (7)
+
+- RGL-270 + ICI in Advanced NSCLC — https://clinicaltrials.gov/study/NCT07652125
+- Universal Immunization to Fortify Immunotherapy Efficacy and Response — https://clinicaltrials.gov/study/NCT07597070
+- Inhaled mRNA Tumor-associated Antigen Dry Powder Vaccine in Advanced Lung Cancer and Lung Metastasis of Solid Tumors. — https://clinicaltrials.gov/study/NCT06928922
+- Safety and Tolerability of CVHNLC Plus Pembrolizumab in Patients With Squamous Non Small-Cell Lung Cancer (sqNSCLC) — https://clinicaltrials.gov/study/NCT07073183
+- A Study of mRNA-5671/V941 as Monotherapy and in Combination With Pembrolizumab (V941-001) — https://clinicaltrials.gov/study/NCT03948763
+- MRNA Neoantigen Vaccine in Non-Small Cell Lung Cancer — https://clinicaltrials.gov/study/NCT06735508
+- Personalized Neoantigen MRNA Vaccine Combined with Adebrelimab in Non-Small Cell Lung Cancer Patients — https://clinicaltrials.gov/study/NCT06685653
+
+## lung-repurposed (29)
+
+- Reduced Risk of Lung Cancer Associated With Sodium-Glucose Cotransporter-2 Inhibitors in Patients With COPD and Type 2 Diabetes Mellitus. — https://pubmed.ncbi.nlm.nih.gov/42508725/
+- Use of PCSK9 Inhibitors Among Patients Receiving Immune Checkpoint Inhibitors for Cancer. — https://pubmed.ncbi.nlm.nih.gov/42213438/
+- Association between Statin Use and the Risk of Colorectal, Liver, and Lung Cancers: A Population-Based Retrospective Cohort Study. — https://pubmed.ncbi.nlm.nih.gov/42030927/
+- Protective effect of H1 antihistamine against lung cancer in patients with allergic diseases: A global federated health network analysis. — https://pubmed.ncbi.nlm.nih.gov/41946436/
+- Impact of NSAID type, initiation timing, duration and dose on clinical outcomes of immunotherapy in NSCLC: a multicenter two-cohort study. — https://pubmed.ncbi.nlm.nih.gov/41922087/
+- Toripalimab Combined With Platinum-based Chemotherapy With or Without H1 Receptor Antagonist in the Perioperative Treatment of Resectable Non-small Cell Lung Cancer — https://clinicaltrials.gov/study/NCT07358689
+- The effect of common medications on the efficacy of immune checkpoint inhibitors. — https://pubmed.ncbi.nlm.nih.gov/41390939/
+- The impact of β-blockers on outcomes of immune checkpoint inhibitors therapy in advanced lung cancer: a multicenter real-world study. — https://pubmed.ncbi.nlm.nih.gov/41194930/
+- Repurposing Cardiac Glycosides to Potentiate CD47 Blockade through Calreticulin-mediated Phagocytic Effects for Lung Cancer Treatment. — https://pubmed.ncbi.nlm.nih.gov/40985476/
+- Synergistic anti-tumor effect of fenbendazole and diisopropylamine dichloroacetate in immunodeficient BALB/c nude mice transplanted with A549 lung cancer cells. — https://pubmed.ncbi.nlm.nih.gov/40799435/
+- Post-diagnosis statin use and survival among lung cancer patients in the Military Health System. — https://pubmed.ncbi.nlm.nih.gov/40743913/
+- Association Between Metformin Use and Mortality Among Individuals With Non-Small Cell Lung Cancer Receiving Immune Checkpoint Inhibitors: A Retrospective Cohort Study. — https://pubmed.ncbi.nlm.nih.gov/40548761/
+- Morphine and metformin impact immunotherapy benefit in patients with NSCLC: Results of the real-world study IFCT-1502 CLINIVO-SNDS. — https://pubmed.ncbi.nlm.nih.gov/40532471/
+- Statin and Immune-Related Cardiovascular Events in Lung Cancer Patients Receiving Immune Checkpoint Inhibitors. — https://pubmed.ncbi.nlm.nih.gov/40398400/
+- Disulfiram potentiates cisplatin-induced apoptosis in small cell lung cancer via the inhibition of cystathionine β-synthase and H2S. — https://pubmed.ncbi.nlm.nih.gov/40371164/
+- Antihistamines Improve the Survival of Lung Cancer: A 10-Year Cohort Study of Tertiary Hospital in Taiwan. — https://pubmed.ncbi.nlm.nih.gov/40159404/
+- Enhancing PD-1 blockade in NSCLC: Reprogramming tumor immune microenvironment with albumin-bound statins targeting lipid rafts and mitochondrial respiration. — https://pubmed.ncbi.nlm.nih.gov/40124597/
+- Statin Use With Immune Checkpoint Inhibitors and Survival in Nonsmall Cell Lung Cancer. — https://pubmed.ncbi.nlm.nih.gov/39818516/
+- Statin use after cancer diagnosis and survival among patients with cancer. — https://pubmed.ncbi.nlm.nih.gov/39719543/
+- Hydroxychloroquine in combination with platinum doublet chemotherapy as first-line treatment for extensive-stage small cell lung cancer (Study 15): A randomised phase II multicentre trial. — https://pubmed.ncbi.nlm.nih.gov/39693892/
+- Preclinical studies on the antitumor and non-toxic effect of combining pirfenidone with vinorelbine and carboplatin in non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/39630019/
+- Obesity-specific improvement of lung cancer outcomes and immunotherapy efficacy with metformin. — https://pubmed.ncbi.nlm.nih.gov/39560490/
+- Association of concomitant H1 antihistamine and immune checkpoint inhibitor therapy on survival outcome and safety in patients with advanced primary lung cancer: a cohort study. — https://pubmed.ncbi.nlm.nih.gov/39507043/
+- Treatment with trimetazidine dihydrochloride and lung cancer survival: Implications on metabolic re-programming. — https://pubmed.ncbi.nlm.nih.gov/39490205/
+- The association of azole antifungals with overall survival in patients with non-small cell lung cancer receiving immune checkpoint inhibitors. — https://pubmed.ncbi.nlm.nih.gov/39321212/
+- Statin therapy enhances survival in unresectable stage III lung squamous cell carcinoma with concurrent chemoradiotherapy. — https://pubmed.ncbi.nlm.nih.gov/39005681/
+- Loratidine is associated with improved prognosis and exerts antineoplastic effects via apoptotic and pyroptotic crosstalk in lung cancer. — https://pubmed.ncbi.nlm.nih.gov/38163866/
+- Metformin in Conjunction With Stereotactic Radiotherapy for Early-stage Non-small Cell Lung Cancer: Long-term Results of a Prospective Phase II Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/38159979/
+- Study of Tislelizumab and Platinum-based Chemotherapy Combination With H1 Receptor Antagonist（Diphenhydramine）in Advanced and Metastatic Non-Small Cell Lung Cancer — https://clinicaltrials.gov/study/NCT06704620
+
+## car-t-solid (244)
+
+- Efficacy and immunomodulatory effect of Claudin18.2-specific IL-7/XCL1 armored CAR-T cells in digestive tract cancer: preclinical and clinical analysis. — https://pubmed.ncbi.nlm.nih.gov/41803093/
+- Tumor inflammation-associated neurotoxicity in children with diffuse intrinsic pontine glioma receiving B7-H3-targeting CAR T cells on BrainChild-03. — https://pubmed.ncbi.nlm.nih.gov/41798119/
+- Phase I Trial of P-PSMA-101 CAR T Cells in Patients with Metastatic Castration-Resistant Prostate Cancer. — https://pubmed.ncbi.nlm.nih.gov/41779004/
+- Allogeneic B7-H3-Targeted CAR Vδ1T-cell Therapy in Advanced Solid Tumors: A Phase I Study. — https://pubmed.ncbi.nlm.nih.gov/41779003/
+- Hypoxia-responsive CEA-targeted CAR T cells in CEA-positive solid tumors through intraperitoneal or intravenous infusion: a phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/41760800/
+- T-cell receptor-like chimeric antigen receptor T cells targeting mesothelin: A first-in-human dose-escalation trial for platinum-resistant advanced ovarian cancer. — https://pubmed.ncbi.nlm.nih.gov/41575866/
+- Phase 1 study of autologous T cells bearing fully human chimeric antigen receptors targeting mesothelin in mesothelin-expressing cancers. — https://pubmed.ncbi.nlm.nih.gov/41566776/
+- Intrathecal CRISPR-edited allogeneic IL-13Rα2 CAR T Cells for recurrent high-grade Glioma: preclinical characterization and phase I trial. — https://pubmed.ncbi.nlm.nih.gov/41495049/
+- Safety and efficacy of JWATM204, a novel Glypican-3 (GPC3)-targeted CAR T cell therapy for advanced hepatocellular carcinoma: A phase I dose-escalation study. — https://pubmed.ncbi.nlm.nih.gov/41859477/
+- T cell receptor gene therapy targeting KRAS G12V for advanced pancreatic cancer in a single-arm phase 1/2 clinical trial. — https://pubmed.ncbi.nlm.nih.gov/41814655/
+- First CAR T-Cell Therapy Approved for Solid Tumors. — https://pubmed.ncbi.nlm.nih.gov/42478469/
+- Nonarmored GCC-Targeting CAR T-cell Therapy Demonstrates Significant Efficacy in Patients with Advanced Colorectal Cancer. — https://pubmed.ncbi.nlm.nih.gov/42467218/
+- Anti-CAR Immunity Drives Acquired Therapeutic Resistance to GD2-CAR T Cell Therapy in Diffuse Midline Glioma. — https://pubmed.ncbi.nlm.nih.gov/42465905/
+- GPC3-specific dnTGFβRII-armoured CAR T cells for hepatocellular carcinoma. — https://pubmed.ncbi.nlm.nih.gov/42457964/
+- Allogeneic CD70-Targeted Chimeric Antigen Receptor T-Cell Therapy for Advanced Renal Cell Carcinoma: Results From the Phase I TRAVERSE Trial. — https://pubmed.ncbi.nlm.nih.gov/42447427/
+- CAR T cell therapy for solid cancer scores first approval in China. — https://pubmed.ncbi.nlm.nih.gov/42420532/
+- GPNMB-directed CAR T cell therapy against MiT/TFE-family fusion-driven solid tumors. — https://pubmed.ncbi.nlm.nih.gov/42387022/
+- Early evidence of the efficacy of TCR-T therapy targeting the G12V mutation in patients with advanced pancreatic cancer. — https://pubmed.ncbi.nlm.nih.gov/42330943/
+- The First-in-Human ENCIT01 Trial Comparing Second- versus Third-Generation L1CAM-specific CAR T Cells in Patients with Primary Refractory or Relapsed Neuroblastoma. — https://pubmed.ncbi.nlm.nih.gov/42312971/
+- The critical role of the endogenous immune compartment after CAR T cell therapy in recurrent GBM. — https://pubmed.ncbi.nlm.nih.gov/42296961/
+- Guanylyl Cyclase 2C-Targeted Chimeric Antigen Receptor T-Cell Therapy in Patients With Metastatic Colorectal Cancer. — https://pubmed.ncbi.nlm.nih.gov/42241671/
+- Intrathecal Allogeneic B7-H3-Targeted CAR γδ T Cells for Leptomeningeal Metastasis from Solid Tumors: Safety, Efficacy, and Immunologic Dynamics in a Phase I Trial. — https://pubmed.ncbi.nlm.nih.gov/42207176/
+- Autologous T-cell antigen coupler targeting HER2 (TAC01-HER2) in advanced or metastatic solid tumors. — https://pubmed.ncbi.nlm.nih.gov/42177028/
+- Autologous Glypican-3-Targeted, Armored CAR T Cells in Patients with Advanced Solid Tumors: A Phase 1 Dose-Escalation Study of TAK-102. — https://pubmed.ncbi.nlm.nih.gov/42709571/
+- ICAM1-targeted costimulation extends HER2 CAR T cytotoxicity to HER2-low and HER2-negative tumors through synergy with TCR signaling. — https://pubmed.ncbi.nlm.nih.gov/42602300/
+- Phase I trial of IL13Rα2-targeted CAR-T cell therapy for recurrent malignant glioma: clinical results and pharmacokinetics. — https://pubmed.ncbi.nlm.nih.gov/42550847/
+- Intracranial delivery of B7-H3-targeting CAR-T cells for recurrent glioblastoma: a phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/42562965/
+- Intracerebroventricular B7-H3-targeting CAR T cells for non-pontine DMG and recurrent/refractory pediatric CNS tumors: a phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/42503899/
+- An Open-label, Single-arm Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetic Profile, and Preliminary Efficacy of KT032 Cell Injection in Patients With Mesothelin-positive Advanced Solid Tumors. — https://clinicaltrials.gov/study/NCT07420010
+- Exploratory Clinical Study of Targeted Activated DC and CAR-T Therapy in Advanced Solid Cancers — https://clinicaltrials.gov/study/NCT07475182
+- A Study Evaluating the Immunotherapy Treatment for Ovarian Cancer and Other Advanced Malignancies. — https://clinicaltrials.gov/study/NCT07389239
+- Adaptive Phase 1/2 Study of Dual-Target CAR-NK Cells in Relapsed/Refractory Small Cell Lung Cancer (SCLC) — https://clinicaltrials.gov/study/NCT07744256
+- FORTRAS: A Study of MSK-TCR5 in People With Solid Tumor Cancers — https://clinicaltrials.gov/study/NCT07638371
+- Dual-Target CAR-NK Cells in Recurrent or Refractory Epithelial Ovarian Cancer — https://clinicaltrials.gov/study/NCT07589543
+- T Cell Receptor Gene-Engineered and Dominant Negative TGF-β Receptor T Cell Therapy Targeting KRAS Mutations in the Treatment of Subjects With Advanced Solid Tumor — https://clinicaltrials.gov/study/NCT07474168
+- A Study to Evaluate DJI136, a DLL3-targeted CAR-T Therapy — https://clinicaltrials.gov/study/NCT07564401
+- Illuminate: A Clinical Study Evaluating CAR T Immune Cell Therapy (BCB-276) for Patients With Diffuse Intrinsic Pontine Glioma (DIPG). — https://clinicaltrials.gov/study/NCT07680439
+- A Study to Test the Safety, Tolerability and Effect of ZI-MA4-1 for Patients With Locally Advanced or Metastatic Solid Malignancies — https://clinicaltrials.gov/study/NCT07613723
+- TCR-T Cell Therapy for KRAS Mutation in Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT07342738
+- Dual-Target MSLN/FAP CAR-NK Cells for Pleural and Peritoneal Mesothelioma — https://clinicaltrials.gov/study/NCT07510815
+- Dual-Target GD2/B7-H3 CAR-NK Cells for Pediatric Relapsed or Refractory Neuroblastoma — https://clinicaltrials.gov/study/NCT07502287
+- To Evaluate the Safety and Tolerability of Anti-Human CD70 T-Cell Injection in Subjects With Advanced/Metastatic Renal Cancer — https://clinicaltrials.gov/study/NCT07647744
+- Multi-modular Chimeric Antigen Receptor T Cells tarGeting B7-H3 in Children, Teenage & Young Adult Sarcoma — https://clinicaltrials.gov/study/NCT07751380
+- Dual-target CD70/CAIX CAR-NK Cells for Advanced Clear Cell Renal Cell Carcinoma — https://clinicaltrials.gov/study/NCT07551349
+- Dual-Target CSPG4/GD2 CAR-NK Cells for Advanced Melanoma — https://clinicaltrials.gov/study/NCT07627698
+- Adaptive Phase 1/2 Study of Dual-Target CAR-NK Cells in Relapsed/Refractory Small Cell Lung Cancer (SCLC) — https://clinicaltrials.gov/study/NCT07480213
+- Autologous B7-H3 Chimeric Antigen Receptor T Cells in Previously Treated Extensive-Stage Small Cell Lung Cancer With Recurrent or Refractory Disease — https://clinicaltrials.gov/study/NCT07509034
+- Biomarker-Guided Allogeneic Single-Target or Dual-Target CAR-NK Cell Therapy for Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT07410494
+- B7-H3.CD28Z.CART in CNS Neoplasms — https://clinicaltrials.gov/study/NCT07390539
+- TCR1188-ABC Cells in KRAS-mutated Cancers — https://clinicaltrials.gov/study/NCT07594067
+- Treatment of Patients With Advanced Solid Tumors Using CRTKVA11-03 TCR-T Cell Injection — https://clinicaltrials.gov/study/NCT07826585
+- GPC3 CAR T Cells With IL-15 and IL-21 for Recurrent ATRT and CNS Rhabdoid Tumors (RADIANT) — https://clinicaltrials.gov/study/NCT07513194
+- EGFR/HER2 Dual-Target CAR-NK Cells for Recurrent or Metastatic HNSCC — https://clinicaltrials.gov/study/NCT07617805
+- A Study of Dose Escalation of ES502 in Patients With Advanced Pancreatic Cancer — https://clinicaltrials.gov/study/NCT07649928
+- Clinical Study of the Safety and Efficacy of Allogeneic TCR-enhanced Vδ2 T Cell in Patients With Malignant Tumors. — https://clinicaltrials.gov/study/NCT07570563
+- Dual-Targeting CAR-NK Cells for Recurrent Ovarian Cancer (MSLN, FRα, MUC16) — https://clinicaltrials.gov/study/NCT07480954
+- A Phase1 Clinical Trial Evaluating Locoregional Delivery Of Engineered NK Cells Containing IL13Ra And EGFvIII Chimeric Antigen Receptor (CAR), IL-21 Secretion And Deleted TGF-BetaR2 And NR3C1 In Recurrent Glioblastoma — https://clinicaltrials.gov/study/NCT07579208
+- Dual-Target HER2/CEA CAR-NK Cells in Advanced Biliary Tract Cancer — https://clinicaltrials.gov/study/NCT07641036
+- Dual-Targeting CAR-NK Cells in Biomarker-Selected Advanced Colorectal Cancer — https://clinicaltrials.gov/study/NCT07589517
+- Dual-Target GPC3/B7-H3 CAR-NK Cells for Advanced HCC — https://clinicaltrials.gov/study/NCT07500220
+- PRISM-NK: Precision-Matched Allogeneic Single- or Dual-Target CAR-NK Cells for Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT07510828
+- First-in Cancer-Type Phase I Study of FT536 for Recurrent WHO Grade 4 Astrocytoma — https://clinicaltrials.gov/study/NCT07560865
+- Dual-Targeting CAR-NK Cells for Recurrent/Progressive Glioblastoma and High-Grade Glioma — https://clinicaltrials.gov/study/NCT07480941
+- Dual-Target Nectin-4/HER2 CAR-NK Cells in Advanced Urothelial Carcinoma — https://clinicaltrials.gov/study/NCT07492628
+- An Open-Label, Phase I Clinical Trial of Super CAR-T With GPC3-Positive Advanced Hepatocellular Carcinoma — https://clinicaltrials.gov/study/NCT07493044
+- Dual-Targeting CAR-NK Cells for Recurrent Ovarian Cancer (MSLN, FRα, MUC16) pt2 — https://clinicaltrials.gov/study/NCT07617753
+- Target-Selected CAR-NK Cells (CD30, CD5, or Mesothelin) for Relapsed/Refractory B2 Thymoma or Thymic Carcinoma — https://clinicaltrials.gov/study/NCT07598955
+- A Phase I Platform Study of Target-Based Screened CAR-Macrophages for the Treatment of Advanced Malignant Tumors — https://clinicaltrials.gov/study/NCT07409766
+- Safety, Pharmacokinetics, Pharmacodynamics and Preliminary Efficacy of MT-304 in Adults With Advanced HER2-Expressing Solid Tumors — https://clinicaltrials.gov/study/NCT07334119
+- Dual-Target CAR-NK Cells for Advanced Breast Cancer (HER2+ and TNBC) — https://clinicaltrials.gov/study/NCT07486089
+- A First-in-human (FIH), Phase 1 Study of ML261, an Autologous Potency Enhanced Anti-DLL3 CAR T Cell Therapy, in Participants With R/R SCLC or Select NECs (SPECTRAL-1) — https://clinicaltrials.gov/study/NCT07488923
+- Dual-Targeting CAR-NK Cells for Recurrent/Progressive Glioblastoma and High-Grade Glioma — https://clinicaltrials.gov/study/NCT07551336
+- Dual-Target CAR-NK Cells for Advanced Breast Cancer HER2+ TNBC — https://clinicaltrials.gov/study/NCT07510802
+- Phase 1/2 Study of EB-NK-301 (Allogeneic TROP2-CAR NK Cells) in Advanced TROP2-Expressing Solid Tumors — https://clinicaltrials.gov/study/NCT07589530
+- Dual-Target CAR-NK Cells for Biomarker-Selected Advanced Colorectal Cancer — https://clinicaltrials.gov/study/NCT07462650
+- Intermediate-size IND for Treatment of Patients With Advanced Cancer Using T Cells Engineered to Express TCR Targeting Mutant KRAS — https://clinicaltrials.gov/study/NCT07614048
+- Phase 1 Study Of TROP2 CAR/IL-15 TGFBR2 KO NK Cell In Patients With Oral Premalignant Lesions — https://clinicaltrials.gov/study/NCT07631013
+- Dual Administration Of Intraperitoneal And Intravenous TROP2-Directed CAR-NK With TGF-Beta Receptor 2 (TGFBR2) Knock Out (KO) Therapy For Colorectal Cancer-Related Peritoneal Carcinomatosis: A Phase 1/2 Trial ("Chip-CRC Trial") — https://clinicaltrials.gov/study/NCT07411599
+- Administering Peripheral Blood Lymphocytes Transduced With a Murine T-Cell Receptor Recognizing the G12D Variant of Mutated RAS in HLA-A*11:01 Patients — https://clinicaltrials.gov/study/NCT03745326
+- A Study of TAK-103 in Adult With Solid Tumors — https://clinicaltrials.gov/study/NCT05164666
+- Interleukin-15 Armored Glypican 3-specific Chimeric Antigen Receptor Expressed in T Cells for Pediatric Solid Tumors — https://clinicaltrials.gov/study/NCT04377932
+- MAGE-A4ᶜ¹º³²T for Multi-Tumor — https://clinicaltrials.gov/study/NCT03132922
+- E7 TCR T Cells for Human Papillomavirus-Associated Cancers — https://clinicaltrials.gov/study/NCT02858310
+- AFPᶜ³³²T in Advanced HCC — https://clinicaltrials.gov/study/NCT03132792
+- Locoregional infusion of EGFR806-CAR T cells for recurrent or refractory pediatric CNS tumors: Results of the completed BrainChild02 phase 1 clinical trial. — https://pubmed.ncbi.nlm.nih.gov/40070357/
+- Long-term outcomes of GD2-directed CAR-T cell therapy in patients with neuroblastoma. — https://pubmed.ncbi.nlm.nih.gov/39962287/
+- CAR-macrophage therapy for HER2-overexpressing advanced solid tumors: a phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/39920391/
+- Donor-derived GD2-specific CAR T cells in relapsed or refractory neuroblastoma. — https://pubmed.ncbi.nlm.nih.gov/39815015/
+- The high efficacy of claudin18.2-targeted CAR-T cell therapy in advanced pancreatic cancer with an antibody-dependent safety strategy. — https://pubmed.ncbi.nlm.nih.gov/39797399/
+- Intracerebroventricular B7-H3-targeting CAR T cells for diffuse intrinsic pontine glioma: a phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/39775044/
+- Human cancer-targeted immunity via transgenic hematopoietic stem cell progeny. — https://pubmed.ncbi.nlm.nih.gov/40593578/
+- IND-Enabling Studies for a TCR-T Targeting a Pancreatic Cancer KRASG12V Mutation. — https://pubmed.ncbi.nlm.nih.gov/40586688/
+- Claudin-18 isoform 2-specific CAR T-cell therapy (satri-cel) versus treatment of physician's choice for previously treated advanced gastric or gastro-oesophageal junction cancer (CT041-ST-01): a randomised, open-label, phase 2 trial. — https://pubmed.ncbi.nlm.nih.gov/40460847/
+- Intracerebroventricular bivalent CAR T cells targeting EGFR and IL-13Rα2 in recurrent glioblastoma: a phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/40451950/
+- Intraperitoneal infusion of NKG2D CAR-NK cells induces endogenous CD8+ T cell activation in patients with advanced colorectal cancer. — https://pubmed.ncbi.nlm.nih.gov/40437757/
+- Preliminary exploration of PSMA CAR-T combined with GD2 CAR-T for the treatment of refractory/relapsed gliomas. — https://pubmed.ncbi.nlm.nih.gov/40420236/
+- Peripheral blood neutrophils contribute to Claudin18.2-specific CAR-T cell treatment resistance in advanced gastric cancer. — https://pubmed.ncbi.nlm.nih.gov/40246985/
+- Autologous T cell therapy for PRAME+ advanced solid tumors in HLA-A*02+ patients: a phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/40205198/
+- Intraperitoneal CAR T-cell therapy for peritoneal carcinomatosis from gastroesophageal cancer: preclinical investigations to a phase I clinical trial (NCT06623396). — https://pubmed.ncbi.nlm.nih.gov/40954076/
+- Trial in progress: phase I study of non-viral gene-modified CAR-T cell therapy for malignant solid tumors expressing EPHB4 receptor (CARTiEr). — https://pubmed.ncbi.nlm.nih.gov/40842575/
+- GD2-targeting CAR T cells in high-risk neuroblastoma: a phase 1/2 trial. — https://pubmed.ncbi.nlm.nih.gov/40841488/
+- Clinical and molecular dissection of CAR T cell resistance in pancreatic cancer. — https://pubmed.ncbi.nlm.nih.gov/40829595/
+- Chlorotoxin-directed CAR T cell therapy for recurrent glioblastoma: Interim clinical experience demonstrating feasibility and safety. — https://pubmed.ncbi.nlm.nih.gov/40818458/
+- Phase I trial of ADP-A2AFP TCR T-cell therapy in patients with advanced hepatocellular or gastric hepatoid carcinoma. — https://pubmed.ncbi.nlm.nih.gov/40812667/
+- Clinical results of an HBV-specific T-cell receptor-T-cell therapy (SCG101) in patients with HBV-related hepatocellular carcinoma treated in an investigator-initiated, interventional trial. — https://pubmed.ncbi.nlm.nih.gov/40803751/
+- Preclinical development and a phase 1 trial of IMC001, an EpCAM-targeted CAR-T cell therapy, in patients with advanced gastric cancer. — https://pubmed.ncbi.nlm.nih.gov/40785185/
+- HBV-Specific TCR-T Cell Therapy Combining mRNA Electroporation and Lentiviral Transduction: Treatment Regimen for Recurrent HBV-Related HCC after Liver Transplantation. — https://pubmed.ncbi.nlm.nih.gov/40705079/
+- GD2-CAR T Cell Therapy for H3K27M + Diffuse Intrinsic Pontine Glioma: A Phase I Clinical Trial and Mechanistic Insights. — https://pubmed.ncbi.nlm.nih.gov/40682569/
+- On-target/off-tumor toxicities following infusion of low-affinity Nectin-4-specific CAR T cells. — https://pubmed.ncbi.nlm.nih.gov/41346111/
+- Optimized CART Cell Therapy for Metastatic Aggressive Thyroid Cancer. — https://pubmed.ncbi.nlm.nih.gov/41332751/
+- Impact of concomitant medications on efficacy of CLDN18.2-specific CAR-T cell therapy in advanced gastric cancer. — https://pubmed.ncbi.nlm.nih.gov/41318814/
+- Anti-PD-1 Nanobody-Armored MSLN CAR-T Therapy for Malignant Mesothelioma: Preclinical and Clinical Studies. — https://pubmed.ncbi.nlm.nih.gov/41134065/
+- A phase I trial of combination CAR-NK92MI immunotherapy by dual targeting MUC-1 and PD-L1 for patients with relapsed or refractory solid tumors: focus on non-small cell lung cancer. — https://pubmed.ncbi.nlm.nih.gov/41121171/
+- NKG2D CAR-NK adoptive cellular immunotherapy combined with or without PD-1 blockade in the treatment of patients with metastatic colorectal cancer: an exploratory study. — https://pubmed.ncbi.nlm.nih.gov/41117996/
+- Cytokine Armored GPC3 Specific Chimeric Antigen Receptor Expressing T-cells in Adults With Solid Tumors — https://clinicaltrials.gov/study/NCT07224568
+- Intracranial Genetically Modified Immune Cells (TGFβR2KO/IL13Rα2 CAR T-Cells) for the Treatment of Recurrent or Progressive Glioblastoma or Grade 3 or 4 IDH-Mutant Astrocytoma — https://clinicaltrials.gov/study/NCT06815029
+- Clinical Study on Chimeric Antigen Receptor T Lymphocyte (CAR-T) Targeting CEA for the Treatment of CEA - Positive Advanced Lung Cancer — https://clinicaltrials.gov/study/NCT06945523
+- A Clinical Trial of CEA Targeting CAR-T for CEA Positive Advanced Lung Cancer — https://clinicaltrials.gov/study/NCT06768151
+- Mesothelin and Claudin 18.2 Dual-Target CAR-T Therapy in Advanced Pancreatic Cancer — https://clinicaltrials.gov/study/NCT07066995
+- PHOX2B PC-CAR T Cells for Relapsed Neuroblastoma — https://clinicaltrials.gov/study/NCT07007117
+- Anti-CEA CAR-T for Advanced CEA-Positive Lung Carcinoma — https://clinicaltrials.gov/study/NCT06903117
+- CEA-Targeted CAR-T Therapy in CEA-Positive Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT07179692
+- Immunotherapy for Solid Tumor Malignancies in Pediatrics Using Interleukin-15 and -21 Armored Glypican-3-specific Chimeric Antigen Receptor T Cells — https://clinicaltrials.gov/study/NCT07148050
+- NY-ESO-1-redirected T Cells in Patients With Advanced Melanoma and Sarcoma — https://clinicaltrials.gov/study/NCT06889766
+- A Study of CEA-Targeted CAR-T Therapy in Patients With CEA-Positive Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT07250386
+- Autologous HBV-TCR T Cell Therapy (LioCyx-M) for the Treatment of Hepatocellular Carcinoma — https://clinicaltrials.gov/study/NCT06961617
+- Hepatic Artery Transfusion of NKG2D CAR-NK Cells Followed by Intravenous Infusion of NKG2D CAR-T Cells to Treat Patients With Advanced Solid Tumors With Liver Metastases Who Have Failed Standard Treatments: a Phase I Exploratory Clinical Trial — https://clinicaltrials.gov/study/NCT07021534
+- KRAS-Specific Autologous TCR-T Cell Therapy for KRAS Mutation in Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT06767046
+- NW-301 TCR-T in Patients With Advanced Solid Tumor — https://clinicaltrials.gov/study/NCT06956261
+- NG2 and DLL3 CAR-T Cells Targeting Melanoma — https://clinicaltrials.gov/study/NCT07193966
+- NKG2D.Zeta-NK Cell Conditioning With C7R.GD2.CAR-T Cells for Patients With Relapsed or Refractory Osteosarcoma or Neuroblastoma — https://clinicaltrials.gov/study/NCT07211737
+- A Study to Determine the Safety and Effectiveness of the Investigational Cellular Therapy GCAR1 in a Patient With Alveolar Soft Part Sarcoma — https://clinicaltrials.gov/study/NCT07104682
+- CD318-targeted CAR-T Cell Therapy in Patients With Pancreatic Cancer (ResCPa) — https://clinicaltrials.gov/study/NCT07153289
+- This Study is an Open-lable, Early Study to Evaluate the Safety, Feasibility, Cytokinetics, and Preliminary Efficacy of GC511B in DLL3+ Relapsed/Refractory Small Cell Lung Cancer. — https://clinicaltrials.gov/study/NCT07249879
+- Study of hALK.CAR T Cells for Patients With Relapsed/Refractory High-risk Neuroblastoma — https://clinicaltrials.gov/study/NCT06803875
+- TCR-engineered T Cells (NW-101C) in Patients With Solid Malignant Tumors — https://clinicaltrials.gov/study/NCT07266298
+- Phase I Study of Allogeneic Transforming Growth Factor-beta Receptor Type 2 Knockout CD70 CAR NK Cells in Treatment Refractory Clear Cell Renal Cell Carcinoma — https://clinicaltrials.gov/study/NCT07072234
+- Targeted Anti-CEA CAR-T Immunotherapy for Advanced Lung Cancer — https://clinicaltrials.gov/study/NCT06992583
+- An Open-label, Phase I Clinical Trial of Super1 TCR-T in NY-ESO-1-positive Patients With Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT06942143
+- CD70.CAR for CD70+ Lymphoma, Myeloma and Solid Tumors — https://clinicaltrials.gov/study/NCT07297160
+- Master Protocol of TCR-modified T Cell Therapy Targeting HLA-restricted KRAS Antigen Administered in Adult Patients With Metastatic or Locally Advanced PDAC — https://clinicaltrials.gov/study/NCT07145450
+- IL1RAP-targeting Chimeric Antigen Receptor T Cells in the Treatment of Relapsed/Refractory Hepatocellular Carcinoma — https://clinicaltrials.gov/study/NCT06757881
+- Sequential Infusion of CD146-Targeted and HER2-Targeted CAR T Cells in Patients With Advanced Sarcomas — https://clinicaltrials.gov/study/NCT07066982
+- GPC-3 CAR T CELLS FOR Recurrent GPC-3 Positive Glioblastoma — https://clinicaltrials.gov/study/NCT06815432
+- Phase I Clinical Study of YK1101 Injection for the Treatment of Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT07139067
+- Phase I Study of Preconditioning Radiation Therapy With IL-15 Transduced TGFBR2 KO CAR.TROP2-engineered Cord Blood-derived NK Cells in Patients With Advanced Head and Neck Cancer (RADIANCE-NK) — https://clinicaltrials.gov/study/NCT07101432
+- Sequential CD146 and GPC3 CAR-T Cell Therapy in Advanced Ovarian Cancer — https://clinicaltrials.gov/study/NCT07067255
+- Anti-GARP Chimeric Antigen Receptor T Cell Therapy for the Treatment of Recurrent Grade III or IV Gliomas — https://clinicaltrials.gov/study/NCT06964737
+- Safety and Preliminary Efficacy of a Metabolically Armed Chimeric Antigen Receptor T Cell Therapy Targeting EGFRvIII for Recurrent Glioblastoma — https://clinicaltrials.gov/study/NCT07244666
+- B7H3/IL13Ra2 Bispecific Armored Chimeric Antigen Receptor T-Cell Therapy Study for Recurrent/Refractory Glioblastoma — https://clinicaltrials.gov/study/NCT07193628
+- GCAR1, a Chimeric Antigen Receptor (CAR) T-CELL Therapy for Relapsed/Refractory GPNMB-Expressing Solid Tumours — https://clinicaltrials.gov/study/NCT07297667
+- Allogeneic B7H3 CAR-γδT Cell Therapy for Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT06825455
+- Clinical Study of Combined EphA2-targeted CAR-DC and CAR-T Cell Therapy for Non-small Cell Lung Cancer — https://clinicaltrials.gov/study/NCT06972576
+- Phase I Study of TX103 CAR-T Cells in Participants With Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT07231081
+- FGFR4 Chimeric Antigen Receptor (CAR) T Cells in Children and Young Adults With Recurrent or Refractory Rhabdomyosarcoma — https://clinicaltrials.gov/study/NCT06865664
+- Treating Claudin18.2-positive Advanced Solid Tumors with XKDCT225(Targeting Claudin18.2-CAR-T) — https://clinicaltrials.gov/study/NCT06782425
+- Clinical Study of NKG2D CAR-NK Combined with PD-1 Monoclonal Antibody in the Treatment of ATC — https://clinicaltrials.gov/study/NCT06856278
+- A Clinical Study of Multi-target Hi-TCR-T Cells in the Treatment of Advanced Hepatocellular Carcinoma — https://clinicaltrials.gov/study/NCT06902389
+- Multi-center Study of TBI-1301 (INN: Mipetresgene Autoleucel; Mip-cel) in Patients With NY-ESO-1 Positive Synovial Sarcoma — https://clinicaltrials.gov/study/NCT07174427
+- A Study of DCTY1102 Injection in Participants With Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT07014878
+- GPNMB-targeting Chimeric Antigen Receptor T-Cell Therapy (GCAR1) for a Patient With Alveolar Soft Part Sarcoma — https://clinicaltrials.gov/study/NCT06827886
+- GPC2-CAR T Cell Therapy for Relapsed or Refractory Medulloblastoma in Children and Young Adults — https://clinicaltrials.gov/study/NCT07087002
+- GPNMB-targeting Chimeric Antigen Receptor T-Cell Therapy (GCAR1) for a Patient With Alveolar Soft Part Sarcoma (CLIC-YYC-GPNMB-02) — https://clinicaltrials.gov/study/NCT06789081
+- CD70-Targeted CAR-T Therapy in CD70-Positive Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT07181720
+- Phase I Study of OriC902 in Treatment of Advanced HCC — https://clinicaltrials.gov/study/NCT06891742
+- CAR T Therapy With GCAR1 for Relapsed Alveolar Soft Part Sarcoma — https://clinicaltrials.gov/study/NCT06813417
+- CAR T Cells in Mesothelin Expressing Cancers — https://clinicaltrials.gov/study/NCT03054298
+- Phase I Study of Autologous CAR T-Cells Targeting the B7-H3 Antigen in Recurrent Epithelial Ovarian — https://clinicaltrials.gov/study/NCT04670068
+- T Cell Receptor Gene Therapy Targeting KK-LC-1 for Gastric, Breast, Cervical, Lung and Other KK-LC-1 Positive Epithelial Cancers — https://clinicaltrials.gov/study/NCT05035407
+- Gene-Modified Immune Cells (FH-MCVA2TCR) in Treating Patients With Metastatic or Unresectable Merkel Cell Cancer — https://clinicaltrials.gov/study/NCT03747484
+- Phase I/II Study of Autologous T Cells to Express T-Cell Receptors (TCRs) in Subjects With Solid Tumors — https://clinicaltrials.gov/study/NCT05194735
+- PSCA-CAR T cell therapy in metastatic castration-resistant prostate cancer: a phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/38867077/
+- Claudin18.2-specific CAR T cells in gastrointestinal cancers: phase 1 trial final results. — https://pubmed.ncbi.nlm.nih.gov/38830992/
+- Safety and Efficacy of CT041 in Patients With Refractory Metastatic Pancreatic Cancer: A Pooled Analysis of Two Early-Phase Trials. — https://pubmed.ncbi.nlm.nih.gov/38788174/
+- Phase I Trial of GD2.CART Cells Augmented With Constitutive Interleukin-7 Receptor for Treatment of High-Grade Pediatric CNS Tumors. — https://pubmed.ncbi.nlm.nih.gov/38771986/
+- Safety and biological outcomes following a phase 1 trial of GD2-specific CAR-T cells in patients with GD2-positive metastatic melanoma and other solid cancers. — https://pubmed.ncbi.nlm.nih.gov/38754916/
+- Eighteen-year survival after GD2-directed Chimeric Antigen Receptor-Modified Immune Effector Cell Treatment for Neuroblastoma. — https://pubmed.ncbi.nlm.nih.gov/38659815/
+- Autologous HER2-specific CAR T cells after lymphodepletion for advanced sarcoma: a phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/38658775/
+- Interleukin-15-armored GPC3-CAR T cells for patients with solid cancers. — https://pubmed.ncbi.nlm.nih.gov/38645165/
+- Preclinical Development of CAR T Cells with Antigen-Inducible IL18 Enforcement to Treat GD2-Positive Solid Cancers. — https://pubmed.ncbi.nlm.nih.gov/38593230/
+- CD70-Targeted Allogeneic CAR T-Cell Therapy for Advanced Clear Cell Renal Cell Carcinoma. — https://pubmed.ncbi.nlm.nih.gov/38583184/
+- Intrathecal bivalent CAR T cells targeting EGFR and IL13Rα2 in recurrent glioblastoma: phase 1 trial interim results. — https://pubmed.ncbi.nlm.nih.gov/38480922/
+- HLA-class II restricted TCR targeting human papillomavirus type 18 E7 induces solid tumor remission in mice. — https://pubmed.ncbi.nlm.nih.gov/38480731/
+- Intraventricular CARv3-TEAM-E T Cells in Recurrent Glioblastoma. — https://pubmed.ncbi.nlm.nih.gov/38477966/
+- Locoregional delivery of IL-13Rα2-targeting CAR-T cells in recurrent high-grade glioma: a phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/38454126/
+- Repeated peripheral infusions of anti-EGFRvIII CAR T cells in combination with pembrolizumab show no efficacy in glioblastoma: a phase 1 trial. — https://pubmed.ncbi.nlm.nih.gov/38216766/
+- Chimeric Antigen Receptor T Cells Targeting CD19 and GCC in Metastatic Colorectal Cancer: A Nonrandomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/39298141/
+- Peripheral Blood-Derived PD-1/CD28-CD19 CAR-Modified PD-1+ T-Cell Therapy in Patients with Solid Tumors. — https://pubmed.ncbi.nlm.nih.gov/39283669/
+- STRIvE-02: A First-in-Human Phase I Study of Systemically Administered B7-H3 Chimeric Antigen Receptor T Cells for Patients With Relapsed/Refractory Solid Tumors. — https://pubmed.ncbi.nlm.nih.gov/39255444/
+- First-in-human dose escalation trial to evaluate the clinical safety and efficacy of an anti-MAGEA1 autologous TCR-transgenic T cell therapy in relapsed and refractory solid tumors. — https://pubmed.ncbi.nlm.nih.gov/39038917/
+- Sequential intravenous and intracerebroventricular GD2-CAR T-cell therapy for H3K27M-mutated diffuse midline gliomas. — https://pubmed.ncbi.nlm.nih.gov/38978673/
+- PSCA-targeted BPX-601 CAR T cells with pharmacological activation by rimiducid in metastatic pancreatic and prostate cancer: a phase 1 dose escalation trial. — https://pubmed.ncbi.nlm.nih.gov/39737899/
+- A clinical study of autologous chimeric antigen receptor macrophage targeting mesothelin shows safety in ovarian cancer therapy. — https://pubmed.ncbi.nlm.nih.gov/39609867/
+- Interleukin-15-armoured GPC3 CAR T cells for patients with solid cancers. — https://pubmed.ncbi.nlm.nih.gov/39604730/
+- Efficacy and safety of novel multiple-chain DAP-CAR-T cells targeting mesothelin in ovarian cancer and mesothelioma: a single-arm, open-label and first-in-human study. — https://pubmed.ncbi.nlm.nih.gov/39548510/
+- Intravenous and intracranial GD2-CAR T cells for H3K27M+ diffuse midline gliomas. — https://pubmed.ncbi.nlm.nih.gov/39537919/
+- Phase I Study of ROR1-Specific CAR-T Cells in Advanced Hematopoietic and Epithelial Malignancies. — https://pubmed.ncbi.nlm.nih.gov/39466024/
+- Afamitresgene Autoleucel: First Approval. — https://pubmed.ncbi.nlm.nih.gov/39404764/
+- Clinical Study of SN301A Injection in the Treatment of Hepatocellular Carcinoma — https://clinicaltrials.gov/study/NCT06652243
+- T Cell Receptor Gene-Engineered T Cell Therapy Targeting KRAS Mutations in the Treatment of Subjects With Advanced Solid Tumor — https://clinicaltrials.gov/study/NCT06478251
+- T Cell Receptor Gene-Engineered T Cell Therapy Targeting KRAS Mutations in the Treatment of Subjects With Advanced Solid Tumor — https://clinicaltrials.gov/study/NCT06484556
+- Exploratory Study of MSLN-CAR T Cells Secreting PD1/CTLA-4 Nanoantibody for the Treatment of Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT06248697
+- Immunotherapy For Adults With GPC3-Positive Solid Tumors Using IL-15 and IL-21 Armored GPC3-CAR T Cells — https://clinicaltrials.gov/study/NCT06198296
+- T Cell Receptor Gene-Engineered T Cell Therapy Targeting KRAS Mutations in the Treatment of Subjects With Advanced Solid Tumor — https://clinicaltrials.gov/study/NCT06484790
+- A Study of MT-303 in Adults With Advanced or Metastatic GPC3-Expressing Cancers, Including HCC — https://clinicaltrials.gov/study/NCT06478693
+- Endoscopic Ultrasound (EUS) Intratumoral Injection of CAR-NK Cells in the Treatment of Advanced Pancreatic Cancer — https://clinicaltrials.gov/study/NCT06478459
+- Phase 1 Study to Investigate TCRTs KRAS Mutation in Unresectable, Advanced, and/or Metastatic Solid Tumors — https://clinicaltrials.gov/study/NCT06218914
+- A Trail of Second-line Chemotherapy Sequential NKG2D CAR-NK Cell Therapy for Pancreatic Cancer — https://clinicaltrials.gov/study/NCT06503497
+- A Study of SCG101 TCR-T Cell Therpay in the Treatment of Subjects With Hepatitis B Virus-Related — https://clinicaltrials.gov/study/NCT06617000
+- Safety and Efficacy of Loco-regional B7H3 IL-7Ra CAR T Cell in DIPG — https://clinicaltrials.gov/study/NCT06221553
+- UTAA06 Injection for Treatment of Advanced Malignant Solid Tumors — https://clinicaltrials.gov/study/NCT06372236
+- Clinical Study of Trop2 CAR-NK in the Treatment of Relapsed/Refractory Non-Small Cell Lung Cancer (NSCLC) — https://clinicaltrials.gov/study/NCT06454890
+- Phase 1 Dose Escalation and Expansion Study of PRAME T Cell Receptor (TCR) Engineered NK Cells in Participants With Recurrent and/or Refractory Melanoma (PRAMETIME-Mel) — https://clinicaltrials.gov/study/NCT06660420
+- A Phase II Study of Adjuvant Immunotherapy Targeting KRAS G12D, KRAS G12V, or TP53 R175H for Participants With Advanced Gastrointestinal Malignancies — https://clinicaltrials.gov/study/NCT06690281
+- HRYZ-T102 TCR-T Cell for AFP Positive Advanced HCC and Other Solid Tumors — https://clinicaltrials.gov/study/NCT06515314
+- A Phase 1/2 Trial of ADI-270 in ccRCC — https://clinicaltrials.gov/study/NCT06480565
+- SY001 Targets Mesothelin in a Single-arm, Dose-increasing Setting in Subjects With Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT06562647
+- Autologous B7-H3 Chimeric Antigen Receptor T Cells in Relapsed/Refractory Solid Tumors — https://clinicaltrials.gov/study/NCT06500819
+- Clinical Study on the Safety and Efficacy of CAR-T/CAR-NK Cells in the Treatment of Recurrent Refractory or Unresectable Solid Tumors — https://clinicaltrials.gov/study/NCT06572956
+- Phase 1/2 Study of Autologous SCG142 TCR T Cells in Patients With HPV16/52-positive Carcinoma — https://clinicaltrials.gov/study/NCT06505551
+- EPITOME-1015-I: a Study to Investigate the Safety and Tolerability of MDG1015 in Patients with Epithelial Ovarian Cancer, Gastroesophageal Adenocarcinoma, Round Cell Liposarcoma And/or Synovial Sarcoma — https://clinicaltrials.gov/study/NCT06748872
+- TP53 R248Q TCR-T Cell Therapy for Advanced Solid Tumor — https://clinicaltrials.gov/study/NCT06619886
+- Autologous CAR-T Cells Targeting B7H3 in Ovarian Cancer iC9-CAR.B7-H3 T Cells — https://clinicaltrials.gov/study/NCT06305299
+- SCG142 TCR-T Cells for Human Papillomavirus-Associated Carcinomas — https://clinicaltrials.gov/study/NCT06544720
+- IX001 TCR-T In the Treatment of Advanced Pancreatic Cancer and Colorectal Cancer Induced by KRAS Mutations — https://clinicaltrials.gov/study/NCT06487377
+- Human HER2-targeted Macrophages Therapy for HER2-positive Advanced Gastric Cancer With Peritoneal Metastases — https://clinicaltrials.gov/study/NCT06224738
+- CRTE7A2-01 TCR-T Cells for HPV-16 Positive Advanced Cancers — https://clinicaltrials.gov/study/NCT06358053
+- A Clinical Study of CHT102 in Mesothelin Positive Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT06717022
+- A Study of LCAR-G08 in Subjects With Advanced Gastrointestinal Tumors Expressing Guanylyl Cyclase C (GCC) — https://clinicaltrials.gov/study/NCT06197178
+- a Single-arm, Single-center, Open Clinical Study — https://clinicaltrials.gov/study/NCT06431100
+- IL13Rα2 CAR-T for Patients With r/r Glioma — https://clinicaltrials.gov/study/NCT06355908
+- CAR-monocytes for the Treatment of HER2 Overexpressing Solid Tumors — https://clinicaltrials.gov/study/NCT06254807
+- Safety and Efficacy Study of TX103 CAR-T Cell Therapy for Recurrent or Progressive Grade 4 Glioma. — https://clinicaltrials.gov/study/NCT06482905
+- Combination Immunotherapy Targeting Melanoma — https://clinicaltrials.gov/study/NCT06739226
+- A Study to Evaluate C-CAR031 in Glypican-3 (GPC3)+ Advanced/Recurrent Hepatocellular Carcinoma (HCC) — https://clinicaltrials.gov/study/NCT06590246
+- Clinical Trial of Autologous CD19 CAR-T Cells (CNCT19) Therapy for Advanced Hepatocellular Carcinoma — https://clinicaltrials.gov/study/NCT06676982
+- Safety and Efficacy of CMD03 CAR T Cell in Children With Relapse or Refractory Solid Tumors — https://clinicaltrials.gov/study/NCT06612645
+- Clinical Trial of Autologous GPC3 CAR-T Cells (CBG166) Therapy for Advanced Hepatocellular Carcinoma — https://clinicaltrials.gov/study/NCT06461624
+- Study of Autologous CAR-T Cells Targeting B7-H3 in TNBC iC9-CAR.B7-H3 T Cells — https://clinicaltrials.gov/study/NCT06347068
+- Autologous T-cells Genetically Engineered to Express Receptors Reactive Against KRAS Mutations in Conjunction With a Vaccine Directed Against These Antigens in Participants With Metastatic Cancer — https://clinicaltrials.gov/study/NCT06253520
+- HERV-E TCR Transduced Autologous T Cells in People With Metastatic Clear Cell Renal Cell Carcinoma — https://clinicaltrials.gov/study/NCT03354390
+- Study of GSK3901961 In Previously Treated Advanced (Metastatic OR Unresectable) Synovial Sarcoma/ Myxoid/Round Cell Liposarcoma, and Previously Treated Metastatic Non-Small Cell Lung Cancer — https://clinicaltrials.gov/study/NCT06048705
+- Master Protocol to Assess Safety and Dose of First Time in Human Next Generation Engineered T Cells in NY-ESO-1 and/or LAGE-1a Positive Advanced Solid Tumors — https://clinicaltrials.gov/study/NCT04526509
+- Study of GSK3845097 in Previously Treated Participants With Advanced Synovial Sarcoma and Myxoid/Round Cell Liposarcoma — https://clinicaltrials.gov/study/NCT05943990
