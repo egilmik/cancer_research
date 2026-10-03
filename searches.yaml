@@ -141,6 +141,38 @@ searches:
         OR "body composition"[tiab] OR sarcopenia[tiab] OR cachexia[tiab] OR sleep[tiab]
         OR mindfulness[tiab] OR yoga[tiab] OR psychosocial[tiab])
 
+  # ------------------------------------------------------------------ mRNA therapeutics
+  - id: lung-mrna
+    name: Lung cancer — mRNA vaccines and mRNA therapeutics
+    enabled: true
+    version: 1
+    criteria: >
+      mRNA-based vaccines and therapeutics in lung cancer (NSCLC, SCLC), including lipid
+      nanoparticle mRNA delivery. HIGH: clinical trial results or registrations (e.g. mRNA-4157/V940,
+      BNT116, other individualised neoantigen or off-the-shelf mRNA vaccines, alone or with
+      checkpoint inhibitors); immunogenicity or efficacy data in patients; mRNA-encoded cytokines,
+      antibodies or CAR-T approaches with in vivo or clinical data.
+      MEDIUM: preclinical in vivo studies with a credible clinical path, large real-world cohorts
+      (e.g. COVID-19 mRNA vaccination and cancer outcomes), rigorous meta-analyses.
+      LOW: narrative reviews, in vitro-only work, and mRNA expression or stability papers
+      (m6A, biomarkers, signatures) where mRNA is a measured analyte and not the therapeutic.
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung carcinoma"[tiab]
+        OR "lung adenocarcinoma"[tiab] OR NSCLC[tiab] OR SCLC[tiab]
+        OR "non-small cell lung"[tiab] OR "non-small-cell lung"[tiab]
+        OR "small cell lung"[tiab] OR "small-cell lung"[tiab])
+        AND
+        ("mRNA vaccine"[tiab] OR "mRNA vaccines"[tiab] OR "mRNA-based"[tiab]
+        OR "mRNA cancer vaccine"[tiab] OR "mRNA therapeutics"[tiab] OR "mRNA therapy"[tiab]
+        OR "mRNA delivery"[tiab] OR "mRNA-LNP"[tiab] OR "mRNA lipid nanoparticle"[tiab]
+        OR "mRNA-4157"[tiab] OR V940[tiab] OR intismeran[tiab] OR BNT116[tiab]
+        OR "neoantigen vaccine"[tiab] OR "neoantigen vaccines"[tiab]
+        OR "personalized cancer vaccine"[tiab] OR "individualized neoantigen"[tiab])
+    clinicaltrials:
+      - {cond: "lung cancer", term: "mRNA vaccine"}                                    # new registrations
+      - {cond: "lung cancer", term: "mRNA vaccine", date_field: ResultsFirstPostDate}  # results posted
+
   # ------------------------------------------------------------------ preprints
   - id: preprints
     name: Lung cancer preprints (medRxiv, bioRxiv)
