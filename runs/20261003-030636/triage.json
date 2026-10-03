@@ -1,0 +1,42 @@
+{
+ "pmid:42826097": {
+  "relevance": "medium",
+  "reason": "Preclinical mouse/organ-on-chip study of probiotic LGG boosting gefitinib efficacy and reducing toxicity in EGFR-mutant NSCLC; no human data."
+ },
+ "pmid:42824853": {
+  "relevance": "medium",
+  "reason": "Single case report of severe scalp ulceration on amivantamab-lazertinib in EGFR-mutant NSCLC; toxicity signal only."
+ },
+ "nct:NCT07854509": {
+  "relevance": "high",
+  "reason": "New phase II registration of SKB264 (sac-TMT) + SKB118 in EGFR-mutant non-squamous NSCLC after EGFR-TKI failure, directly on the post-TKI setting."
+ },
+ "pmid:42825474": {
+  "relevance": "low",
+  "reason": "Preclinical KRAS/RAS inhibitor resistance in PDAC/NSCLC, not EGFR or next-gen EGFR resistance."
+ },
+ "pmid:42826299": {
+  "relevance": "low",
+  "reason": "Mendelian randomization of GERD and cancers; not therapy-relevant."
+ },
+ "pmid:42825871": {
+  "relevance": "low",
+  "reason": "Ethics commentary on lung cancer education in pulmonary fibrosis."
+ },
+ "pmid:42824630": {
+  "relevance": "low",
+  "reason": "Single-center survival vs SEER comparison across cancers; observational."
+ },
+ "pmid:42824028": {
+  "relevance": "low",
+  "reason": "Secondary analysis of LACE-Bio on TMB/TILs and second primary cancers in resected NSCLC; no strong association."
+ },
+ "pmid:42825153": {
+  "relevance": "low",
+  "reason": "Observational ultrasound/malnutrition cut-offs in lung cancer (n=374)."
+ },
+ "pmid:42824102": {
+  "relevance": "low",
+  "reason": "Cross-sectional psychological capital and dyadic coping study (225 dyads)."
+ }
+}

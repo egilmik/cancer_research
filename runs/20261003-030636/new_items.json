@@ -1,0 +1,229 @@
+[
+  {
+    "source": "pubmed",
+    "pmid": "42826097",
+    "doi": "10.1016/j.celrep.2026.118068",
+    "pmcid": "",
+    "title": "Lacticaseibacillus rhamnosus GG enhances gefitinib efficacy and reduces treatment-related toxicity via propionyl-L-carnitine regulation.",
+    "authors": "Shen S, Xie X, Lu L et al.",
+    "journal": "Cell Rep",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Gefitinib improves outcomes in patients with EGFR-mutant non-small cell lung cancer; however, treatment-related gastrointestinal and hepatic toxicity can limit its long-term use. Here, we investigate whether probiotic strains can improve gefitinib efficacy while reducing treatment-associated toxicity. Among the tested strains, Lacticaseibacillus rhamnosus GG (LGG) shows the strongest enhancement of gefitinib efficacy while reducing intestinal and hepatic injury without altering systemic gefitinib exposure. Metabolomic analyses identify propionyl-L-carnitine as an LGG-associated metabolite detected in both LGG culture and LGG-treated mice. Propionyl-L-carnitine treatment reproduces the antitumor effects of LGG and is associated with altered mitochondrial metabolism, decreased NF-κB/IL-6 signaling, and increased apoptosis. A gut-liver-tumor organ-on-a-chip model further supports these effects. LGG treatment also improves short-chain fatty acid profiles, intestinal barrier markers, and bile acid-related metabolism. Together, these findings suggest that LGG may represent a microbiota-based strategy to enhance gefitinib response while limiting treatment-associated toxicity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826097/",
+    "searches": [
+      "egfr-nsclc"
+    ],
+    "keys": [
+      "pmid:42826097",
+      "doi:10.1016/j.celrep.2026.118068"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42824853",
+    "doi": "10.7759/cureus.115609",
+    "pmcid": "PMC13629737",
+    "title": "Severe Dermatologic Toxicity During Amivantamab-Lazertinib Treatment in Epidermal Growth Factor Receptor (EGFR)-Mutated Non-Small Cell Lung Cancer.",
+    "authors": "Jones CM, Delancy MM, Bonawitz S",
+    "journal": "Cureus",
+    "year": "2026",
+    "pub_types": [
+      "Case Reports",
+      "Journal Article"
+    ],
+    "abstract": "Amivantamab is an epidermal growth factor receptor (EGFR) and mesenchymal-epithelial transition (MET) antibody. Lazertinib is an EGFR tyrosine kinase inhibitor with central nervous system penetration. Used in combination, this targeted therapy is effective in treating non-small cell lung cancer (NSCLC). However, it has been associated with severe dermatologic adverse reactions. A 61-year-old woman with a history of EGFR-mutated NSCLC with brain metastases on amivantamab-lazertinib therapy presented for follow-up with drainage from her scalp incision after undergoing a right parietal craniotomy and mass excision five months prior. The patient denied constitutional and neurologic symptoms, but reported yellow staining on her pillow. Examination initially demonstrated yellow fibrinous exudate and hair matting along the surgical incision. Computed tomography (CT) of the head revealed overlying scalp swelling and minimal extra-axial dural thickening over the prior right parietal craniotomy site with stable intracranial metastatic lesions. Due to concern for dehiscence, her biologic therapy was paused, and she was taken to the operating suite where no evidence of infection, delayed healing, or wound dehiscence was noted. A 10 × 5 cm area of patchy granulation tissue and ulceration was observed along the right parietal scalp. Biopsy revealed granulation tissue and multinucleated giant cells and was negative for tumor. Given the risk of malignant progression with all targeted therapy paused, the patient was restarted on amivantamab monotherapy. Following disease progression two months later, she was transitioned to carboplatin and etoposide. EGFR is widely expressed in skin keratinocytes and intimately involved in epithelial differentiation. Therapies targeting EGFR, such as amivantamab plus lazertinib, are associated with adverse dermatologic reactions, ranging from dry skin to severe scalp ulceration, which can interrupt treatment, contribute to poorer clinical outcomes, and reduce quality of life. Standard of care includes limiting sun exposure and avoiding alcohol-based topical agents. The use of daily prophylactic antibiotics, such as oral doxycycline, topical clindamycin, chlorhexidine wash, and ceramide moisturizer, may significantly reduce the risk of adverse skin reactions. Implementation of this multicomponent regimen reduced the rate of severe scalp reactions from 26% to 10% relative to the standard of care, with sustained benefit observed for at least six months.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42824853/",
+    "searches": [
+      "egfr-nsclc"
+    ],
+    "keys": [
+      "pmid:42824853",
+      "doi:10.7759/cureus.115609"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07854509",
+    "ct_event": "registered",
+    "title": "A Phase II Study of SKB264 + SKB118 in Nsq-NSCLC After EGFR-TKI Failure",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 110,
+    "sponsor": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+    "conditions": [
+      "Non-Squamous Non-Small Cell Lung Cancer"
+    ],
+    "interventions": [
+      "SKB264+SKB118"
+    ],
+    "summary": "This is an open-label, multicenter, Phase II clinical study to evaluate the safety, tolerability, and efficacy of SKB264 in combination with SKB118 in participants with locally advanced or metastatic non-squamous NSCLC harboring EGFR-sensitizing mutations who have failed EGFR-TKI therapy. The study includes a dose escalation phase and an expansion phase.",
+    "posted": "2026-10-02",
+    "url": "https://clinicaltrials.gov/study/NCT07854509",
+    "searches": [
+      "egfr-nsclc"
+    ],
+    "keys": [
+      "nct:NCT07854509"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42825474",
+    "doi": "10.1158/0008-5472.CAN-26-1315",
+    "pmcid": "",
+    "title": "Targeting Distinct Cell Cycle Nodes Overcomes RAS Inhibitor Resistance.",
+    "authors": "Kumarasamy V, Wang J, Yau EH et al.",
+    "journal": "Cancer Res",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Activating mutations in KRAS drive pancreatic ductal adenocarcinoma (PDAC) and non-small cell lung cancer (NSCLC). Although mutant-selective KRAS inhibitors and pan-RAS inhibitors provide clinical benefits, the development of resistance limits durable responses. Here, transcriptomic and proteomic analyses revealed that, despite effective suppression of mutant KRAS signaling, resistant cells sustain cell cycle progression. Distinct orthogonal mitogenic pathways were engaged in a context-dependent manner to bypass KRAS inhibition. While these pathways could be broadly inhibited using the pan-RAS-ON inhibitor RMC-6236, cells remained capable of developing acquired resistance where cell proliferation was uncoupled from RAS signaling. Combinatorial drug screens and genome-wide CRISPR-Cas9 screens showed that perturbing cell cycle nodes via targeting cyclin dependent kinases CDK4/6 and CDK2 restored sensitivity to KRAS/RAS inhibitors. Co-targeting CDK4/6 induced G1 arrest and suppressed E2F-regulated proteins across all resistant models. In contrast, co-targeting CDK2 exerted a broader effect by impairing DNA replication, inducing G2 arrest, preventing mitotic entry, and yielding a more durable cytostatic response that delayed cellular outgrowth after drug withdrawal. Finally, concurrent inhibition of KRAS with either CDK4/6 or CDK2 yielded durable tumor control in vivo in xenografts derived from models with acquired resistance. In conclusion, these findings identify sustained cell cycle activity as a defining feature of resistance to KRAS-directed therapies and establish cell cycle co-targeting as an effective strategy to overcome KRAS/RAS inhibitor resistance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825474/",
+    "searches": [
+      "nsclc-resistance-nextgen"
+    ],
+    "keys": [
+      "pmid:42825474",
+      "doi:10.1158/0008-5472.can-26-1315"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42826299",
+    "doi": "10.1097/MD.0000000000050874",
+    "pmcid": "",
+    "title": "Genetic evidence for associations between gastroesophageal reflux disease and site-specific extraesophageal cancers: A Mendelian randomization study.",
+    "authors": "Wang S, Guo M, Zhang S et al.",
+    "journal": "Medicine (Baltimore)",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis"
+    ],
+    "abstract": "Observational studies have suggested an increased risk of extraesophageal cancers in patients with gastroesophageal reflux disease (GERD), but whether these associations are causal remains uncertain. This study systematically evaluated the potential associations between genetically predicted GERD and 22 extraesophageal cancers. Genetic instruments for GERD were obtained from a large genome-wide association study including 129,080 cases and 473,524 controls. Outcome data for 22 site-specific extraesophageal cancers were obtained from multiple genome-wide association study datasets, including the UK Biobank, FinnGen, and international cancer consortia. Two-sample Mendelian randomization (MR) analyses were performed, and dataset-specific MR estimates were subsequently combined using meta-analysis. For positive findings, reverse MR and Multivariable Mendelian randomization analyses were further conducted to assess causal direction and independence from body mass index, smoking intensity, and alcohol consumption. Meta-analysis of two-sample MR showed Bonferroni-significant positive associations of genetically predicted GERD with lung cancer (odds ratio [OR] = 1.220; 95% confidence interval [CI]: 1.100-1.354; P = .0002) and pancreatic cancer (OR = 1.517; 95% CI: 1.214-1.895; P = .0002). Suggestive positive associations were also observed for laryngeal cancer (OR = 1.774; 95% CI: 1.091-2.884; P = .021) and bladder cancer (OR = 1.254; 95% CI: 1.047-1.501; P = .014), although neither survived Bonferroni correction. In Multivariable Mendelian randomization analyses accounting for body mass index, smoking intensity, and alcohol consumption, the association with lung cancer remained statistically significant (OR = 1.190; 95% CI: 1.040-1.362; P = .012), whereas the associations with pancreatic, laryngeal, and bladder cancers were no longer statistically significant. These findings provide genetic evidence supporting an association between genetically predicted GERD and lung cancer. The evidence for pancreatic, laryngeal, and bladder cancers was less robust and requires further validation in larger independent datasets. These findings may help prioritize future research on cancer risk among individuals with GERD, with further studies warranted to validate the observed associations and clarify their underlying mechanisms.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826299/",
+    "searches": [
+      "lung-key-evidence"
+    ],
+    "keys": [
+      "pmid:42826299",
+      "doi:10.1097/md.0000000000050874"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42825871",
+    "doi": "10.1007/s13187-026-02991-1",
+    "pmcid": "",
+    "title": "The Ethics of Lung Cancer Education for Pulmonary Fibrosis Patients: Addressing Diagnostic Overshadowing and Cancer Risk.",
+    "authors": "Burugu V, Palanisami S, Salvatore M",
+    "journal": "J Cancer Educ",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Idiopathic pulmonary fibrosis (IPF) is a chronic, progressive interstitial lung disease associated with a substantially increased risk of lung cancer. Yet IPF is still primarily conceptualized and communicated as a disease of progressive fibrosis. This creates an important diagnostic challenge: worsening cough, breathlessness, fatigue, functional decline, or weight loss may be attributed to progression of fibrosis even when malignancy is also a possibility. In the absence of standardized cancer surveillance guidelines for IPF, ensuring that patients understand their elevated cancer risk becomes particularly important. We argue that cancer-risk education can serve an important epistemic function. Drawing on the concept of hermeneutical injustice, we suggest that patients taught to understand their symptoms primarily through the framework of progressive fibrosis may lack an important interpretive resource for recognizing changes in their illness experience. Cancer-risk education should therefore be incorporated into initial and follow-up counseling for patients with IPF. The goal is not to make patients responsible for diagnosing cancer or to generate anxiety around every new symptom. Rather, education can close an interpretive gap, helping patients recognize that fibrosis and malignancy are not mutually exclusive explanations for clinical change and allowing them to participate as knowledgeable interpreters of their illness.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825871/",
+    "searches": [
+      "lung-key-evidence"
+    ],
+    "keys": [
+      "pmid:42825871",
+      "doi:10.1007/s13187-026-02991-1"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42824630",
+    "doi": "10.1016/j.ajmo.2026.100138",
+    "pmcid": "PMC13627797",
+    "title": "Cancer Survival at a Comprehensive Cancer Center Compared With Surveillance, Epidemiology, and End Results (SEER) Estimates.",
+    "authors": "Salgia R, Alvarnas J, Trisal V et al.",
+    "journal": "Am J Med Open",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "OBJECTIVE: We compared outcomes across common cancer types at an NCI-designated Comprehensive Cancer Center (NCI-CCC) (City of Hope) vs the U.S. Surveillance, Epidemiology, and End Results (SEER) national database. Cancer Centers offer a comprehensive approach to prevention, diagnosis, and treatment through tertiary services and by providing coordinated, personalized care.\nMETHODS: Propensity score matching (PSM) methods were employed in a 1:5 ratio for patients with incident cancers from 2004 to 2020 treated at COH vs reported in SEER.\nRESULTS: The COH cohort had significantly superior overall survival (OS) compared with the SEER cohort across all examined cancer types after multivariable adjustment for key baseline characteristics and in the PSM analyses. For the PSM analyses: non-small cell lung cancer (NSCLC) hazard ratio (HR) 0.73, breast cancer HR 0.83, prostate cancer HR 0.62, colorectal cancer HR 0.74, pancreatic cancer HR 0.75, acute myeloid leukemia HR 0.79, acute lymphoid leukemia HR 0.77, and multiple myeloma HR 0.70 (all P < .001). Notable findings included substantially lower mortality risk for patients with any of the studied advanced solid cancers.\nCONCLUSION: We found that cancer survival benefits were associated with patient care at an individual NCI-CCC employing state-of-the-art therapies and modern care. This work also highlights an opportunity to make adjusted survival outcomes more accessible to patients, complementing other types of comparative data now available. Further research could help to identify the drivers of observed survival advantages and promote the development of better guidelines and care models to improve outcomes for all patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42824630/",
+    "searches": [
+      "lung-key-evidence"
+    ],
+    "keys": [
+      "pmid:42824630",
+      "doi:10.1016/j.ajmo.2026.100138"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42824028",
+    "doi": "10.3389/fonc.2026.1773288",
+    "pmcid": "PMC13626909",
+    "title": "Association of tumor mutational burden and tumor-infiltrating lymphocytes with second primary cancer after complete resection of non-small cell lung cancer.",
+    "authors": "Gauthier MP, Karimi M, Michiels S et al.",
+    "journal": "Front Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRODUCTION: The risk of developing second primary cancers (SPC) after complete surgical resection of non-small cell lung cancer (NSCLC) has been estimated at 1-2% per patient-year. We investigated whether tumor genomic instability, assessed by tumor mutational burden (TMB), and host immune response, assessed by tumor-infiltrating lymphocytes (TILs), were associated with the development of SPC.\nMETHODS: Data from three randomized trials included in the Lung Adjuvant Cisplatin Evaluation-Biomarker (LACE-Bio) meta-analysis were used. TMB and TILs were assessed on FFPE specimens. TMB was categorized into tertiles (high >7.8 mutations/MB, moderate >4 to ≤7.8 mutations/MB, and low ≤4 mutations/MB), and TILs were classified as marked vs. other. Associations between biomarkers and competing endpoints (SPC, and death without developing SPC) were evaluated using Fine and Gray sub-distribution hazard models, stratified by trial and adjusted for treatment, age, sex, tumor stage, nodal stage, histology, performance status, and surgery type.\nRESULTS: TMB and TILs assessments were available for 879 patients with complete clinical covariates. Marked TILs was observed in 85 patients. During follow-up, 47 SPCs and 392 deaths without SPC were observed. No clear association was found between TMB or TILs and the cumulative incidence of SPC. In contrast, low TMB was associated with a higher cumulative incidence of death without SPC compared with moderate TMB (multivariable subdistribution hazard ratio (sHR) = 1.35 [95% confidence interval (CI), 1.06-1.72], p = 0.02). Marked TILs was associated with a lower cumulative incidence of death without SPC, although this association did not reach statistical significance after adjustment (multivariable sHR = 0.71 [95% CI, 0.46-1.10], p = 0.12).\nCONCLUSION: This study is the first to evaluate associations between tumor genomic instability and host immune response, and competing endpoints of SPC and death without SPC in patients with completely resected NSCLC. No strong association was observed with SPC, whereas low TMB (compared with moderate TMB) was associated with the competing endpoint of death without developing SPC. Given the limited number of SPC events, these findings require confirmation in larger, independent cohorts of patients with early-stage lung cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42824028/",
+    "searches": [
+      "lung-key-evidence"
+    ],
+    "keys": [
+      "pmid:42824028",
+      "doi:10.3389/fonc.2026.1773288"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42825153",
+    "doi": "10.3389/fnut.2026.1876352",
+    "pmcid": "PMC13629502",
+    "title": "Nutritional ultrasound cut off for predicting complications and mortality in lung cancer patients: a multicenter longitudinal study from the VALONC project.",
+    "authors": "Romero-Márquez JM, González-Pacheco M, Fernández-Jiménez R et al.",
+    "journal": "Front Nutr",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRODUCTION: Lung cancer remains a leading cause of cancer-related mortality, often exacerbated by malnutrition and muscle depletion that traditional weight-centric metrics may fail to identify. This study assessed the clinical and prognostic relevance of rectus femoris (RF) ultrasound as a practical bedside tool for evaluating muscle-related parameters and clinical outcomes.\nMETHODS: This multicenter longitudinal study involved 374 patients (114 females, 260 males) across 10 Spanish hospitals. Researchers performed ultrasonographic assessments of the RF, measuring cross-sectional area (RF-CSA), thickness (Y-axis), and circumference, alongside GLIM malnutrition criteria and PG-SGA. Statistical analyses included Random Forest algorithms, ROC curves, and Cox regression models adjusted for age, BMI, ECOG performance status, cancer type, and cancer stage to determine sex-specific associations with clinical outcomes.\nRESULTS: Significant sexual dimorphism was observed; men exhibited larger muscle parameters, while women had higher subcutaneous fat. RF-CSA and RF-Y-axis showed the highest discriminative performance for GLIM-defined malnutrition, with AUCs of 0.706 and 0.713 in men and 0.814 and 0.804 in women, respectively. The corresponding RF-CSA cut-offs were 3.88 cm2 in men and 2.78 cm2 in women, whereas RF-Y-axis cut-offs were 1.09 cm in men and 0.95 cm in women. In men, RF-Y-axis was significantly associated with all-cause mortality (HR = 0.32, 95% CI: 0.15-0.71), whereas RF-CSA, RF-CIR, and RF-X-axis were associated with clinical complications. No significant associations with mortality or complications were observed in women. A moderate agreement was observed between GLIM and PG-SGA (weighted κ = 0.51), suggesting that these criteria capture overlapping but not identical dimensions of malnutrition.\nDISCUSSION: Rectus femoris ultrasound may provide objective, sex-specific clinical information that complements the GLIM framework and traditional anthropometric assessments. By identifying clinically relevant muscle waste, this bedside tool allows for the early detection of high-risk patients, potentially directing timely nutritional and rehabilitative interventions to improve survival and treatment tolerance in lung cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825153/",
+    "searches": [
+      "lung-nonpharm"
+    ],
+    "keys": [
+      "pmid:42825153",
+      "doi:10.3389/fnut.2026.1876352"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42824102",
+    "doi": "10.3389/fpsyg.2026.1940535",
+    "pmcid": "PMC13627295",
+    "title": "A study on the association between psychological capital and dyadic coping among lung cancer patients and their caregivers: an actor-partner interdependence model approach.",
+    "authors": "Li Y, He L, Ramoo V et al.",
+    "journal": "Front Psychol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Lung cancer imposes heavy physical and psychological burdens on both patients and their caregivers. Increasing evidence suggests that dyadic coping-the joint process through which patient-caregiver pairs manage illness-related stress-plays a crucial role in emotional adjustment and relationship quality. Meanwhile, psychological capital (PsyCap), comprising optimism, hope, resilience, and self-efficacy, has been recognized as a key positive psychological resource that enhances adaptation to cancer-related challenges. However, research integrating these two constructs within the lung cancer context remains limited.\nMETHODS: A cross-sectional study was conducted among 225 lung cancer patient-caregiver dyads recruited from hospitals in Chengdu between January and June 2025. Participants completed the Positive Psychological Capital Questionnaire (PPQ) and the Dyadic Coping Inventory (DCI). Pearson correlation analysis was used to examine bivariate associations, and the Actor-Partner Interdependence Model (APIM) was applied using AMOS 23.0 to explore actor and partner effects between PsyCap and dyadic coping.\nRESULTS: Significant positive correlations were found between patients' and their caregivers' PsyCap and dyadic coping (p < 0.01). APIM analysis revealed that both patients' (β = 0.17, p = 0.013) and caregivers' (β = 0.23, p < 0.001) PsyCap significantly predicted their own dyadic coping (actor effects). The caregiver's partner effect on the patient's coping was significant (β = 0.14, p = 0.037), while the reverse effect was not significant. The dyad conformed to a mixed interdependence pattern (k = 0.633, 95% CI [0.125, 1.169]).\nCONCLUSION: Both patients' and caregivers' PsyCap were positively associated with dyadic coping. In the APIM, caregivers' PsyCap showed a significant partner effect on patients' dyadic coping, whereas the reverse partner path was not significant. Given the cross-sectional design, these findings should be interpreted as associations rather than causal effects. Longitudinal and intervention studies are needed to determine whether enhancing PsyCap can improve dyadic coping and related psychosocial outcomes in lung cancer dyads.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42824102/",
+    "searches": [
+      "lung-nonpharm"
+    ],
+    "keys": [
+      "pmid:42824102",
+      "doi:10.3389/fpsyg.2026.1940535"
+    ]
+  }
+]
