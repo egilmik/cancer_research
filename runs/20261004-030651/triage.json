@@ -1,0 +1,22 @@
+{
+ "pmid:42827017": {
+  "relevance": "low",
+  "reason": "Author response letter on thymic tissue and pneumonitis; no abstract, not a primary study."
+ },
+ "pmid:42827016": {
+  "relevance": "medium",
+  "reason": "Editorial on MRD dynamics in locally advanced NSCLC; commentary, no abstract, not EGFR-specific."
+ },
+ "pmid:42827014": {
+  "relevance": "low",
+  "reason": "Letter to the editor on thymic tissue and pneumonitis risk; no data of its own."
+ },
+ "pmid:42827012": {
+  "relevance": "low",
+  "reason": "Historical review of pathology advances in JTO; not new evidence."
+ },
+ "pmid:42827010": {
+  "relevance": "low",
+  "reason": "Editorial on visceral adiposity and the obesity paradox in lung cancer; commentary only."
+ }
+}
