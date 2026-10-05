@@ -1,0 +1,70 @@
+{
+ "pmid:42829725": {
+  "relevance": "low",
+  "reason": "Narrative commentary on adjuvant ALK TKI duration; ALK-positive, no new data."
+ },
+ "pmid:42829639": {
+  "relevance": "low",
+  "reason": "Unvalidated bioinformatic histamine-gene signature in LUAD."
+ },
+ "pmid:42829565": {
+  "relevance": "low",
+  "reason": "Single case report (HER2 exon 20 insertion treated with T-DXd, grade 3 ILD)."
+ },
+ "pmid:42829510": {
+  "relevance": "low",
+  "reason": "Narrative review of EGFR/ALK resistance mechanisms; nothing new."
+ },
+ "pmid:42829424": {
+  "relevance": "low",
+  "reason": "Small (n=50) single-centre retrospective of EGFR exon 20 NSCLC; sunvozertinib association lost significance after adjustment."
+ },
+ "pmid:42828636": {
+  "relevance": "medium",
+  "reason": "Large Japanese retrospective cohort (n=1245, age \u226575) of post-ICI treatment sequence, EGFR/ALK-negative disease; no EGFR relevance, limited design."
+ },
+ "pmid:42828105": {
+  "relevance": "low",
+  "reason": "Cell-line/bioinformatic mechanism of METTL7B-ERBB3 in macrophage polarization; no clinical angle."
+ },
+ "pmid:42827960": {
+  "relevance": "medium",
+  "reason": "Network meta-analysis of 63 RCTs (n=21,845) on oral mucositis across EGFR-TKI regimens; safety endpoint, mostly low-certainty evidence."
+ },
+ "pmid:42829921": {
+  "relevance": "low",
+  "reason": "Senolytic prodrug/PROTAC (BRD4) work, in organoids; not EGFR-related."
+ },
+ "pmid:42829823": {
+  "relevance": "low",
+  "reason": "Photoactivatable BRD4 degrader in organoids; not EGFR resistance, distant from clinic."
+ },
+ "pmid:42828841": {
+  "relevance": "low",
+  "reason": "Exploratory EV proteomics (n=98) for pembrolizumab resistance; no validation."
+ },
+ "pmid:42829577": {
+  "relevance": "low",
+  "reason": "Unvalidated bioinformatic prognostic signature in LUAD."
+ },
+ "pmid:42828885": {
+  "relevance": "medium",
+  "reason": "Regional population cohort (n=5882) linking increased radical radiotherapy use to improved lung cancer survival; observational, era effects confounded."
+ },
+ "pmid:42828101": {
+  "relevance": "medium",
+  "reason": "Preclinical allogeneic mRNA TCR-T platform for HBV-related HCC; no clinical data."
+ },
+ "pmid:42827984": {
+  "relevance": "medium",
+  "reason": "Preclinical neuroblastoma study combining CAR-T IFN\u03b3 with TCR-T; no clinical data."
+ },
+ "pmid:42827714": {
+  "relevance": "low",
+  "reason": "Narrative review of BTK inhibitors, mainly B-cell malignancies."
+ },
+ "pmid:42827492": {
+  "relevance": "medium",
+  "reason": "Preclinical oncolytic virus delivering GPC3 to sensitize HCC to GPC3-directed T-cell therapy (ECT204)."
+ }
+}
