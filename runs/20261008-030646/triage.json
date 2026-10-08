@@ -1,0 +1,118 @@
+{
+ "pmid:42842782": {
+  "relevance": "low",
+  "reason": "Natural-product extract cytotoxicity screen, no clinical path."
+ },
+ "pmid:42842004": {
+  "relevance": "medium",
+  "reason": "Pooled reconstructed-IPD benchmarks of platinum-doublet outcomes (22 RCTs, n=2132) by driver; useful for external controls but derived from KM curves."
+ },
+ "pmid:42840767": {
+  "relevance": "medium",
+  "reason": "Large Japanese claims cohort (n=13,281): dementia aHR 1.35 for 3-yr mortality on first-line EGFR-TKI."
+ },
+ "pmid:42840625": {
+  "relevance": "medium",
+  "reason": "Review of methylation in osimertinib resistance; mechanistic, no clinical data."
+ },
+ "pmid:42840441": {
+  "relevance": "low",
+  "reason": "Single case report of osimertinib heart failure."
+ },
+ "pmid:42840361": {
+  "relevance": "low",
+  "reason": "General KRAS review across tumour types."
+ },
+ "pmid:42839924": {
+  "relevance": "low",
+  "reason": "Chinese cost-effectiveness model of aumolertinib vs osimertinib using indirect evidence."
+ },
+ "pmid:42839920": {
+  "relevance": "low",
+  "reason": "Regional Swedish genomic profiling registry (n=528)."
+ },
+ "pmid:42839779": {
+  "relevance": "low",
+  "reason": "Medicinal-chemistry review of indole EGFR hybrids; preclinical."
+ },
+ "pmid:42839698": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42837955": {
+  "relevance": "high",
+  "reason": "Global real-world chart review (367 pts) of MET testing and second-line sequencing after first-line osimertinib with acquired MET overexpression/amplification."
+ },
+ "pmid:42842841": {
+  "relevance": "low",
+  "reason": "NTRK fusion prognosis in pan-tumour real-world data; lung only incidental."
+ },
+ "pmid:42840427": {
+  "relevance": "low",
+  "reason": "Narrative review of circulating miRNAs in NSCLC, no new data."
+ },
+ "pmid:42839263": {
+  "relevance": "low",
+  "reason": "Retrospective single-centre analysis of 9th-edition TNM stage IIIA T3N2a."
+ },
+ "pmid:42838637": {
+  "relevance": "low",
+  "reason": "Narrative review of lung cancer surgery quality metrics."
+ },
+ "pmid:42838100": {
+  "relevance": "low",
+  "reason": "German tumour-board quality review; not outcome data."
+ },
+ "pmid:42842259": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42841858": {
+  "relevance": "low",
+  "reason": "Risk epidemiology in people without lung cancer (MACS cohort)."
+ },
+ "pmid:42838838": {
+  "relevance": "low",
+  "reason": "Pulmonary rehabilitation review for chronic respiratory disease, not lung cancer specific."
+ },
+ "pmid:42838253": {
+  "relevance": "medium",
+  "reason": "TriNetX cohort (4,572 matched): peri-ICI COVID mRNA vaccination not associated with OS (HR 1.005); retrospective, COVID vaccine rather than an mRNA cancer therapeutic."
+ },
+ "pmid:42842373": {
+  "relevance": "medium",
+  "reason": "CAR-engineered microglia against EGFRvIII glioblastoma in organoids; preclinical."
+ },
+ "pmid:42841316": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42840603": {
+  "relevance": "low",
+  "reason": "Review of acidic TME as barrier to cell therapy in HCC."
+ },
+ "doi:10.64898/2026.10.05.26364739": {
+  "relevance": "medium",
+  "reason": "Preprint meta-analysis of sotorasib hepatotoxicity after prior ICI in KRAS G12C NSCLC; not peer reviewed."
+ },
+ "doi:10.64898/2026.10.01.755741": {
+  "relevance": "low",
+  "reason": "Preclinical myelopoiesis study, not lung-specific."
+ },
+ "doi:10.64898/2026.10.01.755884": {
+  "relevance": "low",
+  "reason": "SLFN11 single-cell expression study in cell lines."
+ },
+ "doi:10.64898/2026.10.06.757186": {
+  "relevance": "low",
+  "reason": "Androgen-derived transcriptional state in cancer; preclinical."
+ },
+ "doi:10.64898/2026.10.06.756991": {
+  "relevance": "low",
+  "reason": "Giant cell tumor of bone in vitro; not lung."
+ },
+ "doi:10.64898/2026.10.06.755294": {
+  "relevance": "medium",
+  "reason": "Preclinical artesunate redox vulnerability in metastatic lung adenocarcinoma; preprint, in vitro/in vivo credibility unclear from title."
+ }
+}
