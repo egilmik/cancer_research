@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{title}}</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="{{base}}style.css">
+<script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+<a class="brand" href="{{base}}index.html">Lung Cancer Monitor</a>
+<nav class="tabs">{{nav}}</nav>
+<button class="themebtn" id="themebtn" type="button">Toggle theme</button>
+</header>
+<main>
+{{content}}
+</main>
+<footer>Built from the repository on every push to main. Records live in <code>state/</code>, <code>runs/</code> and <code>digests/</code>. Summaries are machine-assisted triage of abstracts; check the source before relying on a result.</footer>
+</div>
+<script src="{{base}}app.js"></script>
+</body>
+</html>
