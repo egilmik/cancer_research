@@ -90,3 +90,19 @@ ROUTINE_PROMPT.md        paste into the routine
   flags it, and it does not count as a completed window, so the next run starts before it.
 - **Status**: `python scripts/monitor.py status` shows the last successful run, item count and
   latest error per search.
+
+## Website (GitHub Pages)
+
+`scripts/build_site.py` renders `digests/`, `runs/`, `state/` and `searches.yaml` into a static site in
+`site/` (gitignored): a digest index, one page per digest, a filterable table of every item, and the
+search criteria. It only reads; it never writes to `state/`, `runs/` or `digests/`.
+
+```bash
+pip install -r requirements-site.txt
+python scripts/build_site.py        # then serve site/ with any static server
+```
+
+`.github/workflows/pages.yml` rebuilds and deploys on every push to `main` that touches the data, so each
+scheduled run's commit updates the site. One-time setup: **Settings → Pages → Source: GitHub Actions**.
+Pages sites are public by default, even for a private repo (and private repos need a paid plan).
+The look lives in `site_src/`.
