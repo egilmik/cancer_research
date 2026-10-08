@@ -6508,8 +6508,12 @@
   "reason": "Meta-analysis of EBUS-TBNA performance in older patients; diagnostic."
  },
  "pmid:41565348": {
-  "relevance": "high",
-  "reason": "China national LDCT lung cancer screening guideline, 2025 revision: raises baseline positive threshold for solid nodules to 6 mm mean diameter, specifies occupational exposure, adds stopping rules and shared decision-making; national guideline update, expert-panel based."
+  "relevance": "practice-changing",
+  "reason": "National screening guideline with changed nodule thresholds and stopping rules (China).",
+  "practice_change": {
+   "kind": "guideline",
+   "basis": "China national LDCT screening guideline, 2025 (revising 2023): positive threshold for solid nodules raised to 6 mm mean diameter; follow-up of positive nodules 3-6 months; stop screening if unfit for resection."
+  }
  },
  "pmid:41564805": {
   "relevance": "medium",
@@ -9356,8 +9360,12 @@
   "reason": "Systematic reviews of COVID-19 impact on German healthcare utilization."
  },
  "pmid:42167778": {
-  "relevance": "high",
-  "reason": "ERS/ESGE/ESTS GRADE-based clinical practice guideline on endosonography (EBUS/EUS) for diagnosis and staging of lung cancer, recommending endosonography over mediastinoscopy and systematic staging."
+  "relevance": "practice-changing",
+  "reason": "Major European guideline that drops confirmatory mediastinoscopy from mediastinal staging.",
+  "practice_change": {
+   "kind": "guideline",
+   "basis": "ERS/ESGE/ESTS GRADE guideline (searches to April 2025): endosonography recommended over mediastinoscopy for staging and restaging; add-on mediastinoscopy after negative endosonography not recommended."
+  }
  },
  "pmid:42166470": {
   "relevance": "low",
@@ -9740,8 +9748,12 @@
   "reason": "Systematic review protocol on reduced-dose CT."
  },
  "pmid:42438375": {
-  "relevance": "high",
-  "reason": "Australian National Lung Cancer Screening Program guidelines (launched July 2025) for targeted LDCT screening of high-risk individuals; new national screening guideline."
+  "relevance": "practice-changing",
+  "reason": "Guidelines for a new national targeted screening program (Australia).",
+  "practice_change": {
+   "kind": "guideline",
+   "basis": "Australian National Lung Cancer Screening Program guidelines: targeted LDCT screening for people aged 50-70 with a smoking history, program launched July 2025."
+  }
  },
  "pmid:42434759": {
   "relevance": "low",

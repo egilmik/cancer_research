@@ -4276,16 +4276,24 @@
   "reason": "Cancer Discovery news on WU-KONG28 first-line sunvozertinib and updated CHRYSALIS-2 amivantamab-lazertinib data in rare EGFR mutations; secondary reporting of trials covered elsewhere."
  },
  "pmid:42223087": {
-  "relevance": "high",
-  "reason": "Phase 3 LIBRETTO-432 (n=151) showing adjuvant selpercatinib improved 2-year EFS to 92% vs 61% with placebo (HR 0.17) in stage II-IIIA RET fusion-positive NSCLC."
+  "relevance": "practice-changing",
+  "reason": "First adjuvant targeted therapy for RET-positive NSCLC, with a large EFS benefit; OS not yet reported.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "LIBRETTO-432 phase 3, n=151; adjuvant selpercatinib vs placebo after definitive therapy, RET+ NSCLC: 2-yr EFS (stage II-IIIA, n=109) 92% vs 61%, HR 0.17 (0.06-0.51); follow-up ~2 yr."
+  }
  },
  "pmid:42220008": {
   "relevance": "medium",
   "reason": "Cancer Discovery commentary on a preclinical RAS(ON) inhibitor doublet that combined with checkpoint blockade eliminates immune-cold lung tumours in mice."
  },
  "pmid:42218899": {
-  "relevance": "high",
-  "reason": "HARMONi-6 phase 3 interim OS analysis (n=532) showing ivonescimab plus chemotherapy improved OS vs tislelizumab plus chemotherapy (27.9 vs 23.7 months, HR 0.66) in squamous NSCLC."
+  "relevance": "practice-changing",
+  "reason": "OS benefit over an active PD-1-chemotherapy standard; China-only, no global confirmation yet.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "HARMONi-6 phase 3 (China), n=532; ivonescimab + chemo vs tislelizumab + chemo: interim OS 27.9 vs 23.7 mo, HR 0.66 (0.50-0.87), met the prespecified boundary; grade >=3 TRAEs 69% vs 59%."
+  }
  },
  "pmid:42218898": {
   "relevance": "low",

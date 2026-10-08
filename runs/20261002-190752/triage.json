@@ -1348,8 +1348,12 @@
   "reason": "Multicentre Korean cohort on recurrence patterns in resected early-stage EGFR-mutant adenocarcinoma."
  },
  "pmid:40157574": {
-  "relevance": "high",
-  "reason": "Phase 3 trial of subcutaneous versus intravenous pembrolizumab plus chemotherapy in metastatic NSCLC, in Ann Oncol."
+  "relevance": "practice-changing",
+  "reason": "Noninferior subcutaneous pembrolizumab simplifies administration of a standard regimen.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "3475A-D77 phase 3, n=377; subcutaneous vs IV pembrolizumab + chemo, metastatic NSCLC: PK noninferiority met (AUC GMR 1.14, Ctrough GMR 1.67); ORR 45.4% vs 42.1%; ~2-min injection."
+  }
  },
  "pmid:40156608": {
   "relevance": "low",
@@ -6892,8 +6896,12 @@
   "reason": "Randomised phase 2 COCOON trial showing prophylactic dermatologic regimen reduces skin AEs with amivantamab-lazertinib."
  },
  "pmid:40923797": {
-  "relevance": "high",
-  "reason": "MARIPOSA phase 3 final OS showing amivantamab-lazertinib prolongs survival vs osimertinib first line."
+  "relevance": "practice-changing",
+  "reason": "Mature OS benefit over first-line osimertinib, at the cost of more grade 3+ toxicity.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "MARIPOSA phase 3, n=858 (429 per arm); amivantamab-lazertinib vs osimertinib: OS HR 0.75 (0.61-0.92), 3-yr OS 60% vs 51% at 37.8 mo follow-up; grade >=3 AEs 80% vs 52%."
+  }
  },
  "pmid:40923280": {
   "relevance": "high",
@@ -8468,8 +8476,12 @@
   "reason": "Phase 1 trial of third-generation TKI YK-029A in pretreated T790M NSCLC (mPFS 13.1 months)."
  },
  "pmid:41124220": {
-  "relevance": "high",
-  "reason": "Phase 3 OptiTROP-Lung04: sacituzumab tirumotecan improved PFS and OS vs platinum chemotherapy after EGFR-TKI failure."
+  "relevance": "practice-changing",
+  "reason": "First ADC with an OS benefit over platinum chemotherapy after EGFR-TKI failure.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "Phase 3, n=376; sac-TMT vs pemetrexed-platinum after EGFR-TKI: PFS 8.3 vs 4.3 mo, HR 0.49 (0.39-0.62); OS HR 0.60 (0.44-0.82), 18-mo OS 65.8% vs 48.0%."
+  }
  },
  "pmid:41123818": {
   "relevance": "low",
@@ -8588,8 +8600,12 @@
   "reason": "Theranostic nanovesicle targeting RRM2 overcomes osimertinib resistance and synergises with anti-PD-L1 in models."
  },
  "pmid:41104938": {
-  "relevance": "high",
-  "reason": "FLAURA2 phase 3 final OS: first-line osimertinib plus platinum-pemetrexed prolonged OS vs osimertinib alone."
+  "relevance": "practice-changing",
+  "reason": "Final OS confirms osimertinib plus chemotherapy as a first-line standard for EGFR-mutant NSCLC.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "FLAURA2 phase 3, n=557; osimertinib + platinum-pemetrexed vs osimertinib first line: final OS 47.5 vs 37.6 mo, HR 0.77 (0.61-0.96); grade >=3 AEs 70% vs 34%."
+  }
  },
  "pmid:41104928": {
   "relevance": "high",
@@ -12424,8 +12440,12 @@
   "reason": ""
  },
  "pmid:41125109": {
-  "relevance": "high",
-  "reason": "Phase 3 HARMONi-6: ivonescimab plus chemotherapy improved PFS over tislelizumab plus chemotherapy in first-line squamous NSCLC."
+  "relevance": "practice-changing",
+  "reason": "Beat an active PD-1-chemotherapy standard on the primary endpoint; China-only population, 93% male.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "HARMONi-6 phase 3 (China), n=532; ivonescimab + paclitaxel-carboplatin vs tislelizumab + chemo, first-line squamous NSCLC: PFS 11.1 vs 6.9 mo, HR 0.60 (0.46-0.78); follow-up 10.3 mo."
+  }
  },
  "pmid:41115251": {
   "relevance": "medium",
@@ -12968,8 +12988,12 @@
   "reason": "Brief report of PHAROS phase 2 updated efficacy and safety of encorafenib plus binimetinib in BRAF V600E NSCLC."
  },
  "pmid:40473449": {
-  "relevance": "high",
-  "reason": "Phase 3 IMforte: lurbinectedin plus atezolizumab maintenance improved PFS and OS over atezolizumab in ES-SCLC."
+  "relevance": "practice-changing",
+  "reason": "First maintenance addition to atezolizumab with an OS benefit in extensive-stage SCLC.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "IMforte phase 3, n=483; maintenance lurbinectedin + atezolizumab vs atezolizumab, ES-SCLC: PFS HR 0.54 (0.43-0.67), OS HR 0.73 (0.57-0.95); grade 3-4 AEs 38% vs 22%."
+  }
  },
  "pmid:40473109": {
   "relevance": "medium",
@@ -12992,12 +13016,20 @@
   "reason": ""
  },
  "pmid:40454646": {
-  "relevance": "high",
-  "reason": "Phase 3 DeLLphi-304: tarlatamab improved OS over second-line chemotherapy in SCLC."
+  "relevance": "practice-changing",
+  "reason": "Tarlatamab replaces chemotherapy as the second-line standard in SCLC, with less toxicity.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "DeLLphi-304 phase 3, n=509; tarlatamab vs chemotherapy (topotecan, lurbinectedin or amrubicin) second line SCLC: OS 13.6 vs 8.3 mo, HR 0.60 (0.47-0.77); grade >=3 AEs 54% vs 80%."
+  }
  },
  "pmid:40454642": {
-  "relevance": "high",
-  "reason": "CheckMate 816 final OS: neoadjuvant nivolumab plus chemotherapy significantly improved overall survival in resectable NSCLC."
+  "relevance": "practice-changing",
+  "reason": "Final OS confirms neoadjuvant chemoimmunotherapy as a standard for resectable NSCLC.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "CheckMate 816 phase 3, n=358; neoadjuvant nivolumab + chemo vs chemo, stage IB-IIIA: final OS HR 0.72 (0.523-0.998), 5-yr OS 65.4% vs 55.0%, follow-up 68.4 mo."
+  }
  },
  "pmid:40448575": {
   "relevance": "low",

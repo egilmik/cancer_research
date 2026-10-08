@@ -2192,19 +2192,35 @@
   "reason": "Results newly posted for a large phase 3 adjuvant durvalumab vs placebo trial in resected NSCLC (n=1415)."
  },
  "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-zidesamtinib-ros1-positive-non-small-cell-lung-cancer": {
-  "relevance": "high",
-  "reason": "Regulatory approval/opinion in lung cancer that the approvals-access criteria treat as high; date of the decision is before this run window, first seen via web search."
+  "relevance": "practice-changing",
+  "reason": "FDA approval of a new ROS1 TKI after prior ROS1 TKI.",
+  "practice_change": {
+   "kind": "regulatory",
+   "basis": "FDA approval, 22 July 2026: zidesamtinib for locally advanced or metastatic ROS1+ NSCLC after at least one prior ROS1 TKI."
+  }
  },
  "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-zongertinib-unresectable-or-metastatic-non-squamous-non-small-cell": {
-  "relevance": "high",
-  "reason": "Regulatory approval/opinion in lung cancer that the approvals-access criteria treat as high; date of the decision is before this run window, first seen via web search."
+  "relevance": "practice-changing",
+  "reason": "FDA approval of an oral HER2 TKI for HER2-mutant NSCLC.",
+  "practice_change": {
+   "kind": "regulatory",
+   "basis": "FDA accelerated approval, 26 February 2026: zongertinib for unresectable or metastatic non-squamous NSCLC with HER2 (ERBB2) TKD mutations."
+  }
  },
  "url:https://www.ema.europa.eu/en/documents/smop-initial/chmp-summary-positive-opinion-imdylltra_en.pdf": {
-  "relevance": "high",
-  "reason": "Regulatory approval/opinion in lung cancer that the approvals-access criteria treat as high; date of the decision is before this run window, first seen via web search."
+  "relevance": "practice-changing",
+  "reason": "Positive CHMP opinion for tarlatamab in SCLC.",
+  "practice_change": {
+   "kind": "regulatory",
+   "basis": "EMA CHMP positive opinion, 26 March 2026: Imdylltra (tarlatamab) for extensive-stage SCLC."
+  }
  },
  "url:https://www.ema.europa.eu/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-imfinzi-ema-vr-0000282058_en.pdf": {
-  "relevance": "high",
-  "reason": "Regulatory approval/opinion in lung cancer that the approvals-access criteria treat as high; date of the decision is before this run window, first seen via web search."
+  "relevance": "practice-changing",
+  "reason": "Positive CHMP opinion extending durvalumab in resectable NSCLC.",
+  "practice_change": {
+   "kind": "regulatory",
+   "basis": "EMA CHMP positive opinion on a variation, 29 January 2026: Imfinzi (durvalumab) for resectable NSCLC at high risk of recurrence."
+  }
  }
 }

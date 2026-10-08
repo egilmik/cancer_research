@@ -1540,8 +1540,12 @@
   "reason": ""
  },
  "pmid:40460847": {
-  "relevance": "high",
-  "reason": "Phase 2 randomised open-label trial CT041-ST-01 (NCT04581473), CLDN18.2 satri-cel vs physician's choice in 3rd-line+ gastric/GEJ cancer (n=156): median PFS 3.25 vs 1.77 months (HR 0.37), CRS in 95%, grade>=3 AEs 99%; short PFS gain, open-label, median follow-up ~9 months, OS not shown here."
+  "relevance": "practice-changing",
+  "reason": "First randomised CAR-T benefit in a solid tumour, leading to the first solid-tumour CAR-T approval (China).",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "Randomised phase 2, n=156; satri-cel (CLDN18.2 CAR-T) vs physician's choice in previously treated CLDN18.2+ gastric/GEJ cancer: PFS 3.25 vs 1.77 mo, HR 0.37 (0.24-0.56); basis of the China approval (pmid:42478469)."
+  }
  },
  "pmid:40450522": {
   "relevance": "medium",

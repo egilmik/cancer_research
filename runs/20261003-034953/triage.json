@@ -2424,8 +2424,12 @@
   "reason": ""
  },
  "pmid:38924756": {
-  "relevance": "high",
-  "reason": "Phase 3 MARIPOSA: first-line amivantamab-lazertinib vs osimertinib, median PFS 23.7 vs 16.6 months (HR 0.70)."
+  "relevance": "practice-changing",
+  "reason": "First-line amivantamab-lazertinib beat the osimertinib standard on the primary PFS endpoint.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "MARIPOSA phase 3, n=1074; amivantamab-lazertinib vs osimertinib first line: PFS 23.7 vs 16.6 mo, HR 0.70 (95% CI 0.58-0.85); interim OS HR 0.80 (0.61-1.05)."
+  }
  },
  "pmid:38924680": {
   "relevance": "low",
@@ -2856,8 +2860,12 @@
   "reason": ""
  },
  "pmid:38857463": {
-  "relevance": "high",
-  "reason": "Phase III PALOMA-3: subcutaneous amivantamab-lazertinib PK-noninferior to IV after osimertinib and chemo, fewer infusion reactions, exploratory OS HR 0.62."
+  "relevance": "practice-changing",
+  "reason": "Subcutaneous amivantamab is noninferior and cuts infusion reactions sharply, simplifying amivantamab regimens.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "PALOMA-3 phase 3, n=418; subcutaneous vs IV amivantamab + lazertinib after osimertinib and chemo: PK noninferiority met (Ctrough GMR 1.15-1.42, AUC 1.03); IRRs 13% vs 66%."
+  }
  },
  "pmid:38857163": {
   "relevance": "low",
@@ -3012,8 +3020,12 @@
   "reason": "Phase II BLOSSOM: osimertinib 80 mg in EGFR-mutant leptomeningeal metastases, LM ORR 51.6%, median OS 15.6 months."
  },
  "pmid:38828946": {
-  "relevance": "high",
-  "reason": "Phase 3 LAURA: osimertinib after chemoradiotherapy in unresectable stage III EGFR-mutant NSCLC, median PFS 39.1 vs 5.6 months (HR 0.16)."
+  "relevance": "practice-changing",
+  "reason": "Established osimertinib consolidation after chemoradiotherapy in stage III EGFR-mutant NSCLC.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "LAURA phase 3, n=216; osimertinib vs placebo after chemoradiotherapy in unresectable stage III EGFRm NSCLC: PFS 39.1 vs 5.6 mo, HR 0.16 (0.10-0.24); OS 20% mature."
+  }
  },
  "pmid:38828424": {
   "relevance": "low",
@@ -10652,8 +10664,12 @@
   "reason": "Nat Med data-driven pulmonary nodule risk stratification."
  },
  "pmid:39288781": {
-  "relevance": "high",
-  "reason": "KEYNOTE-671 OS: perioperative pembrolizumab improved 36-month OS (HR 0.72) in resectable NSCLC."
+  "relevance": "practice-changing",
+  "reason": "First perioperative immunotherapy regimen with a significant OS benefit in resectable NSCLC.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "KEYNOTE-671 phase 3, n=797; perioperative pembrolizumab + neoadjuvant chemo vs neoadjuvant chemo: OS HR 0.72 (0.56-0.93), 36-mo OS 71% vs 64%; EFS 47.2 vs 18.3 mo, HR 0.59."
+  }
  },
  "pmid:39288778": {
   "relevance": "low",
@@ -10680,8 +10696,12 @@
   "reason": ""
  },
  "pmid:39268857": {
-  "relevance": "high",
-  "reason": "Phase 3 ADRIATIC: consolidation durvalumab improved OS (median 55.9 vs 33.4 months) in limited-stage SCLC."
+  "relevance": "practice-changing",
+  "reason": "First consolidation therapy with an OS benefit in limited-stage SCLC.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "ADRIATIC phase 3; consolidation durvalumab (n=264) vs placebo (n=266) after chemoradiotherapy in limited-stage SCLC: OS 55.9 vs 33.4 mo, HR 0.73 (98.3% CI 0.54-0.98); PFS HR 0.76."
+  }
  },
  "pmid:39265598": {
   "relevance": "medium",
@@ -10780,8 +10800,12 @@
   "reason": "Lancet Respir Med commentary on LS-SCLC strategies."
  },
  "pmid:39146944": {
-  "relevance": "high",
-  "reason": "Phase 3: 54 Gy hyperfractionated boost improved OS vs 45 Gy (median 60.7 vs 39.5 months) in LS-SCLC."
+  "relevance": "practice-changing",
+  "reason": "Higher-dose thoracic RT improved OS on the primary endpoint; single-country and stopped early, so the effect may be overestimated.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "Phase 3 (China), n=224; 54 Gy vs 45 Gy hyperfractionated thoracic RT in limited-stage SCLC: primary OS 60.7 vs 39.5 mo, HR 0.55 (0.37-0.72); similar toxicity; stopped early for benefit."
+  }
  },
  "pmid:39127176": {
   "relevance": "medium",
@@ -11220,8 +11244,12 @@
   "reason": ""
  },
  "pmid:38598794": {
-  "relevance": "high",
-  "reason": "Phase 3 ALINA: adjuvant alectinib improved DFS (HR 0.24) and CNS DFS vs chemotherapy in resected ALK+ NSCLC."
+  "relevance": "practice-changing",
+  "reason": "Made adjuvant alectinib the standard after resection of ALK-positive NSCLC.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "ALINA phase 3, n=257; adjuvant alectinib vs platinum chemotherapy, resected ALK+ stage IB-IIIA: 2-yr DFS (stage II-IIIA) 93.8% vs 63.0%, HR 0.24 (0.13-0.45); OS immature."
+  }
  },
  "pmid:38589574": {
   "relevance": "medium",

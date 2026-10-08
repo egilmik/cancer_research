@@ -74,7 +74,7 @@ def entry(run_id, key, t, it):
 def render(runs):
     found = [(run_id, key, t, items[key]) for run_id, triage, items in runs
              for key, t in triage.items() if t.get("relevance") == "practice-changing"]
-    found.sort(key=lambda r: r[0], reverse=True)
+    found.sort(key=lambda r: (r[0], str(r[3].get("year") or r[3].get("published") or "9999")), reverse=True)
     out = [
         "# Practice-changing items",
         "",

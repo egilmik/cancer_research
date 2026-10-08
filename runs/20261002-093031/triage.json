@@ -44,8 +44,12 @@
   "reason": "CHMP opinion from May 2024 (tislelizumab NSCLC), outside the window."
  },
  "url:https://www.nyemetoder.no/49597e/contentassets/1deaee85578f4fc386b34ddd596e593e/offentlige-sakspapirer-beslutningsforum-16.-mars-2026.pdf": {
-  "relevance": "high",
-  "reason": "Norwegian Beslutningsforum decisions of 16 March 2026 not previously recorded: tislelizumab + etoposide/platinum introduced for 1L ES-SCLC, tepotinib monotherapy for METex14 NSCLC not introduced."
+  "relevance": "practice-changing",
+  "reason": "Norwegian decisions on two lung cancer drugs, one introduced and one rejected.",
+  "practice_change": {
+   "kind": "regulatory",
+   "basis": "Nye Metoder Beslutningsforum, 16 March 2026: tislelizumab (Tevimbra) + etoposide/platinum introduced for first-line ES-SCLC; tepotinib (Tepmetko) not introduced for METex14 NSCLC."
+  }
  },
  "url:https://www.nyemetoder.no/aktuelt/beslutningsforum-22-mai-innforer-to-nye-legemidler-for-pasienter-med-lungekreft": {
   "relevance": "medium",
