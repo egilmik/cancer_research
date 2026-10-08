@@ -8,6 +8,7 @@ on:
       - runs/**
       - state/**
       - searches.yaml
+      - practice_changing.md
       - scripts/build_site.py
       - site_src/**
       - requirements-site.txt

@@ -18,6 +18,7 @@ state/items.jsonl        every item ever seen (append-only)
 state/runs.jsonl         every query executed: exact query, PubMed's translation, date window, counts
 runs/<run_id>/           new_items.json (script) + triage.json (Claude)
 digests/<run_id>.md      the readable output
+practice_changing.md     accumulating index of practice-changing items (scripts/build_index.py)
 CLAUDE.md                the protocol Claude follows
 ROUTINE_PROMPT.md        paste into the routine
 ```

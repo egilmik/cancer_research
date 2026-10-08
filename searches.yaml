@@ -15,6 +15,26 @@ settings:
                               # longer backfill, run with `since:` in a few chunks
   max_results: 500            # per request; longer PubMed windows are split by date to fit
 
+# Shared bar for the top relevance tier, `practice-changing`, used by every search. Each search's
+# own `practice_changing` line adds what that bar means in its field. When in doubt, it is `high`.
+practice_changing: >
+  An item is PRACTICE-CHANGING when it is likely to change what clinicians actually do, not just
+  what they discuss. One of:
+  (1) TRIAL: a peer-reviewed randomised phase 3 (or a randomised phase 2 that leads directly to
+  regulatory action) reporting its primary endpoint or a mature, pre-specified OS analysis, with a
+  clinically meaningful benefit (or a clear harm or non-inferiority that simplifies treatment)
+  against the current standard of care. Name the comparator, the endpoint and the key effect size.
+  (2) REGULATORY: a decision itself, reported by the agency or company: FDA approval or label change
+  or withdrawal, EMA positive CHMP opinion or EC authorisation, Nye Metoder decision. Other agencies
+  (NMPA, PMDA, MHRA, Health Canada) only for a first approval of a new drug or mechanism anywhere.
+  Journal profiles of an approval ("X: First Approval") are HIGH, not this tier.
+  (3) GUIDELINE: a new or updated guideline or consensus statement from a major body (ESMO, ASCO,
+  NCCN, IASLC, national guidelines) that changes a recommendation.
+  NEVER this tier: secondary, exploratory, post-hoc, subgroup or biomarker analyses; interim analyses
+  with immature OS that are not the primary endpoint; single-arm trials; observational studies of any
+  size; meta-analyses; conference abstracts; preprints; trials that only confirm an established
+  standard; trials against a comparator that is no longer standard (say so in the reason, rate HIGH).
+
 searches:
 
   # ------------------------------------------------------------------ EGFR-mutant NSCLC
@@ -24,14 +44,18 @@ searches:
     version: 1
     criteria: >
       EGFR-mutant non-small cell lung cancer. HIGH: phase 2/3 results or updated survival data
-      (e.g. FLAURA2, MARIPOSA and successors); new approvals, label changes or guideline updates;
-      resistance mechanisms with treatment implications (C797S, MET, HER2, histologic
+      that do not meet the practice-changing bar (e.g. secondary analyses of FLAURA2, MARIPOSA
+      and successors); approval profiles and guideline commentary; resistance mechanisms with treatment implications (C797S, MET, HER2, histologic
       transformation); new agents (4th-generation TKIs, ADCs, bispecifics, degraders/PROTACs);
       CNS efficacy; ctDNA/MRD-guided strategies; head-to-head or sequencing data.
       MEDIUM: large real-world cohorts, well-done meta-analyses, mechanistic studies with a clear
       clinical angle, differences in access or outcomes between countries.
       LOW: case reports, small single-centre retrospectives, bioinformatic signatures without
       validation, network-pharmacology papers, narrative reviews that add nothing new.
+    practice_changing: >
+      results of the kind of FLAURA, FLAURA2 final OS or MARIPOSA: a new
+      first-line, adjuvant/perioperative or post-osimertinib standard; approvals or label changes for
+      EGFR-directed drugs; ESMO/NCCN/ASCO guideline changes in EGFR-mutant NSCLC.
     pubmed:
       query: >-
         ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung carcinoma"[tiab]
@@ -62,6 +86,10 @@ searches:
       MET- or HER2-directed strategies after EGFR TKIs; transformation to small cell.
       MEDIUM: preclinical work on these with a credible path to the clinic.
       LOW: ADC or resistance papers in other tumour types that only mention lung in passing.
+    practice_changing: >
+      the first positive randomised phase 3 in the post-osimertinib setting
+      (overall or in a MET-, HER2- or transformation-defined group) against platinum chemotherapy or
+      the current standard; approval of an ADC, 4th-generation TKI or MET/HER2 agent in this setting.
     pubmed:
       query: >-
         ("lung cancer"[tiab] OR "lung adenocarcinoma"[tiab] OR NSCLC[tiab]
@@ -83,12 +111,16 @@ searches:
     enabled: true
     version: 1
     criteria: >
-      All lung cancer (NSCLC, SCLC). HIGH: phase 3 results, practice-changing phase 2, new
+      All lung cancer (NSCLC, SCLC). HIGH: phase 3 results below the practice-changing bar, notable phase 2, new
       guidelines or consensus statements, screening trials, perioperative/adjuvant data,
       immunotherapy or targeted-therapy results in any driver subgroup.
       MEDIUM: phase 2 trials, rigorous meta-analyses of RCTs, protocol papers of major trials.
       LOW: meta-analyses of retrospective studies, trial-design commentaries, regional
       single-arm studies with small n.
+    practice_changing: >
+      a positive phase 3 primary endpoint against the current standard in any
+      lung cancer setting (e.g. a new perioperative or first-line standard, a screening trial with a
+      lung cancer mortality reduction); a guideline that changes a recommendation.
     pubmed:
       query: >-
         ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung carcinoma"[tiab]
@@ -110,6 +142,9 @@ searches:
       Anything on lung cancer in these journals deserves at least MEDIUM. HIGH if it reports
       trial results, changes practice, or explains a mechanism with treatment consequences.
       LOW for letters, corrections and short commentaries.
+    practice_changing: >
+      same bar as lung-key-evidence; a top-journal venue does not by itself make
+      an item practice-changing.
     pubmed:
       query: >-
         ("lung cancer"[tiab] OR "lung adenocarcinoma"[tiab] OR NSCLC[tiab] OR SCLC[tiab]
@@ -130,6 +165,10 @@ searches:
       cohorts (exercise, prehabilitation, nutrition, body composition, sleep, psychosocial).
       MEDIUM: smaller trials, feasibility studies with outcome data, good meta-analyses.
       LOW: prevention/risk epidemiology in people without cancer, surveys, protocols.
+    practice_changing: >
+      a randomised trial large enough to enter guidelines with a clinically meaningful
+      effect on survival, postoperative complications or treatment completion (e.g. prehabilitation
+      before surgery); a guideline that adds such an intervention to standard care. Expect this rarely.
     pubmed:
       query: >-
         ("lung cancer"[tiab] OR "lung adenocarcinoma"[tiab] OR NSCLC[tiab] OR SCLC[tiab]
@@ -156,6 +195,9 @@ searches:
       (e.g. COVID-19 mRNA vaccination and cancer outcomes), rigorous meta-analyses.
       LOW: narrative reviews, in vitro-only work, and mRNA expression or stability papers
       (m6A, biomarkers, signatures) where mRNA is a measured analyte and not the therapeutic.
+    practice_changing: >
+      a positive randomised phase 3 of an mRNA vaccine or therapeutic in lung cancer, or
+      its regulatory approval. Immunogenicity data and phase 1/2 results stay HIGH.
     pubmed:
       query: >-
         ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung carcinoma"[tiab]
@@ -191,6 +233,9 @@ searches:
       LOW: in vitro-only or docking/network-pharmacology papers, narrative reviews, case reports, and
       studies where the drug is only a covariate. Flag immortal-time bias and confounding by
       indication in observational studies.
+    practice_changing: >
+      a positive randomised phase 3 with a survival or major clinical endpoint.
+      Observational data, however large or well adjusted, stay HIGH at most.
     pubmed:
       query: >-
         ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung carcinoma"[tiab]
@@ -231,6 +276,10 @@ searches:
       LOW: in vitro-only work, narrative reviews, bioinformatic target-discovery papers, case
       reports, and papers that only mention solid tumours in passing. Report phase, n and
       follow-up for clinical data; do not generalise early-phase response rates.
+    practice_changing: >
+      a regulatory approval of a CAR, CAR-NK, CAR-M or TCR-T product in a solid tumour
+      (afamitresgene autoleucel in synovial sarcoma, FDA 2024, is the precedent), or a randomised trial
+      showing a survival benefit against the standard of care. Single-arm response rates stay HIGH.
     pubmed:
       query: >-
         ("CAR-T"[tiab] OR "CAR T"[tiab] OR "CAR-T cell"[tiab] OR "CAR-T cells"[tiab]
@@ -272,6 +321,9 @@ searches:
     criteria: >
       Preprints are not peer reviewed, so say so in the digest. HIGH only for trial results or
       striking EGFR/resistance findings; most items should be MEDIUM or LOW.
+    practice_changing: >
+      never. Preprints are not peer reviewed; cap them at HIGH and say a peer-reviewed
+      version will be judged when it appears.
     feeds:
       - http://connect.medrxiv.org/medrxiv_xml.php?subject=Oncology
       - http://connect.biorxiv.org/biorxiv_xml.php?subject=cancer_biology
@@ -284,9 +336,14 @@ searches:
     version: 1
     criteria: >
       Regulatory and access decisions for lung cancer drugs: FDA approvals, EMA/CHMP opinions,
-      Norwegian Nye Metoder decisions. HIGH: any decision on an EGFR-directed therapy or a
-      lung cancer drug. Ignore pages older than about two months unless they are decisions
+      Norwegian Nye Metoder decisions. HIGH: negative opinions, withdrawn applications and
+      other agencies' decisions on lung cancer drugs. Ignore pages older than about two months unless they are decisions
       not yet recorded in this repo.
+    practice_changing: >
+      every FDA approval, label change or withdrawal; every positive CHMP opinion
+      or EC authorisation; every Nye Metoder decision on a lung cancer drug (positive or negative,
+      since either changes Norwegian practice). Negative CHMP opinions and withdrawn applications
+      are HIGH.
     web:
       - 'FDA approves lung cancer site:fda.gov'
       - 'CHMP opinion lung cancer site:ema.europa.eu'
