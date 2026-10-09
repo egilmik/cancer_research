@@ -4557,7 +4557,7 @@
  },
  "nct-results:NCT04702880": {
   "relevance": "high",
-  "reason": "Results posted for a randomised phase 2 (n=135, BMS) of BMS-986012 (anti-fucosyl-GM1) added to carboplatin-etoposide-nivolumab as first-line ES-SCLC therapy; registry results, not a peer-reviewed report."
+  "reason": "Results posted for a randomised phase 2 (n=135, BMS) of BMS-986012 added to carboplatin-etoposide-nivolumab, first-line ES-SCLC: BICR PFS 5.78 vs 5.59 months, HR 0.83 (95% CI 0.55-1.25); registry results, not peer reviewed."
  },
  "nct-results:NCT05500092": {
   "relevance": "low",
@@ -4749,7 +4749,7 @@
  },
  "nct-results:NCT05740566": {
   "relevance": "high",
-  "reason": "Results posted on ClinicalTrials.gov for phase 3 DeLLphi-304 (n=509, Amgen): tarlatamab vs investigator's-choice chemotherapy (lurbinectedin, topotecan or amrubicin) in relapsed SCLC, primary endpoint OS; registry results for the trial behind tarlatamab's full approval."
+  "reason": "Results posted on ClinicalTrials.gov for phase 3 DeLLphi-304 (n=509, Amgen): tarlatamab vs investigator's-choice chemotherapy (lurbinectedin, topotecan or amrubicin) in relapsed SCLC; primary endpoint OS, median 13.6 vs 8.3 months, HR 0.60 (95% CI 0.47-0.77)."
  },
  "nct-results:NCT04216316": {
   "relevance": "low",
@@ -4878,5 +4878,4221 @@
  "pmid:41813551": {
   "relevance": "low",
   "reason": ""
+ },
+ "pmid:41813168": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41812675": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41812316": {
+  "relevance": "medium",
+  "reason": "Somatic and germline genomic profiling of thymic carcinomas (ESMO Open)."
+ },
+ "pmid:41810283": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41808711": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41808614": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41808398": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41808091": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41807357": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41807340": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41804001": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41803144": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41801610": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41795989": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41795597": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41795172": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41793952": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41792801": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41792509": {
+  "relevance": "medium",
+  "reason": "O-GlcNAc-driven nuclear export as target in Hippo-inactive mesothelioma, in vivo."
+ },
+ "pmid:41789017": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41785549": {
+  "relevance": "medium",
+  "reason": "French multicentre 924-patient experience of CRS-HIPEC for peritoneal mesothelioma."
+ },
+ "pmid:41778968": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41776695": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41775929": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41773493": {
+  "relevance": "medium",
+  "reason": "JNJ-79032421, membrane-restricted mesothelin T-cell engager, preclinical in vivo."
+ },
+ "pmid:41773442": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41771171": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41764192": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41760265": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41759250": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41753103": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41751203": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41749932": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41744857": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41743715": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41740119": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41739296": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41738708": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41735728": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41735480": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41734361": {
+  "relevance": "high",
+  "reason": "Five-year follow-up of phase 3 CheckMate 743 (JCO): first-line nivolumab plus ipilimumab vs platinum-pemetrexed in unresectable pleural mesothelioma maintains its OS benefit; confirms an existing standard (so not practice-changing), and the M-MDSC biomarker finding is exploratory."
+ },
+ "pmid:41732385": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41729969": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41728043": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41727746": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41727665": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41723092": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41721215": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41720643": {
+  "relevance": "medium",
+  "reason": "Overview of 9th TNM classification of thoracic tumours incl. new pleural mesothelioma T criteria."
+ },
+ "pmid:41718841": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41718807": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41718511": {
+  "relevance": "medium",
+  "reason": "JTO review proposing morpho-molecular classification of pleural mesothelioma."
+ },
+ "pmid:41717388": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41716296": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41716210": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41716207": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41715997": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41714836": {
+  "relevance": "medium",
+  "reason": "Proteomic blood biomarkers for early pleural mesothelioma detection in prospective cohorts."
+ },
+ "pmid:41713616": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41712373": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41712014": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41711168": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41710678": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41710652": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41709922": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41709334": {
+  "relevance": "medium",
+  "reason": "German nationwide cohort: CRS/HIPEC/PIPAC underused in peritoneal mesothelioma."
+ },
+ "pmid:41708907": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41708120": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41706365": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41702713": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41701387": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41700204": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41699286": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41699065": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41698325": {
+  "relevance": "medium",
+  "reason": "JNCCN review of emerging strategies for thymomas and thymic carcinomas."
+ },
+ "pmid:41696561": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41696560": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41694833": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41694081": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41691589": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41690767": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41690006": {
+  "relevance": "medium",
+  "reason": "Scoping review: BAP1/MTAP loss in WDPMT-like lesions should be classified as mesothelioma in situ."
+ },
+ "pmid:41688288": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41686895": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41686483": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41684354": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41682639": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41681876": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41681853": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41681829": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41681802": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41681104": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41678808": {
+  "relevance": "medium",
+  "reason": "Aryl ether YAP1/TEAD inhibitor with complete tumour growth inhibition in mesothelioma xenograft."
+ },
+ "pmid:41677646": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41675623": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41675270": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41674945": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41673140": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41671904": {
+  "relevance": "medium",
+  "reason": "Multicentre real-world first-line lenvatinib in advanced thymic carcinoma."
+ },
+ "pmid:41671661": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41671609": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41671387": {
+  "relevance": "medium",
+  "reason": "Integrative multiomic classification of thymic epithelial tumours into three subgroups (Cancer Res)."
+ },
+ "pmid:41670784": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41669790": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41669277": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41668011": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41666356": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41665914": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41663136": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41660448": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41660437": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41659674": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41659271": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41658893": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41656400": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41656194": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41655170": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41654952": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41652913": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41652347": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41646594": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41640977": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41640317": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41640316": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41638523": {
+  "relevance": "medium",
+  "reason": "Modern US outcomes of pleurectomy-decortication after MARS2, low postoperative mortality with selection."
+ },
+ "pmid:41636204": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41633573": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41630024": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41627711": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41628139": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41628072": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41626351": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41622196": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41621980": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41617892": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41615745": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41615061": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41614920": {
+  "relevance": "medium",
+  "reason": "AACR GENIE genomic landscape of thymic carcinoma."
+ },
+ "pmid:41614227": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41612506": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41607245": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41607126": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41606745": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41605668": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41605644": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41604970": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41604907": {
+  "relevance": "medium",
+  "reason": "Protocol: phase 2 PENINSULA, pembrolizumab + chemo + lenvatinib first-line pleural mesothelioma."
+ },
+ "pmid:41604116": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41602394": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41602391": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41602130": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41598576": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41597257": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41596179": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41595142": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41595132": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41592588": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41589418": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41589395": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41589241": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41587745": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41586129": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41582881": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41580970": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41580804": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41580478": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41580205": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41579003": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41578337": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41577697": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41577641": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41575277": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41574275": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41573440": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41570772": {
+  "relevance": "medium",
+  "reason": "Lung Cancer review of immune-related disorders in thymic epithelial tumours and management."
+ },
+ "pmid:41568969": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41568896": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41567900": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41567000": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41566839": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41564855": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41561856": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41559594": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41558821": {
+  "relevance": "medium",
+  "reason": "Cancer-specific anti-podoplanin antibody chLpMab-2f active in orthotopic mesothelioma models."
+ },
+ "pmid:41556290": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41555965": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41555448": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41555182": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41553026": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41551155": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41546507": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41546142": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41545767": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41541962": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41539214": {
+  "relevance": "high",
+  "reason": "Randomised double-blind phase 2 NEMO (EORTC-08112-LCG): switch maintenance nintedanib vs placebo after first-line chemotherapy in pleural mesothelioma did not improve PFS or OS; a negative trial confounded by more subsequent immunotherapy in the placebo arm."
+ },
+ "pmid:41537898": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41537688": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41537325": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41537130": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41536830": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41536177": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41535611": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41534436": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41532900": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41525973": {
+  "relevance": "medium",
+  "reason": "National cohort of thymic epithelial tumours in paediatric/AYA patients."
+ },
+ "pmid:41523226": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41523222": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41522124": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41522103": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41520569": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41519944": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41519534": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41519525": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41517292": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41516289": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41514686": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41514598": {
+  "relevance": "medium",
+  "reason": "PSM: neoadjuvant CRT vs chemo in thymic epithelial tumours, better regression, no OS gain."
+ },
+ "pmid:41512977": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41512380": {
+  "relevance": "medium",
+  "reason": "Lung Cancer review with recommendations on multi-omic mesothelioma screening in asbestos-exposed."
+ },
+ "pmid:41512303": {
+  "relevance": "medium",
+  "reason": "Multicentre: serum CYFRA 21-1 distinguishes thymic carcinoma from other thymic masses."
+ },
+ "pmid:41510382": {
+  "relevance": "medium",
+  "reason": "Chinese multicentre real-world first-line IO and later therapies in pleural mesothelioma."
+ },
+ "pmid:41509805": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41509310": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41509156": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41507389": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41507253": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41506801": {
+  "relevance": "medium",
+  "reason": "68Ga-FAPI-46 PET prognostic value in pleural mesothelioma (J Nucl Med)."
+ },
+ "pmid:41504991": {
+  "relevance": "high",
+  "reason": "PMDA regulatory update (Int J Clin Oncol editorial) covering Japan's approval of atezolizumab for thymic carcinoma; a journal profile of an approval in a new indication, not a new drug or mechanism, so high rather than practice-changing."
+ },
+ "pmid:41503580": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41503579": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41503578": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41503577": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41503576": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41502595": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41501708": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41501212": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41500272": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41499321": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41497137": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41496120": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41494982": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41494980": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41494969": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41494701": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41491393": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41491065": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41490976": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41487432": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41486895": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41486551": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41485548": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41484314": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41484087": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41483638": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41483096": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41481851": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41480435": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41480175": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41480169": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41479743": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41476594": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42166765": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42166196": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42165211": {
+  "relevance": "medium",
+  "reason": "Danish population-based survival and relapse of thymic epithelial tumours."
+ },
+ "pmid:42163521": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42161911": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42161616": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42158439": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42158270": {
+  "relevance": "medium",
+  "reason": "Meta-analysis: first-line platinum + ICI or antiangiogenics in unresectable TETs."
+ },
+ "pmid:42156549": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42155470": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42154663": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42154413": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42151521": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42150333": {
+  "relevance": "medium",
+  "reason": "EURACAN SPECTA vs AURAGEN molecular profiling in peritoneal mesothelioma."
+ },
+ "pmid:42149880": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42147614": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42147223": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42145953": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42143561": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42143520": {
+  "relevance": "medium",
+  "reason": "NEJ023B retrospective: anthracycline-platinum vs other platinum regimens first-line thymoma, no difference."
+ },
+ "pmid:42142424": {
+  "relevance": "medium",
+  "reason": "Real-world ICI efficacy and toxicity in unresectable thymic epithelial tumours."
+ },
+ "pmid:42141786": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42141436": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42140783": {
+  "relevance": "medium",
+  "reason": "Large real-world cohort: quantitative MRI-based T category in pleural mesothelioma."
+ },
+ "pmid:42139971": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42139053": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42138664": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42136762": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42136544": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42135065": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42134937": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42134926": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42131832": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42130599": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42130036": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42128843": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42127864": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42122170": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42118694": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42118152": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42113501": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42112501": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42112326": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42111706": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42110081": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42107977": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42106231": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42103470": {
+  "relevance": "medium",
+  "reason": "National mesothelioma network associated with improved OS in non-epithelioid patients (Thorax)."
+ },
+ "pmid:42103469": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42102247": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42101078": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42100407": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42098011": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42097875": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42095430": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42095131": {
+  "relevance": "medium",
+  "reason": "Definitive chemo-RT for unresected thymic malignancies: high local control, large series."
+ },
+ "pmid:42094464": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42091897": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42091015": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42089900": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42085979": {
+  "relevance": "medium",
+  "reason": "Dutch nationwide: centralisation of TET care associated with higher R0 resection rates (EJC)."
+ },
+ "pmid:42080612": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42080609": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42079956": {
+  "relevance": "medium",
+  "reason": "Regional real-world multimodal treatment incl. surgery for pleural mesothelioma."
+ },
+ "pmid:42078591": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42076683": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42076082": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42074143": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42072768": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42072616": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42070672": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42069682": {
+  "relevance": "medium",
+  "reason": "USP1 as vulnerability in BAP1-deficient mesothelioma."
+ },
+ "pmid:42067116": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42066847": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42066658": {
+  "relevance": "medium",
+  "reason": "EGFR-targeted NIR photoimmunotherapy extends survival in mesothelioma models."
+ },
+ "pmid:42064058": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42063785": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42062618": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42061450": {
+  "relevance": "medium",
+  "reason": "Meta-analysis abstract: ICI efficacy and safety in thymic epithelial tumours (JNCCN)."
+ },
+ "pmid:42061430": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42061246": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42059219": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42057857": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42054266": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42052488": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42048329": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42046766": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42046591": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42046139": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42045690": {
+  "relevance": "high",
+  "reason": "Nature Genetics study of the NIBIT-MESO-1/EPI-MESO cohorts in pleural mesothelioma: tumour DNA-methylation subtypes predicted outcome on immune checkpoint inhibitors, and a methylation-based classifier was built; a promising biomarker for selecting patients for immunotherapy, but derived from phase 2 cohorts and needing prospective validation."
+ },
+ "pmid:42045540": {
+  "relevance": "medium",
+  "reason": "Single-cell/spatial: B cells and TLS as prognostic indicators in pleural mesothelioma (BJC)."
+ },
+ "pmid:42045195": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42032358": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42031057": {
+  "relevance": "medium",
+  "reason": "Cardiac adverse events after PORT for thymic malignancies, supports LV dose limits."
+ },
+ "pmid:42030651": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42028533": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42027505": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42026555": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42025594": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42025176": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42024541": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42023520": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42021377": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42021110": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42021029": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42020260": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42019659": {
+  "relevance": "high",
+  "reason": "Society of Thoracic Surgeons 2026 expert consensus on multimodal treatment of pleural mesothelioma, built on a systematic review and an expert panel; gives surgeons a post-MARS2 management framework, but the abstract does not say which recommendation changed, so it is rated high."
+ },
+ "pmid:42018021": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42016220": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42016219": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42015897": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42015051": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42012616": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42011652": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42007771": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42005993": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42005299": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42005088": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42004615": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42000949": {
+  "relevance": "medium",
+  "reason": "9p21/MTAP-loss drug screen informs combinations, incl. mesothelioma models (NPJ Precis Oncol)."
+ },
+ "pmid:41999901": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41999463": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41998747": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41993163": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41992257": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41988305": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41988293": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41987379": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41986072": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41984525": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41983870": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41982680": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41982620": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41982619": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41982618": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41982615": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41982614": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41982612": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41982611": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41982610": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41982606": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41982104": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41981116": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41980815": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41979632": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41979311": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41974931": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41973239": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41972143": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41970397": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41969458": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41969435": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41968416": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41967647": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41966934": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41963314": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41961745": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41960124": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41960072": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41960060": {
+  "relevance": "medium",
+  "reason": "Hospital volume associated with R0 and survival after minimally invasive thymectomy."
+ },
+ "pmid:41959797": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41956634": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41954359": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41954343": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41953408": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41952749": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41952263": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41949731": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41949416": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41948746": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41945244": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41943918": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41943495": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41943044": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41940856": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41940047": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41938083": {
+  "relevance": "medium",
+  "reason": "Brain metastases in diffuse pleural mesothelioma: clinical and molecular correlates."
+ },
+ "pmid:41938082": {
+  "relevance": "medium",
+  "reason": "IPD meta-analysis: complete vs limited thymectomy in early-stage TETs; complete lowers recurrence in stage II."
+ },
+ "pmid:41938022": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41936333": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41936107": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41934357": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41933202": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41931736": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41931541": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41928893": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41928685": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41928138": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41927313": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41926519": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41925910": {
+  "relevance": "medium",
+  "reason": "ICI-related myocarditis in TET patients: retrospective cohort, high cardiovascular mortality."
+ },
+ "pmid:41925484": {
+  "relevance": "medium",
+  "reason": "Trends Cancer snapshot of systemic-therapy trials in mesothelioma."
+ },
+ "pmid:41920966": {
+  "relevance": "medium",
+  "reason": "BAP1 deubiquitination landscape, LSD1+PARP combination for BAP1-deficient cancers (Sci Transl Med)."
+ },
+ "pmid:41919250": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41918237": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41913020": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41910303": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41909655": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41904038": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41903690": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41903435": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41902876": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41901346": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41900904": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41895818": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41894553": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41892220": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41888696": {
+  "relevance": "high",
+  "reason": "Randomised phase 2 trial of gemcitabine maintenance after first-line chemotherapy in diffuse pleural mesothelioma: manageable toxicity but limited effect on OS; a small trial in the pre-immunotherapy maintenance setting."
+ },
+ "pmid:41888548": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41886900": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41886722": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41885876": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41884848": {
+  "relevance": "medium",
+  "reason": "irAEs after ICI in patients with pre-existing MG and thymoma; pretreatment immunosuppression helped."
+ },
+ "pmid:41884002": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41882990": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41882900": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41882264": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41881390": {
+  "relevance": "medium",
+  "reason": "Phase 1/1b: intratumoral poly-ICLC before resection of pleural mesothelioma."
+ },
+ "pmid:41881311": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41878538": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41878006": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41873200": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41872575": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41870660": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41869513": {
+  "relevance": "medium",
+  "reason": "Long-term outcomes of surgery for TETs with pleural metastases (stage IVA)."
+ },
+ "pmid:41863665": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41862332": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41862279": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41860201": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41856686": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41855858": {
+  "relevance": "medium",
+  "reason": "Japanese nationwide C-CAT genomic landscape of pleural mesothelioma."
+ },
+ "pmid:41852899": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41851683": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41850630": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41850433": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41849731": {
+  "relevance": "medium",
+  "reason": "Mesothelioma in young patients: genomics and survival (JCO Precis Oncol)."
+ },
+ "pmid:41848733": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41847482": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41847264": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41847202": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41847153": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41843177": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41841446": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41840035": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41838360": {
+  "relevance": "medium",
+  "reason": "Meta-analysis: HITHOC with cytoreductive surgery associated with improved OS in pleural mesothelioma."
+ },
+ "pmid:41836409": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41836256": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41836246": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41835191": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41834569": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41832298": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41831309": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41828383": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41827976": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41827683": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41826805": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41826598": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41826201": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41825128": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41823155": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41821629": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:41820352": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42536442": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42535974": {
+  "relevance": "medium",
+  "reason": "Japanese nationwide treatment practices in advanced thymoma and thymic carcinoma 2018-2022."
+ },
+ "pmid:42535921": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42534859": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42534444": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42534363": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42534263": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42533030": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42528816": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42528579": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42528241": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42521563": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42514732": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42514721": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42512415": {
+  "relevance": "medium",
+  "reason": "2026 narrative review of palliative systemic therapy in advanced TETs incl. TROP2 ADCs."
+ },
+ "pmid:42511480": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42510074": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42508969": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42508690": {
+  "relevance": "medium",
+  "reason": "US population study: cancer risk and cause-specific mortality in thymoma (JTO)."
+ },
+ "pmid:42502634": {
+  "relevance": "medium",
+  "reason": "Meta-analysis: BAP1 loss associated with favourable prognosis in pleural mesothelioma."
+ },
+ "pmid:42502546": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42502088": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42501853": {
+  "relevance": "medium",
+  "reason": "Perioperative platinum-pemetrexed with P/D: adjuvant chemo after NAC may improve survival in ypStage ≥IB."
+ },
+ "pmid:42500674": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42500663": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42500574": {
+  "relevance": "medium",
+  "reason": "20-year meta-analysis of induction therapy then surgery in advanced TETs."
+ },
+ "pmid:42499256": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42496771": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42493359": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42492487": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42492396": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42491992": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42491377": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42491316": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42491156": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42488710": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42488077": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42487834": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42478235": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42477929": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42475268": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42474794": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42472842": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42472754": {
+  "relevance": "medium",
+  "reason": "Local treatment for oligo-recurrence after extended P/D in pleural mesothelioma."
+ },
+ "pmid:42471793": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42470030": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42469899": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42469511": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42467778": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42464563": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42462363": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42461866": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42461840": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42461294": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42459402": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42458799": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42457832": {
+  "relevance": "medium",
+  "reason": "Multicentre real-world maintenance pemetrexed in pleural mesothelioma."
+ },
+ "pmid:42457628": {
+  "relevance": "medium",
+  "reason": "Thymomectomy vs extended thymectomy in thymoma with MG: challenges routine extended resection."
+ },
+ "pmid:42454169": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42454123": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42452982": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42452868": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42450080": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42449899": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42449850": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42449665": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42449584": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42449283": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42449076": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42448681": {
+  "relevance": "medium",
+  "reason": "Nat Commun: preclinical and phase 1 testing of PRX3-targeting RSO-021 (thiostrepton), incl. mesothelioma."
+ },
+ "pmid:42447547": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42447103": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42446673": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42446669": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42445891": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42445382": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42445336": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42445091": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42444836": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42444095": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42444033": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42441494": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42440625": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42438647": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42436360": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42436337": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42433331": {
+  "relevance": "medium",
+  "reason": "Clinical and immunologic features of enteric-type thymic adenocarcinoma."
+ },
+ "pmid:42427482": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42427481": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42427480": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42427479": {
+  "relevance": "medium",
+  "reason": "Real-world: surgery vs first-line chemo in stage IVA thymoma with pleural dissemination."
+ },
+ "pmid:42427478": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42427476": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42427475": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42427473": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42427471": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42427468": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42427461": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42426379": {
+  "relevance": "medium",
+  "reason": "Prognostic somatic mutations in pleural and peritoneal mesothelioma (NPJ Precis Oncol)."
+ },
+ "pmid:42421870": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42420246": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42419989": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42416475": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42416084": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42415793": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42415124": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42410069": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42405902": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42404894": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42400685": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42400634": {
+  "relevance": "medium",
+  "reason": "Conservative management of <3 cm anterior mediastinal lesions in lung cancer screening is safe."
+ },
+ "pmid:42400234": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42399924": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42397764": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42390912": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42390792": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42390666": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42388949": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42388580": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42388484": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42388289": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42386348": {
+  "relevance": "medium",
+  "reason": "Protocol: Meso-ORIGINS observational risk prediction and tissue study."
+ },
+ "pmid:42383574": {
+  "relevance": "medium",
+  "reason": "BAP1 loss associated with better immunotherapy outcomes in pleural mesothelioma."
+ },
+ "pmid:42383538": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42382386": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42379777": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42379051": {
+  "relevance": "medium",
+  "reason": "Indian multi-institutional 100-patient total parietal peritonectomy for peritoneal mesothelioma."
+ },
+ "pmid:42378954": {
+  "relevance": "medium",
+  "reason": "Copy number gains activate AKT, AKT/mTOR inhibition as target in pleural mesothelioma."
+ },
+ "pmid:42377151": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42375966": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42375376": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42375212": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42375168": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42374173": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42372417": {
+  "relevance": "medium",
+  "reason": "German MesoNet real-world: platinum-pemetrexed second line after first-line nivolumab-ipilimumab."
+ },
+ "pmid:42371330": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42370157": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42367547": {
+  "relevance": "medium",
+  "reason": "US population-based thymoma incidence, treatment and survival 2000-2023."
+ },
+ "pmid:42365147": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42363609": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42363019": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42362469": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42361268": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42360025": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42359755": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42358938": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42356542": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42352532": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42350189": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42348030": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42344144": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42342899": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42341211": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42341007": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42339513": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42339470": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42335446": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42335160": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42334766": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42332148": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42330241": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42326276": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42325919": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42324365": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42324364": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42323111": {
+  "relevance": "medium",
+  "reason": "Amivantamab shows immune-mediated antitumour activity in mesothelioma models via EGFR/MET (JTO)."
+ },
+ "pmid:42322509": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42322024": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42321937": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42321768": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42319869": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42317508": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42316259": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42315820": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42315507": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42309292": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42309109": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42309108": {
+  "relevance": "high",
+  "reason": "ARTIMES (Lancet Oncology): AI-assisted volumetric response criteria for pleural mesothelioma, developed and validated in a retrospective multicohort, multicentre study; offers a more reliable alternative to mRECIST for assessing response, but is retrospective and not yet tested prospectively in trials."
+ },
+ "pmid:42308637": {
+  "relevance": "medium",
+  "reason": "Protocol: phase 2 CHIMERA, perioperative pembrolizumab + chemo with surgery in resectable pleural mesothelioma."
+ },
+ "pmid:42307783": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42307704": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42306744": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42306705": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42304840": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42303225": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42302418": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42300360": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42298472": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42297319": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42295674": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42294312": {
+  "relevance": "medium",
+  "reason": "Trop-2 expressed in 20% of pleural mesotheliomas and linked to poor survival."
+ },
+ "pmid:42292493": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42292484": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42290819": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42288902": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42288693": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42286316": {
+  "relevance": "medium",
+  "reason": "Genomic co-alterations and irAEs shape ICI outcomes in thymic malignancies."
+ },
+ "pmid:42284269": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42283729": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42281575": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42281239": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42279548": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42277046": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42276982": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42275613": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42273680": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42271427": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42271114": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42270474": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of FDG PET/CT diagnostic performance in pleural mesothelioma."
+ },
+ "pmid:42270119": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42267369": {
+  "relevance": "medium",
+  "reason": "Ki67 (30% cut-off) augments two-tier grading in epithelioid pleural mesothelioma."
+ },
+ "pmid:42267175": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42266707": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42266345": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42262456": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42261593": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42260490": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42260309": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42258781": {
+  "relevance": "medium",
+  "reason": "Integrated molecular and clinical analysis of TETs identifying actionable targets (JCO Precis Oncol)."
+ },
+ "pmid:42258127": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42257802": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42257432": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42256950": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42254909": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42253311": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42249167": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42248336": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42244097": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42244053": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42243897": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42242395": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42240235": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42237856": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42233546": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42233017": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42228897": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42228526": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42227865": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42225935": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42223893": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42222421": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42222393": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42216564": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42216371": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42214587": {
+  "relevance": "medium",
+  "reason": "CRS with HITHOC for pleural mesothelioma, outcomes comparable to MARS2-era data."
+ },
+ "pmid:42213479": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42211276": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42210257": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42205116": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42202691": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42200830": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42200581": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42199998": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42199478": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42195330": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42195098": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42194981": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42192862": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42190146": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42186690": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42186590": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42186473": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42185467": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42182672": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42182635": {
+  "relevance": "medium",
+  "reason": "SEER PSM: PORT improves OS in thymoma without significant cardiac mortality increase."
+ },
+ "pmid:42182633": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42180741": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42179971": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42179251": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42179204": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42177870": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42174601": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42169084": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42169033": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42168668": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42167909": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42166937": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42845941": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42844928": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42841130": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42838627": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42835744": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42835135": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42833719": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42833388": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42833104": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42832146": {
+  "relevance": "medium",
+  "reason": "Multicentre: preoperative MG and 5-year outcomes after thymoma resection."
+ },
+ "pmid:42832133": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42831160": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42827742": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42827694": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42826309": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42824957": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42823995": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42823143": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42820281": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42816393": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42815543": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42815461": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42813173": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42812652": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42812403": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42810719": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42810389": {
+  "relevance": "medium",
+  "reason": "JNCCN review of immunotherapy for pleural mesothelioma."
+ },
+ "pmid:42809178": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42807089": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42806999": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42806022": {
+  "relevance": "medium",
+  "reason": "VISTA drives tumour-intrinsic proliferation in mesothelioma (BJC)."
+ },
+ "pmid:42801547": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42801069": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42800934": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42800313": {
+  "relevance": "medium",
+  "reason": "Meta-analysis: histological subtype and CRS±HIPEC outcomes in peritoneal mesothelioma."
+ },
+ "pmid:42799744": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42794985": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42794957": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42793800": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42793769": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42789486": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42788012": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42787440": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42786595": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42784424": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42783901": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42782739": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42780472": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42779458": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42778290": {
+  "relevance": "high",
+  "reason": "Preliminary results of a single-arm phase 2 trial (JITC) of first-line ivonescimab (PD-1×VEGF bispecific) plus chemotherapy in advanced thymic carcinoma, with biomarker analyses; first data for a PD-1×VEGF bispecific in this rare cancer, but early and uncontrolled."
+ },
+ "pmid:42777187": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42776710": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42775026": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42774619": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42774512": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42774176": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42770914": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42770333": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42770220": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42766860": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42766181": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42765008": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42763745": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42763715": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42763684": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42763666": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42763662": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42763656": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42763652": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42763646": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42763624": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42763607": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42763587": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42762185": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42761637": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42761102": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42760438": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42756835": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42755762": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42755633": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42755574": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42753369": {
+  "relevance": "medium",
+  "reason": "Discordance in mRECIST response classification in mesothelioma reduces trial power."
+ },
+ "pmid:42749647": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42746427": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42742470": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42740341": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42737808": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42737756": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42736463": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42735009": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42733937": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42733156": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42732382": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42730968": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42730036": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42726355": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42724550": {
+  "relevance": "medium",
+  "reason": "Single-centre: HITOC after cytoreductive surgery in pleural mesothelioma, more morbidity without survival benefit."
+ },
+ "pmid:42724528": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42724492": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42724295": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42724198": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42723817": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42723811": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42723775": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42722453": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42719624": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42718708": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42716738": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42715649": {
+  "relevance": "medium",
+  "reason": "Meso-Immune GFPC 04-2021 update: long-term real-world nivolumab-ipilimumab in pleural mesothelioma."
+ },
+ "pmid:42715515": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42713653": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42712902": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42712873": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42712806": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42709038": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42702680": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42702337": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42701541": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42700971": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42700091": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42699491": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42699272": {
+  "relevance": "medium",
+  "reason": "AI-measured baseline volume and growth rate predict OS in mesothelioma on deferred therapy."
+ },
+ "pmid:42697694": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42694425": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42691203": {
+  "relevance": "medium",
+  "reason": "Long-term outcomes and failure patterns after surgery and RT for thymic malignancies (Cancer)."
+ },
+ "pmid:42688077": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42683203": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42683119": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42682685": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42682322": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42680189": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42679888": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42679768": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42679618": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42676823": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42675076": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42667896": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42667889": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42667043": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42660065": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42657056": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42656366": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42652842": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42652359": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42651345": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42650037": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42649937": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42649897": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42648006": {
+  "relevance": "medium",
+  "reason": "ESTS thymic database: tumour size prognostic across TET histologies."
+ },
+ "pmid:42646448": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42645719": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42645431": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42644627": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42643723": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42640432": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of prognostic factors after CRS/HIPEC for peritoneal mesothelioma."
+ },
+ "pmid:42639279": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42639079": {
+  "relevance": "medium",
+  "reason": "HOT1901 multi-institutional: tumour-cell VISTA and outcomes on nivolumab in pleural mesothelioma."
+ },
+ "pmid:42638565": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42637508": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42634746": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42634463": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42634333": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42633159": {
+  "relevance": "medium",
+  "reason": "Validation of TNM 9th edition for resected thymic carcinoma."
+ },
+ "pmid:42632550": {
+  "relevance": "high",
+  "reason": "Prospective phase 2 study (IJROBP) of surgery followed by entire-hemithoracic radiotherapy for thymoma with pleural dissemination: safe, with promising local control; a single-arm study, with the best dose and target volume still unsettled."
+ },
+ "pmid:42632185": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42630601": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42629701": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42627616": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42625375": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42624221": {
+  "relevance": "medium",
+  "reason": "IMPT-based hemithoracic pleural irradiation (IMPRINT) feasible and well tolerated."
+ },
+ "pmid:42623414": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42620832": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42620799": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42620730": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42618265": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42616946": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42613471": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42612521": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42607715": {
+  "relevance": "high",
+  "reason": "NCCN Clinical Practice Guidelines for pleural mesothelioma, version 3.2026 (JNCCN): the current US standard for evaluation and treatment; the abstract does not say which recommendation changed in this version, so it is rated high rather than practice-changing."
+ },
+ "pmid:42607714": {
+  "relevance": "medium",
+  "reason": "JNCCN review of current surgical perspectives in pleural mesothelioma."
+ },
+ "pmid:42606085": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42604270": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42604191": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42603862": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42603711": {
+  "relevance": "medium",
+  "reason": "US-Canadian Mesothelioma Reference Panel 1985-2026 review of diagnostic developments."
+ },
+ "pmid:42603497": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42603286": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42601737": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42600110": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42598890": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42595549": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42595249": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42592572": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42591957": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42589615": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42589271": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42588738": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42588643": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42586240": {
+  "relevance": "medium",
+  "reason": "YAP1/β-catenin IHC as surrogate for GTF2I-mutant type A/AB thymomas."
+ },
+ "pmid:42585814": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42583451": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42583321": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42583297": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42583109": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42582381": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42578911": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42578707": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42578216": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42577103": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42572441": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42570068": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42569771": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42569502": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42569053": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42568653": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42567081": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42566536": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42565027": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42559541": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42558258": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42557183": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42556516": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42552330": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42549783": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42549166": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42548653": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42548507": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42543130": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42542899": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42541990": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42537529": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07561190": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07449624": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07403630": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07602946": {
+  "relevance": "medium",
+  "reason": "Phase 2 SELECTmeso1 (n=30): BMS-986504 (MTA-cooperative PRMT5 inhibitor) in MTAP-deficient relapsed mesothelioma."
+ },
+ "nct:NCT07443020": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07514793": {
+  "relevance": "medium",
+  "reason": "Single-arm phase 2 (n=37): iparomlimab-tuvonralimab + bevacizumab + chemo first-line mesothelioma."
+ },
+ "nct:NCT07705074": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07532902": {
+  "relevance": "medium",
+  "reason": "Phase 1 (n=60, MSK): BMS-986504 with SoC incl. ipilimumab-nivolumab in MTAP-deleted mesothelioma."
+ },
+ "nct:NCT07824986": {
+  "relevance": "high",
+  "reason": "New phase 3 (n=350, Vivace): VT3989 (TEAD palmitoylation inhibitor) vs investigator's-choice gemcitabine or vinorelbine in advanced epithelioid pleural mesothelioma after prior therapy; first registrational trial of a Hippo/TEAD-targeted drug."
+ },
+ "nct:NCT07330271": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07411144": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07853378": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07750353": {
+  "relevance": "medium",
+  "reason": "Phase 2 (n=35, NCC Japan): sac-TMT in previously treated thymic carcinoma."
+ },
+ "nct:NCT07429851": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07571525": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07761026": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07824505": {
+  "relevance": "high",
+  "reason": "Randomised placebo-controlled phase 2 (n=74, Haihe Biopharma, completed) of lucitanib (VEGFR/FGFR inhibitor) 15 or 10 mg vs placebo in advanced thymic carcinoma after chemotherapy; a rare randomised trial in this disease, with results not yet reported."
+ },
+ "nct:NCT07463313": {
+  "relevance": "medium",
+  "reason": "Randomised phase 2/3 (n=116): 6 vs 3 cycles neoadjuvant chemo in locally advanced TETs."
+ },
+ "nct:NCT07693855": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07324629": {
+  "relevance": "medium",
+  "reason": "Phase 2 (n=30, Kelun): sac-TMT in advanced thymic carcinoma."
+ },
+ "nct:NCT07649187": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07328074": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07479628": {
+  "relevance": "medium",
+  "reason": "Phase 2 (n=31): neoadjuvant adebrelimab + CRT in locally advanced thymic carcinoma."
  }
 }
