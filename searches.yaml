@@ -432,7 +432,7 @@ searches:
   - id: sclc
     name: Small cell lung cancer and pulmonary neuroendocrine tumours
     enabled: true
-    version: 1
+    version: 2
     criteria: >
       SCLC (limited and extensive stage), large cell neuroendocrine carcinoma and other pulmonary
       neuroendocrine tumours. HIGH: trial results (DLL3 bispecifics such as tarlatamab, ADCs such as
@@ -455,9 +455,9 @@ searches:
         OR (("small cell lung"[ti] OR "small-cell lung"[ti])
             NOT ("non-small cell lung"[ti] OR "non-small-cell lung"[ti])))
         NOT ("non-small cell lung"[ti] OR "non-small-cell lung"[ti] OR NSCLC[ti])
-    clinicaltrials:
-      - {cond: "small cell lung cancer"}
-      - {cond: "small cell lung cancer", date_field: ResultsFirstPostDate}
+    clinicaltrials:  # ClinicalTrials.gov matches "small cell lung cancer" inside NSCLC, so exclude it
+      - {cond: "small cell lung cancer NOT non-small cell lung cancer"}
+      - {cond: "small cell lung cancer NOT non-small cell lung cancer", date_field: ResultsFirstPostDate}
 
   # ------------------------------------------------------------------ immunotherapy and bispecifics
   - id: nsclc-immunotherapy
