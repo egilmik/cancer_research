@@ -1,0 +1,202 @@
+[
+  {
+    "source": "feed",
+    "feed": "http://connect.biorxiv.org/biorxiv_xml.php?subject=immunology",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.10.02.755760v1?rss=1",
+    "doi": "10.64898/2026.10.02.755760",
+    "title": "A signaling-optimized TIGIT chimeric switch receptor promotes metabolic fitness and antitumor efficacy of TCR/CAR T cells",
+    "summary": "Adoptive T cell therapies have revolutionized the treatment of hematological malignancies, however, their efficacy against solid tumors often remains limited. Lack of activation and overabundance of immune checkpoint-mediated inhibitory signals from cancer cells drive T cell dysfunction and limit persistence. To circumvent this imbalance towards inhibitory factors, we engineered a chimeric switch receptor (CSR) that repurposes the immunosuppressive TIGIT extracellular domain by fusing it to a CD28-derived stimulatory signaling tail. Here we show that while the prototype CSR design enhances immediate cytolytic activity, it also induces premature proliferative arrest and terminal differentiation due to excessive tonic signaling. By introducing a strategic point mutation within the CD28 cytoplasmic domain, we \"fine-tuned\" the activation threshold of the CSR for optimal functional properties. Engineered T cells with 'fine-tuned' CSR exhibit superior mitochondrial bioenergetics and sustained metabolic flux in an in vitro system of chronic antigen exposure. In preclinical xenograft models, fine-tuned CSR-expressing T cells demonstrated robust expansion and durable persistence, leading to complete tumor eradication. These findings provide a scalable strategy to rewire inhibitory checkpoints into tailored costimulatory signals, offering a potent approach to enhance the metabolic fitness and persistence of therapeutic T cells, in suppressive tumor microenvironments, in particular.",
+    "published": "2026-10-08",
+    "searches": [
+      "preprints-cell-therapy"
+    ],
+    "keys": [
+      "doi:10.64898/2026.10.02.755760",
+      "url:https://www.biorxiv.org/content/10.64898/2026.10.02.755760v1?rss=1"
+    ]
+  },
+  {
+    "source": "feed",
+    "feed": "http://connect.biorxiv.org/biorxiv_xml.php?subject=cancer_biology",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.10.06.757108v1?rss=1",
+    "doi": "10.64898/2026.10.06.757108",
+    "title": "Single-Cell Sequencing in Pediatric Acute Leukemia: A Systematic Review of Biologic Insights and Translational Potential",
+    "summary": "Background: Relapse remains the principal cause of treatment failure in pediatric acute leukemia. Clinically validated minimal residual disease (MRD) assays - multiparameter flow cytometry, immunoglobulin/T-cell-receptor rearrangement sequencing, and targeted next-generation sequencing panels -- are highly sensitive but read out predefined features and do not reconstruct clonal architecture or link a cell's genotype to its functional state. We systematically reviewed what single-cell sequencing has revealed about clonal evolution, chemoresistance, the immune microenvironment, and post-therapeutic immune dynamics in this disease. Methods: This review followed PRISMA 2020. PubMed/MEDLINE, the Cochrane Library, and Google Scholar were searched to September 2026 for primary studies applying single-cell DNA, RNA, chromatin-accessibility, surface-protein, or immune-repertoire sequencing to pediatric acute leukemia samples or pediatric-derived models. Risk of bias in non-randomized studies was assessed with ROBINS-I. Because designs, platforms, and outcomes were heterogeneous, findings were synthesized narratively by biologic theme without meta-analysis, following the SWiM guideline. Results: Of 63 records identified, 10 studies were included (published 2016-2026; 6-159 patients or samples per study; up to ~700,000 cells profiled). Single-cell DNA sequencing traced minor NOTCH1-mutant diagnostic subclones into PTEN- or TP53-mutant relapse clones that bulk sequencing missed. Rare dormant, label-retaining cells and developmental-state-dependent drug sensitivity defined chemoresistant compartments. Remodeling of the bone marrow immune microenvironment identified patients with adverse outcome among those classified as MRD-low, and pre-infusion CAR T-cell type 2 functionality and post-transplant cytotoxic memory CD8+ T-cell subsets were associated with durable remission. Of the seven studies assessed with ROBINS-I, four were at moderate and three at serious overall risk of bias",
+    "published": "2026-10-07",
+    "searches": [
+      "preprints-cell-therapy"
+    ],
+    "keys": [
+      "doi:10.64898/2026.10.06.757108",
+      "url:https://www.biorxiv.org/content/10.64898/2026.10.06.757108v1?rss=1"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://www.ema.europa.eu/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-hetronifly-vr-0000284402_en.pdf",
+    "doi": "",
+    "title": "CHMP post-authorisation summary of positive opinion: Hetronifly (serplulimab), small cell lung cancer indication",
+    "summary": "CHMP positive opinion adopted 26 March 2026: Hetronifly in combination with carboplatin and etoposide for the first-line treatment of adult patients with extensive-stage small cell lung cancer.",
+    "published": "2026-03-26",
+    "searches": [
+      "approvals-access"
+    ],
+    "keys": [
+      "url:https://www.ema.europa.eu/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-hetronifly-vr-0000284402_en.pdf"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://www.ema.europa.eu/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-hetronifly-vr-0000282407_en.pdf",
+    "doi": "",
+    "title": "CHMP post-authorisation summary of positive opinion: Hetronifly (serplulimab), non-small cell lung carcinoma extension",
+    "summary": "CHMP positive opinion adopted 26 March 2026 extending Hetronifly to non-small cell lung carcinoma (indication wording not shown in search result).",
+    "published": "2026-03-26",
+    "searches": [
+      "approvals-access"
+    ],
+    "keys": [
+      "url:https://www.ema.europa.eu/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-hetronifly-vr-0000282407_en.pdf"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://www.morningglorysciences.com/en/afamitresgene-autoleucel-synovial-sarcoma-fda-2026-en/",
+    "doi": "",
+    "title": "Afamitresgene autoleucel (Tecelra) synovial sarcoma: FDA traditional approval 2026",
+    "summary": "Secondary report: a June 22, 2026 FDA action granted traditional approval to afamitresgene autoleucel (MAGE-A4 TCR-T) for synovial sarcoma, converting the 2024 accelerated approval and extending the indication to patients aged 12 and older.",
+    "published": "2026-06-22",
+    "searches": [
+      "approvals-access"
+    ],
+    "keys": [
+      "url:https://www.morningglorysciences.com/en/afamitresgene-autoleucel-synovial-sarcoma-fda-2026-en"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://www.insights.bio/cell-and-gene-therapy-insights/journal/article/3899/industry-insights-the-first-cart-approval-in-solid-tumors-and-the-fda-recalibrates",
+    "doi": "",
+    "title": "Industry Insights: The first CAR-T approval in solid tumors and the FDA recalibrates",
+    "summary": "Cell & Gene Therapy Insights commentary on the first CAR-T approval in a solid tumour (satri-cel, China NMPA, CLDN18.2 gastric/GEJ cancer) and FDA policy shifts.",
+    "published": "2026",
+    "searches": [
+      "approvals-access"
+    ],
+    "keys": [
+      "url:https://www.insights.bio/cell-and-gene-therapy-insights/journal/article/3899/industry-insights-the-first-cart-approval-in-solid-tumors-and-the-fda-recalibrates"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://www.onclive.com/view/experts-unpack-the-most-notable-nccn-guideline-changes-heading-into-2026",
+    "doi": "",
+    "title": "Experts unpack the most notable NCCN guideline changes heading into 2026",
+    "summary": "OncLive (Dec 2025) on NCCN NSCLC v1.2026: datopotamab deruxtecan added as a preferred second-line option for EGFR-mutated NSCLC after osimertinib plus chemotherapy and preferred third-line after other first-line regimens; staging aligned with AJCC 9th edition.",
+    "published": "2025-12",
+    "searches": [
+      "guidelines-meetings"
+    ],
+    "keys": [
+      "url:https://www.onclive.com/view/experts-unpack-the-most-notable-nccn-guideline-changes-heading-into-2026"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://www.guidelinecentral.com/insights/aug-2026-nsclc-guideline-rundown/",
+    "doi": "",
+    "title": "Aug 2026 NSCLC guideline rundown",
+    "summary": "Guideline Central roundup of NSCLC guidance as of August 2026, including ASCO living guidelines for stage IV NSCLC with driver alterations (June 2026) and without driver alterations (May 2026).",
+    "published": "2026-08",
+    "searches": [
+      "guidelines-meetings"
+    ],
+    "keys": [
+      "url:https://www.guidelinecentral.com/insights/aug-2026-nsclc-guideline-rundown"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://osloeconomics.no/wp-content/uploads/2026/06/Helseokonomisk-analyse-lungekreftscreening-07-2026.pdf",
+    "doi": "",
+    "title": "Helseøkonomisk analyse av lungekreftscreening (Oslo Economics/UiO for Helsedirektoratet), juli 2026",
+    "summary": "Health economic analysis of lung cancer screening in Norway commissioned by Helsedirektoratet, published July 2026 (revised).",
+    "published": "2026-07",
+    "searches": [
+      "guidelines-meetings"
+    ],
+    "keys": [
+      "url:https://osloeconomics.no/wp-content/uploads/2026/06/Helseokonomisk-analyse-lungekreftscreening-07-2026.pdf"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://www.investegate.co.uk/announcement/rns/hutchmed-china-limited--hcm/data-to-be-presented-at-esmo-2026/9788005",
+    "doi": "",
+    "title": "HUTCHMED: Data to be presented at ESMO 2026 (SAFFRON Presidential Symposium; SANOVO China proffered paper)",
+    "summary": "Phase III SAFFRON (savolitinib + osimertinib vs platinum doublet in EGFRm NSCLC with MET overexpression/amplification after osimertinib) selected for ESMO 2026 Presidential Symposium; topline results reported 17 Aug 2026 showed PFS and OS improvement. SANOVO China phase III proffered paper.",
+    "published": "2026-09",
+    "searches": [
+      "guidelines-meetings"
+    ],
+    "keys": [
+      "url:https://www.investegate.co.uk/announcement/rns/hutchmed-china-limited--hcm/data-to-be-presented-at-esmo-2026/9788005"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://s206.q4cdn.com/795948973/files/doc_news/Pfizer-Advances-Todays-Cancer-Care-and-Tomorrows-Potential-Breakthroughs-at-ESMO-2026.pdf",
+    "doi": "",
+    "title": "Pfizer advances today's cancer care and tomorrow's potential breakthroughs at ESMO 2026",
+    "summary": "Pfizer announcement: 45 abstracts at ESMO 2026, including late-breaking OS and PFS data from phase 3 SigVie-002 (sigvotatug vedotin vs docetaxel, previously treated non-squamous NSCLC, LBA68) and phase 2 tivunatamig (PD-1/VEGF bispecific) plus chemotherapy in first-line NSCLC.",
+    "published": "2026-10",
+    "searches": [
+      "guidelines-meetings"
+    ],
+    "keys": [
+      "url:https://s206.q4cdn.com/795948973/files/doc_news/Pfizer-Advances-Todays-Cancer-Care-and-Tomorrows-Potential-Breakthroughs-at-ESMO-2026.pdf"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://oncodaily.com/oncolibrary/lung-oncology/esmo-2026-lung",
+    "doi": "",
+    "title": "ESMO 2026 Lung Cancer: 10 Abstracts to Watch",
+    "summary": "Preview of ESMO 2026 (Madrid, 23-27 Oct) lung abstracts, including DeLLphi-305 LBA3 (tarlatamab + durvalumab vs durvalumab, first-line maintenance ES-SCLC) and OptiTROP-Lung06.",
+    "published": "2026-10",
+    "searches": [
+      "guidelines-meetings"
+    ],
+    "keys": [
+      "url:https://oncodaily.com/oncolibrary/lung-oncology/esmo-2026-lung"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://www.bioworld.com/articles/733822-key-updates-to-watch-at-wclc-2026",
+    "doi": "",
+    "title": "Key updates to watch at WCLC 2026",
+    "summary": "BioWorld preview of the nine studies in two WCLC 2026 presidential symposia (Seoul, 12-15 Sep), including SWOG S1827 MAVERICK, ARTEMIS-008 (risvutatug rezetecan vs topotecan, relapsed SCLC) and EVOKE-03 (sacituzumab govitecan + pembrolizumab, PD-L1 >=50% NSCLC).",
+    "published": "2026-09",
+    "searches": [
+      "guidelines-meetings"
+    ],
+    "keys": [
+      "url:https://www.bioworld.com/articles/733822-key-updates-to-watch-at-wclc-2026"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://www.targetedonc.com/view/asco-2026-preview-late-breaking-abstracts-poised-to-reshape-the-treatment-landscape",
+    "doi": "",
+    "title": "ASCO 2026 preview: late-breaking abstracts poised to reshape the treatment landscape",
+    "summary": "Preview of ASCO 2026 plenary late-breakers, including HARMONi-6 (LBA4; ivonescimab + chemo vs tislelizumab + chemo, first-line squamous NSCLC, OS) and LIBRETTO-432 (selpercatinib, RET fusion-positive NSCLC).",
+    "published": "2026-05",
+    "searches": [
+      "guidelines-meetings"
+    ],
+    "keys": [
+      "url:https://www.targetedonc.com/view/asco-2026-preview-late-breaking-abstracts-poised-to-reshape-the-treatment-landscape"
+    ]
+  }
+]
