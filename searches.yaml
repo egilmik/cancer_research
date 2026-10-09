@@ -425,8 +425,8 @@ searches:
         OR zongertinib[tiab] OR sevabertinib[tiab] OR "trastuzumab deruxtecan"[tiab]
         OR zenocutuzumab[tiab])
     clinicaltrials:
-      - {cond: "non-small cell lung cancer", term: "ALK OR ROS1 OR KRAS OR RET OR BRAF OR MET OR HER2 OR NTRK OR NRG1"}
-      - {cond: "non-small cell lung cancer", term: "ALK OR ROS1 OR KRAS OR RET OR BRAF OR MET OR HER2 OR NTRK OR NRG1", date_field: ResultsFirstPostDate}
+      - {cond: "non-small cell lung cancer", term: "ALK OR ROS1 OR KRAS OR RET fusion OR BRAF OR MET exon 14 OR MET amplification OR HER2 OR NTRK OR NRG1"}
+      - {cond: "non-small cell lung cancer", term: "ALK OR ROS1 OR KRAS OR RET fusion OR BRAF OR MET exon 14 OR MET amplification OR HER2 OR NTRK OR NRG1", date_field: ResultsFirstPostDate}
 
   # ------------------------------------------------------------------ small cell and neuroendocrine
   - id: sclc
