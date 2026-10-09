@@ -213,7 +213,7 @@
  },
  "pmid:41743631": {
   "relevance": "high",
-  "reason": ""
+  "reason": "Pooled ITALUNG+LUSI and NLST randomised-trial data: LDCT lung-cancer mortality reduction larger in women (HR 0.74 vs 0.93 in men, combined); benefit for non-BAC adenocarcinoma and other NSCLC, none for squamous; post-hoc histology analysis with small event numbers."
  },
  "pmid:41742665": {
   "relevance": "low",
@@ -541,7 +541,7 @@
  },
  "pmid:41631590": {
   "relevance": "high",
-  "reason": ""
+  "reason": "Norwegian TIDL pilot baseline: 1,006 risk-selected (PLCOm2012) participants from Akershus, 2.3% cancer detection, 83% stage I, false-positive rate 0.6-1.7%; directly informs a Norwegian national programme, but one round from one county."
  },
  "pmid:41629156": {
   "relevance": "medium",
@@ -761,7 +761,7 @@
  },
  "pmid:41542798": {
   "relevance": "high",
-  "reason": ""
+  "reason": "European Code Against Cancer 5th edition (IARC/EU) now recommends organised annual LDCT lung screening for risk-selected people with cessation support; a European public recommendation rather than a national programme decision."
  },
  "pmid:41536910": {
   "relevance": "medium",
@@ -1812,8 +1812,8 @@
   "reason": ""
  },
  "pmid:41847760": {
-  "relevance": "high",
-  "reason": ""
+  "relevance": "medium",
+  "reason": "Acta Oncologica editorial on feasibility of screening lower-risk Nordic populations; no new data."
  },
  "pmid:41843797": {
   "relevance": "medium",
@@ -1925,7 +1925,7 @@
  },
  "pmid:42521150": {
   "relevance": "high",
-  "reason": ""
+  "reason": "Prospective multicentre breathomics triage tool (n=5,214 symptomatic patients with CT abnormalities): external-validation AUC 0.85, rule-out sensitivity 93%, specificity 56%; validated biomarker but in a Chinese symptomatic population, not a screening cohort."
  },
  "pmid:42520043": {
   "relevance": "medium",
@@ -2060,12 +2060,12 @@
   "reason": ""
  },
  "pmid:42461635": {
-  "relevance": "high",
-  "reason": ""
+  "relevance": "medium",
+  "reason": "Invited commentary on the Stockholm questionnaire-based screening pilot."
  },
  "pmid:42461629": {
   "relevance": "high",
-  "reason": ""
+  "reason": "Stockholm risk-based screening pilot (34,592 invited women): 33% returned the questionnaire, socioeconomically patterned; LDCT attendance among eligibles was equitable (89%); key design lesson for Nordic programmes, women only."
  },
  "pmid:42460841": {
   "relevance": "medium",
@@ -2073,7 +2073,7 @@
  },
  "pmid:42456639": {
   "relevance": "high",
-  "reason": ""
+  "reason": "Israel national TIGAR pilot (5,395 screened, 50.5% participation, 1.2% detection, 58% stage I-II) led to inclusion of LDCT screening for ages 65-74 in the national health basket from September 2025; decision reported second-hand in a pilot evaluation."
  },
  "pmid:42456271": {
   "relevance": "low",
@@ -2209,7 +2209,7 @@
  },
  "pmid:42372272": {
   "relevance": "high",
-  "reason": ""
+  "reason": "Lung Cancer Cohort Consortium (641,830 ever-smokers, 12 US cohorts): 16 risk models underestimate risk in Black participants; PLCOm2012 and LYFS-CT beat USPSTF-2021 criteria on efficiency and reduce racial differences; supports risk-model-based eligibility."
  },
  "pmid:42371656": {
   "relevance": "low",
@@ -2561,7 +2561,7 @@
  },
  "pmid:42239973": {
   "relevance": "high",
-  "reason": ""
+  "reason": "Taiwan nationwide registry (126,753 adenocarcinomas, 69% never-smokers): rising stage 0/I incidence and falling incidence-based mortality alongside self-initiated LDCT in never-smokers; ecological design cannot separate benefit from overdiagnosis."
  },
  "pmid:42238410": {
   "relevance": "low",
@@ -2853,7 +2853,7 @@
  },
  "pmid:42835565": {
   "relevance": "high",
-  "reason": ""
+  "reason": "CONOR, 11 Norwegian cohorts (80,761 ever-smokers, 1,336 cancers): median 53 years from smoking debut to diagnosis, shorter in women and current smokers; relevant to Norwegian screening age limits, but observational and self-reported smoking."
  },
  "pmid:42832834": {
   "relevance": "low",
@@ -2873,7 +2873,7 @@
  },
  "pmid:42828982": {
   "relevance": "high",
-  "reason": ""
+  "reason": "China Kadoorie Biobank (262,785 never-smokers, 2,646 cancers): nitrate, ammonium and chloride PM2.5 constituents raise never-smoker lung cancer risk (nitrate HR 1.35 per IQR), with gene-environment interaction; large prospective aetiology study, exposure modelled."
  },
  "pmid:42828691": {
   "relevance": "low",
@@ -2957,11 +2957,11 @@
  },
  "pmid:42777710": {
   "relevance": "high",
-  "reason": ""
+  "reason": "PLCO prediagnostic sera (1,259 cases, 8,470 controls): five-metabolite panel L5MetP predicts 1-year lung cancer risk (AUC 0.79) and adds to clinical risk models; needs prospective validation in a screening setting."
  },
  "pmid:42777510": {
   "relevance": "high",
-  "reason": ""
+  "reason": "BioMILD prospective trial (4,119 heavy smokers, median 9.4 y): negative baseline LDCT allowed triennial intervals with 3% incidence vs 21.8% in LDCT+; early-stage detection sustained, adherence 58% beyond 9 years; single-arm, not randomised."
  },
  "pmid:42777419": {
   "relevance": "low",
@@ -3849,7 +3849,7 @@
  },
  "pmid:41643268": {
   "relevance": "high",
-  "reason": ""
+  "reason": "PACIFIC-R real-world cohort (n=1,153, incl. Nordic sites): 5-year OS 49.2% and median rwPFS 24.3 months with durvalumab after CRT, also after sequential CRT; retrospective early-access cohort, selection bias."
  },
  "pmid:41643104": {
   "relevance": "low",
@@ -4809,7 +4809,7 @@
  },
  "pmid:42501610": {
   "relevance": "high",
-  "reason": ""
+  "reason": "CALGB 140503 secondary analysis by age (n=697): adverse events and 90-day mortality similar across ages after lobar or sublobar resection; supports surgery in patients >75; post-hoc, underpowered by subgroup."
  },
  "pmid:42500423": {
   "relevance": "low",
@@ -5085,7 +5085,7 @@
  },
  "pmid:42341065": {
   "relevance": "high",
-  "reason": ""
+  "reason": "JCOG1211 supplementary PSM analysis (127 pairs): omitting mediastinal node dissection in segmentectomy for GGO-dominant cT1N0 gave 5-y RFS 99.2% vs 98.4% and fewer complications (29.9% vs 47.2%); post-hoc, very few events."
  },
  "pmid:42338713": {
   "relevance": "low",
@@ -6005,7 +6005,7 @@
  },
  "nct:NCT07462728": {
   "relevance": "high",
-  "reason": ""
+  "reason": "New phase 3 RCT registration (Guizhou, n=200): thoracic radiotherapy to the primary tumour plus systemic therapy vs systemic therapy alone in non-oligometastatic stage IV NSCLC; primary PFS/local control."
  },
  "nct:NCT07733219": {
   "relevance": "medium",
@@ -6017,7 +6017,7 @@
  },
  "nct:NCT07481786": {
   "relevance": "high",
-  "reason": ""
+  "reason": "New phase 3 RCT registration (Sun Yat-sen, n=220, recruiting): FSRT 30 Gy/5 plus bevacizumab vs hippocampal-avoidant WBRT-SIB for extensive brain metastases from lung adenocarcinoma; endpoints intracranial control and neurocognition."
  },
  "nct:NCT07401615": {
   "relevance": "medium",
@@ -6053,7 +6053,7 @@
  },
  "pmid:42729917": {
   "relevance": "high",
-  "reason": ""
+  "reason": "Swedish population-based register study (10 regions, 2015-2023): median real-world OS 2.2 years after palliative ICI for lung cancer, regional variation in uptake; directly comparable to Norwegian practice, but observational with limited clinical detail."
  },
  "pmid:42708823": {
   "relevance": "low",
@@ -6105,7 +6105,7 @@
  },
  "pmid:42397290": {
   "relevance": "high",
-  "reason": ""
+  "reason": "Swedish registry (1,956 palliative ICI patients, 854 lung): median OS 23.4 months at PS 0-1, 9.6 at PS 2, 3.8 at PS 3 with 46% dead within 90 days; argues against ICI at PS 3; observational, confounded by indication."
  },
  "pmid:42379284": {
   "relevance": "low",
@@ -6401,7 +6401,7 @@
  },
  "pmid:41536940": {
   "relevance": "high",
-  "reason": ""
+  "reason": "First-in-human phase 1a of OVM-200 survivin peptide vaccine (n=12, NSCLC/ovarian/prostate): no DLTs, strong humoral response, stable disease 6/12; 2,000 µg dose chosen for phase 1b; tiny, mixed tumours, no efficacy data."
  },
  "nct:NCT07331701": {
   "relevance": "low",
@@ -6413,11 +6413,11 @@
  },
  "nct:NCT07859592": {
   "relevance": "high",
-  "reason": ""
+  "reason": "New phase 2 registration (VA, n=30): labyrinthin peptide vaccine LabVax 3(22)-23 plus GM-CSF, then with pembrolizumab, in advanced lung adenocarcinoma."
  },
  "url:https://www.helsedirektoratet.no/retningslinjer/lungekreft-mesoteliom-og-thymom-handlingsprogram/innledning": {
   "relevance": "high",
-  "reason": ""
+  "reason": "Norwegian national guideline (handlingsprogram) for lung cancer, mesothelioma and thymoma; search snippet says it was revised in May 2026 with updates on targeted and immunotherapy drugs, but the changed recommendations could not be verified (site unreachable), so not rated practice-changing."
  },
  "url:https://www.helsedirektoratet.no/statistikk/kvalitetsindikatorer/kreft-behandling-og-overlevelse/fem-års-relativ-overlevelse-etter-lungekreft": {
   "relevance": "medium",
