@@ -105,6 +105,9 @@ searches:
         OR "HER3-DXd"[tiab] OR "sacituzumab tirumotecan"[tiab] OR "sac-TMT"[tiab]
         OR telisotuzumab[tiab] OR "antibody-drug conjugate"[tiab]
         OR "antibody-drug conjugates"[tiab])
+    clinicaltrials:
+      - {cond: "non-small cell lung cancer", term: "antibody-drug conjugate OR deruxtecan OR tirumotecan OR govitecan OR vedotin OR C797S OR fourth-generation OR degrader OR acquired resistance"}
+      - {cond: "non-small cell lung cancer", term: "antibody-drug conjugate OR deruxtecan OR tirumotecan OR govitecan OR vedotin OR C797S OR fourth-generation OR degrader OR acquired resistance", date_field: ResultsFirstPostDate}
 
   # ------------------------------------------------------------------ lung cancer in general
   - id: lung-key-evidence
@@ -159,11 +162,13 @@ searches:
   - id: lung-nonpharm
     name: Lung cancer — non-pharmacological interventions
     enabled: true
-    version: 1
+    version: 2
     criteria: >
       Non-drug interventions in people with lung cancer and their effect on survival, treatment
       tolerance, complications or quality of life. HIGH: randomised trials and large prospective
-      cohorts (exercise, prehabilitation, nutrition, body composition, sleep, psychosocial).
+      cohorts (exercise, prehabilitation, nutrition, body composition, obesity, sleep, psychosocial,
+      smoking cessation after diagnosis, alcohol, early palliative care, electronic symptom
+      monitoring/ePRO, acupuncture).
       MEDIUM: smaller trials, feasibility studies with outcome data, good meta-analyses.
       LOW: prevention/risk epidemiology in people without cancer, surveys, protocols.
     practice_changing: >
@@ -179,7 +184,11 @@ searches:
         OR rehabilitation[tiab] OR "physical function"[tiab] OR diet[tiab] OR dietary[tiab]
         OR nutrition[tiab] OR nutritional[tiab] OR fasting[tiab] OR "vitamin D"[tiab]
         OR "body composition"[tiab] OR sarcopenia[tiab] OR cachexia[tiab] OR sleep[tiab]
-        OR mindfulness[tiab] OR yoga[tiab] OR psychosocial[tiab])
+        OR mindfulness[tiab] OR yoga[tiab] OR psychosocial[tiab]
+        OR "smoking cessation"[tiab] OR "tobacco cessation"[tiab] OR "quit smoking"[tiab]
+        OR "continued smoking"[tiab] OR obesity[tiab] OR alcohol[tiab]
+        OR "palliative care"[tiab] OR "early palliative"[tiab] OR "symptom monitoring"[tiab]
+        OR ePRO[tiab] OR "electronic patient-reported"[tiab] OR acupuncture[tiab])
 
   # ------------------------------------------------------------------ mRNA therapeutics
   - id: lung-mrna
@@ -218,15 +227,18 @@ searches:
 
   # ------------------------------------------------------------------ drug repurposing
   - id: lung-repurposed
-    name: Lung cancer — repurposed (non-oncology) drugs
+    name: Lung cancer — repurposed (non-oncology) drugs and co-medications
     enabled: true
-    version: 1
+    version: 2
     criteria: >
       Existing non-cancer drugs studied for lung cancer (NSCLC, SCLC): antihistamines
       (e.g. loratadine, cetirizine, desloratadine, diphenhydramine), metformin, statins, aspirin
-      and NSAIDs, beta-blockers, antidiabetics (SGLT2, GLP-1), antibiotics/antifungals/antiparasitics
-      (itraconazole, mebendazole, ivermectin, doxycycline), antipsychotics/antidepressants,
-      disulfiram, bisphosphonates, vitamin D, and similar. HIGH: randomised trials and trial
+      and NSAIDs (celecoxib), beta-blockers, antidiabetics (SGLT2, GLP-1), antibiotics/antifungals/antiparasitics
+      (itraconazole, mebendazole, fenbendazole, ivermectin, doxycycline), antipsychotics/antidepressants,
+      disulfiram, bisphosphonates and denosumab, vitamin D, melatonin, losartan/ARBs, and similar.
+      Also co-medications that change cancer-drug outcomes: proton-pump inhibitors (TKI absorption,
+      immunotherapy), antibiotics and corticosteroids with immunotherapy, and microbiome
+      modulation (faecal microbiota transplant, probiotics such as CBM588). HIGH: randomised trials and trial
       registrations; large prospective or population cohorts that adjust for confounding and
       report survival or response; effects on immunotherapy or EGFR-TKI outcomes (e.g. antihistamine
       use with ICIs); preclinical work with in vivo data and a stated clinical path.
@@ -251,7 +263,19 @@ searches:
         OR metformin[tiab] OR statin[tiab] OR statins[tiab] OR aspirin[tiab]
         OR "beta-blocker*"[tiab] OR propranolol[tiab] OR itraconazole[tiab]
         OR mebendazole[tiab] OR ivermectin[tiab] OR disulfiram[tiab] OR doxycycline[tiab]
-        OR "SGLT2"[tiab] OR "GLP-1"[tiab] OR chloroquine[tiab] OR hydroxychloroquine[tiab])
+        OR "SGLT2"[tiab] OR "GLP-1"[tiab] OR chloroquine[tiab] OR hydroxychloroquine[tiab]
+        OR NSAID[tiab] OR NSAIDs[tiab] OR "non-steroidal anti-inflammatory"[tiab]
+        OR "nonsteroidal anti-inflammatory"[tiab] OR celecoxib[tiab]
+        OR bisphosphonate*[tiab] OR "zoledronic acid"[tiab] OR denosumab[tiab]
+        OR antidepressant*[tiab] OR SSRI[tiab] OR SSRIs[tiab]
+        OR "selective serotonin reuptake"[tiab] OR antipsychotic*[tiab]
+        OR "vitamin D"[tiab] OR melatonin[tiab] OR losartan[tiab]
+        OR "angiotensin receptor blocker*"[tiab] OR fenbendazole[tiab]
+        OR "proton pump inhibitor*"[tiab] OR "proton-pump inhibitor*"[tiab]
+        OR ((antibiotic*[tiab] OR corticosteroid*[tiab]) AND (immunotherapy[tiab]
+            OR "immune checkpoint"[tiab] OR "PD-1"[tiab] OR "PD-L1"[tiab]))
+        OR "fecal microbiota"[tiab] OR "faecal microbiota"[tiab] OR probiotic*[tiab]
+        OR CBM588[tiab] OR "Clostridium butyricum"[tiab])
     clinicaltrials:
       - {cond: "lung cancer", term: "repurposing OR antihistamine OR metformin OR statin OR propranolol OR loratadine"}
       - {cond: "lung cancer", term: "repurposing OR antihistamine OR metformin OR statin OR propranolol OR loratadine", date_field: ResultsFirstPostDate}
@@ -334,11 +358,13 @@ searches:
   - id: approvals-access
     name: Approvals, reimbursement and access
     enabled: true
-    version: 1
+    version: 2
     criteria: >
-      Regulatory and access decisions for lung cancer drugs: FDA approvals, EMA/CHMP opinions,
-      Norwegian Nye Metoder decisions. HIGH: negative opinions, withdrawn applications and
-      other agencies' decisions on lung cancer drugs. Ignore pages older than about two months unless they are decisions
+      Regulatory and access decisions for lung cancer and other thoracic cancer drugs (including
+      mesothelioma), and for engineered cell therapies (CAR-T, TCR-T) in any solid tumour: FDA
+      approvals, EMA/CHMP opinions, Norwegian Nye Metoder decisions. HIGH: negative opinions,
+      withdrawn applications, other agencies' decisions on these drugs, and new Nye Metoder
+      assessments (metodevurderinger) started for lung cancer drugs. Ignore pages older than about two months unless they are decisions
       not yet recorded in this repo.
     practice_changing: >
       every FDA approval, label change or withdrawal; every positive CHMP opinion
@@ -349,3 +375,366 @@ searches:
       - 'FDA approves lung cancer site:fda.gov'
       - 'CHMP opinion lung cancer site:ema.europa.eu'
       - 'lungekreft beslutning site:nyemetoder.no'
+      - 'lungekreft metodevurdering site:nyemetoder.no'
+      - 'FDA approves CAR-T OR TCR-T solid tumor'
+      - 'FDA approves mesothelioma OR small cell lung cancer site:fda.gov'
+
+  # ------------------------------------------------------------------ other oncogene drivers
+  - id: nsclc-drivers
+    name: Oncogene-driven NSCLC beyond EGFR (ALK, ROS1, KRAS, RET, BRAF, MET, HER2, NTRK, NRG1)
+    enabled: true
+    version: 1
+    criteria: >
+      NSCLC with a driver alteration other than EGFR: ALK, ROS1, KRAS (G12C, G12D, other), pan-RAS,
+      RET, BRAF V600E, MET exon 14 skipping and MET amplification, HER2/ERBB2 mutations, NTRK,
+      NRG1 fusions. HIGH: phase 2/3 results or updated survival below the practice-changing bar;
+      new agents (next-generation ALK/ROS1 TKIs, KRAS G12C/G12D and pan-RAS inhibitors, HER2
+      TKIs and ADCs); resistance mechanisms with treatment implications; CNS efficacy;
+      perioperative/adjuvant targeted therapy; sequencing or head-to-head data; approval profiles.
+      MEDIUM: large real-world cohorts, rigorous meta-analyses, mechanistic studies with a clear
+      clinical angle, testing/access studies (NGS uptake, turnaround).
+      LOW: case reports, small single-centre retrospectives, bioinformatic signatures without
+      validation, narrative reviews that add nothing new.
+    practice_changing: >
+      a positive randomised phase 3 establishing a new first-line, adjuvant/perioperative or
+      later-line standard in a driver-defined group (e.g. a next-generation ALK TKI vs lorlatinib or
+      alectinib, a KRAS inhibitor combination vs chemo-immunotherapy); approvals or label changes for
+      driver-directed drugs; guideline changes for these groups.
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung carcinoma"[tiab]
+        OR "lung adenocarcinoma"[tiab] OR NSCLC[tiab]
+        OR "non-small cell lung"[tiab] OR "non-small-cell lung"[tiab])
+        AND
+        (ALK[tiab] OR "ALK-positive"[tiab] OR "ALK-rearranged"[tiab] OR ROS1[tiab]
+        OR KRAS[tiab] OR G12C[tiab] OR G12D[tiab] OR "pan-RAS"[tiab] OR "RAS(ON)"[tiab]
+        OR RET[tiab] OR "RET fusion"[tiab] OR BRAF[tiab] OR V600E[tiab]
+        OR "MET exon 14"[tiab] OR METex14[tiab] OR "MET amplification"[tiab]
+        OR HER2[tiab] OR ERBB2[tiab] OR NTRK[tiab] OR NRG1[tiab]
+        OR "oncogene-driven"[tiab] OR "driver mutation"[tiab] OR "driver mutations"[tiab]
+        OR "driver-positive"[tiab] OR "actionable alteration*"[tiab]
+        OR alectinib[tiab] OR lorlatinib[tiab] OR brigatinib[tiab] OR ensartinib[tiab]
+        OR crizotinib[tiab] OR iruplinalkib[tiab] OR neladalkib[tiab] OR "NVL-655"[tiab]
+        OR taletrectinib[tiab] OR repotrectinib[tiab] OR zidesamtinib[tiab] OR "NVL-520"[tiab]
+        OR entrectinib[tiab] OR larotrectinib[tiab]
+        OR sotorasib[tiab] OR adagrasib[tiab] OR divarasib[tiab] OR olomorasib[tiab]
+        OR glecirasib[tiab] OR garsorasib[tiab] OR fulzerasib[tiab] OR zoldonrasib[tiab]
+        OR daraxonrasib[tiab] OR "RMC-6236"[tiab] OR elironrasib[tiab]
+        OR selpercatinib[tiab] OR pralsetinib[tiab] OR dabrafenib[tiab] OR encorafenib[tiab]
+        OR capmatinib[tiab] OR tepotinib[tiab] OR savolitinib[tiab] OR gumarontinib[tiab]
+        OR zongertinib[tiab] OR sevabertinib[tiab] OR "trastuzumab deruxtecan"[tiab]
+        OR zenocutuzumab[tiab])
+    clinicaltrials:
+      - {cond: "non-small cell lung cancer", term: "ALK OR ROS1 OR KRAS OR RET OR BRAF OR MET OR HER2 OR NTRK OR NRG1"}
+      - {cond: "non-small cell lung cancer", term: "ALK OR ROS1 OR KRAS OR RET OR BRAF OR MET OR HER2 OR NTRK OR NRG1", date_field: ResultsFirstPostDate}
+
+  # ------------------------------------------------------------------ small cell and neuroendocrine
+  - id: sclc
+    name: Small cell lung cancer and pulmonary neuroendocrine tumours
+    enabled: true
+    version: 1
+    criteria: >
+      SCLC (limited and extensive stage), large cell neuroendocrine carcinoma and other pulmonary
+      neuroendocrine tumours. HIGH: trial results (DLL3 bispecifics such as tarlatamab, ADCs such as
+      ifinatamab deruxtecan, sacituzumab, lurbinectedin, immunotherapy, maintenance, thoracic or
+      cranial radiotherapy, PCI vs MRI surveillance); new agents with clinical data; molecular
+      subtypes (ASCL1/NEUROD1/POU2F3/YAP1) with treatment consequences; transformed SCLC.
+      MEDIUM: preclinical in vivo work with a clinical path, large real-world cohorts, rigorous
+      meta-analyses. LOW: case reports, bioinformatic signatures, in vitro-only work, narrative reviews.
+    practice_changing: >
+      a positive phase 3 primary endpoint against the current standard in SCLC (e.g. a new first-line,
+      maintenance or second-line standard); approvals or label changes for SCLC drugs; a guideline
+      change in SCLC.
+    pubmed:
+      query: >-
+        (SCLC[tiab] OR "extensive-stage"[tiab] OR "limited-stage"[tiab]
+        OR "small cell carcinoma of the lung"[tiab] OR "large cell neuroendocrine"[tiab]
+        OR LCNEC[tiab] OR "pulmonary neuroendocrine"[tiab] OR "lung neuroendocrine"[tiab]
+        OR "pulmonary carcinoid"[tiab] OR "pulmonary carcinoids"[tiab]
+        OR "Small Cell Lung Carcinoma"[mh]
+        OR (("small cell lung"[ti] OR "small-cell lung"[ti])
+            NOT ("non-small cell lung"[ti] OR "non-small-cell lung"[ti])))
+        NOT ("non-small cell lung"[ti] OR "non-small-cell lung"[ti] OR NSCLC[ti])
+    clinicaltrials:
+      - {cond: "small cell lung cancer"}
+      - {cond: "small cell lung cancer", date_field: ResultsFirstPostDate}
+
+  # ------------------------------------------------------------------ immunotherapy and bispecifics
+  - id: nsclc-immunotherapy
+    name: NSCLC — new immunotherapy, bispecifics, perioperative IO, immune toxicity
+    enabled: true
+    version: 1
+    criteria: >
+      Immunotherapy in NSCLC beyond routine PD-(L)1 use. HIGH: PD-1×VEGF and other bispecifics
+      (ivonescimab, pumitamig/BNT327, cadonilimab and successors); new checkpoints (TIGIT, LAG-3,
+      CD47) with clinical data; perioperative/neoadjuvant immunotherapy results; immunotherapy in
+      driver-positive disease; rechallenge and treatment-duration/de-escalation data; immune-related
+      adverse events with management implications; trial results below the practice-changing bar.
+      MEDIUM: biomarker studies with validation, large real-world cohorts, rigorous meta-analyses.
+      LOW: case reports, bioinformatic immune signatures, in vitro work, narrative reviews.
+    practice_changing: >
+      a positive randomised phase 3 against the current standard (e.g. a PD-1×VEGF bispecific vs
+      pembrolizumab with OS benefit, a new perioperative regimen, a shorter treatment duration shown
+      non-inferior); approvals; guideline changes in NSCLC immunotherapy.
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung adenocarcinoma"[tiab] OR NSCLC[tiab]
+        OR "non-small cell lung"[tiab] OR "non-small-cell lung"[tiab])
+        AND
+        (ivonescimab[tiab] OR "AK112"[tiab] OR pumitamig[tiab] OR "BNT327"[tiab]
+        OR cadonilimab[tiab] OR "PD-1/VEGF"[tiab] OR "PD-1 x VEGF"[tiab] OR "PD-1×VEGF"[tiab]
+        OR "PD-L1/VEGF"[tiab] OR "bispecific antibody"[tiab] OR "bispecific antibodies"[tiab]
+        OR TIGIT[tiab] OR "LAG-3"[tiab] OR LAG3[tiab]
+        OR ((neoadjuvant[tiab] OR perioperative[tiab] OR adjuvant[tiab])
+            AND (immunotherapy[tiab] OR "immune checkpoint"[tiab] OR pembrolizumab[tiab]
+            OR nivolumab[tiab] OR durvalumab[tiab] OR atezolizumab[tiab] OR toripalimab[tiab]
+            OR tislelizumab[tiab] OR camrelizumab[tiab] OR sintilimab[tiab]))
+        OR "immune-related adverse"[tiab] OR irAE[tiab] OR irAEs[tiab]
+        OR (rechallenge[tiab] AND (immunotherapy[tiab] OR "immune checkpoint"[tiab]))
+        OR ("treatment duration"[tiab] AND (immunotherapy[tiab] OR "immune checkpoint"[tiab])))
+    clinicaltrials:
+      - {cond: "non-small cell lung cancer", term: "bispecific OR ivonescimab OR TIGIT OR LAG-3 OR perioperative immunotherapy"}
+
+  # ------------------------------------------------------------------ screening and never-smokers
+  - id: lung-screening
+    name: Lung cancer screening, early detection and never-smoker lung cancer
+    enabled: true
+    version: 1
+    criteria: >
+      Screening and early detection (low-dose CT programmes and trials, risk models, AI for nodule
+      assessment, blood/breath-based detection) and lung cancer in never-smokers (screening of
+      never-smokers, causes such as radon, air pollution, cooking fumes, family history and germline
+      risk). HIGH: screening trials and large programme evaluations with stage shift or mortality
+      outcomes; validated risk models or biomarkers with prospective data; large studies of
+      never-smoker aetiology; screening policy decisions (including Norway and Europe).
+      MEDIUM: retrospective validation of AI/biomarkers, uptake and implementation studies, rigorous
+      meta-analyses. LOW: single-centre radiomics without external validation, surveys, protocols.
+    practice_changing: >
+      a randomised screening trial with a lung cancer mortality reduction, a national screening
+      programme decision, or a guideline that changes who is screened (e.g. adding never-smokers or
+      changing age/pack-year thresholds).
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung carcinoma"[tiab]
+        OR "lung adenocarcinoma"[tiab] OR NSCLC[tiab] OR "non-small cell lung"[tiab])
+        AND
+        ("lung cancer screening"[tiab] OR "screening program"[tiab]
+        OR "screening programme"[tiab] OR "screening programs"[tiab]
+        OR "screening programmes"[tiab] OR "screening trial"[tiab] OR "screen-detected"[tiab]
+        OR "screening uptake"[tiab] OR "screening eligibility"[tiab]
+        OR "early detection"[tiab] OR "low-dose CT"[tiab]
+        OR "low-dose computed tomography"[tiab] OR LDCT[tiab]
+        OR "never smoker"[tiab] OR "never smokers"[tiab] OR "never-smoker"[tiab]
+        OR "never-smokers"[tiab] OR "non-smoker"[tiab] OR "non-smokers"[tiab]
+        OR nonsmoker*[tiab] OR "never smoking"[tiab] OR radon[tiab] OR "air pollution"[tiab]
+        OR "PM2.5"[tiab] OR "cooking fume*"[tiab])
+
+  # ------------------------------------------------------------------ ctDNA / MRD
+  - id: lung-ctdna-mrd
+    name: Lung cancer — ctDNA, MRD and liquid biopsy
+    enabled: true
+    version: 1
+    criteria: >
+      Circulating tumour DNA and liquid biopsy in lung cancer (all subtypes): MRD after surgery or
+      chemoradiation, ctDNA-guided escalation/de-escalation, molecular response on treatment,
+      plasma genotyping. HIGH: prospective or trial-embedded ctDNA studies with outcome data;
+      ctDNA-guided interventional trials and registrations; assay comparisons with clinical
+      validation. MEDIUM: retrospective cohorts with outcome data, meta-analyses, methods with
+      clinical validation. LOW: technical methods papers without clinical data, case reports, reviews.
+    practice_changing: >
+      a randomised trial showing that ctDNA/MRD-guided treatment changes outcome or safely spares
+      treatment, an approval of a ctDNA assay as companion diagnostic, or a guideline that adds
+      ctDNA-guided decisions.
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung adenocarcinoma"[tiab]
+        OR NSCLC[tiab] OR SCLC[tiab] OR "non-small cell lung"[tiab] OR "small cell lung"[tiab])
+        AND
+        (ctDNA[tiab] OR "circulating tumor DNA"[tiab] OR "circulating tumour DNA"[tiab]
+        OR "cell-free DNA"[tiab] OR cfDNA[tiab] OR "liquid biopsy"[tiab]
+        OR "liquid biopsies"[tiab] OR "minimal residual disease"[tiab]
+        OR "molecular residual disease"[tiab] OR "plasma genotyping"[tiab])
+    clinicaltrials:
+      - {cond: "lung cancer", term: "ctDNA OR circulating tumor DNA OR minimal residual disease OR molecular residual disease"}
+
+  # ------------------------------------------------------------------ local therapy
+  - id: lung-local-therapy
+    name: Lung cancer — radiotherapy, surgery and local therapy
+    enabled: true
+    version: 1
+    criteria: >
+      Local treatment in lung cancer: SBRT/SABR for early-stage disease, oligometastatic and
+      oligoprogressive disease (local consolidative therapy with TKIs or immunotherapy),
+      chemoradiotherapy in stage III, extent of surgery (segmentectomy, sublobar resection),
+      ablation, proton therapy, brain radiotherapy (SRS vs WBRT). HIGH: randomised trials and large
+      prospective series with survival or control outcomes; local therapy combined with targeted
+      therapy (especially EGFR) or immunotherapy. MEDIUM: retrospective comparative cohorts with
+      adjustment, meta-analyses of RCTs, dosimetric studies with clinical outcomes.
+      LOW: planning/dosimetry-only papers, case reports, small single-centre series, reviews.
+    practice_changing: >
+      a positive randomised phase 3 changing a local-treatment standard (e.g. consolidative
+      radiotherapy added to a TKI, SBRT vs surgery, sublobar vs lobectomy); a guideline change in
+      surgery or radiotherapy.
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung adenocarcinoma"[tiab]
+        OR NSCLC[tiab] OR SCLC[tiab] OR "non-small cell lung"[tiab] OR "small cell lung"[tiab])
+        AND
+        (SBRT[tiab] OR SABR[tiab] OR stereotactic[tiab] OR oligometasta*[tiab]
+        OR oligoprogress*[tiab] OR "oligo-residual"[tiab] OR "oligoresidual"[tiab]
+        OR "local consolidative"[tiab] OR "consolidative radiotherapy"[tiab]
+        OR "thoracic radiotherapy"[tiab] OR chemoradiotherapy[tiab] OR chemoradiation[tiab]
+        OR segmentectomy[tiab] OR sublobar[tiab] OR "wedge resection"[tiab]
+        OR "proton therapy"[tiab] OR "radiofrequency ablation"[tiab]
+        OR "microwave ablation"[tiab] OR "whole-brain radiotherapy"[tiab]
+        OR "whole brain radiotherapy"[tiab] OR radiosurgery[tiab])
+    clinicaltrials:
+      - {cond: "lung cancer", term: "stereotactic OR oligometastatic OR oligoprogressive OR consolidative radiotherapy OR segmentectomy"}
+
+  # ------------------------------------------------------------------ Norway and the Nordics
+  - id: lung-nordic
+    name: Lung cancer — Norwegian and Nordic data and access
+    enabled: true
+    version: 1
+    criteria: >
+      Lung cancer research from or about Norway and the Nordic countries: registry studies
+      (Kreftregisteret, national quality registry, Danish/Swedish/Finnish registries), real-world
+      treatment patterns and outcomes, access and reimbursement, screening pilots, Nordic trials.
+      HIGH: Norwegian or Nordic trials or registry studies with outcome data that bear on practice,
+      and anything about access/reimbursement of lung cancer drugs in Norway. MEDIUM: other Nordic
+      cohorts, epidemiology and health-services studies. LOW: papers with a Nordic co-author but no
+      Nordic data, and basic science.
+    practice_changing: >
+      a Norwegian decision (Nye Metoder, national guideline/handlingsprogram, screening programme)
+      or a Nordic randomised phase 3 meeting the general bar.
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung carcinoma"[tiab]
+        OR "lung adenocarcinoma"[tiab] OR NSCLC[tiab] OR SCLC[tiab]
+        OR "non-small cell lung"[tiab] OR "small cell lung"[tiab] OR mesothelioma[tiab])
+        AND
+        (Norway[tiab] OR Norwegian[tiab] OR Norway[ad] OR Nordic[tiab] OR Scandinavia*[tiab]
+        OR Denmark[tiab] OR Danish[tiab] OR Sweden[tiab] OR Swedish[tiab]
+        OR Finland[tiab] OR Finnish[tiab] OR Iceland*[tiab])
+    web:
+      - 'lungekreft site:helsedirektoratet.no'
+      - 'lungekreft site:kreftregisteret.no'
+
+  # ------------------------------------------------------------------ non-mRNA vaccines and TIL
+  - id: lung-vaccines-cell
+    name: Lung cancer — non-mRNA vaccines, oncolytic viruses and TIL therapy
+    enabled: true
+    version: 1
+    criteria: >
+      Therapeutic cancer vaccines that are not mRNA (peptide such as OSE2101/Tedopi, viral-vector
+      such as TG4050, dendritic-cell, DNA, whole-cell), oncolytic viruses, and adoptive therapy with
+      tumour-infiltrating lymphocytes (TIL, e.g. lifileucel) in lung cancer. HIGH: clinical results
+      (any phase, with n and follow-up) and trial registrations; randomised data. MEDIUM:
+      preclinical in vivo work with a stated clinical path, immunogenicity-only data, rigorous
+      meta-analyses. LOW: in vitro-only, narrative reviews, papers on TIL density as a biomarker
+      (not TIL therapy).
+    practice_changing: >
+      a positive randomised phase 3 of a vaccine, oncolytic virus or TIL product in lung cancer, or
+      its approval.
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung adenocarcinoma"[tiab]
+        OR NSCLC[tiab] OR SCLC[tiab] OR "non-small cell lung"[tiab] OR "small cell lung"[tiab])
+        AND
+        ("cancer vaccine"[tiab] OR "cancer vaccines"[tiab] OR "therapeutic vaccine"[tiab]
+        OR "therapeutic vaccines"[tiab] OR "peptide vaccine"[tiab] OR "dendritic cell vaccine"[tiab]
+        OR "DC vaccine"[tiab] OR "DNA vaccine"[tiab] OR OSE2101[tiab] OR Tedopi[tiab]
+        OR TG4050[tiab] OR "viral vector"[tiab] OR "oncolytic virus"[tiab]
+        OR "oncolytic viruses"[tiab] OR "oncolytic virotherapy"[tiab]
+        OR "TIL therapy"[tiab] OR lifileucel[tiab] OR "adoptive cell therapy"[tiab]
+        OR "adoptive T cell"[tiab] OR "adoptive T-cell"[tiab])
+        NOT ("mRNA vaccine"[ti] OR "mRNA vaccines"[ti])
+    clinicaltrials:
+      - {cond: "lung cancer", term: "vaccine OR oncolytic OR tumor infiltrating lymphocytes OR lifileucel"}
+
+  # ------------------------------------------------------------------ treatment toxicity
+  - id: lung-toxicity
+    name: Lung cancer — treatment toxicity (ILD, pneumonitis, cardiotoxicity, irAEs)
+    enabled: true
+    version: 1
+    criteria: >
+      Toxicity of lung cancer treatment: interstitial lung disease/pneumonitis with ADCs, TKIs,
+      immunotherapy or radiotherapy; cardiotoxicity (e.g. osimertinib, ICI myocarditis); hepatic,
+      renal, dermatological and other serious adverse events; their prevention and management.
+      HIGH: randomised trials of prophylaxis or management (e.g. COCOON-type dermatological
+      prophylaxis), large pooled trial safety analyses, prospective studies with clear incidence
+      and outcome data. MEDIUM: large real-world or pharmacovigilance studies, meta-analyses.
+      LOW: case reports, small retrospectives, reviews.
+    practice_changing: >
+      a randomised trial establishing a prophylaxis or management standard for a common toxicity,
+      or a regulatory safety action (boxed warning, label change) on a lung cancer drug.
+    pubmed:
+      query: >-
+        ("lung cancer"[tiab] OR "lung cancers"[tiab] OR "lung adenocarcinoma"[tiab]
+        OR NSCLC[tiab] OR SCLC[tiab] OR "non-small cell lung"[tiab] OR "small cell lung"[tiab])
+        AND
+        (pneumonitis[tiab] OR "interstitial lung disease"[tiab] OR ILD[tiab]
+        OR cardiotoxicity[tiab] OR "cardiac toxicity"[tiab] OR myocarditis[tiab]
+        OR hepatotoxicity[tiab] OR "immune-related adverse"[tiab] OR irAE[tiab] OR irAEs[tiab]
+        OR "dermatologic toxicity"[tiab] OR "dermatological toxicity"[tiab]
+        OR paronychia[tiab] OR "adverse event management"[tiab] OR prophylaxis[tiab])
+
+  # ------------------------------------------------------------------ mesothelioma and thymic
+  - id: thoracic-other
+    name: Mesothelioma and thymic epithelial tumours
+    enabled: true
+    version: 1
+    criteria: >
+      Pleural/peritoneal mesothelioma, thymoma and thymic carcinoma. HIGH: trial results (any
+      phase with n), immunotherapy and new agents, surgery/radiotherapy trials, guidelines.
+      MEDIUM: large cohorts, meta-analyses, preclinical in vivo work with a clinical path.
+      LOW: case reports, asbestos-exposure epidemiology without treatment angle, reviews.
+    practice_changing: >
+      a positive randomised phase 3 against the current standard, an approval, or a guideline
+      change in mesothelioma or thymic tumours.
+    pubmed:
+      query: >-
+        mesothelioma[tiab] OR mesotheliomas[tiab] OR thymoma[tiab] OR thymomas[tiab]
+        OR "thymic carcinoma"[tiab] OR "thymic epithelial"[tiab]
+    clinicaltrials:
+      - {cond: "mesothelioma"}
+      - {cond: "thymoma OR thymic carcinoma"}
+
+  # ------------------------------------------------------------------ guidelines and meetings (web)
+  - id: guidelines-meetings
+    name: Lung cancer guidelines and major-meeting late-breakers
+    enabled: true
+    version: 1
+    criteria: >
+      Guideline updates (NCCN, ESMO, ASCO, IASLC, Norwegian handlingsprogram) and late-breaking
+      lung cancer abstracts from ESMO, ASCO, WCLC and ELCC. HIGH: a guideline update that names a
+      changed recommendation; late-breaking or presidential-session lung cancer abstracts with
+      phase 3 results (conference abstracts are never practice-changing; the full paper will be).
+      MEDIUM: other meeting highlights and summaries. LOW: listing or navigation pages.
+    practice_changing: >
+      only a published guideline update that changes a recommendation and says which one.
+      Conference abstracts and press releases stay HIGH.
+    web:
+      - 'NCCN guidelines non-small cell lung cancer update 2026'
+      - 'ESMO living guideline non-small cell lung cancer 2026'
+      - 'handlingsprogram lungekreft Helsedirektoratet 2026'
+      - 'ESMO 2026 late-breaking lung cancer'
+      - 'WCLC 2026 presidential symposium lung cancer results'
+      - 'ASCO 2026 lung cancer plenary late-breaking'
+
+  # ------------------------------------------------------------------ cell-therapy preprints
+  - id: preprints-cell-therapy
+    name: CAR-T, TCR-T and cell-therapy preprints (bioRxiv, medRxiv)
+    enabled: true
+    version: 1
+    criteria: >
+      Preprints are not peer reviewed, so say so in the digest. Engineered cell therapy in solid
+      tumours (same scope as car-t-solid). HIGH only for clinical results; most items MEDIUM or LOW.
+      Haematological-only work is LOW.
+    practice_changing: >
+      never. Preprints are not peer reviewed; cap them at HIGH.
+    feeds:
+      - http://connect.biorxiv.org/biorxiv_xml.php?subject=immunology
+      - http://connect.biorxiv.org/biorxiv_xml.php?subject=cancer_biology
+      - http://connect.medrxiv.org/medrxiv_xml.php?subject=Oncology
+    feed_keywords: [car-t, "car t cell", "car t-cell", car-nk, car-macrophage, "chimeric antigen", tcr-t, "tcr-engineered", "engineered t cell"]
