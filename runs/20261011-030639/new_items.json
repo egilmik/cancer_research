@@ -1,0 +1,382 @@
+[
+  {
+    "source": "pubmed",
+    "pmid": "42854937",
+    "doi": "10.1016/j.actbio.2026.10.015",
+    "pmcid": "",
+    "title": "Acid-degradable hollow calcium-manganese nanocarriers integrate calcium stress, redox catalysis, and antitumor immunity for lung cancer therapy.",
+    "authors": "Liu W, Yang M, Wang F et al.",
+    "journal": "Acta Biomater",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Non-small cell lung cancer (NSCLC) remains a major cause of cancer-related mortality, while acquired resistance to EGFR-targeted therapy and an immunosuppressive tumor microenvironment continue to limit therapeutic efficacy. Here, we developed a tumor cell membrane-coated, acid-degradable hollow calcium-manganese nanoplatform loaded with gefitinib (CM@HCC-Mn/Gef) for combined redox modulation and antitumor immune activation. Under acidic and redox-active conditions, CM@HCC-Mn/Gef released gefitinib, Ca2+, and Mn2+, leading to intracellular Ca2+ accumulation, mitochondrial depolarization, ATP depletion, reactive oxygen species generation, glutathione consumption, GPX4 downregulation, and lipid peroxidation. These coordinated effects induced ferroptosis-associated oxidative damage and immunogenic cell death (ICD), characterized by cell-surface calreticulin exposure and HMGB1 redistribution, and subsequently promoted dendritic cell maturation and T-cell activation. In gefitinib-resistant NSCLC cells, CM@HCC-Mn/Gef produced substantially greater cytotoxicity than free gefitinib, indicating that multimechanistic stress amplification enhanced the therapeutic response of resistant tumor cells. In immunocompetent syngeneic LLC tumor models, the nanoplatform inhibited primary tumor growth, increased tumor-infiltrating T cells, alleviated immunosuppressive features of the tumor microenvironment, and delayed contralateral secondary tumor progression. Combination with anti-PD-1 further enhanced tumor suppression and systemic immune activation. Collectively, CM@HCC-Mn/Gef integrates targeted drug delivery, calcium-associated mitochondrial stress, redox disruption, ferroptosis-associated damage, and immune activation, providing a biomimetic nanotherapeutic strategy for NSCLC chemoimmunotherapy. STATEMENT OF SIGNIFICANCE: Conventional nanocarriers often provide drug delivery without coordinating multiple tumor-specific stresses and immune activation. This study introduces a tumor cell membrane-coated, acid-degradable hollow calcium-manganese nanoplatform that co-releases gefitinib, Ca2+, and Mn2+ in the tumor microenvironment. The material couples calcium-associated mitochondrial dysfunction with manganese-driven redox catalysis, thereby enhancing oxidative damage, lipid peroxidation, and immunogenic cell death-associated responses. It also improves tumor accumulation, promotes dendritic cell maturation and T-cell activation, and enhances anti-PD-1 therapy in immunocompetent lung cancer models. This work establishes a direct link between biomaterial composition, stimulus-responsive degradation, catalytic function, and antitumor immunity, offering a versatile design strategy for biomaterials-enabled chemoimmunotherapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854937/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-resistance-nextgen"
+    ],
+    "keys": [
+      "pmid:42854937",
+      "doi:10.1016/j.actbio.2026.10.015"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42854880",
+    "doi": "10.1016/j.cellsig.2026.112912",
+    "pmcid": "",
+    "title": "Epidermal growth factor receptor activation is associated with NSCLC cells resistance to ferroptosis and correlates with ROS-NRF2-GCLC/GCLM pathway activation.",
+    "authors": "Wang L, Wang Y, Li Y et al.",
+    "journal": "Cell Signal",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Mutations of epidermal growth factor receptor (EGFR) closely correlate with differential ferroptosis sensitivity in select cell lines, but the underlying mechanism is poorly understood. In this study, we identified the epidermal growth factor (EGF)-activated EGFR as a correlate of ferroptosis suppression in non-small cell lung carcinoma (NSCLC) cells, an effect linked to increased mitochondrial mass and functional capacity. EGF treatment attenuated ferroptosis induced by ML210, RSL3, or Erastin, whereas CRISPR/Cas9-mediated knockout of EGFR (EGFRKO) downregulated GCLC/GCLM expression and glutathione (GSH) levels, thereby sensitizing cells to ferroptosis. Across the cell lines tested, sensitivity to ferroptosis inducers varied and could not be attributed solely to EGFR mutation status. In tyrosine kinase inhibitor (TKI)-resistant cells and in post-TKI tumor tissues from NSCLC patients harboring EGFR mutations, we observed downregulation of xCT/SLC7A11 and GCLC/GCLM. Notably, while TKI-resistant cells acquired resistance to the system xc- inhibitor Erastin, they remained sensitive to the GPX4 inhibitor RSL3, suggesting that alternative antioxidant pathways, such as the FSP1/CoQ10 system, may compensate for impaired cystine uptake in the resistant setting. Collectively, our results reveal a correlative link between EGFR signaling, mitochondrial metabolism, and the ROS-NRF2-GCLC/GCLM pathway in modulating ferroptosis in NSCLC cells in a GSH-dependent manner. Furthermore, the sustained vulnerability of TKI-resistant cells to GPX4 inhibition suggests that targeting GPX4 represents a promising therapeutic strategy to overcome TKI resistance, though our findings are hypothesis-generating and require further mechanistic validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854880/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-resistance-nextgen"
+    ],
+    "keys": [
+      "pmid:42854880",
+      "doi:10.1016/j.cellsig.2026.112912"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42854601",
+    "doi": "10.1016/j.bioorg.2026.110555",
+    "pmcid": "",
+    "title": "Triptolide enhances oxaliplatin sensitivity by suppressing the JAK2/STAT3 pathway in cancer cells.",
+    "authors": "Lou R, Li G, Chen Y et al.",
+    "journal": "Bioorg Chem",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Liver cancer and lung cancer are major causes of cancer-related deaths worldwide. Oxaliplatin is a first-line chemotherapeutic agent, but its efficacy is often limited by acquired resistance.\nPURPOSE: This study investigated whether triptolide (TPL), a bioactive compound derived from a traditional Chinese medicinal herb, enhances the sensitivity of cancer cells to oxaliplatin and explored the underlying molecular mechanism.\nMETHODS: Human liver cancer (Huh-7) and lung cancer (A549) cell lines were used as experimental models. Western blotting was performed to assess the effects of oxaliplatin on the signal transducer and activator of transcription 3 (STAT3) pathway. Cells were treated with oxaliplatin alone, a STAT3 inhibitor, STAT3 small interfering RNA, TPL alone, or their combinations, both in vitro and in vivo. Molecular docking, drug affinity responsive target stability, cellular thermal shift assay, and surface plasmon resonance were employed to identify and validate the direct binding between TPL and STAT3. Immunoprecipitation was used to examine STAT3 ubiquitination levels.\nRESULTS: Oxaliplatin treatment activated the STAT3 pathway in cancer cells. Inhibition of STAT3 either by a pharmacological inhibitor or by small interfering RNA significantly enhanced cellular sensitivity to oxaliplatin. RNA sequencing analysis revealed that TPL modulated STAT3-related pathways. Combination of TPL and oxaliplatin produced synergistic antitumor effects in both cell-based and animal models. Mechanistically, TPL directly bound to STAT3 at the Lys244 and Lys318 residues, promoting its ubiquitination and subsequent degradation.\nCONCLUSION: TPL acts as a novel small-molecule STAT3 inhibitor that promotes STATA3 ubiquitination-mediated degration, representing a promising candidate to sensitize tumors to oxaliplatin-based therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854601/",
+    "searches": [
+      "nsclc-resistance-nextgen"
+    ],
+    "keys": [
+      "pmid:42854601",
+      "doi:10.1016/j.bioorg.2026.110555"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42855870",
+    "doi": "10.1111/ajco.70198",
+    "pmcid": "",
+    "title": "Application of Multimodal Respiratory Training Combined With Resistance Exercise in Promoting Postoperative Recovery After Thoracoscopic Lung Cancer Resection.",
+    "authors": "Wu J, Liu J, Luo B et al.",
+    "journal": "Asia Pac J Clin Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "OBJECTIVE: This study aimed to assess the effect of multimodal respiratory training combined with resistance exercise on postoperative recovery in patients undergoing thoracoscopic lung cancer resection.\nMETHODS: Seventy-two patients were enrolled and randomly allocated into two groups (n = 36 each). Routine postoperative care was implemented in the control group, whereas patients in the intervention group additionally received multimodal respiratory training integrated with resistance exercise. Recovery indices, respiratory function parameters (forced vital capacity [FVC], forced expiratory volume in 1 s [FEV1], peak expiratory flow [PEF], and maximal voluntary ventilation [MVV]), exercise tolerance (6-minute walk distance [6MWD] and Borg dyspnea score), arterial blood gas values (PaO2, PaCO2), quality of life (SF-36), and postoperative complications were evaluated.\nRESULTS: The intervention group presented shorter time to ambulation, earlier first flatus, and reduced chest drainage duration relative to the control group. Postoperatively, compared with the control group, the intervention group exhibited a smaller reduction in MVV, a smaller increase in Borg scores, and a smaller decline in PaO2. Although FVC, FEV1, PEF, 6MWD, and PaCO2 levels improved over time in both groups, and PaCO2 levels were lower in the intervention group than in the control group, no significant time × group interaction effects were observed for these outcomes. Although the incidence of complications was lower in the intervention group than in the control group (5.56% vs. 11.11%), the difference exhibited no differences.\nCONCLUSION: Multimodal respiratory training combined with resistance exercise effectively facilitates postoperative recovery, improves pulmonary function and exercise capacity, and enhances quality of life in patients after thoracoscopic lung cancer resection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42855870/",
+    "searches": [
+      "lung-nonpharm"
+    ],
+    "keys": [
+      "pmid:42855870",
+      "doi:10.1111/ajco.70198"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42855744",
+    "doi": "10.1186/s44215-026-00278-x",
+    "pmcid": "PMC13651155",
+    "title": "Curative-intent lung resection after recovery from fulminant immune checkpoint inhibitor-associated myocarditis during neoadjuvant therapy: a case report.",
+    "authors": "Kaburaki Y, Ito H, Isaka T et al.",
+    "journal": "Gen Thorac Cardiovasc Surg Cases",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Immune checkpoint inhibitor (ICI)-associated myocarditis is a rare but potentially fatal immune-related adverse event (irAE) that may interrupt planned curative treatment for resectable non-small-cell lung cancer. However, the suitability of definitive surgery after recovery from fulminant myocarditis remains unclear.\nCASE PRESENTATION: A 53-year-old man with left upper lobe adenocarcinoma and ipsilateral hilar nodal disease was administered four cycles of neoadjuvant cisplatin, pemetrexed, and pembrolizumab, resulting in a partial response. Eighty-six days after the initiation of neoadjuvant chemoimmunotherapy, he developed grade 4 fulminant ICI-associated myocarditis with ventricular fibrillation and cardiac arrest. Endomyocardial biopsy revealed active lymphocytic myocarditis. The patient required intubation, percutaneous cardiopulmonary support, intra-aortic balloon pumping, continuous hemodiafiltration, high-dose corticosteroids, and prolonged rehabilitation. After his cardiac function recovered, tumor regrowth without distant metastasis was identified. Multidisciplinary reassessment supported surgery because the left ventricular ejection fraction had recovered to 71%, no recurrent malignant arrhythmia had been documented, cardiac biomarkers had improved, prednisolone had been tapered to 10 mg/day, and the disease remained technically resectable. Thoracoscopic-assisted thoracotomy with left upper lobe sleeve resection, pulmonary artery reconstruction, and hilar and mediastinal lymph node dissection was performed 144 days after myocarditis onset, corresponding to 230 days after the initiation of neoadjuvant chemoimmunotherapy. R0 resection was achieved. Surveillance computed tomography showed no evidence of recurrence through 3.5 years after surgery, and the patient was alive at the last follow-up 6.3 years after surgery.\nCONCLUSIONS: Fulminant ICI-associated myocarditis does not necessarily preclude subsequent curative-intent lung resection. In highly selected patients, surgery may remain feasible after objective cardiac recovery, multidisciplinary reassessment, and shared decision-making with the patient. This case suggests that the acute management of life-threatening cardiovascular irAEs should be undertaken at centers with continuous on-site cardiology support, multidisciplinary care, and access to emergency mechanical circulatory support. Additionally, planning subsequent curative-intent surgery requires multidisciplinary collaboration, ready access to cardiology expertise, and an appropriate pathway for rapid escalation of cardiovascular care.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42855744/",
+    "searches": [
+      "lung-nonpharm",
+      "lung-repurposed",
+      "nsclc-immunotherapy",
+      "lung-toxicity"
+    ],
+    "keys": [
+      "pmid:42855744",
+      "doi:10.1186/s44215-026-00278-x"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42855622",
+    "doi": "10.1111/1759-7714.70392",
+    "pmcid": "",
+    "title": "Chronic Cigarette Smoke Extract Exposure Promotes Genomic and Phenotypic Reprogramming in Lung Cancer Cells.",
+    "authors": "Kim HS, Choi SE, Kim IK et al.",
+    "journal": "Thorac Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Cigarette smoke contains numerous toxic compounds that can induce oxidative stress and DNA damage. While smoking is a well-established driver of lung cancer initiation, the biological consequences of continued exposure after tumor establishment remain poorly understood. This study investigated the genomic and phenotypic effects of chronic cigarette smoke exposure in established lung cancer cells.\nMETHODS: Human lung adenocarcinoma A549 cells were chronically exposed to cigarette smoke extract to model sustained exposure. Cellular proliferation and migration assays were performed to evaluate phenotypic changes. Transcriptomic profiling was used to examine alterations in gene expression related to cell cycle regulation and DNA repair pathways. Whole-genome sequencing was conducted to identify mutational signatures associated with genomic instability. Tumor growth and histological features were further evaluated using xenograft models.\nRESULTS: Chronic cigarette smoke extract exposure increased the clonogenic capacity and migratory behavior of A549 cells and induced phenotypic features consistent with partial epithelial-mesenchymal transition. Transcriptomic analysis revealed disruption of cell cycle regulation and reduced expression of homologous recombination DNA repair genes, including RAD51. Whole-genome sequencing identified mutational signatures associated with oxidative damage, mismatch repair deficiency, and homologous recombination defects. These alterations were accompanied by increased tumor growth and cellular atypia in xenograft models.\nCONCLUSIONS: Chronic cigarette smoke exposure may enhance genomic instability and promote aggressive phenotypes in established lung cancer cells, suggesting that continued smoking after cancer development may contribute to tumor progression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42855622/",
+    "searches": [
+      "lung-nonpharm"
+    ],
+    "keys": [
+      "pmid:42855622",
+      "doi:10.1111/1759-7714.70392"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42854379",
+    "doi": "10.1016/j.nut.2026.113427",
+    "pmcid": "",
+    "title": "Prognostic value of the Global Leadership Initiative on Malnutrition for clinical outcomes in outpatients with colorectal and/or lung cancer: an observational prospective study.",
+    "authors": "Estanislau AMDC, Maia FCP, Lima AI et al.",
+    "journal": "Nutrition",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "OBJECTIVES: The Global Leadership Initiative on Malnutrition (GLIM) was established to standardize malnutrition diagnosis. Despite growing research, few studies have investigated its application in outpatients. This study assessed the prognostic value of GLIM combinations in colorectal and/or lung cancer outpatients.\nMETHODS: Ninety-two outpatients with colorectal and/or lung cancer at different treatment stages were assessed between December 2022 and July 2024. Nutritional status was classified using eight GLIM combinations. Phenotypic criteria (weight loss, reduced muscle mass, reduced muscle strength) remained constant across all models, while etiologic criteria (reduced intake, inflammation, cancer-related burden) varied. Classifications were compared with the Subjective Global Assessment. The prognostic value was evaluated for 12-mo mortality. Logistic regression, Kaplan-Meier analysis, and Cox regression were adjusted for age, sex, cancer stage, tumor site, and Eastern Cooperative Oncology Group status.\nRESULTS: The mean patient age was 64 y (interquartile range: 57-74 y). Malnutrition prevalence ranged from 30.4% to 89.1% depending on the GLIM combinations. When reduced intake was combined with any phenotypic criteria, 12-mo mortality risk increased 5.6-19.8-fold. The combination including all phenotypic and etiologic variables independently predicted shorter survival.\nCONCLUSIONS: Malnutrition prevalence and prognostic performance varied according to the GLIM combination, influencing predictive accuracy for mortality. As evidence grows regarding which models achieve the greatest diagnostic accuracy in oncology, combinations including phenotypic criteria and reduced intake should be prioritized to optimize prognostic evaluation and clinical decision-making.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854379/",
+    "searches": [
+      "lung-nonpharm"
+    ],
+    "keys": [
+      "pmid:42854379",
+      "doi:10.1016/j.nut.2026.113427"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42854918",
+    "doi": "10.1016/j.jconrel.2026.115443",
+    "pmcid": "",
+    "title": "Focused ultrasound for reshaping the immune microenvironment in glioblastoma.",
+    "authors": "Gattegno R, Bismuth M, Sher D et al.",
+    "journal": "J Control Release",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Glioblastoma (GBM) remains one of the most aggressive and treatment-resistant cancers, in part due to its highly immunosuppressive tumor microenvironment and the restricted therapeutic access imposed by the blood brain barrier (BBB). Focused ultrasound (FUS) has emerged as a promising noninvasive technology capable of transiently opening the BBB, enhancing localized therapeutic delivery, and directly modulating immune responses within the brain. Beyond its established role in drug delivery, accumulating evidence demonstrates that FUS can reshape both innate and adaptive immunity through mechanical, thermal, and cavitation-mediated bioeffects, leading to cytokine release, immune-cell recruitment, antigen presentation, and immunogenic cell death. In this review, we discuss the emerging role of FUS as an immunomodulatory platform in GBM. We first summarize the immunological consequences of different FUS modalities, including thermal ablation, histotripsy, sonodynamic therapy, and microbubble-mediated BBB opening, with emphasis on their effects on the tumor microenvironment. We then review preclinical studies combining FUS with chemotherapy, immune checkpoint blockade, CAR T-cell therapy, and nanoparticle-based therapeutics, highlighting how FUS can enhance both therapeutic delivery and antitumor immune activation. Subsequently, we examine the rapidly expanding clinical landscape of FUS in GBM, including trials focused on BBB opening, sonodynamic therapy, and sonobiopsy approaches for molecular profiling and treatment monitoring. Finally, we discuss current translational challenges, including treatment standardization, device heterogeneity, imaging requirements, and the development of next-generation ultrasound-responsive agents. Collectively, this review positions FUS not only as a delivery technology, but also as a versatile strategy for reshaping the immune microenvironment in GBM and enabling future combination immunotherapies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854918/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42854918",
+      "doi:10.1016/j.jconrel.2026.115443"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42854615",
+    "doi": "10.1016/j.jcyt.2026.102930",
+    "pmcid": "",
+    "title": "Pre-clinical validation of OSCAR-3 mRNA-based CAR T cells for targeting osteosarcomas.",
+    "authors": "Mensali N, Joaquina S, de Montlaur C et al.",
+    "journal": "Cytotherapy",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND AIMS: Osteosarcoma (OS) is a rare cancer affecting children and young adults with a good prognosis when localized. Nevertheless, primary metastases or metastatic relapses are associated with high mortality, underlying the need for novel treatment strategies. Immunotherapy, and more recently Chimeric antigen receptor (CAR)-based therapy, is being investigated as a new approach for the management of solid tumors, although clinical results in OS have so far been limited.\nMETHODS: We developed a second-generation CAR (OSCAR-3), derived from the TP-3 hybridoma and targeting ALPL-1, an isoform of alkaline phosphatase selectively expressed in OS.\nRESULTS: Stable OSCAR-3 expression in T cells demonstrated potent anti-tumor activity in pre-clinical models. To enable safer clinical translation, we further engineered OSCAR-3 as an mRNA-based CAR. OSCAR-3 mRNA CAR T cells maintained cytotoxic activity in vitro and in vivo, and, importantly, delayed tumor progression in OS patient-derived xenograft models.\nCONCLUSIONS: These findings support the further development of OSCAR-3 mRNA CAR T cells as a strategic approach that prioritizes safety over persistence for first-in-human studies, while preserving the ability to reduce tumor growth.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854615/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42854615",
+      "doi:10.1016/j.jcyt.2026.102930"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42854612",
+    "doi": "10.1016/j.jcyt.2026.102970",
+    "pmcid": "",
+    "title": "Integrated T-cell enrichment, static transduction, and expansion in gas-permeable bioreactors for adoptive cell therapy.",
+    "authors": "Gkitsas-Long N, Retherford AJ, Fowler C et al.",
+    "journal": "Cytotherapy",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND AIMS: Broader access to autologous chimeric antigen receptor (CAR) T-cell therapy is limited by costly, device-bound manufacturing workflows and reliance on dedicated instrumentation for discrete unit operations, including T-cell enrichment and culture. These constraints affect academic, decentralized and high-throughput centralized manufacturing programs. We developed a closed-system CAR T-cell manufacturing workflow centered on a gas-permeable G-Rex bioreactor platform that enables direct in-vessel CD4⁺/CD8⁺ T-cell enrichment, static viral transduction and expansion without requiring a separate standalone enrichment device or spinoculation hardware.\nMETHODS: Key unit operations of a G-Rex-based GD2 CAR T-cell manufacturing process were optimized, including RetroNectin-mediated static retroviral transduction, coating concentration and timing, and media-exchange strategy. T-cell phenotype and functional potency were characterized longitudinally throughout the 7-day culture period. The optimized workflow was translated to a manufacturing-scale G-Rex 100M-CS process incorporating a newly developed, previously unpublished method for direct in-vessel CD4⁺/CD8⁺ magnetic enrichment using detachable beads and a prototype SepaRex magnetic base. At-scale products from three healthy donors were assessed for enrichment performance, transduction efficiency, expansion, viability, phenotype, cytokine secretion and tumor-cell killing, and benchmarked against historical products manufactured using a clinically validated CliniMACS Prodigy-based GD2 CAR T-cell process.\nRESULTS: Retronectin-coated G-Rex cultures supported efficient static retroviral transduction without spinoculation, and media exchange between 24 and 96 h post-transduction did not significantly affect final yield or viability. Direct in-vessel CD4⁺/CD8⁺ enrichment achieved 61.6 ± 8.6% recovery and 87.2 ± 7.9% purity. At manufacturing scale, the integrated workflow generated GD2 CAR T cells with 62.3 ± 5.1% transduction efficiency, 26.8 ± 4.7-fold expansion, >94% viability and >96% CD3⁺ T-cell purity. Final products retained central memory features, secreted cytokines and mediated cytotoxicity against GD2-expressing tumor targets, with manufacturing performance comparable to the historical Prodigy-based process.\nCONCLUSIONSS: This closed, scalable and cost-conscious G-Rex-based workflow integrates T-cell enrichment, activation, static viral transduction and expansion within a single bioreactor-centered process. By eliminating dedicated enrichment instrumentation and reducing reliance on highly automated, device-bound culture systems, this bioreactor-centered platform may support flexible CAR T-cell manufacturing across academic, decentralized, and high-throughput centralized settings.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854612/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42854612",
+      "doi:10.1016/j.jcyt.2026.102970"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42854611",
+    "doi": "10.1016/j.jcyt.2026.102980",
+    "pmcid": "",
+    "title": "Hypoxia during GPC2-CAR T-cell manufacturing compromises cell expansion and cytotoxic capacity.",
+    "authors": "Phadke I, Hannon RA, Black M et al.",
+    "journal": "Cytotherapy",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND AND AIM: Hypoxia is a hallmark of the solid tumor microenvironment and is known to impair CAR T-cell function. In order to condition CAR T-cells to this microenvironment during manufacturing, we evaluated whether varying oxygen tension during the manufacturing of GPC2-CAR T-cells improves cellular characteristics and function against neuroblastoma.\nMETHODS: Cell products were produced over 8-9 days under normoxic (21% oxygen), transitional (21%, then transitioned to 1% on Day 2), or maintained hypoxic conditions (1% from Day 0 onward). RNA-sequencing, metabolic assays, phenotyping, and functional studies were performed.\nRESULTS: Sustained hypoxia induced universal changes in CAR T-cells, including increased surface CAR expression, enrichment of TN/TSCM subsets, and a shift toward glycolysis. However, manufacturing fully in hypoxic conditions yielded markedly reduced cell expansion relative to normoxic and transitional conditions. Normoxia-produced CAR T-cells were most potent in eliminating neuroblastoma tumor cells in vitro and in vivo. In parallel, hypoxia also altered neuroblastoma biology, including downregulation of GPC2 expression and induction of transcriptional programs associated with mesenchymal transition and hypoproliferation.\nCONCLUSIONS: These findings indicate that oxygen tension substantially alters both CAR T-cell products and tumor cell state. Sustained hypoxic manufacturing does not improve GPC2-CAR T-cell efficacy and instead compromises yield and antitumor function. Thus, for this GPC2-CAR T-cell product, normoxic manufacturing remains the most favorable approach for clinical translation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854611/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42854611",
+      "doi:10.1016/j.jcyt.2026.102980"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42854466",
+    "doi": "10.1016/j.ijmedinf.2026.106743",
+    "pmcid": "",
+    "title": "One-day-ahead prediction of severe hyponatremia in patients with cancer using medication and diagnostic trajectories without electrolyte indicators.",
+    "authors": "Lee Y, Cha HS, Park H et al.",
+    "journal": "Int J Med Inform",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRO: Hyponatremia is a common complication in patients with cancer and is associated with poor prognosis; however, early detection remains challenging. Existing models often rely on laboratory parameters directly related to sodium levels, limiting early risk identification before electrolyte testing. This study developed a machine learning model to predict severe hyponatremia 1 day before its occurrence using longitudinal prescription and diagnostic data without relying on serum electrolyte variables.\nMETHODS: This retrospective single-center study included 33,160 adult patients (2010-2021). De-identified data were transformed into the Observational Medical Outcomes Partnership (OMOP) Common Data Model. Severe hyponatremia was defined as serum sodium ≤ 125 mmol/L. Using 30-day time-series data, the eXtreme Gradient Boosting (XGBoost) and Transformer models were compared across three feature sets: a baseline set (Case 1), an information-rich set that included expanded laboratory variables (Case 2), and a medication-focused set (Case 3).\nRESULTS: Among 33,160 patients, 2,916 (8.8 %) developed severe hyponatremia. XGBoost consistently outperformed the Transformer model. In Case 3, XGBoost achieved an area under the curve (AUC) of 0.853 and an F1-score of 0.411, comparable to those in Case 2 (AUC 0.862 and F1-score 0.426), which included laboratory data. Shapley Additive exPlanations (SHAP) and attention analyses identified cisplatin, lung cancer, male sex, dexamethasone, and trimethoprim/sulfamethoxazole as key predictors.\nCONCLUSION: Severe hyponatremia can be predicted 1 day in advance with clinically meaningful predictive performance using 30-day medication and diagnostic trajectories without relying on electrolyte-related laboratory data. This finding suggests that high-risk patients could be identified early even when electrolyte-related laboratory variables are unavailable, such as during cancer treatment planning or when routine electrolyte monitoring is not performed, supporting more targeted electrolyte testing and earlier clinician-directed intervention pending external validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854466/",
+    "searches": [
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42854466",
+      "doi:10.1016/j.ijmedinf.2026.106743"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42855461",
+    "doi": "10.1038/s41420-026-03305-6",
+    "pmcid": "",
+    "title": "CDC73 suppresses lung adenocarcinoma via the PTEN/AKT pathway and exhibits biomarker and functional potential in extracellular vesicles.",
+    "authors": "Dong H, Zheng Y, Wang G et al.",
+    "journal": "Cell Death Discov",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "CDC73 is a canonical tumor suppressor; however, its biological functions in lung adenocarcinoma (LUAD) and the extracellular vesicle (EV)-mediated mechanisms through which it exerts its effects remain unclear. In this study, we systematically evaluated the diagnostic value, biological functions, and EV-mediated regulatory roles of CDC73 in LUAD. First, quantitative proteomic analysis was performed on plasma-derived EVs from six patients with early-stage LUAD and three healthy donors, followed by further validation of EV-borne CDC73 expression in plasma-derived EV samples from eight LUAD patients and eight healthy donors. We found that the level of EV-borne CDC73 protein (EV-CDC73) was significantly reduced in LUAD, indicating its potential value as a diagnostic liquid-biopsy biomarker. To define its functional role, we established LUAD cell lines stably overexpressing CDC73 (A549^OE and H1299^OE) and performed rescue experiments in combination with PTEN knockdown using siRNA. The tumor-suppressive effects of CDC73 were systematically assessed through experiments examining cell proliferation, cell-cycle progression, apoptosis, migration, and related molecular mechanisms. Meanwhile, EVs were isolated by ultracentrifugation from the conditioned media of A549, H1299, and human bronchial epithelial (HBE) cells to analyze the effects of EVs with different CDC73 levels on recipient A549 and HBE cells, and xenograft models were used for in vivo validation. The results showed that CDC73 overexpression markedly inhibited LUAD cell proliferation and migration, induced G1-phase arrest, and promoted apoptosis. Mechanistically, CDC73 exerted its tumor-suppressive effects by upregulating PTEN and inhibiting AKT activation, whereas PTEN knockdown partially reversed these effects. In vivo experiments further confirmed that CDC73 overexpression suppressed tumor growth and migration. In addition, EVs derived from LUAD cells with high CDC73 expression showed a reduced ability to induce malignant transformation-related phenotypes in HBE cells and suppressed the PTEN/AKT signaling axis; conversely, EVs derived from HBE cells with high CDC73 expression inhibited the malignant progression of LUAD cells. Collectively, CDC73 suppresses the malignant progression of LUAD through the PTEN/AKT signaling axis, while EV-borne CDC73 not only has potential diagnostic value but also directly regulates malignant phenotypes in recipient cells, highlighting its translational potential in the diagnosis and treatment of LUAD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42855461/",
+    "searches": [
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:42855461",
+      "doi:10.1038/s41420-026-03305-6"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42855881",
+    "doi": "10.1111/ajco.70209",
+    "pmcid": "",
+    "title": "Comprehensive Pan-Cancer Analysis Identifies LINC00942 as a Multifunctional lncRNA Involved in Tumor Progression, Immune Regulation, and Chemoresistance.",
+    "authors": "Ma Y, Ding Y, Wang L",
+    "journal": "Asia Pac J Clin Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: This study aimed to investigate the expression patterns, immunological functions, and prognostic value of LINC00942 across multiple cancer types, and to further examine its role in chemoresistance.\nMETHODS: LINC00942 expression and its diagnostic and prognostic significance were analyzed across 33 cancer types using data from The Cancer Genome Atlas (TCGA) and the Genotype-Tissue Expression (GTEX) databases. Correlations between LINC00942 expression and genomic alterations, epigenetic regulation, tumor microenvironment, and drug response were evaluated. The correlation between LINC00942 and clinical outcomes was evaluated. LINC00942-coexpressed genes and interacting proteins were identified. Functional enrichment analysis was performed to annotate key signaling pathways regulated by LINC00942.\nRESULTS: LINC00942 is significantly upregulated in most cancer types, and high LINC00942 expression is associated with unfavorable overall survival in several cancer types. An increasing trend of LINC00942 amplification was observed in multiple cancers (e.g., uterine carcinosarcoma [UCS], ovarian serous cystadenocarcinoma [OSC], and testicular germ cell tumors [TGCTs]). High LINC00942 copy number variations (CNVs) are associated with poor patient survival in kidney renal clear cell carcinoma (KIRC), and thymoma (THYM). LINC00942 is negatively correlated with TH1/NKT cells and positively with TH2 cells across tumors. LINC00942 expression exhibits a negative correlation with target gene promoter methylation, indicating its potential epigenetic regulatory role. In addition, LINC00942 may serve as a promising therapeutic target to overcome resistance to HDAC inhibitors, docetaxel, paclitaxel, and carboplatin. Elesclomol and torin 2 hold potential as LINC00942-targeting anticancer agents.\nCONCLUSION: LINC00942 plays an important role in tumor development and progression in various cancers. It has the potential to act as a prognostic biomarker and a candidate therapeutic target deserving further exploration.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42855881/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:42855881",
+      "doi:10.1111/ajco.70209"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42855739",
+    "doi": "10.1186/s40364-026-01012-z",
+    "pmcid": "PMC13651267",
+    "title": "First-in-human phase Ia study of the covalent TEAD palmitoylation inhibitor BPI-460372 in patients with advanced solid tumors: pharmacokinetics, exposure-limited dosing, and early antitumor activity.",
+    "authors": "Liang H, Xu Y, Zhao J et al.",
+    "journal": "Biomark Res",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: The Hippo pathway is a critical regulator of tumor development and progression, dysregulation of the Hippo pathway drives tumorigenesis in multiple malignancies. BPI-460,372 is a first‑in‑class covalent irreversible inhibitor of transcriptional enhanced associated domain (TEAD) palmitoylation. This first-in-human study evaluated the safety, tolerability, pharmacokinetics (PK), and preliminary antitumor activity of BPI-460,372 in patients with advanced solid tumors.\nMETHODS: This open-label, multicenter, single-arm phase Ia dose-escalation study enrolled patients with advanced solid tumors who had progressed after standard therapies or lacked available standard treatment options. A modified 3 + 3 design with accelerated titration was used. BPI-460,372 was administered orally once daily under fasting conditions, with dose escalation from 10 mg to 240 mg daily. Additional cohorts evaluated twice-daily dosing (80 mg and 120 mg) and postprandial administration (80 mg and 160 mg) to characterize exposure optimization strategies. Primary endpoints were safety, tolerability, dose-limiting toxicities (DLTs), and the maximum tolerated dose (MTD). Secondary endpoints included pharmacokinetics (PK) and preliminary antitumor efficacy. Tumor response was assessed according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1; modified criteria were applied for malignant pleural mesothelioma.\nRESULTS: Between April 2023 and December 2024, 36 patients were screened, and 28 patients were enrolled and treated. No DLTs were observed, and the MTD was not reached. All patients experienced at least one treatment-emergent adverse event (TEAE). Treatment-related adverse events (TRAEs) occurred in 89.3% of patients, with grade ≥ 3 events occurring in 39.3%. Proteinuria was the most common TRAE (46.4%, including 10.7% grade ≥ 3). Three deaths occurred during the study, including one treatment-related death due to abdominal infection. Pharmacokinetic analyses demonstrated rapid absorption, dose-dependent increases in exposure, achievement of steady-state exposure after repeated dosing, and limited drug accumulation. Among 28 evaluable patients, one confirmed partial response (PR) was observed in the 120 mg twice-daily cohort. The objective response rate (ORR) and disease control rate (DCR) were 3.6% (95% CI: 0.1-18.4) and 64.3% (95% CI: 44.1-81.4), respectively. Median progression-free survival (PFS) was 5.6 months (95% CI: 2.4-7.0), and median overall survival (OS) was 13.2 months (95% CI: 7.4-15.1).\nCONCLUSION: BPI-460,372 demonstrated a distinct pharmacokinetic profile and showed preliminary antitumor activity in patients with advanced solid tumors. However, treatment-emergent toxicities and exposure limitations constrained further dose escalation and prevented definition of an optimal biologically active dose. These findings support further clinical evaluation of BPI-460,372 using optimized dosing strategies, particularly in tumors with Hippo pathway dependency.\nTRIAL REGISTRATION: ClinicalTrials.gov NCT05789602. Registered on 29 March 2023.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42855739/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:42855739",
+      "doi:10.1186/s40364-026-01012-z"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42854990",
+    "doi": "10.1016/j.jaci.2026.09.023",
+    "pmcid": "",
+    "title": "Thymic stromal defects and immune dysregulation in hypomorphic Rag deficiency: implications for hematopoietic cell transplantation.",
+    "authors": "Pala F, Oguz C, Corsino C et al.",
+    "journal": "J Allergy Clin Immunol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Thymic epithelial cells (TEC) are essential for positive and negative selection during T-cell development. Hypomorphic RAG deficiency is characterized by T-cell lymphopenia and an increased risk of infections and autoimmunity. However, whether abnormalities of TEC composition and function also contribute to these clinical features is unknown.\nOBJECTIVE: Using a Rag1 hypomorphic (Rag1mut) mouse model, we examined composition and function of the TEC compartment, both before and after hematopoietic stem cell transplantation (HSCT).\nMETHODS: Flow cytometry, immunofluorescent imaging, and single cell RNA sequencing were used to characterize the TECs and thymocytes. Bone marrow transplantation studies were performed to define level of donor chimerism required to fully correct thymic abnormalities.\nRESULTS: The thymus of Rag1mut mice is small, with an increased proportion of cortical and a severe reduction of medullary TECs, and reduced expression of tissue-restricted antigens. Transplantation of Rag1mut HSCs into wild-type mice phenocopied the altered thymic architecture of Rag1mut mice. Transplantation of wild-type HSCs into Rag1mut mice fully corrected thymocyte development, and normalized the TEC phenotype. However, in competitive settings, lower levels of wild-type HSC engraftment were associated with persistence of mutant-derived double-negative thymocytes and of a low number of Itgβ4+ mTEClo cells, incomplete restoration of the TEC compartment, and autoantibody production.\nCONCLUSION: Impaired thymocyte development in Rag1mut mice leads to abnormal TEC composition and immune dysregulation, whose correction requires robust levels of donor chimerism after HSCT.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854990/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:42854990",
+      "doi:10.1016/j.jaci.2026.09.023"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42854640",
+    "doi": "10.1016/j.esmoop.2026.108366",
+    "pmcid": "",
+    "title": "First-line toripalimab in combination with platinum-doublet chemotherapy for advanced B3 thymoma and thymic carcinoma: an open-label prospective phase Ⅱ trial.",
+    "authors": "Zhu K, Zhu H, Shi H et al.",
+    "journal": "ESMO Open",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Several studies have demonstrated the efficacy of programmed cell death protein 1/programmed death-ligand 1 (PD-L1) inhibitors in patients with thymic epithelial tumors (TETs). Previous trials suggest that the efficacy of immunotherapy in TETs is associated with specific features of the tumor immune microenvironment.\nPATIENTS AND METHODS: Patients received a combination of paclitaxel, carboplatin, and toripalimab every 3 weeks for up to six cycles, followed by toripalimab maintenance every 4 weeks until disease progression or other discontinuation criteria. The primary endpoint was progression-free survival (PFS). Immunohistochemistry and next-generation sequencing were used to assess the association between various biomarkers and efficacy.\nRESULTS: Between November 2020 and January 2024, 24 patients were enrolled in the study. The median PFS was 19.3 months [95% confidence interval (CI) 12.8-25.8]. The objective response rate was 37.5% (95% CI 18.8%-59.4%) and the disease control rate was 100% (95% CI 85.8%-100%). Grade 3-4 treatment-related adverse events (TRAEs) occurred in 12 (50.0%) patients. Common grade 3-4 TRAEs included decreased neutrophil, white blood cell, and platelet counts. Immune-related adverse events (irAEs) were identified in 11 (45.8%) patients; grade ≥3 irAEs were reported in 1 (4.2%) patient. Patients with higher PD-L1 expression showed a trend toward longer PFS. Further analysis revealed a specific infiltration pattern of CD8+ T cells, M1/M2 macrophages, and CD56bright natural killer cells in the tumor immune microenvironment and mutations in the nuclear factor κB pathway were associated with better clinical outcomes.\nCONCLUSIONS: Toripalimab combined with carboplatin and paclitaxel is an emerging therapeutic option for patients with thymic carcinoma and B3 thymoma. The overall incidence and severity of adverse events are within the acceptable range. Tumor microenvironment features or mutational signatures are credible prognostic indicators.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854640/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:42854640",
+      "doi:10.1016/j.esmoop.2026.108366"
+    ]
+  }
+]

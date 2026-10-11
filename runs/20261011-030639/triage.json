@@ -1,0 +1,70 @@
+{
+ "pmid:42854937": {
+  "relevance": "low",
+  "reason": "Preclinical gefitinib nanocarrier in cell lines/syngeneic mice; no clinical data."
+ },
+ "pmid:42854880": {
+  "relevance": "low",
+  "reason": "Cell-line mechanistic study of EGFR and ferroptosis resistance."
+ },
+ "pmid:42854601": {
+  "relevance": "low",
+  "reason": "Triptolide/oxaliplatin in Huh-7 and A549 cell lines; not EGFR/NSCLC-specific."
+ },
+ "pmid:42855870": {
+  "relevance": "medium",
+  "reason": "Small RCT (n=72) of respiratory training plus resistance exercise after thoracoscopic resection; improved recovery indices but no significant interaction effects for most lung-function outcomes."
+ },
+ "pmid:42855744": {
+  "relevance": "low",
+  "reason": "Single case report of ICI myocarditis followed by curative resection."
+ },
+ "pmid:42855622": {
+  "relevance": "low",
+  "reason": "Cell-line study of chronic smoke extract exposure in A549 cells."
+ },
+ "pmid:42854379": {
+  "relevance": "low",
+  "reason": "Small (n=92) observational study of GLIM malnutrition in mixed colorectal/lung cancer outpatients."
+ },
+ "pmid:42854918": {
+  "relevance": "low",
+  "reason": "Narrative review of focused ultrasound in glioblastoma; not CAR-T specific."
+ },
+ "pmid:42854615": {
+  "relevance": "medium",
+  "reason": "Preclinical mRNA CAR-T (OSCAR-3) against osteosarcoma ALPL-1; no clinical data."
+ },
+ "pmid:42854612": {
+  "relevance": "low",
+  "reason": "CAR-T manufacturing workflow method paper."
+ },
+ "pmid:42854611": {
+  "relevance": "medium",
+  "reason": "Preclinical: hypoxic manufacturing of GPC2-CAR T cells for neuroblastoma impairs expansion/cytotoxicity."
+ },
+ "pmid:42854466": {
+  "relevance": "low",
+  "reason": "Hyponatremia ML prediction model in cancer patients; not lung-screening relevant."
+ },
+ "pmid:42855461": {
+  "relevance": "low",
+  "reason": "Preclinical CDC73 / EV biomarker study in LUAD (small plasma validation, n=8 vs 8)."
+ },
+ "pmid:42855881": {
+  "relevance": "low",
+  "reason": "Pan-cancer lncRNA bioinformatic analysis."
+ },
+ "pmid:42855739": {
+  "relevance": "medium",
+  "reason": "First-in-human phase Ia of TEAD palmitoylation inhibitor BPI-460372 (n=28, includes mesothelioma): ORR 3.6%, DCR 64.3%, proteinuria dominant, MTD not reached."
+ },
+ "pmid:42854990": {
+  "relevance": "low",
+  "reason": "Mouse model of Rag deficiency thymic defects; not thymic tumours."
+ },
+ "pmid:42854640": {
+  "relevance": "high",
+  "reason": "Single-arm phase II (n=24) toripalimab + carboplatin/paclitaxel first-line in B3 thymoma/thymic carcinoma: mPFS 19.3 mo (95% CI 12.8-25.8), ORR 37.5%, grade 3-4 TRAE 50%."
+ }
+}
