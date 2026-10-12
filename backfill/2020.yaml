@@ -1,0 +1,76 @@
+# Backfill of every search with a PubMed query back to 2020-01-01.
+# Created 2026-10-12. One chunk = one routine run (fire the routine with the chunk's `only`,
+# `since` and `until`). Run chunks one at a time, oldest first, never while another run is in
+# progress. `python scripts/backfill_status.py backfill/2020.yaml` shows which are done.
+#
+# Already covered before this plan: 2026 for all searches; 2024-2025 for egfr-nsclc,
+# nsclc-resistance-nextgen, lung-top-journals, lung-mrna, car-t-solid (v2). lung-repurposed is
+# repeated for 2024-2025 because those years were fetched with v1, before it was widened.
+# Not backfillable: preprints, preprints-cell-therapy (feeds list only recent posts),
+# approvals-access, guidelines-meetings (web queries have no date window).
+
+groups:
+  all: [egfr-nsclc, nsclc-resistance-nextgen, lung-key-evidence, lung-top-journals, lung-nonpharm, lung-mrna, lung-repurposed, car-t-solid, nsclc-drivers, sclc, nsclc-immunotherapy, lung-screening, lung-ctdna-mrd, lung-local-therapy, lung-nordic, lung-vaccines-cell, lung-toxicity, thoracic-other]
+  new-in-2026-10: [lung-key-evidence, lung-nonpharm, lung-repurposed, nsclc-drivers, sclc, nsclc-immunotherapy, lung-screening, lung-ctdna-mrd, lung-local-therapy, lung-nordic, lung-vaccines-cell, lung-toxicity, thoracic-other]
+
+chunks:
+  - {group: all, since: 2020-01-01, until: 2020-01-31}
+  - {group: all, since: 2020-02-01, until: 2020-02-29}
+  - {group: all, since: 2020-03-01, until: 2020-03-31}
+  - {group: all, since: 2020-04-01, until: 2020-04-30}
+  - {group: all, since: 2020-05-01, until: 2020-05-31}
+  - {group: all, since: 2020-06-01, until: 2020-06-30}
+  - {group: all, since: 2020-07-01, until: 2020-07-31}
+  - {group: all, since: 2020-08-01, until: 2020-08-31}
+  - {group: all, since: 2020-09-01, until: 2020-09-30}
+  - {group: all, since: 2020-10-01, until: 2020-10-31}
+  - {group: all, since: 2020-11-01, until: 2020-11-30}
+  - {group: all, since: 2020-12-01, until: 2020-12-31}
+  - {group: all, since: 2021-01-01, until: 2021-01-31}
+  - {group: all, since: 2021-02-01, until: 2021-02-28}
+  - {group: all, since: 2021-03-01, until: 2021-03-31}
+  - {group: all, since: 2021-04-01, until: 2021-04-30}
+  - {group: all, since: 2021-05-01, until: 2021-05-31}
+  - {group: all, since: 2021-06-01, until: 2021-06-30}
+  - {group: all, since: 2021-07-01, until: 2021-07-31}
+  - {group: all, since: 2021-08-01, until: 2021-08-31}
+  - {group: all, since: 2021-09-01, until: 2021-09-30}
+  - {group: all, since: 2021-10-01, until: 2021-10-31}
+  - {group: all, since: 2021-11-01, until: 2021-11-30}
+  - {group: all, since: 2021-12-01, until: 2021-12-31}
+  - {group: all, since: 2022-01-01, until: 2022-01-31}
+  - {group: all, since: 2022-02-01, until: 2022-02-28}
+  - {group: all, since: 2022-03-01, until: 2022-03-31}
+  - {group: all, since: 2022-04-01, until: 2022-04-30}
+  - {group: all, since: 2022-05-01, until: 2022-05-31}
+  - {group: all, since: 2022-06-01, until: 2022-06-30}
+  - {group: all, since: 2022-07-01, until: 2022-07-31}
+  - {group: all, since: 2022-08-01, until: 2022-08-31}
+  - {group: all, since: 2022-09-01, until: 2022-09-30}
+  - {group: all, since: 2022-10-01, until: 2022-10-31}
+  - {group: all, since: 2022-11-01, until: 2022-11-30}
+  - {group: all, since: 2022-12-01, until: 2022-12-31}
+  - {group: all, since: 2023-01-01, until: 2023-01-31}
+  - {group: all, since: 2023-02-01, until: 2023-02-28}
+  - {group: all, since: 2023-03-01, until: 2023-03-31}
+  - {group: all, since: 2023-04-01, until: 2023-04-30}
+  - {group: all, since: 2023-05-01, until: 2023-05-31}
+  - {group: all, since: 2023-06-01, until: 2023-06-30}
+  - {group: all, since: 2023-07-01, until: 2023-07-31}
+  - {group: all, since: 2023-08-01, until: 2023-08-31}
+  - {group: all, since: 2023-09-01, until: 2023-09-30}
+  - {group: all, since: 2023-10-01, until: 2023-10-31}
+  - {group: all, since: 2023-11-01, until: 2023-11-30}
+  - {group: all, since: 2023-12-01, until: 2023-12-31}
+  - {group: new-in-2026-10, since: 2024-01-01, until: 2024-02-29}
+  - {group: new-in-2026-10, since: 2024-03-01, until: 2024-04-30}
+  - {group: new-in-2026-10, since: 2024-05-01, until: 2024-06-30}
+  - {group: new-in-2026-10, since: 2024-07-01, until: 2024-08-31}
+  - {group: new-in-2026-10, since: 2024-09-01, until: 2024-10-31}
+  - {group: new-in-2026-10, since: 2024-11-01, until: 2024-12-31}
+  - {group: new-in-2026-10, since: 2025-01-01, until: 2025-02-28}
+  - {group: new-in-2026-10, since: 2025-03-01, until: 2025-04-30}
+  - {group: new-in-2026-10, since: 2025-05-01, until: 2025-06-30}
+  - {group: new-in-2026-10, since: 2025-07-01, until: 2025-08-31}
+  - {group: new-in-2026-10, since: 2025-09-01, until: 2025-10-31}
+  - {group: new-in-2026-10, since: 2025-11-01, until: 2025-12-31}

@@ -85,6 +85,9 @@ ROUTINE_PROMPT.md        paste into the routine
   anything already recorded. A long PubMed window is retrieved completely (see below), so a
   backfill over many months can bring thousands of new items; use `until` to do it a month at a
   time and keep each run's triage manageable. A backfill never moves the regular window back.
+  A multi-run backfill is planned as chunks in `backfill/*.yaml`;
+  `python scripts/backfill_status.py backfill/2020.yaml [--next]` shows progress from `state/runs.jsonl`
+  and prints the run text for the next chunk.
 - **Truncation**: a PubMed window with more than `max_results` hits is split by date until each
   slice fits (`runs.jsonl` records `"slices"`), so it is only truncated if a single day exceeds the
   limit. ClinicalTrials.gov is not split. A truncated line gets `"truncated": true`, the digest
