@@ -1,0 +1,292 @@
+[
+  {
+    "source": "pubmed",
+    "pmid": "37648314",
+    "doi": "10.21873/anticanres.16606",
+    "pmcid": "",
+    "title": "Anti-CTLA-4 Antibody Might Be Effective Against Non-small Cell Lung Cancer With Large Size Tumor.",
+    "authors": "Saijo H, Hirohashi Y, Honjo O et al.",
+    "journal": "Anticancer Res",
+    "year": "2023",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND/AIM: Immunotherapy using immune checkpoint inhibitors (ICIs) has revolutionized the treatment of advanced non-small cell lung cancer (NSCLC). Although several ICI options are available, the treatment regimen for NSCLC with large size tumors (large NSCLC) is controversial and the efficacy of anti-CTLA-4 antibody is unclear. This study thus investigated potential biomarkers for CTLA-4 blockade.\nPATIENTS AND METHODS: The correlation between tumor diameter and treatment duration was examined in patients with advanced NSCLC treated with anti-PD-1 antibody monotherapy in our institution. In addition, the ratio of tumor-infiltrating CD8+ T cells and regulatory T (Treg) cells in small and large size NSCLC was also evaluated using immunohistochemical staining. Finally, the efficacy of treatment with anti-CTLA-4 antibody against large NSCLC was investigated.\nRESULTS: A negative correlation was found between tumor diameter and treatment duration in patients treated with anti-PD-1 antibody monotherapy. Immuno-histochemical staining revealed that Treg cell infiltration was significantly higher in large NSCLC tumors than in small tumors. Among the patients with large NSCLC, the ICI regimen including anti-CTLA-4 antibody showed significant efficacies.\nCONCLUSION: Anti-PD-1 antibody monotherapy might be less effective against large NSCLC due to the infiltration of Treg cells. Therefore, it might be appropriate for large NSCLC to select a treatment including an anti-CTLA-4 antibody, which can target Treg cells.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37648314/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:37648314",
+      "doi:10.21873/anticanres.16606"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "37644968",
+    "doi": "10.1016/j.jtocrr.2023.100547",
+    "pmcid": "PMC10460993",
+    "title": "Underutilization of Systemic Therapy in Patients With NSCLC Undergoing Pneumonectomy: A Missed Opportunity for Survival.",
+    "authors": "Rodriguez-Quintero JH, Kamel MK, Dawodu G et al.",
+    "journal": "JTO Clin Res Rep",
+    "year": "2023",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRODUCTION: Recent trials have reported promising results with the addition of immunotherapy to chemotherapy for patients with locally advanced NSCLC, but in practice, the proportion of patients who receive systemic therapy (ST) has historically been low. Underutilization of ST may be particularly apparent in patients undergoing pneumonectomy, in whom the physiologic insult and surgical complications may preclude adjuvant therapy (ADJ). We, therefore, evaluated the use of ST for patients with NSCLC undergoing pneumonectomy.\nMETHODS: We queried the National Cancer Database, including all patients with NSCLC who underwent pneumonectomy between 2006 and 2018. Logistic regression was used to identify associations with ST and neo-ADJ (NEO). Overall survival was compared after propensity score matching (1:1) patients undergoing ST to those undergoing surgery alone using Kaplan-Meier and Cox regression methods.\nRESULTS: A total of 2619 patients were identified. Among these, 12% received NEO, 43% received ADJ, and 45% surgery alone. Age younger than 65 years (adjusted odds ratio [aOR] = 1.53, 95% confidence interval; [CI]: 1.10-2.11), Asian ethnicity (aOR = 2.68, 95% CI: 1.37-5.23), treatment at a high-volume center (aOR = 1.39, 95% CI: 1.06-1.81), and private insurance (aOR = 1.42, 95% CI: 1.05-1.94) were associated with NEO, whereas age younger than 65 years (aOR = 1.95, 95% CI: 1.61-2.38), comorbidity index less than or equal to 1 (aOR = 1.66, 95% CI: 1.29-2.16), and private insurance (aOR = 1.47, 95% CI: 1.20-1.80) were associated with any ST. In the matched cohort, ST was associated with better survival than surgery (adjusted hazard ratio = 0.67, 95% CI: 0.58-0.78).\nCONCLUSIONS: A high proportion of patients who undergo pneumonectomy do not receive ST. Patient and socioeconomic factors are associated with the receipt of ST. Given its survival benefit, emphasis should be placed on multimodal treatment strategies, perhaps with greater consideration given to neoadjuvant approaches.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37644968/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:37644968",
+      "doi:10.1016/j.jtocrr.2023.100547"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "37627186",
+    "doi": "10.3390/cancers15164158",
+    "pmcid": "PMC10453282",
+    "title": "Pretreatment Tumor Growth Rate and Radiological Response as Predictive Markers of Pathological Response and Survival in Patients with Resectable Lung Cancer Treated by Neoadjuvant Treatment.",
+    "authors": "Ramtohul T, Challier L, Servois V et al.",
+    "journal": "Cancers (Basel)",
+    "year": "2023",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRODUCTION: Predictive biomarkers associated with pathological response, progression precluding surgery, and/or recurrence after surgery are needed for patients with resectable non-small cell lung carcinoma (NSCLC) treated by neoadjuvant treatment. We evaluated the clinical impact of the pretreatment tumor growth rate (TGR0) and radiological response for patients with resectable NSCLC treated with neoadjuvant therapies.\nMETHODS: Consecutive patients with resectable stage IB (≥4 cm) to IIIA NSCLC treated by neoadjuvant platinum-doublet chemotherapy with or without nivolumab at our tertiary center were retrospectively analyzed. TGR0 and RECIST objective responses were determined. Multivariable analyses identified independent predictors of event-free survival (EFS), overall survival (OS), and major pathological response (MPR).\nRESULTS: Between November 2017 and December 2022, 32 patients (mean [SD] age, 63.8 [8.0] years) were included. At a median follow-up of 54.8 months (95% CI, 42.3-60.4 months), eleven patients (34%) experienced progression or recurrence, and twelve deaths (38%) were recorded. The TGR0 cutoff of 30%/month remained the only independent factor associated with EFS (HR = 0.04; 95% CI, 0.01-0.3; p = 0.003) and OS (HR = 0.2; 95% CI, 0.03-0.7; p = 0.01). The TGR0 cut-off had a mean time-dependent AUC of 0.83 (95% CI, 0.64-0.95) and 0.80 (95% CI, 0.62-0.97) for predicting EFS and OS, respectively. Fifteen of 26 resection cases (58%) showed MPR including nine with pathological complete responses (35%). Only the objective response of the primary tumor was associated with MPR (OR = 27.5; 95% CI, 2.6-289.1; p = 0.006).\nCONCLUSIONS: Assessment of TGR0 can identify patients who should benefit from neoadjuvant treatment. A tumor objective response might be a predictor of MPR after neoadjuvant treatment, which will help to adapt surgical management.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37627186/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:37627186",
+      "doi:10.3390/cancers15164158"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "37620528",
+    "doi": "10.1245/s10434-023-14163-2",
+    "pmcid": "",
+    "title": "ASO Video Abstract: Neoadjuvant Chemo-Immunotherapy Increases Tumor Immune Lymphocytes Infiltration in Resectable NSCLC.",
+    "authors": "Chen T, Cao Z, Sun Y et al.",
+    "journal": "Ann Surg Oncol",
+    "year": "2023",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37620528/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:37620528",
+      "doi:10.1245/s10434-023-14163-2"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "37603233",
+    "doi": "10.1007/s40259-023-00614-5",
+    "pmcid": "",
+    "title": "Neoadjuvant Immunotherapy for Non-Small Cell Lung Cancer.",
+    "authors": "Sanber K, Rosner S, Forde PM et al.",
+    "journal": "BioDrugs",
+    "year": "2023",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Immune checkpoint blockade (ICB) has improved outcomes for patients with advanced non-small cell lung carcinoma (NSCLC). Building off of this, it has been hypothesized that the utilization of ICB early during the disease course may be advantageous, particularly in the neoadjuvant setting prior to definitive surgical resection. Preclinical studies have suggested that a more potent immune response may be induced by neoadjuvant ICB in the presence of a higher antigen burden and intact tumor draining lymph nodes. Recent clinical trials evaluating neoadjuvant ICB with or without chemotherapy combinations in patients with resectable NSCLC led to improved pathological responses and longer event-free survival when neoadjuvant ICB was added to chemotherapy. Surgical outcomes were also supportive of this approach, with encouraging rates of pathological downstaging. Additionally, the availability of pre-treatment biopsy samples and post-treatment surgical resection tissues facilitates the conducting of correlative studies that continue to improve our understanding of the mechanisms of response and resistance to ICB. As long-term survival outcomes from ongoing clinical trials are awaited, several important questions require further investigation, including the optimal duration of neoadjuvant therapy, the clinical endpoints most predictive of long-term outcomes, and translational studies that should be investigated in future trial designs. Additionally, the optimal clinical management of patients with residual disease at the time of surgical resection and those who experience recurrence remains to be determined. In this review, we will (1) discuss the rationale behind neoadjuvant ICB-based therapy in NSCLC, (2) summarize the clinical data available thus far, and (3) highlight unanswered questions that need to be addressed in future studies to maximize the clinical benefits of this approach.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37603233/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:37603233",
+      "doi:10.1007/s40259-023-00614-5"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "37587444",
+    "doi": "10.1186/s12935-023-02984-w",
+    "pmcid": "PMC10433610",
+    "title": "A novel quinoline derivative, DFIQ, sensitizes NSCLC cells to ferroptosis by promoting oxidative stress accompanied by autophagic dysfunction and mitochondrial damage.",
+    "authors": "Bow YD, Ko CC, Chang WT et al.",
+    "journal": "Cancer Cell Int",
+    "year": "2023",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: The development of nonapoptotic programmed cell death inducers as anticancer agents has emerged as a cancer therapy field. Ferroptosis, ferrous ion-driven programmed cell death that is induced by redox imbalance and dysfunctional reactive oxygen species (ROS) clearance, is triggered during sorafenib and PD-1/PD-L1 immunotherapy. DFIQ, a quinoline derivative, promotes apoptosis by disrupting autophagic flux and promoting ROS accumulation. Our pilot experiments suggest that DFIQ participates in ferroptosis sensitization. Thus, in this study, we aimed to reveal the mechanisms of DFIQ in ferroptosis sensitization and evaluate the clinical potential of DFIQ.\nMETHODS: We treated the non-small cell lung cancer (NSCLC) cell lines H1299, A549, and H460 with the ferroptosis inducer (FI) DFIQ and analyzed viability, protein expression, ROS generation, and fluorescence staining at different time points. Colocalization analysis was performed with ImageJ.\nRESULTS: DFIQ sensitized cells to FIs such as erastin and RSL3, resulting in a decrease in IC50 of at least 0.5-fold. Measurement of ROS accumulation to explore the underlying mechanism indicated that DFIQ and FIs treatment promoted ROS accumulation and SOD1/SOD2 switching. Mitochondria, known ROS sources, produced high ROS levels during DFIQ/FI treatment. RSL3 treatment promoted mitochondrial damage and mitophagy, an autophagy-associated mitochondrial recycling system, and cotreatment with DFIQ induced accumulation of mitochondrial proteins, which indicated disruption of mitophagic flux. Thus, autophagic flux was measured in cells cotreated with DFIQ. DFIQ treatment was found to disrupt autophagic flux, leading to accumulation of damaged mitochondria and eventually inducing ferroptosis. Furthermore, the influence of DFIQ on the effects of clinical FIs, such as sorafenib, was evaluated, and DFIQ was discovered to sensitize NSCLC cells to sorafenib and promote ferroptosis.\nCONCLUSIONS: This study indicates that DFIQ not only promotes NSCLC apoptosis but also sensitizes cells to ferroptosis by disrupting autophagic flux, leading to accumulation of dysfunctional mitochondria and thus to ferroptosis. Ferroptosis is a novel therapeutic target in cancer therapy. DFIQ shows the potential to enhance the effects of FIs in NSCLC and act as a potential therapeutic adjuvant in ferroptosis-mediated therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37587444/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:37587444",
+      "doi:10.1186/s12935-023-02984-w"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "37587362",
+    "doi": "10.1245/s10434-023-14123-w",
+    "pmcid": "",
+    "title": "Neoadjuvant Chemoimmunotherapy Increases Tumor Immune Lymphocytes Infiltration in Resectable Non-small Cell Lung Cancer.",
+    "authors": "Chen T, Cao Z, Sun Y et al.",
+    "journal": "Ann Surg Oncol",
+    "year": "2023",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Neoadjuvant chemoimmunotherapy treatment (NCIT) has achieved great success for non-small cell lung cancer (NSCLC); however, the intrinsic mechanism underlying this treatment remains unclear.\nMETHODS: Thirty-two patients with stage IIA-IIIC NSCLC who underwent surgery after NCIT were included in this retrospective study. Multiplex immunofluorescence (mIF) staining and image analysis assays were performed on the samples collected before and after NCIT for each patient. RNA analyses was applied to confirm the mIF results.\nRESULTS: Among the enrolled patients, 14 achieved major pathological response or pathological complete response (pCR) and were defined as the 'response' group, whereas 18 patients did not respond well to NCIT and were defined as the 'nonresponse' group. The results of the mIF assays revealed an overall increase in tumor immune lymphocytes (TILs) after NCIT in the stroma area (p = 0.03) rather than the tumor area (p = 0.86). The percentage of CD8+ T cells and tertiary lymphoid structure counts in both the response and nonresponse groups increased significantly after NCIT compared with before NCIT. CD3+ T cells and FOXP3+ cells decreased significantly in the response group but remained unchanged or increased in the nonresponse group. A comparison of the response and nonresponse groups showed that CD3, FOXP3+ and CD8+/PD-1+ cells before NCIT may serve as predictors of the response to neoadjuvant immunotherapy. The RNA analyses confirmed the mIF results that TILs were elevated after NCIT.\nCONCLUSIONS: The infiltration of immune cells before NCIT was correlated with pathologic complete response, which enhanced the TILs as a promising predictor for selecting patients who were more likely to benefit from NCIT.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37587362/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:37587362",
+      "doi:10.1245/s10434-023-14123-w"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "37579576",
+    "doi": "10.1016/j.lungcan.2023.107326",
+    "pmcid": "",
+    "title": "Efficacy and surgical safety of sequential surgical resection after pembrolizumab plus chemotherapy for initial unresectable stage IIIB non-small cell lung cancer.",
+    "authors": "Zheng J, Li Y, Jin C et al.",
+    "journal": "Lung Cancer",
+    "year": "2023",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "abstract": "INTRODUCTION: Neoadjuvant immunochemotherapy is effective in resectable NSCLC. However, its role in unresectable stage IIIB NSCLC patients remains controversial. This study aimed to demonstrate the efficacy and safety of neoadjuvant immunochemotherapy followed by surgical resection to treat initial unresectable stage IIIB NSCLC patients.\nMETHODS: This study retrospectively analyzed 59 initial unresectable stage IIIB NSCLC patients who received induction pembrolizumab combined with chemotherapy between June 2019 and April 2022. Clinical characteristics, radiological and pathological responses, and survival outcomes were collected and evaluated.\nRESULTS: Fifity-nine initial unresectable stage IIIB NSCLC patients were identified and divided into surgery (n = 23) and non-surgery (n = 36) groups with a median follow-up time of 15.0 months. The median PFS/DFS of the surgery group was significantly longer than the non-surgery group (not reached vs. 15.5 months, p = 0.0031). The median overall survival (OS) was not reached in both groups, and the OS rate was 100% (23/23) in the surgery group and 83.3% (30/36) in the non-surgery group. The pathological analysis suggested that 13 of 23 patients (56.5%) achieved major pathological response (MPR) or pathological complete response (pCR), and more squamous cell carcinoma cases were observed in the MPR group compared to the non-MPR group (p = 0.034). All patients in the surgery group had an R0 resection, and no surgical-related mortality was recorded; only three patients (13.0%) experienced any postoperative complications.\nCONCLUSION: In this retrospective study, surgical resection after neoadjuvant immunochemotherapy was promising for initial unresectable stage IIIB NSCLC patients, with a high MPR rate and good surgical safety.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37579576/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:37579576",
+      "doi:10.1016/j.lungcan.2023.107326"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "37576157",
+    "doi": "10.2147/JIR.S418276",
+    "pmcid": "PMC10422963",
+    "title": "Pan-Immune-Inflammatory Value in Patients with Non-Small-Cell Lung Cancer Undergoing Neoadjuvant Immunochemotherapy.",
+    "authors": "Zhai WY, Duan FF, Lin YB et al.",
+    "journal": "J Inflamm Res",
+    "year": "2023",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: We aimed to investigate the predictive value of a systematic serum inflammation index, pan-immune-inflammatory value (PIV), in pathological complete response (pCR) of patients treated with neoadjuvant immunotherapy to further promote ideal patients' selection.\nMETHODS: The clinicopathological and baseline laboratory information of 128 NSCLC patients receiving neoadjuvant immunochemotherapy between October 2019 and April 2022 were retrospectively reviewed. We performed least absolute shrinkage and selection operator (LASSO) algorithm to screen candidate serum biomarkers for predicting pCR, which further entered the multivariate logistic regression model to determine final biomarkers. Accordingly, a diagnostic model for predicting individual pCR was established. Kaplan-Meier method was utilized to estimate curves of disease-free survival (DFS), and the Log rank test was analyzed to compare DFS differences between patients with and without pCR.\nRESULTS: Patients with NSCLC heterogeneously responded to neoadjuvant immunotherapy, and those with pCR had a significant longer DFS than patients without pCR. Through LASSO and the multivariate logistic regression model, PIV was identified as a predictor for predicting pCR of patients. Subsequently, a diagnostic model integrating with PIV, differentiated degree and histological type was constructed to predict pCR, which presented a satisfactory predictive power (AUC, 0.736), significant agreement between actual and our nomogram-predicted pathological response.\nCONCLUSION: Baseline PIV was an independent predictor of pCR for NSCLC patients receiving neoadjuvant immunochemotherapy. A significantly longer DFS was achieved in patients with pCR rather than those without pCR; thus, the PIV-based diagnostic model might serve as a practical tool to identify ideal patients for neoadjuvant immunotherapeutic guidance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37576157/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:37576157",
+      "doi:10.2147/jir.s418276"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "37555904",
+    "doi": "10.1007/s00259-023-06373-3",
+    "pmcid": "",
+    "title": "Preclinical evaluation and pilot clinical study of [68Ga]Ga-THP-APN09, a novel PD-L1 targeted nanobody radiotracer for rapid one-step radiolabeling and PET imaging.",
+    "authors": "Ma X, Zhou X, Hu B et al.",
+    "journal": "Eur J Nucl Med Mol Imaging",
+    "year": "2023",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "PURPOSE: Programmed cell death protein-1/ligand-1 (PD-1/L1) blockade has been a breakthrough in the treatment of patients with non-small cell lung cancer (NSCLC), but there is still a lack of effective methods to screen patients. Here we report a novel 68 Ga-labeled nanobody [68 Ga]Ga-THP-APN09 for PET imaging of PD-L1 status in mouse models and a first-in-human study in NSCLC patients.\nMETHODS: [68 Ga]Ga-THP-APN09 was prepared by site-specific radiolabeling, with no further purification. Cell uptake assays were completed in the human lung adenocarcinoma cell line A549, NSCLC cell line H1975 and human PD-L1 gene-transfected A549 cells (A549PD-L1). The imaging to image PD-L1 status and biodistribution were investigated in tumor-bearing mice of these three tumor cell types. The first-in-human clinical translational trial was registered as NCT05156515. The safety, radiation dosimetry, biodistribution, and correlations of tracer uptake with immunohistochemical staining and major pathologic response (MPR) were evaluated in NSCLC patients who underwent adjuvant immunotherapy combined with chemotherapy.\nRESULTS: Radiosynthesis of [68 Ga]Ga-THP-APN09 was achieved at room temperature and a pH of 6.0-6.5 in 10 min with a high radiochemical yield (> 99%) and 13.9-27.8 GBq/μmol molar activity. The results of the cell uptake study reflected variable levels of surface PD-L1 expression observed by flow cytometry in the order A549PD-L1 > H1975 > A549. In small-animal PET/CT imaging, H1975 and A549PD-L1 tumors were clearly visualized in an 8.3:1 and 2.2:1 ratios over PD-L1-negative A549 tumors. Ex vivo biodistribution studies showed that tumor uptake was consistent with the PET results, with the highest A549PD-L1 being taken up the most (8.20 ± 0.87%ID/g), followed by H1975 (3.69 ± 0.50%ID/g) and A549 (0.90 ± 0.16%ID/g). Nine resectable NSCLC patients were enrolled in the clinical study. Uptake of [68 Ga]Ga-THP-APN09 was mainly observed in the kidneys and spleen, followed by low uptake in bone marrow. The radiation dose is within a reliable range. Tumor uptake was positively correlated with PD-L1 expression TPS (rs = 0.8763, P = 0.019). Tumor uptake of [68 Ga]Ga-THP-APN09 (SUVmax) in MPR patients was higher than that in non-MPR patients (median SUVmax 2.73 vs. 2.10, P = 0.036, determined with Mann-Whitney U-test).\nCONCLUSION: [68 Ga]Ga-THP-APN09 has the potential to be transformed into a kit-based radiotracer for rapid, simple, one-step, room temperature radiolabeling. The tracer can detect PD-L1 expression levels in tumors, and it may make it possibility to predict the response of PD-1 immunotherapy combined with chemotherapy. Confirmation in a large number of cases is needed.\nTRIAL REGISTRATION: Clinical Trial (NCT05156515). Registered 12 December 2021.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37555904/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:37555904",
+      "doi:10.1007/s00259-023-06373-3"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "37541935",
+    "doi": "10.1016/j.lungcan.2023.107314",
+    "pmcid": "",
+    "title": "Neoadjuvant immune checkpoint inhibitor therapy in resectable non-small cell lung cancer.",
+    "authors": "Conroy MR, Dennehy C, Forde PM",
+    "journal": "Lung Cancer",
+    "year": "2023",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Only a minority of lung cancers are resectable at diagnosis, and many of these will eventually relapse. Adjuvant chemotherapy in this setting has a modest survival advantage, and there is significant need for new approaches to improve cure rates. Checkpoint inhibitor immunotherapy has transformed the prognosis for advanced lung cancer, and is increasingly being used in the neoadjuvant setting alone, or in combination with cytotoxic chemotherapy. While this has demonstrated convincing improvements in event-free survival and pathologic response, questions remain over optimal duration of therapy, predictive and prognostic biomarkers, response assessment and combination with other modalities. In addition, these results must be considered in the context of recent positive studies of adjuvant immunotherapy. Here, we summarise preclinical context and clinical trials in this space, discuss areas of controversy and pitfalls, and consider future challenges.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37541935/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:37541935",
+      "doi:10.1016/j.lungcan.2023.107314"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "37536668",
+    "doi": "10.1111/1759-7714.15058",
+    "pmcid": "PMC10518226",
+    "title": "Characterization of TCF-1 and its relationship between CD8+ TIL densities and immune checkpoints and their joint influences on prognoses of lung adenocarcinoma patients.",
+    "authors": "Jiang K, Liu S, Chen Y et al.",
+    "journal": "Thorac Cancer",
+    "year": "2023",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "abstract": "BACKGROUND: T cell factor-1 (TCF-1) + stem-like tumor-infiltrating lymphocytes (stem-like TILs) are important memory cells in the tumor microenvironment. However, their relationship with clinicopathological features, CD8+ TIL densities, immune checkpoint inhibitors (ICs), and prognostic values remain unknown for lung adenocarcinomas (LUADs). In this study, we aimed to characterize TCF-1+ TILs and their prognostic significance in patients with surgically resected LUADs.\nMETHODS: Expression of TCF-1, CD8, and ICs including programmed death-1 (PD-1), lymphocyte activating-3 (LAG-3), and T cell immunoglobulin and mucin-domain containing-3 (TIM-3) in TILs were estimated using immunohistochemistry of resected LUADs. The association between TCF-1 expressions and clinicopathological characteristics of patient prognoses were analyzed.\nRESULTS: Positive TCF-1 expression significantly correlated with advanced pathological stage, tumor grade, CD8+ TILs density, TIM-3 expression, LAG-3 expression, and PD-1 expression. TCF-1 positivity was significantly associated with a better recurrence-free survival (RFS), and overall survival (OS). Subgroup analysis revealed that the TCF-1+/CD8+ group had the best RFS and OS, while the TCF-1-/CD8- group had the worst RFS and OS. Similarly, patients with TCF-1 + PD-1- had the best prognoses and patients with TCF-1-PD-1+ had the worst prognoses.\nCONCLUSION: TCF-1 had relatively high positive expression and special clinicopathological features in patients with LUAD. TCF-1+ TILs were related to CD8 density, TIM-3 expression, LAG-3 expression, and PD-1 expression, and were associated with better prognoses in LUAD patients. A combination of TCF-1 and CD8 densities or PD-1 expression further stratified patients into different groups with distinct prognoses.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37536668/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:37536668",
+      "doi:10.1111/1759-7714.15058"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "37534013",
+    "doi": "10.1016/j.heliyon.2023.e18503",
+    "pmcid": "PMC10392102",
+    "title": "Prediction of prognosis and immunotherapy response in lung adenocarcinoma based on CD79A, DKK1 and VEGFC.",
+    "authors": "Zhang Q, Zhao M, Lin S et al.",
+    "journal": "Heliyon",
+    "year": "2023",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Tumor immune microenvironment (TIME) is crucial for tumor initiation, progression, and metastasis; however, its relationship with lung adenocarcinoma (LUAD) is unknown. Traditional predictive models screen for biomarkers that are too general and infrequently associated with immune genes.\nMETHODS: RNA sequencing data of LUAD patients and immune-related gene sets were retrieved from public databases. Using the common genes shared by The Cancer Genome Atlas (TCGA) and Immunology Database and Analysis Portal (ImmPort), differential gene expression analysis, survival analysis, Lasso regression analysis, and univariate and multivariate Cox regression analyses were performed to generate a novel risk score model. LUAD cohort in International Cancer Genome Consortium (ICGC), GSE68465 cohort in Gene Expression Omnibus (GEO) and an immunohistochemical assay were used to validate the key genes constructed risk score. The LUAD-related prognosis, clinical indicators, immune infiltrate characteristics, response to immunotherapy, and response to chemotherapeutic agents in different risk groups were evaluated by CIBERSORT, ImmuCellAI, pRRophetic and other tools.\nRESULTS: The risk score model was constructed using CD79a molecule (CD79A), Dickkopf WNT signaling pathway inhibitor 1 (DKK1), and vascular endothelial growth factor C (VEGFC). High risk score was identified as a negative predictor for overall survival (OS) in subgroup analyses with tumor stage, TNM classification, therapy outcome, and ESTIMATE scores (P < 0.05). Low risk score was positively associated with plasma cells, memory B cells, CD8 T cells, regulatory T cells and γδT cells (P < 0.05). In low-risk group, programmed cell death 1 receptor (PD1), cytotoxic T-lymphocyte associated protein 4 (CTLA4), and lymphocyte activating 3 (LAG3) and indoleamine 2,3-dioxygenase (IDO) were more robustly expressed (P < 0.05). The treatment responses of immune checkpoint blockade (ICB) therapy and chemotherapy were likewise superior in low-risk group (P < 0.05). In immunohistochemical analysis, the tumor group had significantly higher levels of CD79A, DKK1, and VEGFC than the adjacent normal group (P < 0.01).\nCONCLUSIONS: CD79A, DKK1 and VEGFC are important differential genes related to LUAD, risk score could reliably predict prognosis, composition of TIME and immunotherapy responses in LUAD patients. The excellent performance of the risk model shows its strong and broad application potential.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37534013/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:37534013",
+      "doi:10.1016/j.heliyon.2023.e18503"
+    ]
+  }
+]
