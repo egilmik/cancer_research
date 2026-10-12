@@ -1,0 +1,118 @@
+{
+ "pmid:42858544": {
+  "relevance": "low",
+  "reason": "Computational docking study only, no clinical data."
+ },
+ "pmid:42858230": {
+  "relevance": "high",
+  "reason": "US cost-effectiveness model: neither MARIPOSA- nor FLAURA2-based combination is cost-effective vs osimertinib (ICER $756,638 and $829,930/QALY); bears on access criteria, though US payer perspective."
+ },
+ "pmid:42858020": {
+  "relevance": "low",
+  "reason": "Hypothesis-generating narrative review."
+ },
+ "pmid:42857742": {
+  "relevance": "low",
+  "reason": "Small single-centre retrospective (n=45) of icotinib sequencing."
+ },
+ "pmid:42857629": {
+  "relevance": "medium",
+  "reason": "Case report on management of amivantamab scalp toxicity; relevant to toxicity handling."
+ },
+ "pmid:42857335": {
+  "relevance": "low",
+  "reason": "Narrative review of PI3K/AKT/mTOR in lung cancer, nothing new."
+ },
+ "pmid:42856622": {
+  "relevance": "medium",
+  "reason": "First case report of small-cell transformation on zongertinib in HER2-mutant NSCLC (TP53/RB1 co-mutation); n=1."
+ },
+ "pmid:42856500": {
+  "relevance": "high",
+  "reason": "Real-world retrospective (n=229) of post-EGFR-TKI retesting: ctDNA shortened time to treatment vs tissue NGS (11 vs 20.5 d) without 2L-PFS/OS difference; retrospective, small groups."
+ },
+ "pmid:42856948": {
+  "relevance": "medium",
+  "reason": "Review of adoptive cell therapy in lung cancer."
+ },
+ "pmid:42859818": {
+  "relevance": "medium",
+  "reason": "Small randomised study (n=34) of EP vs PC concurrent chemoradiotherapy; EP more toxic, survival differences not significant."
+ },
+ "pmid:42858171": {
+  "relevance": "low",
+  "reason": "Narrative review on proton therapy and lymphopenia."
+ },
+ "pmid:42857095": {
+  "relevance": "medium",
+  "reason": "Trial protocol (phase II, n=152) of induction benmelstobart+anlotinib+chemo before CRT in stage III NSCLC; no results."
+ },
+ "pmid:42857233": {
+  "relevance": "low",
+  "reason": "Nomogram for radiation pneumonitis, retrospective modelling."
+ },
+ "pmid:42856995": {
+  "relevance": "low",
+  "reason": "GBD burden trends China vs US."
+ },
+ "pmid:42857022": {
+  "relevance": "low",
+  "reason": "Review of CLDN18/FGFR2 splice variants as antigens; not lung-specific."
+ },
+ "pmid:42856446": {
+  "relevance": "low",
+  "reason": "Preclinical CAR-NK glioblastoma preprint (Research Square), not peer reviewed; not lung."
+ },
+ "pmid:42856433": {
+  "relevance": "low",
+  "reason": "Preclinical CTLA-4 degrader preprint (bioRxiv)."
+ },
+ "pmid:42858609": {
+  "relevance": "low",
+  "reason": "Bioinformatic disulfidptosis signature without validation."
+ },
+ "pmid:42857366": {
+  "relevance": "low",
+  "reason": "Case report of LCNEC of salivary gland, not lung."
+ },
+ "pmid:42859928": {
+  "relevance": "medium",
+  "reason": "Prospective observational (n=178) baseline immunophenotype and irAEs; no association survived FDR adjustment."
+ },
+ "pmid:42857493": {
+  "relevance": "low",
+  "reason": "Review of natural metabolites and macrophage polarisation."
+ },
+ "pmid:42856942": {
+  "relevance": "low",
+  "reason": "Correction notice."
+ },
+ "pmid:42856586": {
+  "relevance": "low",
+  "reason": "Commentary on GDF-15 and immune resistance; no abstract."
+ },
+ "pmid:42859444": {
+  "relevance": "medium",
+  "reason": "AI volumetric comparison of robotic segmentectomy vs lobectomy parenchymal sparing; small technical study."
+ },
+ "pmid:42858851": {
+  "relevance": "medium",
+  "reason": "Retrospective single-centre (n=85) stage IA thermal ablation: 5-y LTPFS 92.6%, durable local control 97.6%; no comparator."
+ },
+ "pmid:42857984": {
+  "relevance": "medium",
+  "reason": "Retrospective PSM (n=138) CyberKnife vs LINAC: similar local control, lower grade>=2 pneumonitis (6.5% vs 27.2%); short follow-up 16 months."
+ },
+ "pmid:42856697": {
+  "relevance": "low",
+  "reason": "Preprint on PET/CT response forecasting method (medRxiv)."
+ },
+ "pmid:42856614": {
+  "relevance": "low",
+  "reason": "Narrative review of NSCLC therapeutic vaccines."
+ },
+ "doi:10.64898/2026.10.04.753375": {
+  "relevance": "medium",
+  "reason": "Preprint (bioRxiv, not peer reviewed): CXCR3 on transferred T cells enables vaccine-boosted adoptive T-cell therapy in solid tumors; preclinical."
+ }
+}
