@@ -1,0 +1,5650 @@
+{
+ "pmid:40579621": {
+  "relevance": "medium",
+  "reason": "Multi-view CNN predicting resolution of new nodules on follow-up LDCT, AUC 0.81."
+ },
+ "pmid:40579208": {
+  "relevance": "medium",
+  "reason": "Prospective high-risk nodule cohort (n=321): deep-learning radiomic model performed no better than the Mayo model."
+ },
+ "pmid:40579039": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40578840": {
+  "relevance": "high",
+  "reason": "Pooled safety analysis of tislelizumab trials (n=2,636, including 1,221 lung cancer): mostly low-grade immune-mediated AEs over a median 15.4 months; large pooled trial safety data, no comparator."
+ },
+ "pmid:40578313": {
+  "relevance": "medium",
+  "reason": "JCOG1413 supplementary analysis (PSM n=852): VATS and open lobectomy gave similar mediastinal node dissection quality."
+ },
+ "pmid:40577245": {
+  "relevance": "medium",
+  "reason": "Protocol of JCOG2217 (STRONG), randomised phase 3 of lobectomy vs segmentectomy for solid-predominant 2-3 cm NSCLC."
+ },
+ "pmid:40577077": {
+  "relevance": "medium",
+  "reason": "MENA expert consensus on precision-medicine management of advanced NSCLC."
+ },
+ "pmid:40575781": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40574965": {
+  "relevance": "medium",
+  "reason": "Network meta-analysis of 10 phase 3 RCTs: first-line ICI with or without anti-angiogenics in ES-SCLC."
+ },
+ "pmid:40573192": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40571840": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 9 RCTs (n=795): Baduanjin after lung resection improved 6MWT."
+ },
+ "pmid:40570511": {
+  "relevance": "medium",
+  "reason": "Delphi consensus on radiotherapy quality indicators for lung cancer."
+ },
+ "pmid:40568794": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40567374": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40566352": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40566129": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40563689": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40561860": {
+  "relevance": "high",
+  "reason": "Multicentre RCT (n=94, China): Gegen Qinlian tablets lowered irAE incidence in NSCLC on ICIs; small, open-label herbal intervention."
+ },
+ "pmid:40558308": {
+  "relevance": "medium",
+  "reason": "Meta-analysis: KRAS mutation as predictor for first-line ICI monotherapy."
+ },
+ "pmid:40558247": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of RCTs: exercise effect on depression and anxiety in lung cancer survivors."
+ },
+ "pmid:40558110": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40557004": {
+  "relevance": "medium",
+  "reason": "Protocol of a phase 2 trial of platinum rechallenge after chemo-immunotherapy resistance in NSCLC."
+ },
+ "pmid:40556968": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 23 trials (n=4,548 PD-L1-negative): anti-PD-1 vs anti-PD-L1."
+ },
+ "pmid:40555298": {
+  "relevance": "medium",
+  "reason": "Validation of ESTRO/EORTC reirradiation classification in NSCLC (n=150)."
+ },
+ "pmid:40555143": {
+  "relevance": "medium",
+  "reason": "Delphi consensus on management of N2 NSCLC."
+ },
+ "pmid:40554977": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40554941": {
+  "relevance": "medium",
+  "reason": "AI volumetry could allow earlier discharge from nodule follow-up in 19% (n=252)."
+ },
+ "pmid:40554675": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40553471": {
+  "relevance": "medium",
+  "reason": "Community cohort (n=43,521): lowering smoking requirements widens screening eligibility."
+ },
+ "pmid:40552731": {
+  "relevance": "high",
+  "reason": "Norwegian registry comparative-effectiveness study (n=447): no OS difference between second-line atezolizumab, nivolumab and pembrolizumab (e.g. atezolizumab vs pembrolizumab HR 0.86, 95% CI 0.65-1.12); observational."
+ },
+ "pmid:40552514": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40552279": {
+  "relevance": "medium",
+  "reason": "Meta-analysis (6 studies, n=4,253): 4L node dissection associated with better OS in left-sided NSCLC."
+ },
+ "pmid:40552156": {
+  "relevance": "medium",
+  "reason": "Network meta-analysis of 13 RCTs (n=6,822) of first-line ES-SCLC regimens."
+ },
+ "pmid:40551673": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40551614": {
+  "relevance": "medium",
+  "reason": "Lung screening rates among Asian American subgroups at Kaiser Permanente."
+ },
+ "pmid:40551565": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40551477": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40551126": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40550562": {
+  "relevance": "medium",
+  "reason": "Real-world low-dose PD-1 antibody first line in advanced NSCLC."
+ },
+ "pmid:40550077": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40546828": {
+  "relevance": "medium",
+  "reason": "Small RCT: transcutaneous electrical acupoint stimulation reduced pain after day-case lung surgery."
+ },
+ "pmid:40545563": {
+  "relevance": "medium",
+  "reason": "Chinese expert consensus (2025) on treating advanced lung cancer in elderly patients."
+ },
+ "pmid:40544230": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40542959": {
+  "relevance": "medium",
+  "reason": "MAIC of sotorasib vs adagrasib (CodeBreaK 200 vs KRYSTAL-12): similar PFS."
+ },
+ "pmid:40542587": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40541736": {
+  "relevance": "high",
+  "reason": "Pooled analysis of 4 LDCT trials (n=64,105): in NLST, preventing one lung cancer death per 1,000 screened took 2.9 years, and 8.9 years per 200; supports limiting screening to people with adequate life expectancy."
+ },
+ "pmid:40541589": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 22 RCTs: anti-PD-(L)1 benefit by race in NSCLC."
+ },
+ "pmid:40541556": {
+  "relevance": "medium",
+  "reason": "CTONG2203 patient-centric phase 2 of first-line lorlatinib (design/early report)."
+ },
+ "pmid:40541430": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40540954": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40540649": {
+  "relevance": "medium",
+  "reason": "NLST secondary analysis: diabetes and screening outcomes."
+ },
+ "pmid:40539135": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40537919": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40537292": {
+  "relevance": "medium",
+  "reason": "Small RCT (n=26) of home-based rehabilitation during chemotherapy for advanced lung cancer."
+ },
+ "pmid:40536070": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40535091": {
+  "relevance": "medium",
+  "reason": "Cohort (n=809): absent preoperative diagnosis and stage migration in resectable NSCLC."
+ },
+ "pmid:40535068": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40534995": {
+  "relevance": "high",
+  "reason": "Turtle (LOGiK 2003) phase 2 (n=40): durvalumab + carboplatin-etoposide in elderly ES-SCLC, ORR 89.5%, median OS 16.1 months, grade 3+ AEs 94.6%; single-arm."
+ },
+ "pmid:40534846": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40533655": {
+  "relevance": "medium",
+  "reason": "Real-world camrelizumab-chemotherapy in driver-negative NSCLC."
+ },
+ "pmid:40533607": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40532782": {
+  "relevance": "high",
+  "reason": "CALGB 140503 secondary analysis: extent of node dissection (complete vs systematic vs simple sampling) did not affect 5-year DFS after lobar or sublobar resection."
+ },
+ "pmid:40532262": {
+  "relevance": "medium",
+  "reason": "Reconstructed-IPD meta-analysis (43 trials, n=7,039) of ICIs in PD-L1-negative NSCLC."
+ },
+ "pmid:40532260": {
+  "relevance": "medium",
+  "reason": "Meta-analysis: prevalence (9-17%) and prognostic impact of interstitial lung abnormalities in lung cancer."
+ },
+ "pmid:40530134": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40529784": {
+  "relevance": "medium",
+  "reason": "Retrospective (n=193) TKIs with or without local therapy for leptomeningeal metastases."
+ },
+ "pmid:40529763": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40529745": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40528050": {
+  "relevance": "medium",
+  "reason": "RCT of preoperative respiratory training and early recovery after lung surgery."
+ },
+ "pmid:40526078": {
+  "relevance": "high",
+  "reason": "ECOG-ACRIN EA5161 randomised phase 2 (n=160): adding nivolumab to platinum-etoposide in ES-SCLC improved PFS (HR 0.78, p=0.083) and OS (11.2 vs 8.1 months, HR 0.71, p=0.059); a confirmatory signal for PD-1 in first-line SCLC, phase 2."
+ },
+ "pmid:40525163": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40524342": {
+  "relevance": "high",
+  "reason": "Danish national study: lung cancer MDTs disagreed on staging and treatment intent for complex cases, and national plenary consensus meetings reduced discrepancies; Nordic health-services data, 15 cases."
+ },
+ "pmid:40522817": {
+  "relevance": "high",
+  "reason": "NEXTAC-TWO randomised phase 2 (n=131, Japan): nutrition and exercise programme in elderly pancreatic and NSCLC patients on chemotherapy did not prolong disability-free survival (478 vs 499 days)."
+ },
+ "pmid:40522130": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40521963": {
+  "relevance": "medium",
+  "reason": "Cohort (n=221): clinical-pathological staging discordance in resectable NSCLC."
+ },
+ "pmid:40520302": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40519973": {
+  "relevance": "medium",
+  "reason": "Prospective cohort (n=38) of first-line ICI-chemotherapy in pulmonary sarcomatoid carcinoma."
+ },
+ "pmid:40518364": {
+  "relevance": "medium",
+  "reason": "Baseline characteristics of the Watch the Spot pragmatic RCT (n=34,686) of nodule surveillance intensity."
+ },
+ "pmid:40516857": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40514707": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40514661": {
+  "relevance": "medium",
+  "reason": "Meta-analysis (10 studies, n=1,859): positive ctDNA MRD predicts worse PFS and OS."
+ },
+ "pmid:40513286": {
+  "relevance": "medium",
+  "reason": "Systematic review of low-dose PD-(L)1 strategies to expand access."
+ },
+ "pmid:40512375": {
+  "relevance": "medium",
+  "reason": "RCT (n=102) of loaded deep-breathing training with PERMA model after lung surgery."
+ },
+ "pmid:40510887": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40507370": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40507354": {
+  "relevance": "medium",
+  "reason": "English population study of routes to diagnosis by socio-demographics."
+ },
+ "pmid:40505764": {
+  "relevance": "medium",
+  "reason": "Multiphase RCT of a digital outreach intervention for lung screening."
+ },
+ "pmid:40497643": {
+  "relevance": "medium",
+  "reason": "US NGS testing patterns in advanced non-squamous NSCLC (n=31,407)."
+ },
+ "pmid:40497290": {
+  "relevance": "high",
+  "reason": "Finnish randomised lung screening pilot: LDCT uptake 96.7%, 6 cancers detected (5 at stage I, PPV 75%), and a smoking-cessation app gave non-significantly higher 1-year quit rates (18.3% vs 12.8%); a small feasibility trial bearing on Nordic screening."
+ },
+ "pmid:40496639": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40494752": {
+  "relevance": "medium",
+  "reason": "Meta-analysis (11 studies, n=1,548): chemo + anti-PD-(L)1 in PD-L1-negative squamous NSCLC."
+ },
+ "pmid:40491917": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40491528": {
+  "relevance": "medium",
+  "reason": "RCT: liposomal bupivacaine vs ropivacaine in serratus plane block for thoracoscopic lobectomy."
+ },
+ "pmid:40491119": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40490216": {
+  "relevance": "medium",
+  "reason": "RCT: intercostal cryoanalgesia did not reduce acute pain after VATS."
+ },
+ "pmid:40489036": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40487264": {
+  "relevance": "medium",
+  "reason": "Recalibration of 17 risk models in ~905,000 Chinese adults; most performed poorly in never-smokers."
+ },
+ "pmid:40487055": {
+  "relevance": "medium",
+  "reason": "Protocol of HEPRO double-blind RCT of high-EPA and protein supplementation in advanced lung cancer."
+ },
+ "pmid:40486597": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40486556": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of EMPOWER-Lung 1 and 3 (cemiplimab)."
+ },
+ "pmid:40486486": {
+  "relevance": "medium",
+  "reason": "Phase 1/1b (n=15) of pembrolizumab + trametinib in KRAS-enriched NSCLC."
+ },
+ "pmid:40486071": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40484812": {
+  "relevance": "medium",
+  "reason": "Chinese expert consensus on leptomeningeal metastases of lung cancer."
+ },
+ "pmid:40482376": {
+  "relevance": "medium",
+  "reason": "Geographic disparities in US screening uptake under USPSTF 2021 (17.2% overall)."
+ },
+ "pmid:40481979": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40481435": {
+  "relevance": "medium",
+  "reason": "Retrospective (n=375): early thoracic RT with chemo-immunotherapy in ES-SCLC associated with longer PFS."
+ },
+ "pmid:40480015": {
+  "relevance": "medium",
+  "reason": "Margin adequacy in sublobar resection for pure GGO adenocarcinoma (n=284), recurrence 1.8%."
+ },
+ "pmid:40480014": {
+  "relevance": "medium",
+  "reason": "OPTIMA AGREE-II appraisal of 21 lung cancer guidelines."
+ },
+ "pmid:40478646": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40476645": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of adding ICIs to chemotherapy in elderly patients."
+ },
+ "pmid:40475791": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40475251": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40472300": {
+  "relevance": "medium",
+  "reason": "Population study (n=857): timely initiation of newer targeted therapy associated with survival."
+ },
+ "pmid:40471875": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40469302": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 20 risk factors for checkpoint inhibitor pneumonitis."
+ },
+ "pmid:40469290": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40469183": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 3 phase 3 RCTs: adding bevacizumab to ICI-chemotherapy improved PFS."
+ },
+ "pmid:40469182": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40468832": {
+  "relevance": "medium",
+  "reason": "Pilot RCT of a supportive-care digital app in advanced NSCLC."
+ },
+ "pmid:40468721": {
+  "relevance": "medium",
+  "reason": "PSM study: LDCT vs contrast CT surveillance after 2 disease-free years post-resection, similar outcomes."
+ },
+ "pmid:40468524": {
+  "relevance": "high",
+  "reason": "Nordic comparison of lung cancer care: Finland's poorer 5-year survival linked to primary-care CT access, waiting times, access to novel treatments and lack of outcome tracking; qualitative and registry comparison."
+ },
+ "pmid:40468339": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40468286": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40468280": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of inflammatory markers and OS on immunotherapy."
+ },
+ "pmid:40465178": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40465128": {
+  "relevance": "medium",
+  "reason": "Japanese guidance on short hydration for cisplatin."
+ },
+ "pmid:40463367": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of perioperative immunotherapy efficacy by PD-L1 level."
+ },
+ "pmid:40462815": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40460897": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40459664": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40458717": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40457503": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40456600": {
+  "relevance": "medium",
+  "reason": "Screening cohort (n=11,355): volume and diameter thresholds for solid nodule malignancy."
+ },
+ "pmid:40454687": {
+  "relevance": "medium",
+  "reason": "SEER and Chinese cohort ML study of radiotherapy benefit in ES-SCLC."
+ },
+ "pmid:40452853": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40452837": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40452815": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of neoadjuvant chemo-immunotherapy vs chemotherapy RCTs."
+ },
+ "pmid:40451293": {
+  "relevance": "medium",
+  "reason": "Prospective PET-FIRST (n=168): PET/CT changed biopsy decisions in 35% of intermediate-high-risk nodules."
+ },
+ "pmid:40449415": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40449384": {
+  "relevance": "medium",
+  "reason": "Meta-analysis: EFS after MPR/pCR with neoadjuvant vs perioperative ICI."
+ },
+ "pmid:40447943": {
+  "relevance": "medium",
+  "reason": "NCDB (n=24,676): consolidative chest RT after chemo-immunotherapy in ES-SCLC."
+ },
+ "pmid:40447851": {
+  "relevance": "high",
+  "reason": "TUXEDO-3 cohort 3 (phase 2, Nat Med): patritumab deruxtecan in leptomeningeal metastatic disease from solid tumours (n=20), including lung cancer; small and tumour-agnostic."
+ },
+ "pmid:40447527": {
+  "relevance": "medium",
+  "reason": "Multi-level factors in US LDCT screening utilisation (18.4%)."
+ },
+ "pmid:40447508": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40447235": {
+  "relevance": "high",
+  "reason": "Survival meta-analysis of 8 RCTs (n=88,526): time to benefit for lung cancer screening, informing life-expectancy-based eligibility."
+ },
+ "pmid:40443216": {
+  "relevance": "medium",
+  "reason": "Korean guidelines for interstitial lung disease, relevant to lung cancer with ILD."
+ },
+ "pmid:40442643": {
+  "relevance": "medium",
+  "reason": "French nationwide resected NSCLC real-world study (8,688-10,330/year)."
+ },
+ "pmid:40440184": {
+  "relevance": "high",
+  "reason": "ASTRUM-005 updated analysis (phase 3): serplulimab + chemotherapy in ES-SCLC, median OS 15.8 vs 11.1 months (HR 0.62, 95% CI 0.50-0.76) vs placebo + chemotherapy, a comparator no longer standard; exploratory 15-protein signature."
+ },
+ "pmid:40438947": {
+  "relevance": "high",
+  "reason": "TSANZ practical guide for managing screen-detected and incidental pulmonary nodules (Australia/New Zealand)."
+ },
+ "pmid:40437572": {
+  "relevance": "medium",
+  "reason": "Single-arm phase 2 (n=29): intrathecal pemetrexed in refractory leptomeningeal metastasis, median OS 20.4 months."
+ },
+ "pmid:40437557": {
+  "relevance": "medium",
+  "reason": "Chinese cost-effectiveness of risk-model screening in smokers and nonsmokers."
+ },
+ "pmid:40435873": {
+  "relevance": "high",
+  "reason": "PACIFIC-6 final analysis (phase 2, n=117): durvalumab after sequential chemoradiotherapy in stage III NSCLC, median OS 39.0 months, 3-year OS 56.5%, grade 3/4 pneumonitis 1.7%; single-arm."
+ },
+ "pmid:40434749": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40434336": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40433102": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of RCTs: immunotherapy benefit in patients with bone metastases."
+ },
+ "pmid:40430471": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of anlotinib plus docetaxel after platinum."
+ },
+ "pmid:40430234": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40427209": {
+  "relevance": "medium",
+  "reason": "Meta-analysis: ICI before chemoradiotherapy raised grade 2+ radiation pneumonitis (45%)."
+ },
+ "pmid:40427193": {
+  "relevance": "medium",
+  "reason": "Systematic review of STAS as predictor and its impact on sublobar resection."
+ },
+ "pmid:40427178": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40426949": {
+  "relevance": "medium",
+  "reason": "Immune correlates in long-term survivors after racotumomab anti-idiotype vaccine in advanced NSCLC."
+ },
+ "pmid:40426282": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40426245": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40425333": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40424540": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40423584": {
+  "relevance": "medium",
+  "reason": "Meta-analysis: COPD and survival on ICIs in NSCLC."
+ },
+ "pmid:40421295": {
+  "relevance": "medium",
+  "reason": "Assessor-blinded RCT: perioperative electroacupuncture reduced postoperative atrial fibrillation (14.6% absolute reduction)."
+ },
+ "pmid:40420337": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40420058": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of HDR brachytherapy, SBRT and hypofractionated protons in LA-NSCLC."
+ },
+ "pmid:40419866": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40419109": {
+  "relevance": "medium",
+  "reason": "Multicentre factorial RCT (n=186): ultrathin bronchoscopy with rEBUS and ROSE for peripheral lesions."
+ },
+ "pmid:40416979": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40416880": {
+  "relevance": "medium",
+  "reason": "Reconstructed-IPD indirect comparison of ALK inhibitors: lorlatinib best PFS and CNS PFS."
+ },
+ "pmid:40416194": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40415872": {
+  "relevance": "medium",
+  "reason": "PSM study: PCI with first-line chemo-immunotherapy in ES-SCLC and OS."
+ },
+ "pmid:40415559": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40413082": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40412340": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40410021": {
+  "relevance": "medium",
+  "reason": "Multicentre PSM (n=234): minimally invasive surgery vs SABR for stage IA, better locoregional control with surgery."
+ },
+ "pmid:40409933": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40409885": {
+  "relevance": "high",
+  "reason": "ACR Appropriateness Criteria on imaging surveillance after lung cancer therapy (guideline)."
+ },
+ "pmid:40409025": {
+  "relevance": "medium",
+  "reason": "JCOG2007 secondary analysis: score predicting treatment-related death with nivolumab-ipilimumab-chemotherapy."
+ },
+ "pmid:40407655": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40406244": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40405783": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40405483": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40405177": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40404633": {
+  "relevance": "medium",
+  "reason": "Exploratory biomarker analysis of a phase 2 of first-line sintilimab + chemotherapy in ES-SCLC."
+ },
+ "pmid:40404477": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40404473": {
+  "relevance": "medium",
+  "reason": "Chinese expert consensus on rational use and monitoring of small-molecule targeted drugs."
+ },
+ "pmid:40404185": {
+  "relevance": "medium",
+  "reason": "Protocol of MMP-LUNG RCT of multimodal prehabilitation before NSCLC surgery."
+ },
+ "pmid:40403903": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40403297": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40402333": {
+  "relevance": "medium",
+  "reason": "RCT (n=196): inspiratory muscle training for breathlessness in thoracic malignancies."
+ },
+ "pmid:40400919": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40399188": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40399052": {
+  "relevance": "medium",
+  "reason": "RCT (n=134): remote symptom monitoring plus muscle relaxation during chemotherapy."
+ },
+ "pmid:40398957": {
+  "relevance": "medium",
+  "reason": "Protocol of ASTRUM-LC01 single-arm phase 2: consolidation serplulimab after hypofractionated chemoradiotherapy in LS-SCLC."
+ },
+ "pmid:40398498": {
+  "relevance": "medium",
+  "reason": "NLST analysis of factors in recommending continued screening."
+ },
+ "pmid:40398381": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40397559": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40397214": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40395234": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40394671": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 13 retrospective studies (n=3,530): PCI after resection of early SCLC."
+ },
+ "pmid:40392085": {
+  "relevance": "medium",
+  "reason": "Malignancy risk of cystic lung lesions in a CT screening programme (Radiology)."
+ },
+ "pmid:40391063": {
+  "relevance": "medium",
+  "reason": "Meta-analysis (35 studies, n=4,483) of electronic nose diagnostics."
+ },
+ "pmid:40390800": {
+  "relevance": "medium",
+  "reason": "Dual-centre RCT (n=302): paravertebral block reduced pulmonary complications after VATS."
+ },
+ "pmid:40390034": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40389318": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40388309": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40387878": {
+  "relevance": "medium",
+  "reason": "Incidence and malignancy risk of new nodules in a screening programme."
+ },
+ "pmid:40387336": {
+  "relevance": "medium",
+  "reason": "ATS clinical statement on evaluation and management of interstitial lung abnormalities."
+ },
+ "pmid:40386901": {
+  "relevance": "medium",
+  "reason": "Cochrane protocol: network meta-analysis of perioperative immunotherapy strategies."
+ },
+ "pmid:40386738": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40386729": {
+  "relevance": "high",
+  "reason": "Randomised double-blind phase 3 (n=188, China): finotonlimab + docetaxel vs placebo + docetaxel in previously treated squamous NSCLC improved OS (17.1 vs 10.4 months, HR 0.66, 95% CI 0.45-0.96); docetaxel alone is no longer the standard after first-line chemo-immunotherapy, and prior ICI exposure is unclear."
+ },
+ "pmid:40385627": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40384202": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40382884": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 6 RCTs (n=540) of Baduanjin after NSCLC surgery."
+ },
+ "pmid:40382733": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40382526": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40382256": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40381824": {
+  "relevance": "medium",
+  "reason": "Phase 1/2 (n=35) single-port robotic lobectomy/segmentectomy feasibility."
+ },
+ "pmid:40381569": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40380885": {
+  "relevance": "medium",
+  "reason": "NIHR HTA systematic review and economic evaluation of AI nodule software."
+ },
+ "pmid:40380342": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40379690": {
+  "relevance": "high",
+  "reason": "ALEK-B single-arm phase 2 (n=41, Mexico): alectinib + bevacizumab first line in ALK+ NSCLC, 12-month PFS 97.1%, 36-month PFS 64.2%, grade 3-4 AEs 46.3% (proteinuria, hepatotoxicity); single-centre, no comparator."
+ },
+ "pmid:40378776": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40375086": {
+  "relevance": "medium",
+  "reason": "Cost-effectiveness of LDCT for non-smokers with a first-degree relative with lung cancer (China)."
+ },
+ "pmid:42305404": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 33 trials (n=19,660): no effect modification by smoking status."
+ },
+ "pmid:40371633": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40371137": {
+  "relevance": "medium",
+  "reason": "RCT of behavioural activation to reduce fear of recurrence in NSCLC."
+ },
+ "pmid:40370214": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of ICU prognosis in lung cancer."
+ },
+ "pmid:40367930": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40366884": {
+  "relevance": "high",
+  "reason": "Randomised phase 2 (n=88): anlotinib + docetaxel vs docetaxel after platinum improved PFS (5.4 vs 2.6 months, HR 0.36) but not OS (HR 0.89); comparator not current post-immunotherapy standard."
+ },
+ "pmid:40366326": {
+  "relevance": "medium",
+  "reason": "IPD meta-analysis of BP-lowering trials (n=314,016) and cancer risk, including lung."
+ },
+ "pmid:40364864": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40364136": {
+  "relevance": "medium",
+  "reason": "NLST: polygenic risk score associated with lung cancer incidence and death."
+ },
+ "pmid:40364065": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40361497": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of treatment-related AEs with chemo-immunotherapy vs chemotherapy in ES-SCLC."
+ },
+ "pmid:40361451": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40361353": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of surgical outcomes after neoadjuvant chemo-immunotherapy for stage III."
+ },
+ "pmid:40360049": {
+  "relevance": "medium",
+  "reason": "Meta-analysis (104 studies) of imaging-based prediction of radiation toxicity."
+ },
+ "pmid:40359708": {
+  "relevance": "medium",
+  "reason": "Phase 1/2 (n=118) of telaglenastat + nivolumab including NSCLC."
+ },
+ "pmid:40357295": {
+  "relevance": "medium",
+  "reason": "Meta-analysis: pulmonary aspergillosis incidence 2.4% in lung cancer."
+ },
+ "pmid:40356086": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of lung cancer risk-prediction models; PLCOm2012 performs well."
+ },
+ "pmid:40351326": {
+  "relevance": "medium",
+  "reason": "Phase 1b of xevinapant + avelumab with NSCLC expansion."
+ },
+ "pmid:40351325": {
+  "relevance": "medium",
+  "reason": "Meta-analysis: pre-existing ILD raises radiation and checkpoint pneumonitis risk."
+ },
+ "pmid:40350946": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40350152": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40349196": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40348971": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40348877": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40347714": {
+  "relevance": "medium",
+  "reason": "Meta-analysis (n=2,899): adjuvant chemotherapy for stage I with STAS improved DFS and OS."
+ },
+ "pmid:40347453": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40345524": {
+  "relevance": "medium",
+  "reason": "Meta-analysis: screening adherence in centralised vs decentralised US programmes."
+ },
+ "pmid:40344289": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40344015": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40343511": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40341438": {
+  "relevance": "high",
+  "reason": "Danish 10-year cohort (n=6,615): adherence to NCCN lymph node sampling did not affect OS or nodal upstaging after NSCLC resection; Nordic registry data bearing on surgical practice."
+ },
+ "pmid:40341031": {
+  "relevance": "high",
+  "reason": "CeLEBrATE (GOIRC-01-2019) phase 2 (n=53): carboplatin-etoposide + atezolizumab + bevacizumab first line in ES-SCLC; single-arm."
+ },
+ "pmid:40339350": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40338473": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40334468": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40334333": {
+  "relevance": "medium",
+  "reason": "Chinese real-world screening study highlighting non-smoking women."
+ },
+ "pmid:40332453": {
+  "relevance": "medium",
+  "reason": "Meta-analysis: no detectable effect of short treatment delays on lung cancer survival."
+ },
+ "pmid:40332249": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40331625": {
+  "relevance": "medium",
+  "reason": "CASPIAN exploratory patient-reported adverse events with durvalumab + EP."
+ },
+ "pmid:40329806": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40328423": {
+  "relevance": "medium",
+  "reason": "Guideline-concordant node sampling by surgeon factors (n=3,031)."
+ },
+ "pmid:40327037": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40324329": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40323717": {
+  "relevance": "high",
+  "reason": "EMPOWER-Lung 1 subgroup with brain metastases: first-line cemiplimab vs chemotherapy in PD-L1 ≥50% NSCLC, median OS 52.4 vs 20.7 months (HR 0.40); post-hoc subgroup."
+ },
+ "pmid:40323088": {
+  "relevance": "medium",
+  "reason": "Cohort (n=661): cachexia prevalence before and after NSCLC diagnosis."
+ },
+ "pmid:40319928": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40317137": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of ICI + radiotherapy in NSCLC."
+ },
+ "pmid:40316965": {
+  "relevance": "medium",
+  "reason": "RCT: heparin dose and PICC-related thrombosis during postoperative chemotherapy."
+ },
+ "pmid:40316348": {
+  "relevance": "medium",
+  "reason": "First-in-human phase 1 (n=171) of PD-1 inhibitor AMG 404."
+ },
+ "pmid:40314895": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40314858": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40314846": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 65 studies: depression increases cancer mortality including lung."
+ },
+ "pmid:40314377": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40313247": {
+  "relevance": "medium",
+  "reason": "Meta-analysis (53 studies): pneumonitis 36% any grade, 3% grade 3+, with RT + ICIs."
+ },
+ "pmid:40311704": {
+  "relevance": "medium",
+  "reason": "International survey (255 radiation oncologists, 51 countries) of SABR practice."
+ },
+ "pmid:40311307": {
+  "relevance": "high",
+  "reason": "ETOP CHESS phase 2 (n=49): durvalumab + chemotherapy with SBRT and local consolidative therapy in synchronous oligometastatic NSCLC; single-arm."
+ },
+ "pmid:40310449": {
+  "relevance": "medium",
+  "reason": "VISION analysis: liquid vs tissue biopsy for MET ex14 detection and tepotinib outcomes."
+ },
+ "pmid:40309672": {
+  "relevance": "medium",
+  "reason": "International surgeon survey on intraoperative nodal evaluation."
+ },
+ "pmid:40309288": {
+  "relevance": "medium",
+  "reason": "Rural US screening network results (detection 2.96%, 63% stage I)."
+ },
+ "pmid:40308503": {
+  "relevance": "medium",
+  "reason": "Network meta-analysis of ICIs for NSCLC brain metastases."
+ },
+ "pmid:40308030": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of pathogenic germline variants in SCLC."
+ },
+ "pmid:40306134": {
+  "relevance": "high",
+  "reason": "RCT: pulmonary rehabilitation during thoracic radiotherapy improved 6MWT (+16.9 vs −26.1 m at end of RT); randomised non-drug intervention, modest size."
+ },
+ "pmid:40576443": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40575046": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40572677": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40567728": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40566615": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40565815": {
+  "relevance": "medium",
+  "reason": "Population study of suicide incidence among lung cancer patients."
+ },
+ "pmid:40564081": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40563640": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40563156": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40562437": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40560433": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40558277": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40556551": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40551128": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40550611": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40549046": {
+  "relevance": "medium",
+  "reason": "PSM study: sarcopenia and sarcopenic obesity predict poor survival on immunotherapy."
+ },
+ "pmid:40544952": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40543421": {
+  "relevance": "medium",
+  "reason": "Global incidence and mortality trends, noting rising incidence and mortality in Norway."
+ },
+ "pmid:40542627": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40538836": {
+  "relevance": "medium",
+  "reason": "HALP score plus V5 predicts radiation pneumonitis (n=396)."
+ },
+ "pmid:40538154": {
+  "relevance": "medium",
+  "reason": "Cachexia in older SCLC patients (n=49) linked to more dose reductions."
+ },
+ "pmid:40537696": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40537320": {
+  "relevance": "medium",
+  "reason": "French cohort of hepatoid adenocarcinoma of the lung (n=23)."
+ },
+ "pmid:40536804": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40536595": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40536584": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40535806": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40535131": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40535067": {
+  "relevance": "medium",
+  "reason": "Prognostic factors for liver metastases in ES-SCLC on chemo-immunotherapy."
+ },
+ "pmid:40535054": {
+  "relevance": "medium",
+  "reason": "Comparison of 11 nutrition-inflammation indices in resected NSCLC (n=805)."
+ },
+ "pmid:40535051": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40526697": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40525631": {
+  "relevance": "medium",
+  "reason": "Multicentre deep-learning plus inflammatory markers predicting early ICI response."
+ },
+ "pmid:40518470": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40515943": {
+  "relevance": "medium",
+  "reason": "Population study of fatigue, pain and insomnia in cancer survivors, highest in lung."
+ },
+ "pmid:40515566": {
+  "relevance": "medium",
+  "reason": "Nationwide Nordic cohort (n=36,323): lung cancer patients with mental disorders less likely to receive specialist palliative care."
+ },
+ "pmid:40514648": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40510100": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40508934": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40507476": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40504435": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40502633": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40496826": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40495968": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40489839": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40487201": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40486571": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40486253": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40485079": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40483207": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40482758": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40481856": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40481855": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40478347": {
+  "relevance": "medium",
+  "reason": "Body composition on screening CT as biomarker for future lung cancer."
+ },
+ "pmid:40475001": {
+  "relevance": "medium",
+  "reason": "UK Biobank: preclinical obesity framework and cancer risk."
+ },
+ "pmid:40473369": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40468579": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40467810": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40467502": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40466829": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40466443": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40465984": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40464053": {
+  "relevance": "medium",
+  "reason": "Retrospective: longer anamorelin treatment associated with survival in cancer cachexia (Japan)."
+ },
+ "pmid:40462806": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40462671": {
+  "relevance": "medium",
+  "reason": "Chemotherapy-related cognitive impairment in elderly lung cancer patients (n=338)."
+ },
+ "pmid:40461518": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40460921": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40447924": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40443682": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40443546": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40443073": {
+  "relevance": "medium",
+  "reason": "Estimates of eligible population for Australia's National Lung Cancer Screening Program starting July 2025."
+ },
+ "pmid:40442838": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40440874": {
+  "relevance": "medium",
+  "reason": "Nordic cohort (n=82,059): self-reported witnessed sleep apnoea associated with incident lung cancer."
+ },
+ "pmid:40440319": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40436595": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40435687": {
+  "relevance": "medium",
+  "reason": "CONUT score predicts survival and acute exacerbation after resection of NSCLC with ILD."
+ },
+ "pmid:40431619": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40429656": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40429295": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40428091": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40427775": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40426864": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40426072": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40423084": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40421936": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40421092": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40419762": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40417000": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40413403": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40411563": {
+  "relevance": "medium",
+  "reason": "Predictors of long-term response to first-line chemo-immunotherapy (median OS 29.9 months)."
+ },
+ "pmid:40410709": {
+  "relevance": "medium",
+  "reason": "Laboratory sarcopenia indices and lung cancer mortality (n=926)."
+ },
+ "pmid:40409599": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40405233": {
+  "relevance": "medium",
+  "reason": "Korean cohorts: serum vitamin D and site-specific cancer risk including lung."
+ },
+ "pmid:40405190": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40405015": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40404704": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40402951": {
+  "relevance": "medium",
+  "reason": "PLCO: epigenetic alcohol measures predict mortality in smokers."
+ },
+ "pmid:40401592": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40396532": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40394734": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40390558": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40387288": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40387172": {
+  "relevance": "medium",
+  "reason": "US disparities in palliative-intent treatment among Hispanic subgroups."
+ },
+ "pmid:40386263": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40386214": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40382455": {
+  "relevance": "medium",
+  "reason": "Fatigue trajectories after thoracoscopic lung cancer surgery (n=1,096)."
+ },
+ "pmid:40380766": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40380206": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40376230": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40374425": {
+  "relevance": "medium",
+  "reason": "Comorbidities and pneumonitis risk after chemoradiotherapy and durvalumab (14.5%)."
+ },
+ "pmid:40372080": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40370967": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40370379": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40369483": {
+  "relevance": "medium",
+  "reason": "UK Biobank: brisk walking pace associated with lower risk of several cancers including lung."
+ },
+ "pmid:40366601": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40364228": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40362444": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40361454": {
+  "relevance": "medium",
+  "reason": "Prospective cohort (n=239): patient-reported outcomes before and after RT for NSCLC brain metastases (Nordic)."
+ },
+ "pmid:40361275": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40359881": {
+  "relevance": "medium",
+  "reason": "Regional prehabilitation programme for curative-intent radiotherapy (n=381 referred)."
+ },
+ "pmid:40355845": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40352362": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40350356": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40349844": {
+  "relevance": "medium",
+  "reason": "Body composition and pulmonary function predict survival after lung cancer surgery (n=530)."
+ },
+ "pmid:40349132": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40349028": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40348730": {
+  "relevance": "medium",
+  "reason": "Korean cohort (n=189,439): family history raises lung cancer risk in never-smokers."
+ },
+ "pmid:40346944": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40346281": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40344500": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40343447": {
+  "relevance": "medium",
+  "reason": "Resection of ≥4 segments associated with higher non-cancer mortality (PSM n=310)."
+ },
+ "pmid:40341560": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40341249": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40338834": {
+  "relevance": "medium",
+  "reason": "Swedish sibling-controlled conscript cohort: adolescent fitness and later cancer risk."
+ },
+ "pmid:40337377": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40335771": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40330378": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40330331": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40329791": {
+  "relevance": "medium",
+  "reason": "Korean NHIS: underuse of pulmonary rehabilitation in lung cancer."
+ },
+ "pmid:40321962": {
+  "relevance": "medium",
+  "reason": "Taiwan cohort (n=681): post-diagnosis smoking cessation and survival in advanced NSCLC."
+ },
+ "pmid:40319477": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40319463": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40318414": {
+  "relevance": "medium",
+  "reason": "TROD 12-04: malnutrition during radiotherapy in geriatric patients."
+ },
+ "pmid:40316067": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40315871": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40315142": {
+  "relevance": "medium",
+  "reason": "US cohort (n=440,000): carcinogenic industrial air emissions and lung cancer risk."
+ },
+ "pmid:40311354": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40308604": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40308505": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40307842": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40307723": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40307347": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40575907": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40556763": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40529757": {
+  "relevance": "medium",
+  "reason": "PSM study: intraoperative NSAIDs and early pulmonary complications after resection."
+ },
+ "pmid:40504459": {
+  "relevance": "medium",
+  "reason": "Single-centre cohort (n=289): vonoprazan worse than PPIs for PFS with ICIs; confounding likely."
+ },
+ "pmid:40490650": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40471689": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40444492": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40400058": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40385299": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40375336": {
+  "relevance": "medium",
+  "reason": "Population COPD cohort (n=25,436): ARB use and lung cancer risk; observational."
+ },
+ "pmid:40365039": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40357790": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40355283": {
+  "relevance": "medium",
+  "reason": "RADIOHEAD prospective pan-tumour cohort (n=1,070): irAEs linked to better survival; steroid use effects."
+ },
+ "pmid:40354674": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40333938": {
+  "relevance": "medium",
+  "reason": "START001 Part B retrospective: nivolumab-ipilimumab ± chemo vs pembrolizumab-chemo in PD-L1-negative NSCLC, no difference."
+ },
+ "pmid:40579378": {
+  "relevance": "medium",
+  "reason": "Japanese post-marketing surveillance of tepotinib: ILD 7.5%, fluid retention 47.6%."
+ },
+ "pmid:40567260": {
+  "relevance": "high",
+  "reason": "LIBRETTO-431 patient-reported outcomes: first-line selpercatinib delayed time to deterioration of lung cancer symptoms vs chemotherapy ± pembrolizumab in RET fusion-positive NSCLC; secondary endpoint of a phase 3."
+ },
+ "pmid:40562271": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40560802": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40560047": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40556992": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40556834": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40556802": {
+  "relevance": "medium",
+  "reason": "Molecular characterisation of KRAS mutations across stages (n=123)."
+ },
+ "pmid:40555532": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40550073": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40544413": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40544107": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40544018": {
+  "relevance": "medium",
+  "reason": "Real-world (n=1,980): first-line ICI ± chemo outcomes by KRAS status."
+ },
+ "pmid:40542555": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40540819": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40539316": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40532941": {
+  "relevance": "medium",
+  "reason": "Large resected cohort (1,139 KRAS-mutant): KRAS G12C prognostic impact and recurrence pattern."
+ },
+ "pmid:40532616": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40531761": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40530801": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40530113": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40527836": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40526875": {
+  "relevance": "medium",
+  "reason": "Cost analysis: WES/WTS in advanced NSCLC reduced costs and improved OS vs no testing."
+ },
+ "pmid:40524540": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40524253": {
+  "relevance": "medium",
+  "reason": "CAFs promote ALK-inhibitor resistance via lipid biosynthesis (in vitro/scRNA)."
+ },
+ "pmid:40524168": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40521499": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40516145": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40511831": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40510148": {
+  "relevance": "medium",
+  "reason": "Genomic profiles of resectable adenocarcinoma with micropapillary component."
+ },
+ "pmid:40506488": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40506349": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40506247": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40501771": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40496186": {
+  "relevance": "medium",
+  "reason": "Preclinical RET solvent-front inhibitor HSN748 with intracranial efficacy."
+ },
+ "pmid:40495480": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40486872": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40486073": {
+  "relevance": "medium",
+  "reason": "FAERS: capmatinib ototoxicity signal."
+ },
+ "pmid:40475838": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40473701": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40469976": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40466464": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40465842": {
+  "relevance": "medium",
+  "reason": "Lung-MAP (n=194): ctDNA tumour fraction ≥1% improves detection and is prognostic."
+ },
+ "pmid:40462961": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40458063": {
+  "relevance": "medium",
+  "reason": "MAIC: selpercatinib vs pralsetinib, PFS 22.1 vs 13.3 months (HR 0.67)."
+ },
+ "pmid:40456875": {
+  "relevance": "medium",
+  "reason": "3-year MET ex14 screening experience."
+ },
+ "pmid:40448617": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40448535": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40447141": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40445863": {
+  "relevance": "medium",
+  "reason": "ctDNA dynamics predict sotorasib efficacy in KRAS G12C NSCLC."
+ },
+ "pmid:40440686": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40439425": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40435431": {
+  "relevance": "medium",
+  "reason": "ASCO Educational Book: targeting TP53, non-G12C RAS and MTAP loss."
+ },
+ "pmid:40426858": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40422509": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40422210": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40422202": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40421217": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40419662": {
+  "relevance": "medium",
+  "reason": "Mechanisms of sotorasib resistance in KRAS G12C invasive mucinous adenocarcinoma, VEGF-A."
+ },
+ "pmid:40416876": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40409044": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40409027": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40405688": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40405273": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40399085": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40394004": {
+  "relevance": "medium",
+  "reason": "APOBEC mutagenesis affects tumour evolution and age at onset in smokers (Nat Commun)."
+ },
+ "pmid:40389443": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40386712": {
+  "relevance": "medium",
+  "reason": "Real-world (n=311): alectinib upfront vs crizotinib then alectinib compared with ALEX."
+ },
+ "pmid:40385633": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40384723": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40383171": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40376587": {
+  "relevance": "medium",
+  "reason": "Chinese real-world lorlatinib in ALK+ NSCLC."
+ },
+ "pmid:40376302": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40373350": {
+  "relevance": "medium",
+  "reason": "Mutation panels for clonality testing of multiple NSCLC tumours."
+ },
+ "pmid:40371229": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40365571": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40365320": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40361420": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40360735": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40360683": {
+  "relevance": "medium",
+  "reason": "Nat Rev Clin Oncol highlight on zongertinib in HER2-mutant NSCLC."
+ },
+ "pmid:40356899": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40355811": {
+  "relevance": "medium",
+  "reason": "Retrospective ICI rechallenge with anlotinib."
+ },
+ "pmid:40355260": {
+  "relevance": "medium",
+  "reason": "Real-world ROS1-positive NSCLC outcomes and shift to NGS testing."
+ },
+ "pmid:40354983": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40353648": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40352698": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40350441": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40349418": {
+  "relevance": "medium",
+  "reason": "Multicentre cohort (n=145): durvalumab after chemoradiotherapy offset poor prognosis of KRAS-mutant stage III NSCLC."
+ },
+ "pmid:40344646": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40342820": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40338218": {
+  "relevance": "medium",
+  "reason": "Real-world outcomes of ALK fusion-positive non-lung solid tumours."
+ },
+ "pmid:40337291": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40336761": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40336472": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40334547": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40332427": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40332392": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40330941": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40330698": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40330453": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40322409": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40320681": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40320673": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40317086": {
+  "relevance": "medium",
+  "reason": "Preclinical: adagrasib + abemaciclib in KRAS G12C/CDKN2A-null brain metastasis models."
+ },
+ "pmid:40316540": {
+  "relevance": "medium",
+  "reason": "LKB1 regulates JNK stress signalling and apoptotic dependency in KRAS-mutant lung cancer (Nat Commun)."
+ },
+ "pmid:40313924": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40313033": {
+  "relevance": "medium",
+  "reason": "Population PK and dose recommendation for repotrectinib."
+ },
+ "nct:NCT06963502": {
+  "relevance": "medium",
+  "reason": "Phase 1b registration (n=762) of HS-10370 combinations in solid tumours."
+ },
+ "nct:NCT06983743": {
+  "relevance": "high",
+  "reason": "New phase 1 registration (Erasca, n=600): pan-RAS inhibitor ERAS-0015 alone and in combination."
+ },
+ "nct:NCT07036185": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT06974604": {
+  "relevance": "high",
+  "reason": "New phase 2 registration (n=60): dexamethasone mouthwash to prevent datopotamab deruxtecan stomatitis (TROPION-DM)."
+ },
+ "nct:NCT07023731": {
+  "relevance": "high",
+  "reason": "New phase 1/2 registration (Arvinas, n=76): KRAS G12D degrader ARV-806."
+ },
+ "nct:NCT06974370": {
+  "relevance": "medium",
+  "reason": "Pilot pragmatic trial (n=45) of omitting brain RT after intracranial response to systemic therapy."
+ },
+ "nct:NCT06999187": {
+  "relevance": "medium",
+  "reason": "Phase 1 registration of DR-0202 in carcinomas."
+ },
+ "nct:NCT07008287": {
+  "relevance": "medium",
+  "reason": "Real-world registry (n=100) of taletrectinib for ROS1+ NSCLC with brain metastases."
+ },
+ "nct:NCT07012031": {
+  "relevance": "high",
+  "reason": "New NCI phase 1/2 registration (n=37): sotorasib + trastuzumab deruxtecan in KRAS G12C NSCLC."
+ },
+ "nct-results:NCT03924869": {
+  "relevance": "high",
+  "reason": "Results posted for KEYNOTE-867 (phase 3, n=448): SBRT with or without pembrolizumab in unresected stage I-II NSCLC; the trial was stopped early for futility."
+ },
+ "nct-results:NCT02521051": {
+  "relevance": "medium",
+  "reason": "Results posted for small phase 1/2 (n=11) of alectinib + bevacizumab."
+ },
+ "nct-results:NCT04362072": {
+  "relevance": "medium",
+  "reason": "Results posted for Pfizer phase 4 lorlatinib study (n=71)."
+ },
+ "nct-results:NCT03299088": {
+  "relevance": "medium",
+  "reason": "Results posted for phase 1 pembrolizumab + trametinib in KRAS NSCLC (n=15)."
+ },
+ "nct-results:NCT05374538": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT03037385": {
+  "relevance": "medium",
+  "reason": "Results posted for ARROW phase 1/2 of pralsetinib (n=590)."
+ },
+ "pmid:40579203": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40574940": {
+  "relevance": "medium",
+  "reason": "Single-centre LCNEC outcomes after definitive treatment."
+ },
+ "pmid:40574629": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40569622": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40568803": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40568772": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40564156": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40563139": {
+  "relevance": "medium",
+  "reason": "Brain RT with ICIs for SCLC brain metastases, 2-year OS 42.3%."
+ },
+ "pmid:40558309": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40556676": {
+  "relevance": "medium",
+  "reason": "Multicentre: preoperative NLR prognostic in resected lung carcinoids."
+ },
+ "pmid:40555062": {
+  "relevance": "high",
+  "reason": "Single-arm phase 2 (n=37): anlotinib + irinotecan second line in ES-SCLC relapsing within 6 months, ORR 62.2%, median PFS 4.5 and OS 7.2 months."
+ },
+ "pmid:40552757": {
+  "relevance": "medium",
+  "reason": "Lactate-driven histone lactylation and immune escape in SCLC (preclinical)."
+ },
+ "pmid:40552557": {
+  "relevance": "medium",
+  "reason": "Validated soluble DLL3 serum assay."
+ },
+ "pmid:40550063": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40545294": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40544229": {
+  "relevance": "medium",
+  "reason": "Multicentre lobar vs sublobar resection for stage IA lung NETs with STAS."
+ },
+ "pmid:40543507": {
+  "relevance": "medium",
+  "reason": "Preclinical: MET inhibition increases chemo-immunotherapy efficacy in SCLC (Cell Rep Med)."
+ },
+ "pmid:40543047": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40542545": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40542277": {
+  "relevance": "medium",
+  "reason": "Genomic and immune profiling of LS-SCLC for prognostic biomarkers."
+ },
+ "pmid:40539532": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40539233": {
+  "relevance": "medium",
+  "reason": "Graph neural network predicting SCLC transcription-factor subtypes from histology."
+ },
+ "pmid:40537796": {
+  "relevance": "medium",
+  "reason": "CATS/ML43257 (n=32): baseline cfDNA and VAF prognostic with first-line atezolizumab-chemo in SCLC."
+ },
+ "pmid:40536008": {
+  "relevance": "medium",
+  "reason": "IHC surrogate molecular subtyping of SCLC and prognosis."
+ },
+ "pmid:40535083": {
+  "relevance": "medium",
+  "reason": "Multicentre: change in bone mineral density prognostic in SCLC on ICIs."
+ },
+ "pmid:40535074": {
+  "relevance": "medium",
+  "reason": "One-year mortality model for concurrent ILD and lung cancer (n=206)."
+ },
+ "pmid:40534996": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40534241": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40533436": {
+  "relevance": "medium",
+  "reason": "Inflammation indices prognostic in first-line ES-SCLC."
+ },
+ "pmid:40531776": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40529764": {
+  "relevance": "medium",
+  "reason": "Multicentre real-world serplulimab chemo-immunotherapy in elderly ES-SCLC (n=43)."
+ },
+ "pmid:40529760": {
+  "relevance": "medium",
+  "reason": "SEER: ICI era associated with 14% lower mortality in ES-SCLC."
+ },
+ "pmid:40529744": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40528046": {
+  "relevance": "high",
+  "reason": "Nat Rev Clin Oncol research highlight: phase 3 DeLLphi-304 showed second-line tarlatamab improved OS vs chemotherapy in SCLC; a news summary, not the primary report."
+ },
+ "pmid:40527534": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40526293": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40525197": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40525179": {
+  "relevance": "medium",
+  "reason": "Sublobar resection vs lobectomy for cT1N0 LCNEC (n=96)."
+ },
+ "pmid:40523990": {
+  "relevance": "medium",
+  "reason": "Nature Cancer review of therapeutic advances in SCLC."
+ },
+ "pmid:40523346": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40523077": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40522596": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40521010": {
+  "relevance": "medium",
+  "reason": "Retrospective (n=68) anlotinib + ICI after prior immunotherapy in ES-SCLC."
+ },
+ "pmid:40520158": {
+  "relevance": "medium",
+  "reason": "Real-world second-line immunochemotherapy in recurrent SCLC."
+ },
+ "pmid:40517120": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40517039": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40515859": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40514272": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40514005": {
+  "relevance": "medium",
+  "reason": "Multi-institutional AI radiomics predicting chemo-immunotherapy benefit in ES-SCLC."
+ },
+ "pmid:40513660": {
+  "relevance": "medium",
+  "reason": "Multi-omics immuno-proteomic clusters in lung neuroendocrine carcinomas."
+ },
+ "pmid:40512778": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40510905": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40506590": {
+  "relevance": "high",
+  "reason": "Nat Rev Clin Oncol research highlight: phase 3 IMforte showed adding lurbinectedin to atezolizumab maintenance improved PFS and OS in ES-SCLC; a news summary, not the primary report."
+ },
+ "pmid:40506489": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40503410": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40502212": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40500731": {
+  "relevance": "medium",
+  "reason": "ONECUT2 as actionable target driving neuroendocrine fate in SCLC (preclinical)."
+ },
+ "pmid:40499092": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40496040": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40492591": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40491289": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40491286": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40490561": {
+  "relevance": "medium",
+  "reason": "SEER: COVID-19 pandemic effects on SCLC stage and treatment."
+ },
+ "pmid:40487755": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40487548": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40482375": {
+  "relevance": "medium",
+  "reason": "Multicentre real-world lurbinectedin in ES-SCLC (n=64)."
+ },
+ "pmid:40475837": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40475836": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40473974": {
+  "relevance": "medium",
+  "reason": "Nature Cancer review of SCLC immunotherapy paradigm."
+ },
+ "pmid:40473339": {
+  "relevance": "medium",
+  "reason": "LU23-15 letter on delayed CNS progression with atezolizumab-chemo."
+ },
+ "pmid:40472322": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40470139": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40469570": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40469132": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40467921": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40462334": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40460999": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40460355": {
+  "relevance": "medium",
+  "reason": "Cancer-related cognitive impairment in lung cancer (n=52) with MRI correlates."
+ },
+ "pmid:40458356": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40457215": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40456541": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40456363": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40455890": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40455231": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40453073": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40452920": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40440076": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40436762": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40435970": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40433367": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40432263": {
+  "relevance": "medium",
+  "reason": "CXCR4-directed PET identifying SCLC molecular subtypes."
+ },
+ "pmid:40428276": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40428124": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40427109": {
+  "relevance": "medium",
+  "reason": "Ectopic Cushing's syndrome in advanced SCLC (n=7)."
+ },
+ "pmid:40423775": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40423257": {
+  "relevance": "medium",
+  "reason": "Consolidative high-dose thoracic RT in ES-SCLC, early results."
+ },
+ "pmid:40422517": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40421353": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40420608": {
+  "relevance": "medium",
+  "reason": "Consolidative and salvage thoracic RT after chemo-immunotherapy in ES-SCLC."
+ },
+ "pmid:40420490": {
+  "relevance": "medium",
+  "reason": "Real-world second-line lurbinectedin (n=374 evaluable), rwPFS 2.5 months."
+ },
+ "pmid:40419854": {
+  "relevance": "high",
+  "reason": "Regulatory review of the tarlatamab approval pathway: FDA accelerated approval on 16 May 2024 for ES-SCLC after platinum, and global strategies; a review of a past decision, not a new decision."
+ },
+ "pmid:40419484": {
+  "relevance": "medium",
+  "reason": "FOXA2 promotes metastatic competence in SCLC (Nat Commun)."
+ },
+ "pmid:40418084": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40417882": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40417321": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40416878": {
+  "relevance": "medium",
+  "reason": "ROSE concordance (94%) in subtyping lung cancer via bronchoscopic biopsy."
+ },
+ "pmid:40415347": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40415048": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40413955": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40412848": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40409366": {
+  "relevance": "high",
+  "reason": "Design and dose-planning QA of NIELS, a Nordic trial of inhomogeneous dose-escalated thoracic radiotherapy for limited-stage SCLC (median mean GTV dose ~80 Gy feasible); no outcome data yet."
+ },
+ "pmid:40408063": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40406790": {
+  "relevance": "medium",
+  "reason": "POU2F3 expression in resected high-grade neuroendocrine carcinoma."
+ },
+ "pmid:40403473": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40402312": {
+  "relevance": "medium",
+  "reason": "Molecular subtype predicts anti-PD-L1 benefit in ES-SCLC."
+ },
+ "pmid:40402080": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40400982": {
+  "relevance": "medium",
+  "reason": "SEER PSM: surgery in metastatic pulmonary carcinoids."
+ },
+ "pmid:40400949": {
+  "relevance": "medium",
+  "reason": "Resected LCNEC (n=341) vs SCLC (n=580) features and prognosis."
+ },
+ "pmid:40400888": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40399107": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40397254": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40394247": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40393352": {
+  "relevance": "medium",
+  "reason": "French KBP-CPHG-2020 cohort (n=8,999): cannabis smokers diagnosed younger."
+ },
+ "pmid:40392852": {
+  "relevance": "medium",
+  "reason": "RXRγ phase separation drives chemoresistance in SCLC (PNAS)."
+ },
+ "pmid:40387007": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40386726": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40386714": {
+  "relevance": "medium",
+  "reason": "Number of induction cycles with first-line atezolizumab-chemo in ES-SCLC (n=45)."
+ },
+ "pmid:40386569": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40386268": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40385052": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40384702": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40378584": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40376585": {
+  "relevance": "medium",
+  "reason": "AI segmentation of recurrence patterns after RT in SCLC (n=180)."
+ },
+ "pmid:40374338": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40370642": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40367065": {
+  "relevance": "medium",
+  "reason": "Lobectomy vs sublobar resection for T1-2N0 SCLC (n=185)."
+ },
+ "pmid:40366336": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40364072": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40362483": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40361873": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40361334": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40361150": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40358752": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40354951": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40349220": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40349179": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40346068": {
+  "relevance": "medium",
+  "reason": "Preclinical: dopamine D2 agonists inhibit angiogenesis in chemo-refractory SCLC."
+ },
+ "pmid:40345665": {
+  "relevance": "medium",
+  "reason": "Deep-learning pRb subtyping of LCNEC on H&E."
+ },
+ "pmid:40344695": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40337880": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40337879": {
+  "relevance": "medium",
+  "reason": "Commentary on trilaciclib myeloprotection in Chinese ES-SCLC."
+ },
+ "pmid:40335304": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40333678": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40332491": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40332288": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40332154": {
+  "relevance": "medium",
+  "reason": "Slovenian cohort: consolidative thoracic RT with chemo-immunotherapy in ES-SCLC."
+ },
+ "pmid:40330141": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40330115": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40329257": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40324682": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40323324": {
+  "relevance": "medium",
+  "reason": "Retrospective (n=102): ICI + EP vs EP, OS 14.3 vs 10.8 months."
+ },
+ "pmid:40322546": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40321156": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40320401": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40319778": {
+  "relevance": "medium",
+  "reason": "Japanese lung cancer registry: LCNEC epidemiology (0.7%)."
+ },
+ "pmid:40314800": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40313077": {
+  "relevance": "medium",
+  "reason": "Real-world LS-SCLC treatment patterns and RT timing (n=203)."
+ },
+ "pmid:40310442": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40307487": {
+  "relevance": "medium",
+  "reason": "SCLC organoid library reveals subtype-specific IGF-1 dependency (Nat Cancer)."
+ },
+ "pmid:40306865": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07037758": {
+  "relevance": "high",
+  "reason": "New Amgen phase 1 registration DeLLphi-311 (n=380): tarlatamab + AB248 (CD8-targeted IL-2) in ES-SCLC."
+ },
+ "nct:NCT07038343": {
+  "relevance": "medium",
+  "reason": "Phase 1/2 registration of AVZO-1418 in solid tumours."
+ },
+ "nct:NCT07008716": {
+  "relevance": "high",
+  "reason": "New phase 3 registration (Sun Yat-sen, n=852): omitting CTV for the primary tumour in LS-SCLC chemoradiotherapy."
+ },
+ "nct:NCT07005128": {
+  "relevance": "high",
+  "reason": "New Amgen phase 3 registration (n=350): tarlatamab + durvalumab + carboplatin-etoposide vs durvalumab + chemotherapy first line in ES-SCLC."
+ },
+ "nct:NCT07007325": {
+  "relevance": "medium",
+  "reason": "Early-phase registration of [68Ga]Ga-Pentixafor PET in metastatic SCLC."
+ },
+ "nct:NCT07016230": {
+  "relevance": "high",
+  "reason": "New Gustave Roussy phase 2 registration UNLOCK TARLATAMAB (n=40): tarlatamab in SCLC and other NECs with resistance biomarkers."
+ },
+ "nct:NCT06978153": {
+  "relevance": "medium",
+  "reason": "New phase 2 registration (n=66): neoadjuvant benmelstobart + chemo ± anlotinib in resectable LS-SCLC."
+ },
+ "nct:NCT07022301": {
+  "relevance": "medium",
+  "reason": "New phase 2 registration (n=25): sintilimab + anlotinib after PD-(L)1 in ES-SCLC."
+ },
+ "nct:NCT06970795": {
+  "relevance": "medium",
+  "reason": "Phase 1 registration of SYS6040 in solid tumours."
+ },
+ "nct:NCT07009457": {
+  "relevance": "medium",
+  "reason": "Phase 1 registration of subcutaneous SHR-1316 with chemotherapy in ES-SCLC."
+ },
+ "nct:NCT06954246": {
+  "relevance": "high",
+  "reason": "New phase 3 registration (Qilu, n=450): B7-H3 ADC MHB088C vs physician's choice in relapsed SCLC."
+ },
+ "nct:NCT06982287": {
+  "relevance": "medium",
+  "reason": "Retrospective registry (n=100) of anlotinib + immunotherapy maintenance in ES-SCLC."
+ },
+ "nct:NCT06957314": {
+  "relevance": "medium",
+  "reason": "MSK registration (n=70): hospital-at-home delivery of tarlatamab."
+ },
+ "nct:NCT07004712": {
+  "relevance": "medium",
+  "reason": "New phase 2 registration (n=46): adebrelimab + liposomal irinotecan second line in SCLC."
+ },
+ "nct:NCT07038096": {
+  "relevance": "high",
+  "reason": "New phase 1/2 registration (Zelgen, n=350): DLL3 trispecific ZG006 with ZG005 in SCLC and NEC."
+ },
+ "nct:NCT07015892": {
+  "relevance": "high",
+  "reason": "New phase 3 registration (Salamanca, n=300): thoracic RT dose escalation (45 Gy BID vs 60 Gy BID vs SIB 45-54 Gy BID) in LS-SCLC."
+ },
+ "nct-results:NCT03582475": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT04579757": {
+  "relevance": "medium",
+  "reason": "Results posted for surufatinib + tislelizumab phase 1/2 (n=87) including SCLC cohorts."
+ },
+ "nct-results:NCT04926181": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct-results:NCT03811002": {
+  "relevance": "high",
+  "reason": "Results posted for NRG/NCI phase 3 (n=544): atezolizumab added to chemoradiotherapy in LS-SCLC (NRG-LU005)."
+ },
+ "nct-results:NCT05224141": {
+  "relevance": "high",
+  "reason": "Results posted for KEYVIBE-008 phase 3 (n=460): pembrolizumab/vibostolimab vs atezolizumab with chemotherapy first line in ES-SCLC (TIGIT; reported negative)."
+ },
+ "pmid:40575402": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40575214": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40574255": {
+  "relevance": "medium",
+  "reason": "Prospective observational CS-Lung-003 of chemo-immunotherapy in advanced NSCLC."
+ },
+ "pmid:40565872": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40560796": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40558275": {
+  "relevance": "medium",
+  "reason": "Prospective QoL study of immune-related endocrinopathies in lung cancer."
+ },
+ "pmid:40546720": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40541573": {
+  "relevance": "medium",
+  "reason": "Isolated nodal failure after proton therapy ± durvalumab in stage III (n=96)."
+ },
+ "pmid:40529778": {
+  "relevance": "high",
+  "reason": "NeoTAP01 4-year outcomes (phase 2): perioperative toripalimab + chemotherapy in resectable stage III NSCLC, 4-year EFS 66.7% and OS 83.3% per protocol; single-arm, small."
+ },
+ "pmid:40529735": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40529724": {
+  "relevance": "medium",
+  "reason": "Single-centre: pneumonectomy after neoadjuvant chemo-immunotherapy."
+ },
+ "pmid:40519910": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40516521": {
+  "relevance": "medium",
+  "reason": "Commentary on TOGATHER perioperative immunotherapy trial."
+ },
+ "pmid:40510353": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40507214": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40506587": {
+  "relevance": "high",
+  "reason": "Nat Rev Clin Oncol highlight: CheckMate 816 final analysis showed neoadjuvant nivolumab + chemotherapy improved OS in resectable NSCLC; news summary, not the primary report."
+ },
+ "pmid:40506272": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40501950": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40500867": {
+  "relevance": "medium",
+  "reason": "Upfront dose reduction of first-cycle first-line treatment in elderly NSCLC."
+ },
+ "pmid:40492288": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40490476": {
+  "relevance": "medium",
+  "reason": "Nat Rev Clin Oncol review on ICI rechallenge in advanced lung cancer."
+ },
+ "pmid:40486468": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40486088": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40484866": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40483449": {
+  "relevance": "medium",
+  "reason": "Multicentre (n=107): irAE characteristics and PFS with consolidative immunotherapy."
+ },
+ "pmid:40481876": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40475775": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40471501": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40468805": {
+  "relevance": "medium",
+  "reason": "NADIM trial biomarker: peripheral memory B cells and long-term survival."
+ },
+ "pmid:40462321": {
+  "relevance": "medium",
+  "reason": "5-year follow-up: post-neoadjuvant PET metabolism predicts outcome after neoadjuvant PD-1."
+ },
+ "pmid:40459946": {
+  "relevance": "medium",
+  "reason": "NSCLC tumour microenvironment impairs immune function in people with HIV (JCI)."
+ },
+ "pmid:40454246": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40454085": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40453095": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40449955": {
+  "relevance": "medium",
+  "reason": "NeoPred CT AI predicts response to neoadjuvant chemo-immunotherapy (external AUC 0.77)."
+ },
+ "pmid:40447320": {
+  "relevance": "high",
+  "reason": "Pooled safety analysis of durvalumab vs durvalumab + tremelimumab across trials: combination doubled grade 3-4 treatment-related AEs (22.1% vs 11.5%) and raised immune-mediated AEs; large pooled trial safety data."
+ },
+ "pmid:40442751": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40439712": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40427002": {
+  "relevance": "medium",
+  "reason": "Serbian multicentre real-world first-line pembrolizumab in PD-L1 ≥50%."
+ },
+ "pmid:40422518": {
+  "relevance": "medium",
+  "reason": "Cohort (n=327): pre-existing COPD and checkpoint inhibitor pneumonitis risk."
+ },
+ "pmid:40421943": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40420867": {
+  "relevance": "medium",
+  "reason": "SAKK trials pooled (n=499): 20% of resectable stage III did not reach surgery after neoadjuvant therapy, similar with or without ICI."
+ },
+ "pmid:40417390": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40416866": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40413619": {
+  "relevance": "medium",
+  "reason": "Multicentre (n=409): PD-L1 TPS and safety/efficacy of PD-(L)1 therapy."
+ },
+ "pmid:40406139": {
+  "relevance": "medium",
+  "reason": "Multicentre LIPI nomogram for OS and irAEs with sintilimab."
+ },
+ "pmid:40404203": {
+  "relevance": "medium",
+  "reason": "scRNA-seq of baseline PBMCs predicts ICI efficacy and irAE severity."
+ },
+ "pmid:40400852": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40400238": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40392373": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40391237": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40386739": {
+  "relevance": "medium",
+  "reason": "Japanese multicentre: irAEs and outcomes in PD-L1-low NSCLC, focus on pneumonitis."
+ },
+ "pmid:40386728": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40385054": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40378311": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40371640": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40371096": {
+  "relevance": "medium",
+  "reason": "UK real-world durvalumab after chemoradiotherapy: 24-month OS 67.8%."
+ },
+ "pmid:40368376": {
+  "relevance": "medium",
+  "reason": "Residual nodal tumour after neoadjuvant chemo-immunotherapy predicts recurrence."
+ },
+ "pmid:40368363": {
+  "relevance": "medium",
+  "reason": "Matched cohort: benzodiazepine use linked to fewer irAEs but shorter PFS on PD-(L)1 blockade."
+ },
+ "pmid:40365291": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40364834": {
+  "relevance": "medium",
+  "reason": "Omitting mediastinal node dissection after neoadjuvant immunotherapy in cN0/N1 (n=131)."
+ },
+ "pmid:40362333": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40358847": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40348946": {
+  "relevance": "medium",
+  "reason": "Phase 2 (n=24) PET and blood markers predicting response to neoadjuvant camrelizumab-chemo."
+ },
+ "pmid:40347676": {
+  "relevance": "medium",
+  "reason": "Multicentre (n=122): subsequent treatment after progression on durvalumab consolidation."
+ },
+ "pmid:40336032": {
+  "relevance": "medium",
+  "reason": "PD-L1 and genomic biomarkers in early vs advanced NSCLC (n=974 early)."
+ },
+ "pmid:40334018": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40329050": {
+  "relevance": "medium",
+  "reason": "Nat Rev Clin Oncol perspective on ivonescimab and the immuno-angiogenic paradigm."
+ },
+ "pmid:40328424": {
+  "relevance": "medium",
+  "reason": "Patterns of recurrence after neoadjuvant immunotherapy (n=94)."
+ },
+ "pmid:40327600": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40325180": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40311310": {
+  "relevance": "medium",
+  "reason": "irAE severity and OS by ICI regimen (n=256)."
+ },
+ "pmid:40310023": {
+  "relevance": "medium",
+  "reason": "ICI rechallenge with metronomic cyclophosphamide ± bevacizumab."
+ },
+ "nct:NCT07010263": {
+  "relevance": "high",
+  "reason": "New Akeso phase 3 registration (n=560): ivonescimab (AK112) vs placebo consolidation after chemoradiotherapy in LS-SCLC."
+ },
+ "nct:NCT06996782": {
+  "relevance": "high",
+  "reason": "New AstraZeneca phase 1/2 platform registration (n=152): rilvegostomig (PD-1×TIGIT bispecific) with chemotherapy or ramucirumab in NSCLC."
+ },
+ "nct:NCT06977828": {
+  "relevance": "medium",
+  "reason": "New single-arm phase 2 registration (n=40): perioperative tislelizumab + anlotinib + chemotherapy."
+ },
+ "pmid:40579177": {
+  "relevance": "medium",
+  "reason": "Colorado Plateau uranium miners: radon-smoking interaction in lung cancer mortality."
+ },
+ "pmid:40574480": {
+  "relevance": "medium",
+  "reason": "Australian EBUS/EUS-B yield ahead of national screening."
+ },
+ "pmid:40571315": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40564882": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40563665": {
+  "relevance": "medium",
+  "reason": "PSM overlap-weighted SBRT vs surgery for stage I with AI CT analysis."
+ },
+ "pmid:40563607": {
+  "relevance": "high",
+  "reason": "Lithuanian national lung screening programme (from 2024, ages 50-70 regardless of smoking, every 3 years) pilot (n=1,014): 76% uptake, Lung-RADS 4 in 1.4% (8 of 14 non-smokers), significant incidental findings in 25.9%; a European screening policy including never-smokers, early pilot data only."
+ },
+ "pmid:40563579": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40563468": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40561923": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40561373": {
+  "relevance": "medium",
+  "reason": "Digital framework standardising a multisite screening programme."
+ },
+ "pmid:40559625": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40553813": {
+  "relevance": "medium",
+  "reason": "CHEST 10-year update on components of high-quality lung screening."
+ },
+ "pmid:40553454": {
+  "relevance": "medium",
+  "reason": "Population study of secondary lung cancer in AYA cancer survivors."
+ },
+ "pmid:40550959": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40550506": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40547595": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40547446": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40546939": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40541639": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40541405": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40539909": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40537166": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40536097": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40535726": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40535138": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40535082": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40534997": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40533740": {
+  "relevance": "medium",
+  "reason": "Never-smoker stage I-II cohort (n=1,406): risk factors for distant metastasis."
+ },
+ "pmid:40531316": {
+  "relevance": "medium",
+  "reason": "Editorial on Korea's national LDCT programme."
+ },
+ "pmid:40531072": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40525870": {
+  "relevance": "medium",
+  "reason": "Real-world STAS impact on recurrence and surgical choice in stage I."
+ },
+ "pmid:40520280": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40517794": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40517528": {
+  "relevance": "medium",
+  "reason": "Review of current evidence on LDCT screening benefit (Eur J Cancer)."
+ },
+ "pmid:40516552": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40514443": {
+  "relevance": "medium",
+  "reason": "NPJ Precis Oncol review of MRD in early and locally advanced NSCLC."
+ },
+ "pmid:40514053": {
+  "relevance": "medium",
+  "reason": "Multicentre qualitative study of psychological responses to nodule surveillance."
+ },
+ "pmid:40512220": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40507274": {
+  "relevance": "medium",
+  "reason": "NSW population study of health-service precursors of local-stage diagnosis."
+ },
+ "pmid:40507010": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40502397": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40499025": {
+  "relevance": "medium",
+  "reason": "Real-world AI-assisted detection of lung metastases on CT."
+ },
+ "pmid:40498724": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40497818": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40496615": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40496550": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40493336": {
+  "relevance": "medium",
+  "reason": "Multicentre: heavy smokers with stage I adenocarcinoma have worse OS."
+ },
+ "pmid:40491372": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40490966": {
+  "relevance": "medium",
+  "reason": "E3N cohort: hormonal factors and lung cancer risk in women."
+ },
+ "pmid:40487202": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40486596": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40484640": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40483857": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40482965": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40482527": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40481987": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40480945": {
+  "relevance": "medium",
+  "reason": "Real-world diverse screening cohort (n=1,598): mortality and comorbidity."
+ },
+ "pmid:40480837": {
+  "relevance": "medium",
+  "reason": "Prospective cohort (n=52,913): plasma proteomics for NSCLC early detection."
+ },
+ "pmid:40479563": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40478810": {
+  "relevance": "medium",
+  "reason": "BRELT3 mobile screening in resource-limited Brazil."
+ },
+ "pmid:40474338": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40474072": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40471074": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40468726": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40467942": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40467811": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40467366": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40466543": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40465674": {
+  "relevance": "medium",
+  "reason": "Medical care costs associated with lung screening (n=25,282)."
+ },
+ "pmid:40465135": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40461493": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40461323": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40460779": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40458730": {
+  "relevance": "medium",
+  "reason": "Blind clinical study of CA-62 biomarker combination for early NSCLC."
+ },
+ "pmid:40456733": {
+  "relevance": "high",
+  "reason": "Large never-smoker study (Nat Commun): inflammatory diseases associated with lung cancer risk in never-smokers, proposed as markers for future screening; observational."
+ },
+ "pmid:40456599": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40456524": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40452487": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40452253": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40452243": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40449857": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40448187": {
+  "relevance": "medium",
+  "reason": "BioMILD: upfront blood microRNA test for people reluctant to undergo LDCT."
+ },
+ "pmid:40446891": {
+  "relevance": "medium",
+  "reason": "Analysis of screening failures despite LDCT adherence (n=15,775)."
+ },
+ "pmid:40445120": {
+  "relevance": "medium",
+  "reason": "ACS cancer treatment and survivorship statistics 2025."
+ },
+ "pmid:40444725": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40444443": {
+  "relevance": "medium",
+  "reason": "Smoking, screening eligibility and completion among adults with depression."
+ },
+ "pmid:40443583": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40442606": {
+  "relevance": "medium",
+  "reason": "Nationwide Nordic register study: pre-existing mental disorders linked to non-enrolment in cancer patient pathways."
+ },
+ "pmid:40441338": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40436795": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40436416": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40429798": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40429664": {
+  "relevance": "medium",
+  "reason": "Clinical validation of plasma metabolite panel for early lung cancer."
+ },
+ "pmid:40427466": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40427182": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40427166": {
+  "relevance": "medium",
+  "reason": "Hungarian cancer survival 2011-2019."
+ },
+ "pmid:40427148": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40425545": {
+  "relevance": "medium",
+  "reason": "China protocol for early screening, diagnosis and individualised treatment of lung cancer."
+ },
+ "pmid:40423536": {
+  "relevance": "medium",
+  "reason": "Korean national screening programme: outcomes of interstitial lung abnormalities (Radiology)."
+ },
+ "pmid:40422578": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40420868": {
+  "relevance": "medium",
+  "reason": "US national LCSR data linkage early experience."
+ },
+ "pmid:40412903": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42548322": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40409932": {
+  "relevance": "medium",
+  "reason": "Review of Lung-RADS v2022 changes."
+ },
+ "pmid:40408997": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40404527": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40404064": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40403653": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40401117": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40396513": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40394437": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40392283": {
+  "relevance": "medium",
+  "reason": "French modelling of LDCT screening efficacy and cost-effectiveness."
+ },
+ "pmid:42548458": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40387418": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40386736": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40386709": {
+  "relevance": "medium",
+  "reason": "Multicentre tumour-educated platelet splicing events for GGO malignancy (n=285)."
+ },
+ "pmid:40386526": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40385628": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40384696": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40383829": {
+  "relevance": "medium",
+  "reason": "Cohort: long-term air pollution and lung cancer incidence (null association)."
+ },
+ "pmid:40382449": {
+  "relevance": "medium",
+  "reason": "COPD patients with NSCLC respond better to anti-PD-(L)1."
+ },
+ "pmid:40380218": {
+  "relevance": "medium",
+  "reason": "Multicentre plasma 9-miRNA signature for early detection."
+ },
+ "pmid:40380112": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40379735": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40374891": {
+  "relevance": "medium",
+  "reason": "PLCO: second primary lung cancer risk after breast cancer."
+ },
+ "pmid:40374498": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40373847": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40371577": {
+  "relevance": "medium",
+  "reason": "SEER trends in thymic epithelial tumour incidence and mortality."
+ },
+ "pmid:40369122": {
+  "relevance": "medium",
+  "reason": "English cost-effectiveness of add-on upper abdominal CT in lung screening."
+ },
+ "pmid:40367955": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40367538": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40366632": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40366455": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40365752": {
+  "relevance": "medium",
+  "reason": "Multicentre salivary metabolic fingerprint for lung cancer detection (n=1,043)."
+ },
+ "pmid:40361912": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40361401": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40361270": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40357272": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40355278": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40352245": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40351274": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40350147": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40346388": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40344812": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40344226": {
+  "relevance": "medium",
+  "reason": "Medicare eligibility at 65 increased first-time screening by 41%."
+ },
+ "pmid:40341969": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40340737": {
+  "relevance": "medium",
+  "reason": "Report of expert presentations on latest lung screening evidence."
+ },
+ "pmid:40340549": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40340266": {
+  "relevance": "medium",
+  "reason": "Korean humidifier disinfectant use duration and lung cancer risk."
+ },
+ "pmid:40338915": {
+  "relevance": "medium",
+  "reason": "Screening programme: sublobar vs lobectomy in patients with airway obstruction."
+ },
+ "pmid:40334182": {
+  "relevance": "medium",
+  "reason": "ASCO Educational Book on novel lung screening technologies."
+ },
+ "pmid:40334175": {
+  "relevance": "medium",
+  "reason": "Risk-prediction to clinical decision support framework (n=5,947 LDCT)."
+ },
+ "pmid:40329679": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40328203": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40328067": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40325394": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40325128": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40324307": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40323021": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40321723": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40320382": {
+  "relevance": "medium",
+  "reason": "Prospective (n=4,403): incidental findings at baseline LDCT screening in Australia and Canada."
+ },
+ "pmid:40318972": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40315870": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40315387": {
+  "relevance": "medium",
+  "reason": "PM2.5 and mortality in COPD with multimorbidity."
+ },
+ "pmid:40314785": {
+  "relevance": "medium",
+  "reason": "Safety of short-term follow-up CT for consolidation in screening (n=10,247 CTs)."
+ },
+ "pmid:40314582": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40313309": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40311448": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40311308": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40307927": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40575159": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40570258": {
+  "relevance": "high",
+  "reason": "LIQUIK prospective multicentre study: combined ctDNA/ctRNA liquid biopsy in metastatic NSCLC detected 11.4% fewer biomarker-positive patients than tissue NGS and missed non-inferiority; assay comparison with clinical validation."
+ },
+ "pmid:40568188": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40558116": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40548612": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40543422": {
+  "relevance": "medium",
+  "reason": "Bronchial washing supernatant as liquid biopsy for genomic profiling (n=38)."
+ },
+ "pmid:40534853": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40518704": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40499479": {
+  "relevance": "medium",
+  "reason": "UK consensus on equitable, timely and comprehensive biomarker testing in NSCLC."
+ },
+ "pmid:40496630": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40491295": {
+  "relevance": "medium",
+  "reason": "CSF tumour markers for leptomeningeal metastasis diagnosis (n=505)."
+ },
+ "pmid:40483308": {
+  "relevance": "medium",
+  "reason": "Plasma cfDNA microbiome profiles in lung cancer (n=261)."
+ },
+ "pmid:40469279": {
+  "relevance": "medium",
+  "reason": "Phase 2 updated OS: autologous NK cells + sintilimab second line, median OS 27.3 months."
+ },
+ "pmid:40468033": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40455312": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40444064": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40428191": {
+  "relevance": "medium",
+  "reason": "Early ctDNA dynamics during hypofractionated RT and disease control."
+ },
+ "pmid:40406096": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40403209": {
+  "relevance": "medium",
+  "reason": "Blood miRNA dynamics tracking immunotherapy response (n=211)."
+ },
+ "pmid:40393158": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40391796": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40332376": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT06979661": {
+  "relevance": "high",
+  "reason": "New early-phase registration (Rutgers, n=25): ctDNA (Haystack) guidance for postoperative radiotherapy decisions."
+ },
+ "nct:NCT07008664": {
+  "relevance": "medium",
+  "reason": "Registration (n=750) for developing and validating an epigenetic diagnostic assay."
+ },
+ "nct:NCT07035587": {
+  "relevance": "medium",
+  "reason": "Yonsei registration (n=1,200): multi-cancer diagnosis and MRD monitoring by high-sensitivity blood assays."
+ },
+ "nct:NCT07035860": {
+  "relevance": "medium",
+  "reason": "Registration (n=34): chemo-immunotherapy with carbon-ion RT in unresectable LA-NSCLC."
+ },
+ "nct:NCT06974097": {
+  "relevance": "medium",
+  "reason": "Registration (n=72): tumour-associated neutrophils as biomarker of neoadjuvant chemo-immunotherapy response."
+ },
+ "nct:NCT06983899": {
+  "relevance": "high",
+  "reason": "New Fred Hutch registration BOOST (n=100): aerobic exercise training during immunotherapy for NSCLC to improve immune activity and outcomes."
+ },
+ "nct:NCT06997458": {
+  "relevance": "medium",
+  "reason": "Andalusian liquid biopsy registry (n=500) in lung and colon cancer."
+ },
+ "nct:NCT06963307": {
+  "relevance": "medium",
+  "reason": "Registration (n=300): cfDNA epigenetic mapping for lung cancer detection."
+ },
+ "nct:NCT06977074": {
+  "relevance": "high",
+  "reason": "New phase 2 registration PROPHET (Sun Yat-sen, n=83): ctDNA-guided personalised induction chemo-immunotherapy in NSCLC."
+ },
+ "pmid:40579326": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40578452": {
+  "relevance": "medium",
+  "reason": "Multicentre IPTW cohort (n=240): local RT in oligometastatic NSCLC by PD-L1 level."
+ },
+ "pmid:40577081": {
+  "relevance": "medium",
+  "reason": "Pneumonitis predictors after chemoradiation + durvalumab (n=119)."
+ },
+ "pmid:40576465": {
+  "relevance": "medium",
+  "reason": "Transbronchial microwave ablation combined with resection for multifocal lung malignancy (103 ablations)."
+ },
+ "pmid:40575057": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40575045": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40574850": {
+  "relevance": "medium",
+  "reason": "Multicentre PSM (n=262): induction chemo-immunotherapy vs consolidation immunotherapy in unresectable stage III."
+ },
+ "pmid:40563641": {
+  "relevance": "medium",
+  "reason": "Nationwide PSM: sublobar vs lobectomy for ≤3 cm NSCLC with visceral pleural invasion."
+ },
+ "pmid:40563619": {
+  "relevance": "medium",
+  "reason": "Prospective single-centre PET-based RT planning in stage III."
+ },
+ "pmid:40563142": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40562272": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40561873": {
+  "relevance": "medium",
+  "reason": "Failure patterns after 3D RT to primary in stage IV NSCLC (n=748)."
+ },
+ "pmid:40560517": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40549120": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40545281": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40541237": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40539743": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40535073": {
+  "relevance": "medium",
+  "reason": "Re-irradiation for local recurrence after SBRT (n=35)."
+ },
+ "pmid:40535062": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40530121": {
+  "relevance": "medium",
+  "reason": "NCDB (n=1,735): sublobar resection in octogenarians with stage IA."
+ },
+ "pmid:40529742": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40529555": {
+  "relevance": "medium",
+  "reason": "Atrial volume indices and MACE after thoracic RT (n=701)."
+ },
+ "pmid:40525174": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40525173": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40525162": {
+  "relevance": "medium",
+  "reason": "NCDB (n=8,028): lobectomy vs segmentectomy with lymphovascular invasion."
+ },
+ "pmid:40524397": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40522563": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40521934": {
+  "relevance": "medium",
+  "reason": "SBRT for Tis-1N0: solid component and outcomes."
+ },
+ "pmid:40506642": {
+  "relevance": "medium",
+  "reason": "Multicentre deep-learning DFS prediction in clinical stage I."
+ },
+ "pmid:40503516": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40503017": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40501221": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40498157": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40496806": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40496804": {
+  "relevance": "medium",
+  "reason": "Prediction of grade 4 radiation-induced lymphopenia using two past trials (MDA and RTOG cohorts)."
+ },
+ "pmid:40496613": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40486360": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40485235": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40475089": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40473582": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40472868": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40472661": {
+  "relevance": "medium",
+  "reason": "Medicare trends 2012-2021 of percutaneous ablation vs sublobar resection."
+ },
+ "pmid:40471319": {
+  "relevance": "medium",
+  "reason": "Phase 2 multicentre: FDG PET bone networks predict survival before chemoradiation."
+ },
+ "pmid:40466027": {
+  "relevance": "medium",
+  "reason": "Hypoxia gene signature predicts recurrence after SBRT (n=92)."
+ },
+ "pmid:40464416": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40464358": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40459832": {
+  "relevance": "medium",
+  "reason": "International multicentre: SRS outcomes with 1 vs >20 brain metastases in NSCLC."
+ },
+ "pmid:40459565": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40455015": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40449074": {
+  "relevance": "medium",
+  "reason": "JCOG1710A prospective cohort (n=876): functional independence of older adults after lung surgery."
+ },
+ "pmid:40448514": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40447561": {
+  "relevance": "medium",
+  "reason": "SBRT outcomes for GGO vs solid lung cancer (n=151)."
+ },
+ "pmid:40446892": {
+  "relevance": "medium",
+  "reason": "STS database (n=115,020): surgical start time and major morbidity after pulmonary resection."
+ },
+ "pmid:40441758": {
+  "relevance": "medium",
+  "reason": "Korean national trends in lung cancer surgery 2010-2023."
+ },
+ "pmid:40439759": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40432547": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40426936": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40409937": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40405874": {
+  "relevance": "medium",
+  "reason": "HCUP-NIS PSM: heart failure and outcomes after VATS resection."
+ },
+ "pmid:40402927": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40401485": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40400958": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40400639": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40398531": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40394533": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40393462": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40393235": {
+  "relevance": "medium",
+  "reason": "Canadian RELEVANCE real-world CRT→durvalumab (n=487) outcomes by PD-L1."
+ },
+ "pmid:40392357": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40392214": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40392213": {
+  "relevance": "medium",
+  "reason": "Multicentre resection of stage IV NSCLC (n=179)."
+ },
+ "pmid:40386716": {
+  "relevance": "medium",
+  "reason": "Early recurrence on durvalumab consolidation (n=222)."
+ },
+ "pmid:40382370": {
+  "relevance": "medium",
+  "reason": "Tumour size and histology in trimodality-treated N2 NSCLC."
+ },
+ "pmid:40380294": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40372411": {
+  "relevance": "medium",
+  "reason": "STAS in dominant tumours and prognosis in synchronous multiple primary adenocarcinoma."
+ },
+ "pmid:40371385": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40371142": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40370481": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40369271": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40364892": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40364178": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40361513": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40361370": {
+  "relevance": "medium",
+  "reason": "Austrian ALLSTAR registry: durvalumab prolongs OS; dose >66 Gy may improve local control."
+ },
+ "pmid:40360909": {
+  "relevance": "medium",
+  "reason": "RPA model for radiation necrosis after single-fraction SRS (n=170)."
+ },
+ "pmid:40359080": {
+  "relevance": "medium",
+  "reason": "PSM: robotic vs VATS segmentectomy."
+ },
+ "pmid:40358817": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40358540": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40357075": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40355225": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40353596": {
+  "relevance": "medium",
+  "reason": "Survey of pulmonologists and surgeons on oligometastatic disease."
+ },
+ "pmid:40351604": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40349417": {
+  "relevance": "medium",
+  "reason": "Retrospective: durvalumab re-administration after moderate symptomatic pneumonitis associated with longer PFS."
+ },
+ "pmid:40349194": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40347677": {
+  "relevance": "medium",
+  "reason": "Thyroid dose and thyroid dysfunction with CRT then immunotherapy."
+ },
+ "pmid:40346687": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40343593": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40341960": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40337607": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40336674": {
+  "relevance": "medium",
+  "reason": "Prospective WJOG12019L (n=32): IMRT for LA-NSCLC in the immunotherapy era."
+ },
+ "pmid:40330874": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40330721": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40326276": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40326268": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40326025": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40322548": {
+  "relevance": "medium",
+  "reason": "Perioperative nintedanib for lung resection in IPF patients."
+ },
+ "pmid:40318982": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40318943": {
+  "relevance": "medium",
+  "reason": "Outcomes and toxicity of ≥3 thoracic RT courses (n=51)."
+ },
+ "pmid:40313962": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40311519": {
+  "relevance": "medium",
+  "reason": "Multicentre case-control: radiation toxicity in NSCLC with undiagnosed ILD."
+ },
+ "pmid:40309697": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40309669": {
+  "relevance": "medium",
+  "reason": "NCDB (n=22,945): upstaging and survival with segmentectomy vs lobectomy in cT1c."
+ },
+ "nct:NCT06987890": {
+  "relevance": "medium",
+  "reason": "Registration (n=64): geriatric assessment in older adults undergoing SBRT."
+ },
+ "nct:NCT06952894": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT06966583": {
+  "relevance": "medium",
+  "reason": "Phase 1 registration: NAD+ (NMN) supplement with radioimmunotherapy."
+ },
+ "nct:NCT07005401": {
+  "relevance": "medium",
+  "reason": "Prospective registry (n=1,064) on feasibility and margin quality of sublobar resection."
+ },
+ "nct:NCT06996249": {
+  "relevance": "medium",
+  "reason": "Dutch national prospective data collection initiative on thoracic malignancies (n=12,000)."
+ },
+ "pmid:40562407": {
+  "relevance": "medium",
+  "reason": "Danish nationwide cohort: cancer risk after tuberculosis in people with HIV, including lung."
+ },
+ "pmid:40555561": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40537185": {
+  "relevance": "medium",
+  "reason": "Nordic population cohort: cardiovascular disease risk in cancer survivors after systemic treatment."
+ },
+ "pmid:40507353": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40493189": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40478536": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40473341": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40423022": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40346136": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40342484": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40341939": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40326864": {
+  "relevance": "medium",
+  "reason": "Danish nationwide mapping of pleural mesothelioma (n=3,105) identifying high-risk parishes."
+ },
+ "pmid:40574416": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40543509": {
+  "relevance": "high",
+  "reason": "UCPVax telomerase-derived CD4 helper peptide vaccine (phase 1/2, n=60 advanced lung cancer, Cell Rep Med): induces polyfunctional Th1 responses and epitope spreading linked to antitumour immunity; immunological data from a small trial."
+ },
+ "pmid:40436854": {
+  "relevance": "high",
+  "reason": "First-in-human phase 1/2 of TEIPP24 synthetic long peptide vaccine in HLA-A2+ NSCLC progressing after checkpoint blockade (Nat Commun); dose escalation with extension cohort, early clinical data."
+ },
+ "pmid:40427006": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40402283": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40399508": {
+  "relevance": "medium",
+  "reason": "Nat Cancer research brief on clonal T-cell loss and neoantigen escape as resistance to TIL therapy in lung cancer."
+ },
+ "pmid:40382521": {
+  "relevance": "medium",
+  "reason": "Preclinical: NDV-anti-VEGFR2 oncolytic virus radiosensitises NSCLC."
+ },
+ "pmid:40381620": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40361336": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40341231": {
+  "relevance": "high",
+  "reason": "Time-serial analysis of a lung cancer TIL therapy trial (Nat Cancer): non-responders show dysfunctional tumour-reactive clonotypes and impaired T-cell and neoantigen retention; mechanistic, small trial."
+ },
+ "pmid:40575174": {
+  "relevance": "medium",
+  "reason": "SII and checkpoint inhibitor pneumonitis risk."
+ },
+ "pmid:40566074": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40559389": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40552075": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40549047": {
+  "relevance": "medium",
+  "reason": "Nationwide PSM (743 per cohort): MACE with ICIs in lung cancer (4.0% at 180 days)."
+ },
+ "pmid:40535088": {
+  "relevance": "medium",
+  "reason": "Older patients with PD-L1-low NSCLC (n=613): ICI-chemo vs chemo outcomes."
+ },
+ "pmid:40535086": {
+  "relevance": "medium",
+  "reason": "PSM: omitting CTV in RT for LA-NSCLC."
+ },
+ "pmid:40520165": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40516211": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40503034": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40491923": {
+  "relevance": "medium",
+  "reason": "FAERS nivolumab pharmacovigilance."
+ },
+ "pmid:40491472": {
+  "relevance": "medium",
+  "reason": "Penetrance of ILD and lung cancer in SFTPA1/SFTPA2 carriers."
+ },
+ "pmid:40463493": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40436917": {
+  "relevance": "medium",
+  "reason": "FAERS/JADER pemetrexed safety."
+ },
+ "pmid:40416114": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40412103": {
+  "relevance": "medium",
+  "reason": "Retrospective (n=52): ILD after ICIs following talc pleurodesis (32.7%)."
+ },
+ "pmid:40404479": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40402289": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40380076": {
+  "relevance": "medium",
+  "reason": "Segmental bronchial dose and radiation pneumonitis progression (n=135)."
+ },
+ "pmid:40369244": {
+  "relevance": "medium",
+  "reason": "Lung cancer contribution to mortality in fibrosing idiopathic interstitial pneumonia."
+ },
+ "pmid:40366708": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40349653": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40343251": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40336972": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40316638": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40307389": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40579340": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40578983": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40578509": {
+  "relevance": "medium",
+  "reason": "Mesothelioma TME groups by BAP1/CDKN2A/MTAP/NF2 status and immunotherapy outcomes (n=113)."
+ },
+ "pmid:40578418": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40578061": {
+  "relevance": "medium",
+  "reason": "NCDB (n=40,488): peritoneal vs pleural mesothelioma outcomes."
+ },
+ "pmid:40576320": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40569849": {
+  "relevance": "medium",
+  "reason": "Multicentre ICI myocarditis risk score (n=748, Eur Heart J)."
+ },
+ "pmid:40569687": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40568789": {
+  "relevance": "medium",
+  "reason": "Chinese expert consensus on subxiphoid/subcostal thoracoscopic thymoma resection."
+ },
+ "pmid:40568242": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40566743": {
+  "relevance": "medium",
+  "reason": "MTAP loss not an accurate surrogate for CDKN2A deletion in peritoneal mesothelioma."
+ },
+ "pmid:40565838": {
+  "relevance": "medium",
+  "reason": "Systematic review of HITHOC for thymic epithelial tumours."
+ },
+ "pmid:40563042": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40560500": {
+  "relevance": "high",
+  "reason": "Consensus guideline for management of peritoneal mesothelioma (modified Delphi, ~100 experts, Ann Surg Oncol); the record does not state what changed."
+ },
+ "pmid:40559922": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40559443": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40559230": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40558081": {
+  "relevance": "high",
+  "reason": "Commentary on the US national consensus guideline for peritoneal mesothelioma management (Cancer); companion to the guideline."
+ },
+ "pmid:40558027": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40558001": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40556257": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40555979": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40555272": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40554686": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40553894": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40552009": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40551322": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40547861": {
+  "relevance": "medium",
+  "reason": "Outcomes after thymectomy in thymomatous vs non-thymomatous myasthenia."
+ },
+ "pmid:40547858": {
+  "relevance": "medium",
+  "reason": "Case series: nivolumab-ipilimumab retreatment in mesothelioma after durable response."
+ },
+ "pmid:40547416": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40546842": {
+  "relevance": "medium",
+  "reason": "Network meta-analysis (58 studies) of thymectomy approaches."
+ },
+ "pmid:40546834": {
+  "relevance": "medium",
+  "reason": "Intrathyroidal thymic carcinoma cohort (n=43)."
+ },
+ "pmid:40546549": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40544865": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40544502": {
+  "relevance": "medium",
+  "reason": "Fibulin-3 in plasma and effusion as mesothelioma biomarker."
+ },
+ "pmid:40544117": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40541471": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40540698": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40540697": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40536562": {
+  "relevance": "medium",
+  "reason": "Multicentre robotic thymectomy for large thymomas (n=301)."
+ },
+ "pmid:40532819": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40532498": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40530509": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40530124": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40526876": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40525709": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40525260": {
+  "relevance": "medium",
+  "reason": "NCDB: characteristics of long-term survivors with peritoneal mesothelioma."
+ },
+ "pmid:40522261": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40520864": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40520135": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40519935": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40519393": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40519379": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40518531": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40516516": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40515516": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40514418": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40507269": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40506895": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40506494": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40504606": {
+  "relevance": "medium",
+  "reason": "Review of therapeutic options for metastatic thymic epithelial tumours."
+ },
+ "pmid:40503933": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40502637": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of exhaled VOCs for mesothelioma diagnosis (8 studies, n=859)."
+ },
+ "pmid:40501447": {
+  "relevance": "high",
+  "reason": "Randomised study in unresectable pleural mesothelioma: maintenance gemcitabine vs supportive care improved PFS (8.9 vs 5.2 months, p=0.022), not significant in multivariate analysis; small, single-country, chemotherapy-era comparator."
+ },
+ "pmid:40500437": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40500108": {
+  "relevance": "medium",
+  "reason": "Low-dose photodynamic therapy induces E-selectin and immune infiltration in NSCLC and mesothelioma models."
+ },
+ "pmid:40499586": {
+  "relevance": "high",
+  "reason": "NCCN Guidelines for thymomas and thymic carcinomas, version 2.2025; the abstract does not state which recommendations changed."
+ },
+ "pmid:40498282": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40496871": {
+  "relevance": "medium",
+  "reason": "Case series (n=8) of tislelizumab + chemotherapy in advanced thymic epithelial tumours."
+ },
+ "pmid:40495024": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40493253": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40492298": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40491307": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40490083": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40489775": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40488328": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40487709": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40487462": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40487392": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40486487": {
+  "relevance": "medium",
+  "reason": "Real-world health utility and symptom scores in advanced mesothelioma (n=262)."
+ },
+ "pmid:40484892": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40484290": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40483770": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40476450": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40475198": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40474647": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40471087": {
+  "relevance": "medium",
+  "reason": "Inflammatory markers prognostic in thymic epithelial tumours."
+ },
+ "pmid:40470605": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40468511": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40467556": {
+  "relevance": "high",
+  "reason": "Prospective single-arm phase 2 (Nat Commun): cytoreductive surgery + hyperthermic intrathoracic chemotherapy for thymic epithelial tumours with pleural spread or recurrence; small, no comparator."
+ },
+ "pmid:40464763": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40464409": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40464221": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40463607": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40463358": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40462856": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40462315": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40461290": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40459529": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40458540": {
+  "relevance": "high",
+  "reason": "Phase 2 (n=33): neoadjuvant concurrent chemoradiotherapy for locally advanced high-grade thymic tumours, ORR 48.5%; single-arm."
+ },
+ "pmid:40458392": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40456188": {
+  "relevance": "medium",
+  "reason": "Japanese multicentre real-world lenvatinib in previously treated thymic carcinoma (n=87)."
+ },
+ "pmid:40452836": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40452440": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40452185": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40451503": {
+  "relevance": "medium",
+  "reason": "Korean national study (n=3,611): surgery for thymic malignancy and non-thymic malignancy incidence."
+ },
+ "pmid:40442466": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40441770": {
+  "relevance": "medium",
+  "reason": "Protocol of first multicentre RCT of robotic vs VATS thymectomy for stage I-II TET."
+ },
+ "pmid:40441196": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40441085": {
+  "relevance": "medium",
+  "reason": "Preclinical: cisplatin induces PD-L1 more than pemetrexed in mesothelioma."
+ },
+ "pmid:40440611": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40439345": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40439143": {
+  "relevance": "medium",
+  "reason": "Preclinical: VEGFR2 + PD-L1 co-targeting improves survival in mesothelioma models."
+ },
+ "pmid:40438686": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40438677": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40438058": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40434678": {
+  "relevance": "medium",
+  "reason": "Review of therapeutic management of metastatic thymic tumours."
+ },
+ "pmid:40433811": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40433487": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40432497": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40430927": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40428290": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40427901": {
+  "relevance": "medium",
+  "reason": "Colombian national mesothelioma mortality trends 1997-2022."
+ },
+ "pmid:40427571": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40422825": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40421186": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40421185": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40418396": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40416965": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40413771": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40413705": {
+  "relevance": "medium",
+  "reason": "Multicentre PD-L1 expression in resected thymomas."
+ },
+ "pmid:40413333": {
+  "relevance": "medium",
+  "reason": "Systematic review of national guidelines for CRS/HIPEC including mesothelioma."
+ },
+ "pmid:40413086": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40412248": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40407896": {
+  "relevance": "medium",
+  "reason": "Postoperative therapy patterns in completely resected thymic carcinoma (n=120)."
+ },
+ "pmid:40407381": {
+  "relevance": "medium",
+  "reason": "KEYNOTE-A17 phase 1b: first-line pembrolizumab + cisplatin-pemetrexed in Japanese pleural mesothelioma."
+ },
+ "pmid:40407173": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40404863": {
+  "relevance": "medium",
+  "reason": "Long-term asbestos cohort: cumulative exposure predicts pleuropulmonary outcomes."
+ },
+ "pmid:40400973": {
+  "relevance": "medium",
+  "reason": "Single-centre PORT for invasive thymic epithelial tumours (n=211), no OS benefit."
+ },
+ "pmid:40400943": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40400800": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40399532": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40398085": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40396518": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40393365": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40392657": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40390386": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40389217": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40387507": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40387057": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40386627": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40382268": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40381573": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40380246": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40379571": {
+  "relevance": "medium",
+  "reason": "Australian population cohort of thymic epithelial tumour incidence and survival (n=497)."
+ },
+ "pmid:40378591": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40377434": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40372588": {
+  "relevance": "medium",
+  "reason": "Single-centre (n=143): TILs prognostic in peritoneal mesothelioma."
+ },
+ "pmid:40371065": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40368789": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40366475": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40363722": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40362535": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40362314": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40361508": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40360002": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40357453": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40356916": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40356427": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40355086": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40348483": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40347402": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40339489": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40338466": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40338166": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40337057": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40337050": {
+  "relevance": "medium",
+  "reason": "INDEPSO-ISPSM consensus methodology on peritoneal malignancies."
+ },
+ "pmid:40336850": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40334289": {
+  "relevance": "medium",
+  "reason": "Lung Cancer review of advanced thymic malignancy management."
+ },
+ "pmid:40331601": {
+  "relevance": "medium",
+  "reason": "Preclinical: PD-1 blockade counters surgery-induced immunosuppression with PDT in mesothelioma."
+ },
+ "pmid:40330719": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40330553": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40330366": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40328968": {
+  "relevance": "medium",
+  "reason": "Prednisone modulation of TEMRA cells in inoperable type B thymoma."
+ },
+ "pmid:40327427": {
+  "relevance": "medium",
+  "reason": "Single-centre radical surgery for mesothelioma with/without chemotherapy."
+ },
+ "pmid:40327098": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40326234": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40325958": {
+  "relevance": "medium",
+  "reason": "FDG PET/CT in initial staging of peritoneal mesothelioma."
+ },
+ "pmid:40324834": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40323520": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40323386": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40322404": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40322301": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40321214": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40320172": {
+  "relevance": "high",
+  "reason": "Prospective multicentre phase 2 (n=40, J Thorac Oncol): perioperative efgartigimod for thymoma-associated myasthenia gravis around thymectomy; single-arm."
+ },
+ "pmid:40318154": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40315299": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40308021": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:40307075": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT06971848": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07006727": {
+  "relevance": "high",
+  "reason": "New Novartis phase 1 registration (n=116): DLL3-targeted radioligand [225Ac]Ac-ETN029 in DLL3-expressing solid tumours (relevant to SCLC/NEC)."
+ },
+ "nct:NCT06980077": {
+  "relevance": "high",
+  "reason": "New phase 2 registration (UCLA, n=25): ivonescimab for thymic cancer."
+ }
+}
