@@ -1,0 +1,114 @@
+{
+ "pmid:42862446": {
+  "relevance": "low",
+  "reason": "Small retrospective single-centre TKI series (n=31) in brain metastases; hypothesis-generating only."
+ },
+ "pmid:42862216": {
+  "relevance": "medium",
+  "reason": "Narrative review of ADCs (HER2, TROP2, DLL3) in NSCLC/SCLC; no new data."
+ },
+ "pmid:42861401": {
+  "relevance": "low",
+  "reason": "Bioinformatic M2-macrophage signature for osimertinib resistance from 6 patients; preclinical."
+ },
+ "pmid:42861248": {
+  "relevance": "low",
+  "reason": "Systematic review of spectral CT for EGFR prediction; diagnostic imaging, not treatment."
+ },
+ "pmid:42860885": {
+  "relevance": "medium",
+  "reason": "Plain-language summary of HERTHENA-Lung01 (HER3-DXd, pretreated EGFR-mutant NSCLC); no new data."
+ },
+ "pmid:42860856": {
+  "relevance": "medium",
+  "reason": "Plain-language summary of zongertinib development in HER2-mutant NSCLC; no new data."
+ },
+ "pmid:42860291": {
+  "relevance": "low",
+  "reason": "Single case report of uterine metastasis from EGFR L858R adenocarcinoma."
+ },
+ "pmid:42862717": {
+  "relevance": "medium",
+  "reason": "Single-arm phase II (n=30) of neoadjuvant cis/pem/bev, CRR 83%; feasibility only, pre-immunotherapy-era regimen."
+ },
+ "pmid:42863103": {
+  "relevance": "high",
+  "reason": "Large prospective-cohort blood-test risk model (CPH-Lung) beating PLCOm2012 for 6-year lung cancer risk (AUC 0.783 vs 0.720) in Danish ever-smokers; relevant to screening selection, needs external validation and a screening-outcome test."
+ },
+ "pmid:42862449": {
+  "relevance": "low",
+  "reason": "Small retrospective (n=63) muscle-loss association with recurrence; wide CI, hypothesis-generating."
+ },
+ "pmid:42862260": {
+  "relevance": "low",
+  "reason": "Dietary antioxidant index and lung cancer risk; observational nutrition epidemiology."
+ },
+ "pmid:42862087": {
+  "relevance": "low",
+  "reason": "Mouse-model TCR-T sensitivity study; preclinical."
+ },
+ "doi:10.64898/2026.10.09.758046": {
+  "relevance": "low",
+  "reason": "Preprint on histology spatial statistics; no clinical relevance to criteria."
+ },
+ "pmid:42860233": {
+  "relevance": "medium",
+  "reason": "Review update on RAS inhibitors (KRAS G12C and others); no new data."
+ },
+ "pmid:42862283": {
+  "relevance": "high",
+  "reason": "Real-world retrospective cohort (n=199) of consolidative thoracic RT after first-line chemo-immunotherapy in ES-SCLC: longer PFS/OS with cTRT without more severe toxicity; confounded by selection, needs RAPID/prospective confirmation."
+ },
+ "pmid:42860723": {
+  "relevance": "medium",
+  "reason": "Spatial transcriptomics atlas of 16 SCLC specimens showing heterogeneity and an MMP12+ macrophage niche; small, preclinical."
+ },
+ "pmid:42861170": {
+  "relevance": "low",
+  "reason": "YOLOv8 nodule-detection algorithm study; technical."
+ },
+ "pmid:42862509": {
+  "relevance": "medium",
+  "reason": "Japanese registry (n=3532) shows no significant difference in U-VATS complications by surgeon certification; surgical quality, observational."
+ },
+ "pmid:42861566": {
+  "relevance": "medium",
+  "reason": "Pathology study (n=116) of extra-alveolar invasion as prognostic factor after sublobar resection; small, 10 recurrences."
+ },
+ "pmid:42861053": {
+  "relevance": "low",
+  "reason": "Commentary on tumour position in free-breathing SBRT; no abstract."
+ },
+ "pmid:42861014": {
+  "relevance": "low",
+  "reason": "Surgical technique video, uniportal S4 segmentectomy."
+ },
+ "pmid:42860991": {
+  "relevance": "low",
+  "reason": "Editorial on segmentectomy quality assurance; no abstract."
+ },
+ "pmid:42860972": {
+  "relevance": "low",
+  "reason": "Editorial on uniportal segmentectomy implementation; no abstract."
+ },
+ "pmid:42860931": {
+  "relevance": "medium",
+  "reason": "Retrospective Lebanese cohort (n=92) of consolidation ICI after CRT in stage III NSCLC; PFS 19.0 vs 10.0 months, not significant (HR 0.53, 0.26-1.11); small, confirms established standard."
+ },
+ "doi:10.64898/2026.10.10.756030": {
+  "relevance": "low",
+  "reason": "Preprint, CAR-T binding kinetics in mice; preclinical."
+ },
+ "doi:10.64898/2026.10.09.757939": {
+  "relevance": "low",
+  "reason": "Preprint, T-DXd in melanoma models; preclinical, not lung."
+ },
+ "url:https://www.ema.europa.eu/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-cejemly-emavr0000261157_en.pdf": {
+  "relevance": "high",
+  "reason": "EMA CHMP positive opinion for sugemalimab (Cejemly) in unresectable stage III NSCLC after chemoradiotherapy (found only via search listing, October 2025, exact date and EC decision not in item); regulatory but old and details not verifiable from the item, so rated HIGH rather than practice-changing."
+ },
+ "url:https://www.helsedirektoratet.no/retningslinjer/lungekreft-mesoteliom-og-thymom-handlingsprogram/prosess-og-metode-for-utarbeiding-av-retningslinjene": {
+  "relevance": "high",
+  "reason": "Helsedirektoratet national lung cancer/mesothelioma/thymoma programme page listing 2026 revisions (carboplatin preferred platinum, FLAURA2 regimen preferred EGFR+ first-line); a national guideline change, but the item holds no recommendation text or version, so rated HIGH rather than practice-changing."
+ }
+}
