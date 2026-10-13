@@ -1,0 +1,223 @@
+[
+  {
+    "source": "pubmed",
+    "pmid": "39718058",
+    "doi": "10.1016/j.intimp.2024.113918",
+    "pmcid": "",
+    "title": "Ansofaxine suppressed NSCLC progression by increasing sensitization to combination immunotherapy.",
+    "authors": "Gui H, Nie Y, Yuan H et al.",
+    "journal": "Int Immunopharmacol",
+    "year": "2025",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRODUCTION: Depression negatively impacts the prognosis of various cancers, including lung cancer, by influencing antitumor immune responses and impairing immune cell function. Antidepressants may modulate the tumor immune microenvironment, enhancing immunotherapy efficacy. However, the specific mechanisms remain unclear. This study investigates the effects of the antidepressant Ansofaxine on immune therapy in non-small cell lung cancer (NSCLC) mice with comorbid depression.\nMETHODS: Chronic unpredictable mild stress (CUMS) and Lewis lung cancer cells (LLC) model was established in mice. Ansofaxine and a combination of triple immunotherapy (anti-PD-1, anti-TNFR2, and anti-PTP1B) were treated in mice to monitor tumor growth and survival rates. Flow cytometry and immunohistochemistry were employed to analyze the dynamics of the immune system, while ELISA kits were used to quantify neurotransmitter levels.\nRESULTS: Depression accelerated NSCLC progression, evidenced by increased tumor volume, spleen size, and reduced survival rates. Flow cytometry analysis demonstrated a reduction in the population of immune effector cells, with an increase in the proportion of immunosuppressive cells. Ansofaxine inhibited LLC cell proliferation and migration, enhancing apoptosis more effectively than venlafaxine and fluoxetine. Combined with triple immunotherapy, Ansofaxine improved survival rates and enhanced immune responses, increasing CD8+ T cell proportions and decreasing Tregs. Ansofaxine also restored serum serotonin and norepinephrine levels in depressed mice, reduced corticosterone, and decreased PD-L1 and TNFR2 expression in tumor tissues.\nCONCLUSION: The findings suggest that Ansofaxine may represent a promising therapeutic approach for NSCLC patients with comorbid depression, potentially enhancing both mental well-being and cancer-related outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39718058/",
+    "searches": [
+      "lung-repurposed"
+    ],
+    "keys": [
+      "pmid:39718058",
+      "doi:10.1016/j.intimp.2024.113918"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "39712244",
+    "doi": "10.3389/fmolb.2024.1502509",
+    "pmcid": "PMC11659147",
+    "title": "Identification of genetic associations between acute myocardial infarction and non-small cell lung cancer.",
+    "authors": "Zheng H, Wang J, Zheng Y et al.",
+    "journal": "Front Mol Biosci",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRODUCTION: A growing body of evidence suggests a potential connection between myocardial infarction (MI) and lung cancer (LC). However, the underlying pathogenesis and molecular mechanisms remain unclear. This research aims to identify common genes and pathways between MI and LC through bioinformatics analysis.\nMETHODS: Two public datasets (GSE166780 and GSE8569) were analyzed to identify differentially expressed genes (DEGs). Common DEGs were enriched using Gene Ontology (GO) and the Kyoto Encyclopedia of Genes and Genomes (KEGG). Hub genes were identified and their diagnostic performance was evaluated. Gene co-expression networks, as well as regulatory networks involving miRNA-hub genes and TF-hub genes, were also constructed. Finally, candidate drugs were predicted.\nRESULTS: Among the datasets, 34 common trend DEGs were identified. Enrichment analysis linked these DEGs to key biological processes, cellular components, and molecular functions. Eight hub genes (CEBPA, TGFBR2, EZH2, JUNB, JUN, FOS, PLAU, COL1A1) were identified, demonstrating promising diagnostic accuracy. Key transcription factors associated with these hub genes include SP1, ESR1, CREB1, ETS1, NFKB1, and RELA, while key miRNAs include hsa-mir-101-3p, hsa-mir-124-3p, hsa-mir-29c-3p, hsa-mir-93-5p, and hsa-mir-155-5p. Additionally, potential therapeutic drugs were identified, with zoledronic acid anhydrous showing potential value in reducing the co-occurrence of the two diseases.\nDISCUSSION: This study identified eight common signature genes shared between NSCLC and AMI. Validation datasets confirmed the diagnostic value of key hub genes COL1A1 and PLAU. These findings suggest that shared hub genes may serve as novel therapeutic targets for patients with both diseases. Ten candidate drugs were predicted, with zoledronic acid showing potential for targeting dual hub genes, offering a promising therapeutic approach for the comorbidity of lung cancer and myocardial infarction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39712244/",
+    "searches": [
+      "lung-repurposed"
+    ],
+    "keys": [
+      "pmid:39712244",
+      "doi:10.3389/fmolb.2024.1502509"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "39695477",
+    "doi": "10.1186/s12885-024-13284-5",
+    "pmcid": "PMC11657706",
+    "title": "Evaluate the renal system damage caused by zoledronic acid: a comprehensive analysis of adverse events from FAERS.",
+    "authors": "Wang Z, Su X, Shi D et al.",
+    "journal": "BMC Cancer",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Zoledronic acid (ZA) is widely used for the treatment of osteolytic bone metastases in malignancies and osteoporosis, but it has been associated with renal impairment. In this study, we investigated adverse events (AEs) related to renal and urinary system diseases associated with ZA using the U. S. FDA's Adverse Event Reporting System.\nMETHODS: We collected FAERS data from Q1 2004 to Q1 2024 and used the reporting odds ratio to detect AEs related to renal and urinary system diseases associated with ZA. Additionally, we applied multiple algorithms, including ROR, proportional reporting ratio, bayesian confidence propagation neural network, and multi-item gamma poisson shrinker, to quantify renal and urinary AEs under different indications.\nRESULTS: A total of 52,495 AE reports involving ZA as the primary suspect drug were identified. Among renal and urinary system diseases, 25 distinct AEs were recognized, with renal tubular necrosis being the most frequently reported. For different indications, renal tubular necrosis was the most reported AE in breast cancer and osteoporosis; nephrogenic diabetes insipidus was both the most frequent and strongest signal in lung cancer; proteinuria was most common in multiple myeloma, and polyuria in prostate cancer. Furthermore, most AEs occurred in patients who had been on ZA for more than 360 days, followed by those within the first 30 days of use.\nCONCLUSION: Based on pharmacovigilance data from FAERS, different renal and urinary system AEs should be closely monitored and addressed according to the specific indications for which ZA is used.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39695477/",
+    "searches": [
+      "lung-repurposed"
+    ],
+    "keys": [
+      "pmid:39695477",
+      "doi:10.1186/s12885-024-13284-5"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "39681063",
+    "doi": "10.1016/j.intimp.2024.113806",
+    "pmcid": "",
+    "title": "Rabeprazole inhibits lung cancer progression by triggering NLRP3/CASP-1/caspase-dependent pyroptosis.",
+    "authors": "Liu C, Sun R, Wang H et al.",
+    "journal": "Int Immunopharmacol",
+    "year": "2025",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Gastric acid-related diseases could be treated using proton pump inhibitors (PPIs), which have been found to have anti-tumor ability. Rabeprazole is a type of PPI whose effect and mechanism in lung cancer remained to be clarified.\nMETHODS: Lung cancer cells and lung cancer mice were treated with different concentrations of Rabeprazole and then cell proliferation was detected by CCK-8 and colony formation assays. Pyroptosis was assessed by morphological observation and Lactate dehydrogenase (LDH) release assays. Western blot, immunofluorescence and immunohistochemistry were adopted to detect the expressions of GSDMD and NLRP3. Reactive oxygen species (ROS) level, lysosomal damage and autophagic flux were measured by flow cytometry.\nRESULTS: Rabeprazole suppressed lung cancer cell proliferation and lung tumor growth in mice in a concentration-dependent manner. Lung cancer cells treated with Rabeprazole showed typical pyroptosis morphology and significantly increased LDH release. Rabeprazole upregulated the expression of GSDMD, NLRP3, and cleaved-Caspase 1, but such an effect was partially blocked by Z-LLSD-FMK. In lung cancer cells treated with Rabeprazole and lung cancer mice injected with Rabeprazole, the expressions of GSDMD, NLRP3 and caspase-1 were promoted, ROS-stained cells were increased significantly, lysosomal damage was aggravated, and autophagic flux was noticeably reduced.\nCONCLUSIONS: Rabeprazole activated NLRP3/caspase 1/GSDMD cascade by promoting ROS accumulation and lysosomal destruction, thereby inducing pyroptosis to fulfill its anti-tumor effect on lung cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39681063/",
+    "searches": [
+      "lung-repurposed"
+    ],
+    "keys": [
+      "pmid:39681063",
+      "doi:10.1016/j.intimp.2024.113806"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "39648704",
+    "doi": "10.1177/10781552241303997",
+    "pmcid": "",
+    "title": "Acute renal failure during treatment with Zoledronate in cancer patients.",
+    "authors": "Ben Kridis W, Amor MB, Khanfir A",
+    "journal": "J Oncol Pharm Pract",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BackgroundStandard treatment for bone metastases is based on bisphosphonates such as zoledronic acid. The objective of this study was to evaluate the incidence of acute renal failure during treatment with Zoledronate and to analyze its correlated factors.Materials and methodsThis is a retrospective study carried out at the medical oncology department of Habib Bourguiba University Hospital in Sfax, between January 2022 and March 2022. The creatinine dosage was carried out using the Jaffe-type colorimetric method. Acute renal failure was defined by the Kidney disease Improving Global Outcomes criteria.Results48 patients were included. The average age was 56.9 ± 10.7 years with a sex ratio (M/F) equal to 0.5. The average weight of the patients was equal to 68.5 ± 16.4 kg. 62.5% of patients were followed for breast cancer, 12.5% had lung cancer and 12.5% had prostate adenocarcinoma. The mean serum creatinine before the start of treatment was equal to 74.3 ± 34.3 µmol/l 50.84 ± 0.11 mg/dl). The mean pre-therapeutic clearance was 94.1 ± 40.2 ml/min with 4 cases of moderate renal impairment (8.3%). Acute renal failure according to KDIGO during treatment with Zoledronic acid was observed in 9 cases (18.8%), thus requiring a dose reduction. Acute renal failure was significantly associated initial clearance <60 ml/min and low weight of 53.44 kg (p = 0.003 and p = 0.01 respectively), in multivariate analysis.ConclusionOur study concluded that factors associated with acute renal failure were low weight and clearance less than 60 ml/min.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39648704/",
+    "searches": [
+      "lung-repurposed"
+    ],
+    "keys": [
+      "pmid:39648704",
+      "doi:10.1177/10781552241303997"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "39592438",
+    "doi": "10.1002/1878-0261.13763",
+    "pmcid": "PMC12161466",
+    "title": "Crosstalk between gut microbiota and tumor: tumors could cause gut dysbiosis and metabolic imbalance.",
+    "authors": "Zhang S, Wen H, Chen Y et al.",
+    "journal": "Mol Oncol",
+    "year": "2025",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Gut microbiota has a proven link with the development and treatment of cancer. However, the causality between gut microbiota and cancer development is still unknown and deserves exploration. In this study, we aimed to explore the alterations in gut microbiota in murine tumor models and the crosstalk between the tumor and the gut microbiota. The subcutaneous and intravenous murine tumor models using both the colorectal cancer cell line MC38 and lung cancer cell line LLC were constructed. Then fecal samples before and after tumor inoculation were collected for whole metagenomics sequencing. Both subcutaneous and metastatic tumors markedly elevated the α-diversity of the gut microbiota. Relative abundance of Ligilactobacillus and Lactobacillus was reduced after subcutaneously inoculating tumor cells, whereas Bacteroides and Duncaniella were reduced in metastatic tumors, regardless of tumor type. At the species level, Lachnospiraceae bacterium was enriched after both subcutaneous and intravenous tumors inoculation, whereas levels of Muribaculaceae bacterium Isolate-110 (HZI), Ligilactobacillus murinus and Bacteroides acidifaciens reduced. Metabolic function analysis showed that the reductive pentose phosphate cycle, urea cycle, ketone body biosynthesis, ectoine biosynthesis, C4-dicarboxylic acid cycle, isoleucine biosynthesis, inosine 5'-monophosphate (IMP), and uridine 5'-monophosphate (UMP) biosynthesis were elevated after tumor inoculation, whereas the cofactor and vitamin biosynthesis were deficient. Principal coordinates analysis (PCoA) showed that subcutaneous and metastatic tumors partially shared the same effect patterns on gut microbiota. Furthermore, fecal microbiota transplantation revealed that this altered microbiota could influence tumor growth. Taken together, this study demonstrated that both colorectal cancer (MC38) and non-colorectal cancer (LLC) can cause gut dysbiosis and metabolic imbalance, regardless of tumor type and process of tumor inoculation, and this dysbiosis influenced the tumor growth. This research gives novel insights into the crosstalk between tumors and the gut microbiota.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39592438/",
+    "searches": [
+      "lung-repurposed"
+    ],
+    "keys": [
+      "pmid:39592438",
+      "doi:10.1002/1878-0261.13763"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "39584048",
+    "doi": "10.1002/mco2.70018",
+    "pmcid": "PMC11586092",
+    "title": "Influence of gut and lung dysbiosis on lung cancer progression and their modulation as promising therapeutic targets: a comprehensive review.",
+    "authors": "Thapa R, Magar AT, Shrestha J et al.",
+    "journal": "MedComm (2020)",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Lung cancer (LC) continues to pose the highest mortality and exhibits a common prevalence among all types of cancer. The genetic interaction between human eukaryotes and microbial cells plays a vital role in orchestrating every physiological activity of the host. The dynamic crosstalk between gut and lung microbiomes and the gut-lung axis communication network has been widely accepted as promising factors influencing LC progression. The advent of the 16s rDNA sequencing technique has opened new horizons for elucidating the lung microbiome and its potential pathophysiological role in LC and other infectious lung diseases using a molecular approach. Numerous studies have reported the direct involvement of the host microbiome in lung tumorigenesis processes and their impact on current treatment strategies such as radiotherapy, chemotherapy, or immunotherapy. The genetic and metabolomic cross-interaction, microbiome-dependent host immune modulation, and the close association between microbiota composition and treatment outcomes strongly suggest that designing microbiome-based treatment strategies and investigating new molecules targeting the common holobiome could offer potential alternatives to develop effective therapeutic principles for LC treatment. This review aims to highlight the interaction between the host and microbiome in LC progression and the possibility of manipulating altered microbiome ecology as therapeutic targets.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39584048/",
+    "searches": [
+      "lung-repurposed"
+    ],
+    "keys": [
+      "pmid:39584048",
+      "doi:10.1002/mco2.70018"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "39563345",
+    "doi": "10.1186/s12931-024-03042-3",
+    "pmcid": "PMC11577718",
+    "title": "Therapeutic effects of melatonin on the lungs of rats exposed to passive smoking.",
+    "authors": "Xiong J, Xie L, Huang Y et al.",
+    "journal": "Respir Res",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Passive smoke has a significant impact on lung function and constitutes a critical public health issue, as smoking generates free radicals that damage the lungs and other tissues. Currently, limited research exists on whether the antioxidant melatonin can mitigate lung damage caused by smoking. This study aims to investigate the mechanisms through which melatonin alleviates acute lung disease induced by passive smoking.\nMETHODS: Rats were divided into five groups (n = 6): a control group and three groups exposed to low, medium, and high concentrations of smoke, and a melatonin treatment group.\nRESULTS: Data indicated that in the high concentration passive smoking group, the alveolar structure of the lung tissue was destroyed, and the total antioxidant capacity in lung tissue diminished as the concentration of smoke increased. The expressions of TNF-α, IL-6, and IL-1β exhibited similar results. The anti-apoptotic factors Bcl-2 and Bcl-xL mRNA level significantly decreased in the high concentration smoking group, while no significant changes were observed in the medium and low concentration groups. Conversely, the high concentration passive smoking increased the pro-apoptotic factors Bax and Caspase-3 mRNA levels. Additionally, endogenous melatonin levels in lung tissue gradually decreased following exposure to smoke, whereas the exogenous melatonin alleviated the changes in inflammatory factors and apoptosis-related factors in lung tissue. Furthermore, at high smoking concentrations, the mRNA levels of lung cancer-related genes vascular endothelial growth factor (VEGF), cytochromeP450 1A1 (CYP1A1), and cytochrome P450 1B1 (CYP1B1) were significantly increased, while exogenous melatonin reduced the expression of these genes in lung tissue.\nCONCLUSIONS: These findings suggest that melatonin can diminish lung tissue damage, apoptosis, and inflammatory responses induced by passive smoking, as well as decrease the expression of lung cancer-related genes. Further experimental investigations involving exogenous melatonin treatments will be needed.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39563345/",
+    "searches": [
+      "lung-repurposed"
+    ],
+    "keys": [
+      "pmid:39563345",
+      "doi:10.1186/s12931-024-03042-3"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "39559447",
+    "doi": "10.1016/j.jtocrr.2024.100710",
+    "pmcid": "PMC11570302",
+    "title": "Antibiotic Use and Survival in Patients With Late-Stage NSCLC Treated With Chemoimmunotherapy.",
+    "authors": "Taioli E, Flores RM, Abdelhamid A et al.",
+    "journal": "JTO Clin Res Rep",
+    "year": "2024",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRODUCTION: Immunotherapy has improved survival in patients with advanced NSCLC. Efficacy may decrease when patients are treated with antibiotics, possibly due to gut microbiome disruption, but few studies have investigated this using real-world, patient-level populations in the United States.\nMETHODS: We have analyzed antibiotic use in patients with stage IV first, primary NSCLC diagnosed in 2015 and treated with chemotherapy or chemoimmunotherapy, drawn from the Surveillance, Epidemiology, and End Results-Medicare data set. Patients had to have continuous part A, part B, and part D Medicare coverage. Survival was determined through Kaplan-Meier and Cox proportional hazards models. All data analyses were performed using SAS.\nRESULTS: The study included 788 patients, 440 (56%) of whom received antibiotics within 2 months before or after starting systemic treatment. The median follow-up time was 11.64 months. There was a statistically significant difference in survival for patients who received antibiotics (p = 0.007) and who had more than 1 round of antibiotics versus zero or 1 round (p < 0.0001). After adjustment, receipt of antibiotics (hazard ratio [HR]adj: 1.17, 95% confidence interval [CI]: 0.99-1.37) and receipt of multiple rounds of antibiotics (HRadj: 1.35, 95% CI: 1.14-1.60) were statistically significantly associated with worse survival. Among just those receiving chemoimmunotherapy (n = 203; 26%), there was still an increased risk of death for those receiving multiple antibiotic rounds (HRadj: 1.52, 95% CI: 1.09-2.13).\nCONCLUSIONS: Antibiotic use concurrent with chemoimmunotherapy seems to be associated with worse survival. This is more pronounced when more cycles of antibiotics are given.\nIRB APPROVAL NUMBER: STUDY-19-00500.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39559447/",
+    "searches": [
+      "lung-repurposed"
+    ],
+    "keys": [
+      "pmid:39559447",
+      "doi:10.1016/j.jtocrr.2024.100710"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "39531837",
+    "doi": "10.1016/j.colsurfb.2024.114372",
+    "pmcid": "",
+    "title": "Facultative probiotics enable improved tumor distribution and deep penetration of photosensitizer for enhanced photodynamic therapy.",
+    "authors": "Guo Y, Wan P, Xu Y et al.",
+    "journal": "Colloids Surf B Biointerfaces",
+    "year": "2025",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Photodynamic therapy (PDT) is an emerging cancer therapy known for its non-invasive approach and minimal side effects. However, the clinical effectiveness of PDT is limited by the poor distribution and penetration of photosensitizers (PS) in tumors. In this research, we developed a novel delivery system for PS, termed EWC, using the facultative probiotic Escherichia coli Nissle 1917 (EcN) as a carrier. Chlorin e6 (Ce6) was electrostatically adsorbed onto the surface of EcN with the assistance of water-soluble chitosan (WCS). EWC demonstrated effective photodynamic activity and was readily internalized by human lung cancer cells (A549). In vitro assays confirmed its low toxicity to mammalian cells and potent photodynamic cytotoxicity against A549 cells. Additionally, EWC penetrated tumor spheroids and inhibited their growth, as shown by 3D fluorescence imaging. In vivo tests revealed that EWC enhanced the distribution and accumulation of Ce6 at the tumor site, effectively inhibiting tumor growth under light stimulation. Moreover, EWC exhibited excellent biocompatibility in mice. This facultative probiotics-based delivery system significantly improves the efficiency of PDT, offering a promising approach for low-toxicity and high-efficiency tumor therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39531837/",
+    "searches": [
+      "lung-repurposed"
+    ],
+    "keys": [
+      "pmid:39531837",
+      "doi:10.1016/j.colsurfb.2024.114372"
+    ]
+  }
+]
