@@ -1,0 +1,62 @@
+{
+ "pmid:42888188": {
+  "relevance": "low",
+  "reason": "Preclinical FEN1/MUC1-C mechanism study in LUAD cells; no clinical data."
+ },
+ "pmid:42888178": {
+  "relevance": "medium",
+  "reason": "Expert-opinion review of sac-TMT in NSCLC; no new primary data, notes OS immature."
+ },
+ "pmid:42887497": {
+  "relevance": "high",
+  "reason": "Phase 1b FURTHER (n=47, randomised dose cohorts) firmonertinib in EGFR PACC-mutant NSCLC: ORR 43%/68%, mPFS 11.1/16.0 mo, IC-ORR 47%; small, non-comparative."
+ },
+ "pmid:42887496": {
+  "relevance": "medium",
+  "reason": "Cancer Cell commentary on the firmonertinib PACC study; no new data."
+ },
+ "pmid:42887461": {
+  "relevance": "high",
+  "reason": "Single-arm phase II LUCAS (n=86) lazertinib+chemo after lazertinib progression: mPFS 9.5 mo, mOS 15.9 mo, ORR 36%; no comparator."
+ },
+ "pmid:42887199": {
+  "relevance": "medium",
+  "reason": "Trial-in-progress design paper for JCOG2510 PRIME-CRT (induction chemo-IO before cCRT + durvalumab); no results."
+ },
+ "pmid:42887130": {
+  "relevance": "high",
+  "reason": "Pan-Asian adaptation of the 2025 ESMO early/locally advanced NSCLC guideline; adaptation of existing recommendations, not new evidence, so not rated practice-changing."
+ },
+ "pmid:42888622": {
+  "relevance": "low",
+  "reason": "Mendelian randomization of smoking and lung cancer subtypes; confirms known causal role."
+ },
+ "pmid:42888436": {
+  "relevance": "low",
+  "reason": "General review of mRNA-LNP therapeutics; not lung-specific."
+ },
+ "pmid:42887502": {
+  "relevance": "low",
+  "reason": "Preclinical CAR-T engineering (NKG2D); not lung-specific."
+ },
+ "pmid:42888565": {
+  "relevance": "low",
+  "reason": "Mendelian randomization oral microbiome and lung cancer; hypothesis-generating."
+ },
+ "pmid:42888057": {
+  "relevance": "medium",
+  "reason": "Retrospective NLST case series (n=91) of fatal cancers: 24% had visible suspicious nodules under Lung-RADS v2022; relevant to screening performance, small and outcome-enriched."
+ },
+ "pmid:42888302": {
+  "relevance": "medium",
+  "reason": "Narrative review of ctDNA in perioperative NSCLC; most uses remain investigational."
+ },
+ "pmid:42887072": {
+  "relevance": "medium",
+  "reason": "Single-centre retrospective (n=1020): lobectomy associated with higher non-lung-cancer death; confounded, retrospective."
+ },
+ "pmid:42887200": {
+  "relevance": "low",
+  "reason": "Retrospective single-centre thymic tumour disparity study (n=128); non-significant associations."
+ }
+}

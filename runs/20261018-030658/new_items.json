@@ -1,0 +1,348 @@
+[
+  {
+    "source": "pubmed",
+    "pmid": "42888188",
+    "doi": "10.1038/s41419-026-09260-5",
+    "pmcid": "",
+    "title": "Targeting FEN1 disrupts EIF4A3-mediated MUC1-C autoregulation: a novel strategy to suppress lung adenocarcinoma progression.",
+    "authors": "Wu M, Wu B, Yan X et al.",
+    "journal": "Cell Death Dis",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Flap endonuclease 1 (FEN1), a key enzyme in DNA metabolism, exhibits oncogenic properties in various cancers. However, its functional role and underlying mechanisms in lung adenocarcinoma (LUAD) progression and tumor immunity remain poorly defined. Here, we demonstrate that FEN1 is significantly upregulated in LUAD tissues and serves as an independent prognostic factor for poor survival. Genetic depletion of FEN1 suppressed LUAD cell proliferation by inducing G0/G1 cell cycle arrest and cellular senescence, while significantly impairing migration and invasion capabilities. Mechanistically, integrated proteomic and molecular analyses revealed that FEN1 knockdown disrupts the carboxyl-terminal subunit of mucin 1 (MUC1-C)/PI3K/AKT autoregulatory loop, a critical driver of oncogenic signaling. Furthermore, FEN1 downregulation inhibited the MUC1-C/p65/ programmed death-ligand 1 (PD-L1) signaling axis, thereby alleviating tumor-mediated immunosuppression. This was evidenced by enhanced antitumor immunity, characterized by the local expansion of CD4+ T cells and restored effector function of CD8+ T cells, both in vitro and in vivo. Mechanistically, independent of its nuclease activity, FEN1 interacts with the N-terminus of eukaryotic translation initiation factor 4A3 (EIF4A3) to facilitate its binding to MUC1-C mRNA. Specifically, FEN1 is required for EIF4A3-mediated maintenance of both the transcript stability and translation efficiency of MUC1-C. Clinically, FEN1, MUC1-C, and PD-L1 are coordinately upregulated in LUAD tissues, and their co-expression predicts poor patient survival irrespective of EGFR mutation status. Our findings establish the FEN1/EIF4A3/MUC1-C axis as a novel mechanism driving LUAD progression by concurrently regulating intrinsic malignancy and extrinsic immune evasion, presenting FEN1 targeting as a promising dual-hit therapeutic strategy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888188/",
+    "searches": [
+      "egfr-nsclc"
+    ],
+    "keys": [
+      "pmid:42888188",
+      "doi:10.1038/s41419-026-09260-5"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42888178",
+    "doi": "10.1080/14712598.2026.2742404",
+    "pmcid": "",
+    "title": "An evaluation of sacituzumab tirumotecan for the treatment of NSCLC.",
+    "authors": "Wang J, Zhou Y, Wu L",
+    "journal": "Expert Opin Biol Ther",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "INTRODUCTION: Non-small cell lung cancer (NSCLC) remains a leading cause of cancer-related mortality, and resistance to targeted therapy and immunotherapy represents a substantial unmet clinical need. Trophoblast cell-surface antigen 2 (TROP2)-directed antibody-drug conjugates (ADCs) have emerged as a promising therapeutic class.\nAREAS COVERED: This drug evaluation summarizes the pharmacological rationale, molecular design, preclinical activity, clinical efficacy, safety profile, and regulatory development of sacituzumab tirumotecan (sac-TMT; MK-2870/SKB264) in NSCLC. Relevant evidence was identified through searches of PubMed, ClinicalTrials.gov, major oncology congress proceedings, and regulatory announcements through 20 September 2026.\nEXPERT OPINION: Randomized trials have demonstrated improved progression-free survival (PFS) with sac-TMT versus docetaxel and platinum-pemetrexed chemotherapy in epidermal growth factor receptor (EGFR)-mutated advanced NSCLC after EGFR tyrosine kinase inhibitor (EGFR-TKI) progression. In advanced NSCLC without actionable driver alterations, sac-TMT plus pembrolizumab improved PFS versus pembrolizumab alone in programmed death-ligand 1 (PD-L1)-positive disease; however, overall survival (OS) remains immature, and superiority over contemporary chemoimmunotherapy has not been established. The principal clinically relevant toxicities are hematologic toxicity and stomatitis. Future studies should clarify predictive biomarkers, optimal treatment sequencing, intracranial activity, and generalizability, while generating mature survival and quality-of-life data.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888178/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-resistance-nextgen",
+      "lung-key-evidence"
+    ],
+    "keys": [
+      "pmid:42888178",
+      "doi:10.1080/14712598.2026.2742404"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42887497",
+    "doi": "10.1016/j.ccell.2026.09.011",
+    "pmcid": "",
+    "title": "Firmonertinib in advanced non-small cell lung cancer with epidermal growth factor receptor P-loop and αC-helix compressing mutations.",
+    "authors": "Le X, Wang J, Yu Y et al.",
+    "journal": "Cancer Cell",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "P-loop and αC-helix compressing (PACC) mutations comprise a structurally distinct subgroup of epidermal growth factor receptor (EGFR) mutations in non-small cell lung cancer (NSCLC) with limited treatment options. Firmonertinib is a once-daily oral, brain-penetrant, mutant-selective EGFR tyrosine kinase inhibitor with a unique trifluoroethoxy side chain. Firmonertinib had high anti-proliferative efficacy in EGFR PACC-mutant cells and xenografts. In the phase 1b FURTHER study (NCT05364073), patients with metastatic EGFR PACC-mutant NSCLC randomized to receive first-line firmonertinib 160 mg (n = 25) or 240 mg (n = 22) had confirmed objective response rates (ORRs) of 43% and 68%, median duration of response not reached and 14.6 months, and median progression-free survival of 11.1 and 16.0 months, respectively; treatment-related adverse events led to dose reductions (19% and 24%) and discontinuation (3% and 0%). Intracranial ORR among patients with brain metastases at baseline was 47% (8/17). Results support further study of first-line firmonertinib in patients with EGFR PACC-mutant NSCLC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42887497/",
+    "searches": [
+      "egfr-nsclc",
+      "lung-key-evidence",
+      "lung-top-journals"
+    ],
+    "keys": [
+      "pmid:42887497",
+      "doi:10.1016/j.ccell.2026.09.011"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42887496",
+    "doi": "10.1016/j.ccell.2026.08.003",
+    "pmcid": "",
+    "title": "One structural class, one treatment? Firmonertinib in PACC-mutant NSCLC.",
+    "authors": "Huang DD, Yang JC",
+    "journal": "Cancer Cell",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "EGFR PACC-mutant non-small cell lung cancer (NSCLC) has limited treatment options. In this issue of Cancer Cell, Le et al. report preclinical profiles and promising systemic and intracranial efficacy of the broad-spectrum CNS-penetrant tyrosine kinase inhibitor firmonertinib in PACC-mutant NSCLC, supporting its further clinical development in this challenging mutation class.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42887496/",
+    "searches": [
+      "egfr-nsclc",
+      "lung-top-journals"
+    ],
+    "keys": [
+      "pmid:42887496",
+      "doi:10.1016/j.ccell.2026.08.003"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42887461",
+    "doi": "10.1016/j.ejca.2026.117774",
+    "pmcid": "",
+    "title": "Lazertinib plus pemetrexed and carboplatin in patients with EGFR-mutant advanced non-small cell lung cancer after progression on lazertinib.",
+    "authors": "Hong MH, Shim BY, Kim CG et al.",
+    "journal": "Eur J Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Therapeutic strategies after progression on third-generation EGFR tyrosine kinase inhibitors (EGFR-TKIs) remain suboptimal in EGFR-mutant non-small cell lung cancer (NSCLC). We investigated whether continuing EGFR inhibition with lazertinib combined with platinum-pemetrexed chemotherapy could extend clinical benefit after progression on prior lazertinib.\nMETHODS: In the multicenter, single-arm, phase II LUCAS study (NCT05786430), patients with advanced EGFR-mutant NSCLC who had progressed on lazertinib received lazertinib 240 mg daily plus pemetrexed-carboplatin for four cycles, followed by maintenance lazertinib and pemetrexed. The primary endpoint was progression-free survival (PFS); secondary endpoints included overall survival (OS), objective response rate (ORR), intracranial PFS, safety, and exploratory ctDNA analyses.\nRESULTS: Of 86 patients, 46.5% had a history of brain metastases. Among 81 response-evaluable patients, median PFS was 9.5 months (95% CI: 6.3-9.6; one-sided p = 0.017 against a null median of 6.0 months). In the safety population, median OS was 15.9 months (95% CI: 12.4-20.0) and ORR was 36.0% (95% CI: 26.0-47.1). Outcomes were similar irrespective of prior lazertinib line or EGFR subtype. Baseline ctDNA-detected EGFR amplification was associated with inferior survival. Among 36 patients with radiologically evident baseline brain metastases, median intracranial PFS was 9.9 months (95% CI: 7.8-16.4) with infrequent isolated intracranial progression. Grade ≥ 3 adverse events occurred in 69.8%, predominantly hematologic, without new safety signals.\nCONCLUSIONS: Continuation of lazertinib with platinum-pemetrexed chemotherapy after progression on prior lazertinib was associated with meaningful systemic and intracranial activity and manageable toxicity. Randomized evaluation is required to establish the incremental benefit of lazertinib continuation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42887461/",
+    "searches": [
+      "egfr-nsclc",
+      "lung-key-evidence",
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:42887461",
+      "doi:10.1016/j.ejca.2026.117774"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42887199",
+    "doi": "10.1016/j.cllc.2026.09.007",
+    "pmcid": "",
+    "title": "A Randomized Phase III Trial of Concurrent Chemoradiotherapy Followed by Durvalumab Consolidation, With or Without Induction Chemo-Immunotherapy, in Patients With Unresectable Locally Advanced Non-Small Cell Lung Cancer: JCOG2510 (PRIME-CRT).",
+    "authors": "Kawabata K, Masuda K, Miura K et al.",
+    "journal": "Clin Lung Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Definitive concurrent chemoradiotherapy (cCRT) followed by durvalumab consolidation is the current standard of care for unresectable locally advanced non-small-cell lung cancer (LA-NSCLC). However, survival outcomes in this setting remain unsatisfactory. Although the PACIFIC trial improved outcomes, further intensification of systemic therapy may be required to improve long-term survival. Preclinical and perioperative clinical evidence suggests that introducing immunotherapy in the presence of an intact primary tumor may enhance antitumor immune responses. Recently, early-phase studies have reported the feasibility and potential efficacy of induction chemo-immunotherapy followed by cCRT; however, its clinical benefit has not been confirmed in a phase III trial.\nPATIENTS AND METHODS: This multicenter, randomized, phase III trial is designed to determine whether the addition of induction chemo-immunotherapy to the current standard strategy of cCRT followed by durvalumab consolidation improves survival outcomes in patients with unresectable LA-NSCLC. Previously untreated patients with unresectable LA-NSCLC without activating EGFR mutations are randomized 1:1 to receive either cCRT followed by durvalumab consolidation or induction chemo-immunotherapy followed by cCRT and durvalumab consolidation. Randomization is adjusted for age, clinical stage, programmed death-ligand 1 expression, and institution. The primary endpoints are progression-free and overall survival. Secondary endpoints include objective response rate, proportion of patients proceeding to cCRT after induction therapy, and adverse events. A total of 212 patients will be enrolled from 60 institutions over 5 years.\nCONCLUSION: The results of this trial should clarify whether the addition of induction chemo-immunotherapy can enhance curative potential and lead to improved overall survival in patients with unresectable LA-NSCLC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42887199/",
+    "searches": [
+      "egfr-nsclc",
+      "lung-key-evidence",
+      "nsclc-immunotherapy",
+      "lung-local-therapy"
+    ],
+    "keys": [
+      "pmid:42887199",
+      "doi:10.1016/j.cllc.2026.09.007"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42887130",
+    "doi": "10.1016/j.esmoop.2026.108533",
+    "pmcid": "",
+    "title": "Pan-Asian adapted ESMO Clinical Practice Guidelines for the diagnosis, treatment and follow-up of patients with early and locally advanced non-small-cell lung cancer.",
+    "authors": "Hayashi H, Zer A, Kenmotsu H et al.",
+    "journal": "ESMO Open",
+    "year": "2027",
+    "pub_types": [
+      "Journal Article",
+      "Practice Guideline"
+    ],
+    "abstract": "The European Society for Medical Oncology (ESMO) Clinical Practice Guidelines for the diagnosis, treatment and follow-up of patients with early and locally advanced non-small-cell lung cancer (NSCLC) were published in August 2025 and were adapted in November 2025 according to previously established standard methodology to produce the Pan-Asian adapted ESMO consensus guidelines for the management of Asian patients with early and locally advanced NSCLC. The adapted guidelines presented in this article represent the consensus opinions reached by a panel of Asian experts on the treatment of patients with early and locally advanced NSCLC representing the oncological societies of China (Chinese Society of Clinical Oncology), Indonesia (Indonesian Society of Hematology and Medical Oncology), India (Indian Society of Medical and Paediatric Oncology), Japan [Japanese Society of Medical Oncology (JSMO)], South Korea (Korean Society of Medical Oncology), Malaysia (Malaysian Oncological Society), the Philippines (Philippine Society of Medical Oncology), Singapore (Singapore Society of Oncology), Taiwan (Taiwan Oncology Society) and Thailand (Thai Society of Clinical Oncology), coordinated by ESMO and JSMO. The voting was based on scientific evidence and was independent of the current treatment practices, drug access restrictions and reimbursement decisions in the different regions of Asia. The latter are discussed separately in the article. The aim is to provide guidance for the optimisation and harmonisation of the management of patients with early and locally advanced NSCLC across the different countries of Asia, drawing on the evidence provided by both Western and Asian trials. Attention is drawn to the disparity in the drug approvals and reimbursement strategies among the different regions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42887130/",
+    "searches": [
+      "lung-key-evidence"
+    ],
+    "keys": [
+      "pmid:42887130",
+      "doi:10.1016/j.esmoop.2026.108533"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42888622",
+    "doi": "10.1097/MD.0000000000051170",
+    "pmcid": "",
+    "title": "Contributions of smoking behaviour to lung cancer subtypes: A two-sample Mendelian randomization study.",
+    "authors": "Jareebi MA, Alqassim AY",
+    "journal": "Medicine (Baltimore)",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Smoking is an established cause of lung cancer (LC), but the relative causal contributions of whether a person ever smokes and how heavily they smoke across histological subtypes remain uncertain. This study investigated the causal effects of smoking status and smoking intensity on major LC subtypes. Two-sample Mendelian randomization (MR) was performed. Genetic instruments were drawn from the GWAS and Sequencing Consortium of Alcohol and Nicotine Use: 85 variants for smoking status, a binary trait contrasting ever with never smokers, and 23 variants for smoking intensity, a continuous trait measuring cigarettes smoked per day. Outcomes were 5 LC phenotypes from FinnGen: non-small cell LC (1627 cases), adenocarcinoma (571), squamous cell carcinoma (365), small cell LC (179), and mesothelioma (133). Inverse-variance weighted regression with multiplicative random effects was the primary estimator, with weighted median, weighted mode, and MR-Egger as sensitivity analyses. Benjamini-Hochberg correction was applied across all ten tests. Analyses used R 4.2.3 with TwoSampleMR 0.7.9. Smoking intensity was causally associated with all 4 smoking-related subtypes: squamous cell carcinoma (odds ratio [OR]: 5.95 per standard deviation increase, 95% confidence interval [CI]: 3.12-11.37), small cell LC (OR: 4.43, 95% CI: 1.60-12.32), non-small cell LC (OR: 3.45, 95% CI: 2.30-5.18), and adenocarcinoma (OR: 2.66, 95% CI: 1.40-5.06). All 4 survived correction for multiple testing and were reproduced by the weighted median and weighted mode estimators. Smoking status showed positive point estimates for all 4 subtypes (OR: 1.40-1.61) but reached only nominal significance for non-small cell LC (OR: 1.51, 95% CI: 1.04-2.19, P = .030), which did not survive correction and was not reproduced by other estimators. Neither exposure was associated with mesothelioma. Smoking intensity shows robust causal effects on all smoking-related LC subtypes, whereas the evidence for smoking status is directionally consistent but considerably weaker. The null finding for mesothelioma, a cancer principally caused by asbestos, supports the specificity of the instruments. These results indicate that reducing consumption among established smokers warrants emphasis alongside preventing uptake.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888622/",
+    "searches": [
+      "lung-nonpharm",
+      "lung-screening",
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:42888622",
+      "doi:10.1097/md.0000000000051170"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42888436",
+    "doi": "10.1186/s13045-026-01857-9",
+    "pmcid": "",
+    "title": "The advances and challenges of mRNA-LNP application in fields of hematology and oncology therapeutics.",
+    "authors": "Wang Y, Ge Y, Chen Y et al.",
+    "journal": "J Hematol Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "The rapidly global deployment of COVID-19 mRNA-LNP vaccines established the clinical feasibility of combining RNA medicine with LNP delivery systems, transforming a long-standing experimental concept into a scalable therapeutic modality, previously considered impossible. Currently, the value of mRNA-LNPs has been expanding from infectious disease vaccines to cancer immunotherapy, personalized neoantigen vaccination, in vivo immune-cell engineering, protein replacement therapy, mRNA-encoded biologics and genome editing, with particular relevance to hematology and oncology. However, in hematologic and oncologic settings, therapeutic success is constrained by biological barriers that less prominent in prophylactic vaccination. Systemically administered LNPs are strongly influenced by hepatic sequestration, protein corona formation and mononuclear-phagocyte clearance; solid tumors additionally present heterogeneous vasculature, variable enhanced permeability and retention, dense extracellular matrix, elevated interstitial pressure and limited intratumoral diffusion. Hematologic applications face a different set of constraints, including access to spleen and bone marrow, selective delivery to T cells, NK cells and hematopoietic stem and progenitor cells (HSPCs), and preservation of the normal marrow niche. In this Review, we therefore discuss the molecular and principles of formulation that underpin mRNA-LNP performance in hematology and oncology, including mRNA engineering, lipid nanoparticle architecture, intracellular trafficking and selective organ targeting(SORT) delivery strategies, oncology applications spanning neoantigen vaccines, tumor-microenvironment reprogramming, mRNA-encoded biologics, gene editing and combination therapy; and hematology applications including in vivo CAR-T, CAR-NK and HSPC engineering. We further consider how inefficient extrahepatic delivery, limited endosomal escape, context-dependent reactogenicity, repeat-dosing constraints and the manufacturing complexity of individualized products continue to limit broader clinical translation. Emerging strategies, including artificial-intelligence-guided RNA and lipid design, self-amplifying RNA, circular RNA and next-generation thermostable formulations, may help address these application limitations in the fields of hematology and oncology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888436/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42888436",
+      "doi:10.1186/s13045-026-01857-9"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42887502",
+    "doi": "10.1016/j.xcrm.2026.103116",
+    "pmcid": "",
+    "title": "NKG2D overexpression potentiates CAR-T cells through costimulation by tumor NKG2D ligands.",
+    "authors": "Li J, Han L, Zhu Q et al.",
+    "journal": "Cell Rep Med",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Chimeric antigen receptor (CAR)-T cell therapy has achieved remarkable success in hematologic malignancies, but durable efficacy remains limited by insufficient CAR-T cell persistence. Here, we show that activated CAR-T cells upregulate multiple NKG2D ligands (NKG2DLs), increasing their susceptibility to natural killer (NK) cell-mediated CAR-T cell cytotoxicity. To address this vulnerability, we engineer CAR-T cells to overexpress full-length NKG2D (CAR-NG). NKG2D overexpression reduces the surface accessibility of endogenous NKG2DLs without decreasing their total protein abundance. In parallel, engagement of tumor-expressed NKG2DLs in trans provides additional costimulatory signals, enhancing CAR-T cell activation and proliferation while attenuating exhaustion-associated phenotypes. In hematologic and solid tumor models, CAR-NG cells exhibit reduced susceptibility to NK-cell-mediated cytotoxicity, improved tumor control, increased in vivo expansion, deeper tumor infiltration, and no evident additional toxicity compared with conventional CAR-T cells. These findings identify NKG2D overexpression as an engineering strategy that enhances CAR-T antitumor activity primarily through tumor NKG2DL-dependent trans costimulation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42887502/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42887502",
+      "doi:10.1016/j.xcrm.2026.103116"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42888565",
+    "doi": "10.1097/MD.0000000000051142",
+    "pmcid": "",
+    "title": "Causal relationship between oral microbiome, circulating inflammatory proteins and lung cancer: A Mendelian randomization study.",
+    "authors": "Ping S, Li D, Sun J et al.",
+    "journal": "Medicine (Baltimore)",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Recent research showed that oral microbiomes (OMs), as the main source of lung microbiomes, were associated with lung cancer (LC), but the causal relationship and mechanisms remain unclear. This study aimed to explore the immune mechanisms of LC through the \"OM - inflammatory proteins - LC\" axis. Instrumental variables covering 43 oral microbial taxa, 91 circulating inflammatory proteins, and LC subtypes were obtained from large-scale genome-wide association study summary data of European origin. We employed Mendelian randomization (MR) analysis to validate causal links between the OM and LC and to assess the mediation effects of inflammatory proteins. The primary statistical method was the inverse variance weighted method, supplemented by leave-one-out analysis, MR-Egger regression, and Cochran's Q test to assess heterogeneity and pleiotropy. Finally, we calculated the effect size of inflammatory proteins as mediators. The results suggested that 9 oral microbial taxa and 20 inflammatory proteins were significantly associated with LC and its subtypes. Key findings included: Genus Rothia increased the risk of squamous cell carcinoma. At the species level, Haemophilus parainfluenzae protected against lung adenocarcinoma, whereas Megasphaera micronuciformis prevented small cell LC. Among the inflammatory proteins, the protein S100-A12 elevated adenocarcinoma risk, and STAM binding protein increased the risk of squamous cell carcinoma. Protective proteins included artemin (squamous cell carcinoma), cystatin D (adenocarcinoma), and interleukin 18 (both subtypes mentioned above). M. micronuciformis and overall LC had a causal relationship in which cystatin D played a mediating role. This study reveals a potential causal link between the OM, circulating inflammatory proteins, and LC. The protective effect of M. micronuciformis was mediated by cystatin D, highlighting a novel immune pathway. These findings provide biomarkers for early detection of LC and therapeutic targets for LC intervention.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888565/",
+    "searches": [
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42888565",
+      "doi:10.1097/md.0000000000051142"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42888057",
+    "doi": "10.1016/j.acra.2026.09.065",
+    "pmcid": "",
+    "title": "Retrospective Lung-RADS v2022 Characterization of Fatal Lung Cancer Cases in the National Lung Screening Trial.",
+    "authors": "Tanwar A, Ebrahimzadeh S, Vella M et al.",
+    "journal": "Acad Radiol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "RATIONALE AND OBJECTIVES: Persistent lung cancer mortality despite screening is multifactorial. Characterizing computed tomography (CT) findings preceding fatal lung cancer may identify imaging features and screening challenges that warrant further study.\nMATERIALS AND METHODS: We conducted a retrospective, outcome-enriched case series nested within the 26,722-participant low-dose computed tomography arm of the National Lung Screening Trial. Among 359 participants who died of lung cancer within the prespecified interval, exclusions for positive baseline screening (n = 186), incomplete screening (n = 28), withdrawal/declined screening (n = 19), unavailable CTs (n = 6), or three negative screens followed by death 2+ years after the final screen (n = 29) yielded 91 participants. Screening CTs were retrospectively assessed using the Lung Imaging Reporting and Data System (Lung-RADS) v2022. Four thoracic radiologists independently reviewed visible-in-retrospect nodules and adjudicated whether they met criteria for suspicion.\nRESULTS: Of 91 participants, 22 (24%; 95% confidence interval (CI), 17%-34%) had visible-in-retrospect nodules considered suspicious under Lung-RADS v2022 (\"missed\"), 16 (18%; 95% CI, 11%-27%) had visible nodules not meeting suspicion criteria (\"not callable\"), 50 (55%; 95% CI, 45%-65%) had no visible-in-retrospect nodule, and 3 (3.3%) were inconclusive. Missed nodules were frequently juxtapleural (41%), obscured (50%), or irregularly bordered (68%); not-callable nodules were frequently <6 mm (75%), juxtapleural (56%), or irregularly bordered (56%).\nCONCLUSION: In this selected fatal-case series, small and juxtapleural nodules were common among visible nodules not meeting Lung-RADS v2022 suspicion criteria. These findings warrant evaluation in representative screening populations and should not be interpreted as estimates of population-level Lung-RADS performance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888057/",
+    "searches": [
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42888057",
+      "doi:10.1016/j.acra.2026.09.065"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42888302",
+    "doi": "10.1007/s12094-026-04565-5",
+    "pmcid": "",
+    "title": "Value and research advances of ctDNA in perioperative therapy for non-small cell lung cancer.",
+    "authors": "Diao J, Cen F, Gao Y et al.",
+    "journal": "Clin Transl Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Perioperative treatment plays an increasingly important role in improving outcomes for patients with resectable non-small cell lung cancer (NSCLC). Circulating tumor DNA (ctDNA) offers a new perspective for optimizing individualized perioperative management. This review systematically examines the core value of ctDNA in perioperative therapy for resectable NSCLC, encompassing its correlation with treatment response and pathological remission during the neoadjuvant phase, its utility as a dynamic monitor of treatment efficacy, and its emerging role in prognostic stratification and recurrence prediction in the postoperative setting. Importantly, while ctDNA demonstrates considerable promise for guiding individualized perioperative management, most applications remain investigational; we therefore distinguish between established correlative uses and prospective strategies currently under evaluation in clinical trials. It also addresses current technical challenges in ctDNA application, including limited sensitivity, false positives, lack of standardization, cost-effectiveness concerns, and difficulties in integration into clinical decision-making. Future prospective interventional studies are needed to validate ctDNA-guided treatment adjustments and to establish standardized protocols and multidisciplinary collaboration pathways, thereby facilitating the integration of ctDNA into the full course of perioperative management for NSCLC and enabling precise efficacy assessment, risk stratification, and individualized treatment decisions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888302/",
+    "searches": [
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:42888302",
+      "doi:10.1007/s12094-026-04565-5"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42887072",
+    "doi": "10.1016/j.ejso.2026.112212",
+    "pmcid": "",
+    "title": "Non-lung cancer mortality after lung cancer resection: associations with lobectomy and patient characteristics.",
+    "authors": "Yoshida C, Chang SS, Okamoto T",
+    "journal": "Eur J Surg Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRODUCTION: In the JCOG0802 study, segmentectomy demonstrated higher overall survival than did lobectomy, possibly due to a lower incidence of non-lung cancer death. However, the underlying mechanisms remain unclear. This study investigated the cumulative incidence and factors associated with non-lung cancer death in patients with lung cancer who underwent curative resection.\nPATIENTS AND METHODS: In this single-center retrospective study, data from 1020 patients with stage 0-III lung cancer who underwent resection with lobectomy or segmentectomy between 2005 and 2023 were analyzed. Competing risk models (Fine and Gray) were used to estimate the cumulative incidence of non-lung cancer death and compare curves across clinicopathological factors.\nRESULTS: Among 1020 patients, 135 died from non-lung cancer causes. With lung cancer death treated as a competing event, the 10-year cumulative incidence of non-lung cancer death after resection was 18.6%. Multivariable analysis identified older age, comorbidity, low body mass index (BMI), and lobectomy as factors associated with a higher subdistribution hazard of non-lung cancer death. In an exploratory analysis of patients aged ≥ 71 years, older age, smoking history, low BMI, and lobectomy were associated with a higher cumulative incidence of non-lung cancer death in univariable analysis. No statistically significant interaction was observed between age and surgical procedure (P for interaction = 0.079).\nCONCLUSION: This study investigated the cumulative incidence of and risk factors for non-lung cancer death after lung cancer surgery. These findings suggest that patient characteristics should be considered when selecting the extent of lung resection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42887072/",
+    "searches": [
+      "lung-local-therapy"
+    ],
+    "keys": [
+      "pmid:42887072",
+      "doi:10.1016/j.ejso.2026.112212"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42887200",
+    "doi": "10.1016/j.cllc.2026.09.006",
+    "pmcid": "",
+    "title": "Racial Disparities in Thymic Epithelial Tumors: Insights From a Multiracial Urban Cohort.",
+    "authors": "Pietroluongo E, Bestvina CM, Lello AD et al.",
+    "journal": "Clin Lung Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Thymic epithelial tumors (TETs) are rare thoracic malignancies for which racial disparities in outcomes remain poorly characterized. We evaluated survival outcomes across racial groups and explored the clinical and sociodemographic factors that may help contextualize any observed differences.\nPATIENTS AND METHODS: We retrospectively analyzed 128 consecutive patients with histologically confirmed TETs referred to the University of Chicago between January 1989 and March 2024. Associations between race, socioeconomic variables, and overall survival (OS) were evaluated using multivariable logistic regression, Cox proportional hazards models, and inverse probability of treatment weighting with average treatment effect (IPTW-ATE).\nRESULTS: Among 128 patients (75 White, 58%; 31 Black, 24%), Black race showed numerically worse OS on univariable analysis (hazard ratios [HR] 1.90, 95% confidence intervals [CI] 0.93-3.88; P = .077). Socioeconomic disparities were substantial: 74.2% of Black patients resided in low-income areas versus 12.2% of White patients (adjusted odds ratio 4.45, 95% CI 2.60-7.64; P < .0001). On multivariable analysis, thymic carcinoma histology (HR 3.97; P = .0012) and age older than 60 years (HR 2.19; P = .032) independently predicted worse survival. Black patients demonstrated numerically poorer OS (HR 2.49; P = .098). After IPTW-ATE adjustment, the association between Black race and OS was attenuated (HR 1.66, 95% CI 0.82-3.33; P = .157).\nCONCLUSION: Socioeconomic disadvantage emerged as one of several factors that may help contextualize the observed survival disparities in TETs. The attenuation of the effect estimates after adjustment for area-level socioeconomic factors suggests that social determinants of health may be relevant to the interpretation of these findings. Larger multi-institutional studies are needed to validate these observations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42887200/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:42887200",
+      "doi:10.1016/j.cllc.2026.09.006"
+    ]
+  }
+]
