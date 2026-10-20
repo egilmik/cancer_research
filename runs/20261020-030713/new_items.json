@@ -1,0 +1,520 @@
+[
+  {
+    "source": "pubmed",
+    "pmid": "42895061",
+    "doi": "10.1080/14796694.2026.2750655",
+    "pmcid": "",
+    "title": "First-line osimertinib with or without chemotherapy for EGFR-mutant advanced NSCLC in China: a cost-effectiveness analysis.",
+    "authors": "Zhou G, Chen J, Guo L et al.",
+    "journal": "Future Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "AIMS: To evaluate the cost-effectiveness of adding chemotherapy to first-line osimertinib compared with osimertinib alone among advanced non-small cell lung cancer (NSCLC) patients with epidermal growth factor receptor (EGFR) mutations in China.\nMETHODS: A partitioned survival model was developed to project lifetime costs and health outcomes. Model inputs included direct medical costs, utility, and clinical parameters. Deterministic and probabilistic sensitivity analyses were conducted to assess parameter uncertainty. The primary outcomes were total costs, quality-adjusted life years (QALYs), and incremental cost-effectiveness ratios (ICERs).\nRESULTS: Osimertinib plus chemotherapy was associated with higher costs ($62,338.96 vs. $46,929.04) and greater QALYs (3.60 vs. 2.88) than monotherapy, yielding an ICER of $21,410.25 per QALY. Drug costs contributed most to the incremental costs in both arms. Deterministic sensitivity analysis identified the cost of pemetrexed as the most influential parameter. At its highest price, the ICER exceeded the willingness‑to‑pay threshold of $41,876.05 per QALY (three times China's 2025 per capita GDP); otherwise, results remained robust. Probabilistic sensitivity analysis indicated that the combination strategy had a 96.28% probability of being cost-effective. However, these findings should be interpreted with caution, given the extrapolated nature of the survival data.\nCONCLUSIONS: Compared with osimertinib alone, osimertinib plus chemotherapy was likely to be cost-effective as first-line treatment for EGFR-mutated advanced NSCLC in China, but this cost-effectiveness was highly sensitive to the price of pemetrexed.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42895061/",
+    "searches": [
+      "egfr-nsclc",
+      "lung-key-evidence"
+    ],
+    "keys": [
+      "pmid:42895061",
+      "doi:10.1080/14796694.2026.2750655"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42895018",
+    "doi": "10.1021/acssensors.6c02339",
+    "pmcid": "",
+    "title": "Multiplexed Nucleic Acid Detection Using Sequence-Specific Cleavage Mediated by Repair Endonucleases.",
+    "authors": "Garden PM, Li Y, Murugan V et al.",
+    "journal": "ACS Sens",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Rapid, portable detection of multiple nucleic acid targets is essential for infectious disease surveillance and precision oncology. CRISPR-based diagnostics have set a high bar for sensitivity and single-base specificity, yet their reliance on collateral nuclease activity complicates multiplexing, integration with amplification, and point-of-care deployment. Here, we present TIMBER (templated incision mediated by endonucleases of repair), a non-CRISPR platform that achieves comparable performance without nonspecific nuclease activity. TIMBER uses a repair endonuclease to cleave probes containing abasic sites only when they are hybridized to a matched target. The system exhibits strong specificity, enabling single-nucleotide polymorphism discrimination. TIMBER provides an analytical limit of detection of 12 pM without preamplification or one copy per μL (1.6 aM) with preamplification through RT-PCR or RT-LAMP, with results observable by visual fluorescence or on lateral flow. We deploy TIMBER to detect SARS-CoV-2 in clinical saliva samples and further demonstrate multiplex detection of four targets, enabling identification of EGFR mutations in lung cancer samples. This approach offers a flexible, rapid, and low-instrument-ready solution for diverse nucleic acid diagnostics, from viral detection to cancer genotyping.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42895018/",
+    "searches": [
+      "egfr-nsclc"
+    ],
+    "keys": [
+      "pmid:42895018",
+      "doi:10.1021/acssensors.6c02339"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42893831",
+    "doi": "10.1111/imm.70212",
+    "pmcid": "",
+    "title": "ADAM9 Regulation of CXCL12-Dependent Myeloid-Derived Suppressor Cells Shifting the Immune Landscape of Lung Adenocarcinoma.",
+    "authors": "Liu JP, Wu WL, Shen KY et al.",
+    "journal": "Immunology",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Lung cancer-mediated myeloid-derived suppressor cell (MDSC) inhibits antitumour immunity for tumour progression and is a promising target. Here, we present the ADAM9-targeting therapeutic strategy to unleash anticancer immunity. We identified a novel role for ADAM9 in promoting lung cancer immunosuppression through the upregulation of cytokines that drive the recruitment and expansion of MDSCs, with CXCL12 serving as one of the major mediators. This ADAM9-CXCL12-MDSC axis significantly impairs the function of cytotoxic CD8+ T cells. Disrupting the ADAM9-CXCL12 axis suppresses oncogenic signalling pathways, including EGFR and IL-6 signalling. Therapeutically, the developed ADAM9 inhibitors significantly reduced primary tumour growth and metastasis in syngeneic mouse models of lung tumours, concurrent with remodelling of the immune microenvironment. This study demonstrates that ADAM9 promotes cancer-mediated MDSC function by enhancing CXCL12 production. Targeting ADAM9 represents a novel and effective strategy to reverse the immunosuppressive tumour microenvironment and suppress lung cancer progression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42893831/",
+    "searches": [
+      "egfr-nsclc"
+    ],
+    "keys": [
+      "pmid:42893831",
+      "doi:10.1111/imm.70212"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42893668",
+    "doi": "10.1016/j.jmgm.2026.109594",
+    "pmcid": "",
+    "title": "Pharmacophore modelling-based screening of natural allosteric EGFR inhibitors using molecular docking, DFT, and molecular dynamics simulations.",
+    "authors": "Munir F, Amir MB, Hussain K et al.",
+    "journal": "J Mol Graph Model",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "The development of allosteric inhibitors is a promising strategy for targeting epidermal growth factor receptor (EGFR) mutations in non-small cell lung cancer (NSCLC), especially in cases where orthosteric inhibitors face resistance. However, despite their selective inhibition of EGFR mutations, fourth-generation allosteric inhibitors show limited antiproliferative efficacy without cetuximab. The present study aims to identify potent natural product-derived allosteric inhibitors for NSCLC using a comprehensive approach, including pharmacophore modelling, Lipinski's Rule of Five (Ro5), ADMET profiling, density functional theory, and molecular docking. Experimentally validated EGFR tyrosine kinase inhibitors (TKIs) were used to build a pharmacophore model. The validated pharmacophore model was used to screen the Natural Product Activity and Species Source database. Drug-likeness was assessed using Ro5 and ADMET to predict pharmacokinetic and toxicity profiles for further drug development. Molecular docking studies revealed that the identified natural compounds exhibited more favorable docking scores (-8.74 to -7.87 kcal/mol) than the co-crystallized ligand (-7.32 kcal/mol), indicating significant interactions with the receptor residues. Geometry optimization, electrostatic potential, and frontier molecular orbital analyses were performed to assess potential reactive sites and molecular stability. Molecular dynamics (MD) simulations, subsequent post-MD analyses, and binding free energy calculations provided additional support for these findings. The free-energy landscape revealed stable, favorable binding conformations, suggesting that they may act as allosteric inhibitors. These results highlight the potential of natural compounds to combat resistance to EGFR-TKIs in NSCLC. In particular, compounds 1 and 2 emerged as promising candidates targeting mutant EGFR and warrant further experimental validation as potential leads for NSCLC treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42893668/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-resistance-nextgen"
+    ],
+    "keys": [
+      "pmid:42893668",
+      "doi:10.1016/j.jmgm.2026.109594"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42896162",
+    "doi": "10.1158/1940-6207.CAPR-26-0174",
+    "pmcid": "",
+    "title": "Elucidating the Contexts That Enable or Constrain Normalization of Guideline-Based LDCT Lung Cancer Screening Processes in U.S. Primary Care.",
+    "authors": "Ezenwankwo E, Jones C, Barta JA et al.",
+    "journal": "Cancer Prev Res (Phila)",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Routine primary care encounters offer a major opportunity to reach a large population of individuals eligible for lung cancer screening (LCS) in the U.S., potentially representing up to one-third of all primary care visits each year. This article, the first in a two-part integrative review, synthesizes evidence on the contextual factors that enable or constrain the normalization of guideline-based LCS processes in U.S. primary care. Seven electronic databases were searched in February 2025 (updated in December 2025) to identify relevant studies. The findings reported here draw on 146 studies integrated using thematic synthesis. Four main themes emerged: (1) leadership and policy decisions shaping LCS priorities; (2) alignment of guideline-concordant LCS processes with primary care capacity; (3) frontline adaptations and workarounds sustaining routine LCS delivery; and (4) reframing organizational norms to institutionalize guideline-concordant LCS in primary care. Our review revealed limited health system-level investment in formal screening governance and integrated clinical informatics infrastructure. Normalization required continuous negotiation among providers to reconcile persistent misalignments between guideline demands and primary care capacity. Notably, frontline providers and staff relied heavily on pragmatic adjustments and workarounds, enabling screening to continue through labor-intensive and often fragile processes. Providers operated within and sometimes perpetuated entrenched clinical heuristics and paternalistic traditions while navigating heavy documentation burdens and structural inequities that continued to position LCS as optional, controversial, or administratively burdensome. LCS implementation remains largely provider-driven in contemporary U.S. primary care. Normalization will require deliberate and sustained leadership and policy reform, alongside investments in workforce capacity and data infrastructure.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42896162/",
+    "searches": [
+      "lung-key-evidence",
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42896162",
+      "doi:10.1158/1940-6207.capr-26-0174"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42894739",
+    "doi": "10.1016/j.pmedr.2026.103661",
+    "pmcid": "PMC13677173",
+    "title": "Low-barrier tobacco screening and cessation outreach: A multisite veterans affairs quality improvement initiative.",
+    "authors": "Rife-Pennington T, Dinges B, Chenault E et al.",
+    "journal": "Prev Med Rep",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "OBJECTIVE: To describe implementation of a multi-site, equity-informed tobacco screening and cessation outreach initiative across three Veterans Affairs healthcare systems.\nMETHODS: This quality improvement initiative was implemented in fiscal year 2025 in San Francisco, California, Danville, Illinois, and Orlando, Florida. The intervention combined dashboard-informed targeting with in-person outreach events offering tobacco use screening, brief education, medications for tobacco use disorder, referral to cessation resources, and selected lung cancer screening education and referral. Outcomes included reach, service delivery outputs, tobacco use screening trends, and implementation barriers and facilitators, summarized descriptively using dashboard and event-level data.\nRESULTS: Implementation varied across sites. San Francisco completed four outreach events with 417 total participant encounters, including 212 Veterans, and documented 19 tobacco use screenings, 18 lung cancer screenings, medication linkage, quitline/provider referrals, and research linkage. Danville completed three outreach events reaching 120 Veterans and documented 6 tobacco use screenings and 12 medication prescriptions. Orlando did not complete events because of staffing and operational barriers. Key determinants included staffing capacity, workflow fit, event approvals, procurement, outreach availability, and lung cancer screening infrastructure.\nCONCLUSIONS: Dashboard-informed outreach may extend tobacco-related preventive care beyond routine clinic encounters, but implementation depends on local infrastructure, staffing, referral pathways, and interdisciplinary partnerships.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894739/",
+    "searches": [
+      "lung-nonpharm",
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42894739",
+      "doi:10.1016/j.pmedr.2026.103661"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42894176",
+    "doi": "10.1186/s13019-026-04652-2",
+    "pmcid": "",
+    "title": "Conservative management of postoperative bronchopleural fistula in elderly lung cancer patient: a case report with literature review.",
+    "authors": "Deng K, He K, Wang L et al.",
+    "journal": "J Cardiothorac Surg",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Case Reports",
+      "Review"
+    ],
+    "abstract": "BACKGROUND: Bronchopleural fistula (BPF) after thoracic surgery is a rare but highly lethal complication due to the tricky nature of its treatment.\nCASE PRESENTATION: We reported a case of BPF after pulmonary surgery and a satisfactory outcome with conservative measures such as continuous closed-chest drainage, strong nutritional support, and appropriate antibiotics.\nCONCLUSIONS: In highly selected patients with stable hemodynamics, adequate drainage, and controlled infection, conservative management may be considered when surgical or endoscopic options are contraindicated or declined.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894176/",
+    "searches": [
+      "lung-nonpharm"
+    ],
+    "keys": [
+      "pmid:42894176",
+      "doi:10.1186/s13019-026-04652-2"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42894563",
+    "doi": "10.1007/s40203-026-00767-5",
+    "pmcid": "PMC13676611",
+    "title": "In silico insights into shared molecular mechanisms and drug repurposing for non‑small cell lung cancer and tuberculosis.",
+    "authors": "Zarin N, Shahir NF, Tanha TH et al.",
+    "journal": "In Silico Pharmacol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "UNLABELLED: Non‑small cell lung cancer (NSCLC) and tuberculosis (TB) represent major global health burdens, with evidence of a molecular interconnection. To understand their shared mechanisms, we integrated three NSCLC and two TB RNA‑seq datasets and identified 33 common differentially expressed genes (cDEGs). Enrichment analyses, protein-protein interaction (PPI) network mapping, cancer‑specific validations, and survival analyses were performed on all cDEGs. The PPI network highlighted KIF18A, ANLN, TLR4, EPAS1, and DLC1 as central hub genes, with enrichment pointing to immune‑inflammatory signaling, epithelial remodeling, and cell‑cycle regulation as key processes underlying NSCLC-TB comorbidity. Profiling of lung adenocarcinoma (LUAD) and lung squamous cell carcinoma (LUSC), accounting for about 80% of NSCLC, showed KIF18A, ANLN, STIL, and GALNT14 overexpression linked to advanced stage and poor survival, with 4-14% alterations mainly from mRNA upregulation. Leveraging their network centrality and prognostic significance, KIF18A and ANLN were selected as receptor targets for structure‑based drug screening. A library of 213 anti‑NSCLC, anti‑TB, and antimicrobial compounds was screened against these targets using AutoDock and Glide, followed by pharmacokinetic and toxicity assessment. Levofloxacin (targeting ANLN) and Capmatinib (targeting KIF18A) exhibited the most favorable docking scores and ADME/Tox profiles, with stable binding modes, favorable MM-GBSA binding free energies, and refined dynamic cross-correlation and free-energy landscapes over 100 ns molecular dynamics simulations, nominating them as promising in silico predicted drug agents relevant to both NSCLC and TB. Our in silico transcriptomic and structural‑dynamics analysis reveals shared infection-cancer mechanisms and identifies candidate therapeutics for further evaluation.\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s40203-026-00767-5.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894563/",
+    "searches": [
+      "lung-repurposed",
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42894563",
+      "doi:10.1007/s40203-026-00767-5"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42894252",
+    "doi": "10.1186/s13256-026-06402-3",
+    "pmcid": "",
+    "title": "Demyelination of the central nervous system and peripheral neuropathy associated with sintilimab treatment for lung adenocarcinoma: a case report.",
+    "authors": "Deng H, He Y, Wei H et al.",
+    "journal": "J Med Case Rep",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Case Reports"
+    ],
+    "abstract": "BACKGROUND: Immune checkpoint inhibitor (ICI) therapy unleashes the body's natural immune system to fight cancer. Neurological immune-related adverse events (NirAEs) are rare but can be severe.\nCASE PRESENTATION: In this report, we present a 47-year-old man of Han ethnicity who was diagnosed with lung adenocarcinoma with intracranial metastasis. Initially, the patient underwent intracranial radiotherapy followed by first-line and maintenance chemotherapy with pemetrexed, cisplatin and bevacizumab, and a partial response was achieved without significant toxicity. After progression, the patient received second-line chemotherapy with carboplatin and albumin-bound paclitaxel as well as an ICI, sintilimab, every 28 days. After completing nine cycles of sintilimab therapy, the patient suddenly experienced lower limb paresthesia, weakness and temporary confusion. Findings from diagnostic studies, including laboratory, electrophysiological and imaging studies, combined with the clinical presentation led to the diagnosis of NirAEs, including peripheral neuropathy and demyelination of the central nervous system. Sintilimab therapy was suspended, and intravenous corticosteroid therapy was initiated, resulting in a temporary rapid resolution of all neuropathic symptoms. However, the patient died within one month after the onset of neuropathic symptoms.\nCONCLUSION: This extremely rare case of NirAEs affecting both the peripheral and central nervous systems had the worst prognosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894252/",
+    "searches": [
+      "lung-repurposed",
+      "nsclc-immunotherapy",
+      "lung-toxicity"
+    ],
+    "keys": [
+      "pmid:42894252",
+      "doi:10.1186/s13256-026-06402-3"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42894313",
+    "doi": "10.1080/2162402X.2026.2745295",
+    "pmcid": "",
+    "title": "Glioblastoma immune landscape remodeling following treatment with CD70-targeted CAR-T cells.",
+    "authors": "Kourtesakis A, Agardy DA, Tejido Dierssen C et al.",
+    "journal": "Oncoimmunology",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Chimeric antigen receptor (CAR)-T cell therapy has shown limited efficacy in glioblastoma (GB), largely because of the immunosuppressive tumor microenvironment (TME). We have previously demonstrated that the ligand-based mCD70-directed construct mCAR27 specifically eliminates CD70⁺ GB cells in vitro, and induces durable tumor remission with prolonged survival in a syngeneic model of orthotopic GB. Despite the therapeutic promise of CD70 as a GB CAR-T cell target, the impact of CD70-directed CAR-T cells on the brain tumor immune landscape after target interception remains unexplored. Here, we independently confirmed a tumorigenic role for CD70 in murine GB by performing bulk RNA sequencing and in vivo experiments. Next, we applied single-cell RNA sequencing (scRNAseq) to decipher the transcriptome of GB-infiltrating immune cells in immunocompetent mice bearing CD70+ GB after intratumoral mCAR27 therapy. CAR-T cell treatment expanded adoptively transferred cells and was associated with increased endogenous Cd8⁺ T-cell infiltration, alongside a reduction in immunosuppressive populations, including Tregs and anti-inflammatory M2-like macrophages, but also subsets of dendritic and natural-killer cells. CD70 expression was detected on multiple GB-infiltrating immune subsets, notably Tregs and M2-like macrophages. Transcriptionally, mCAR27-mediated GB remission led to a coordinated downregulation of type-I interferon-stimulated genes and immunosuppressive mediators such as Arg1, Tgfbi, Cd274, Pdcd1lg2 and Lag3, coupled with upregulation of genes involved in inflammatory resolution, findings consistent with attenuation of GB-derived inflammatory stress and immunosuppression. Collectively, we showcase that CD70-directed CAR-T cell therapy remodels the post-treatment immune landscape towards resolution of inflammation and reduced immunosuppression, supporting sustained immune surveillance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894313/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42894313",
+      "doi:10.1080/2162402x.2026.2745295"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42894261",
+    "doi": "10.1111/cas.70567",
+    "pmcid": "",
+    "title": "Evolution of CAR-T Therapy: Functional Engineering, Manufacturing Innovation, and Future In Vivo Strategies.",
+    "authors": "Sakoda Y",
+    "journal": "Cancer Sci",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Chimeric antigen receptor (CAR)-T cell therapy has transformed the treatment of hematologic malignancies and established a new paradigm for engineered cellular immunotherapy. However, its broader clinical application remains constrained by complex autologous manufacturing, high cost, limited scalability, variable product quality, suboptimal efficacy in solid tumors, and treatment-related toxicities. To address these challenges, recent advances in CAR-T cell therapy can be viewed across four interconnected dimensions: functional engineering, manufacturing innovation, alternative cell sources, and in vivo CAR programming. Functional engineering includes cytokine-armored, checkpoint-resistant, multi-targeting, and modular or switchable CAR platforms designed to enhance efficacy, persistence, and safety. In parallel, manufacturing innovations such as shortened culture protocols, automated closed systems, and preservation of less differentiated T-cell states aim to improve product potency while reducing production time and complexity. Alternative cell sources, including allogeneic donor-derived and induced pluripotent stem cell (iPSC)-derived platforms, may further enable standardized, scalable, and potentially off-the-shelf therapies. Finally, in vivo CAR programming has emerged as a fourth dimension in which endogenous immune cells are directly engineered within patients using viral or non-viral gene delivery systems. This review summarizes these interconnected advances and discusses how they may collectively shape the next generation of CAR-based immune therapies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894261/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42894261",
+      "doi:10.1111/cas.70567"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42895674",
+    "doi": "10.1245/s10434-026-20787-x",
+    "pmcid": "",
+    "title": "ASO Author Reflections: Rethinking Adjuvant Chemotherapy in Resected ALK-Positive Lung Cancer.",
+    "authors": "Hamada A, Takamori S, Hashinokuchi A et al.",
+    "journal": "Ann Surg Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42895674/",
+    "searches": [
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42895674",
+      "doi:10.1245/s10434-026-20787-x"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42895117",
+    "doi": "10.1002/cbf.70325",
+    "pmcid": "",
+    "title": "PDE4DIP/Myomegalin as a Golgi-Centrosome Scaffold in Compartmentalized Signaling, Microtubule Organization, and Disease-Associated Pathway Remodeling.",
+    "authors": "Wang C, Bian C, Wang Z et al.",
+    "journal": "Cell Biochem Funct",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "PDE4DIP/Myomegalin was originally identified as a Golgi- and centrosome-associated protein that interacts with phosphodiesterase 4D, but subsequent work has placed it within a broader network of organelle-associated signaling and cytoskeletal regulation. This review examines PDE4DIP/Myomegalin as a coiled-coil-rich scaffold linking compartmentalized cyclic adenosine monophosphate (cAMP)/protein kinase A (PKA) signaling, Golgi-centrosome organization, microtubule architecture, and disease-associated pathway remodeling. At the centrosome, long PDE4D-binding myomegalin forms retain PDE4D3 and restrict local PKA activity, thereby influencing Hedgehog signaling. At the Golgi, AKAP9/AKAP450 provides a major scaffold, while selected myomegalin forms support Golgi-derived microtubule organization and endoplasmic reticulum-Golgi trafficking. In KRAS-mutant colorectal cancer models, PDE4DIP promotes tumor growth and MEK inhibitor resistance through Golgi-associated NF1/RAS pathway remodeling. In non-small cell lung cancer, PDE4DIP cooperates with AKAP9 to maintain Golgi localization and stability of PKA regulatory subunit II alpha; PDE4DIP loss activates PKA/cAMP response element-binding protein signaling and suppresses tumor growth. Cardiovascular studies link myomegalin isoform 4 to sarcomeric PKA signaling, co-occurring PDE4DIP and DES variants to conduction phenotypes, and PDE4DIP dysregulation to left ventricular noncompaction-associated cellular changes, although the evidence remains context dependent. Neurological and retinal disease associations remain largely exploratory. Recent work links a PDE4DIP-AKAP9 interaction to cytoskeletal integrity and RAS-ERK/AKT signaling in podocyte injury. Overall, PDE4DIP/Myomegalin is best understood as an organelle-associated organizer whose effects depend on the experimentally reported form, binding partners, and subcellular address rather than on a single linear pathway.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42895117/",
+    "searches": [
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42895117",
+      "doi:10.1002/cbf.70325"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42894778",
+    "doi": "10.1016/j.radcr.2026.09.048",
+    "pmcid": "PMC13677016",
+    "title": "Inflammatory myofibroblastic tumor masquerading as carcinoma.",
+    "authors": "Srivastava H, Canaan L, Ross JM et al.",
+    "journal": "Radiol Case Rep",
+    "year": "2026",
+    "pub_types": [
+      "Case Reports",
+      "Journal Article"
+    ],
+    "abstract": "Inflammatory myofibroblastic tumor (IMT) is a rare mesenchymal neoplasm that can closely mimic malignancy on imaging, particularly in the lung where spiculated, fluorodeoxyglucose-avid nodules frequently raise suspicion for non-small cell lung cancer (NSCLC). Because of its overlapping radiographic features and variable molecular alterations, IMT often requires surgical resection for definitive diagnosis and treatment. We report a 54-year-old man with a spiculated, PET-avid left upper lobe pulmonary nodule incidentally discovered on surveillance imaging. He was asymptomatic, with no smoking history but a family history of lung cancer. Percutaneous biopsy was nondiagnostic, prompting robotic-assisted wedge resection with lymph node dissection. Gross examination revealed a 10 mm well-circumscribed lesion, and histopathologic analysis demonstrated spindle-shaped myofibroblastic cells within a lymphoplasmacytic background. Immunohistochemistry was positive for ALK-1, desmin, actin, myosin, and STAT6, confirming IMT. Surgical margins and all mediastinal and hilar lymph nodes were negative for malignancy. The patient's postoperative course was uncomplicated, and he was discharged the following day with no residual symptoms. This case underscores the diagnostic challenge of IMT, which can radiographically and clinically resemble primary lung carcinoma. When noninvasive evaluation is inconclusive, surgical excision provides both diagnosis and cure. Clinicians should consider IMT in the differential diagnosis of solitary pulmonary nodules, particularly in nonsmokers, and incorporate molecular testing to guide management and avoid unnecessary aggressive interventions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894778/",
+    "searches": [
+      "nsclc-drivers",
+      "lung-screening",
+      "lung-local-therapy"
+    ],
+    "keys": [
+      "pmid:42894778",
+      "doi:10.1016/j.radcr.2026.09.048"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07880353",
+    "ct_event": "registered",
+    "title": "Real-World Outcomes of Sevabertinib in HER2-Mutant Advanced NSCLC: A Bidirectional Cohort Study",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [],
+    "enrollment": 16,
+    "sponsor": "Ruijin Hospital",
+    "conditions": [
+      "HER2-mutant Advanced Non-Small Cell Lung Cancer"
+    ],
+    "interventions": [
+      "Sevabertinib"
+    ],
+    "summary": "This is a single-center, observational, bidirectional cohort study evaluating the real-world effectiveness, safety, and quality of life associated with sevabertinib in Chinese adults with HER2-mutant advanced non-small cell lung cancer receiving sevabertinib as second-line or later-line therapy. The study will include both retrospectively identified patients and prospectively enrolled patients. The primary objective is to evaluate real-world progression-free survival. Additional assessments include tumor response, overall survival, safety, and patient-reported quality of life.",
+    "posted": "2026-10-19",
+    "url": "https://clinicaltrials.gov/study/NCT07880353",
+    "searches": [
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "nct:NCT07880353"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07880106",
+    "ct_event": "registered",
+    "title": "Multimodal Liquid-Biopsy Omics Biomarkers of Treatment Response in Breast Cancer",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [],
+    "enrollment": 2000,
+    "sponsor": "Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University",
+    "conditions": [
+      "Lung Cancer Non-small Cell",
+      "Colorectal Cancer",
+      "Stomach Cancer",
+      "Hepatocellular Carcinoma",
+      "Breast Cancer"
+    ],
+    "interventions": [],
+    "summary": "This single-center cohort study integrates humoral immune response profiling (Phage ImmunoPrecipitation Sequencing, PhIP-seq) with circulating cell-free DNA (cfDNA) genomic and epigenomic features, exosome transcriptomics, and plasma metabolomics to discover and validate liquid-biopsy biomarkers of treatment response in breast cancer.\n\nThe study comprises four cohorts: (1) a retrospective pan-cancer cohort of approximately 1,000 patients with solid malignant tumor, using archived residual serum/plasma to construct a pan-cancer antigen repertoire and cfDNA mutational/methylation atlas, with priority given to patients who had available Whole Exome Sequencing (WES) data; (2) a prospective cohort of 800 women with non-metastatic (M0) breast cancer receiving standard neoadjuvant chemotherapy (NAC); (3) a prospective cohort of 100 women with metastatic (M1) breast cancer receiving standard systemic therapy; and (4) a control group of 100 individuals, including patients with benign breast disease (breast fibroadenoma) and healthy volunteers.\n\nThe primary objective is to identify biomarkers-autoantibody repertoires, cfDNA mutation clearance, methylation reprogramming, exosome transcripts, and metabolic signatures-associated with pathological complete response (pCR) to NAC, and to develop predictive models where feasible.",
+    "posted": "2026-10-19",
+    "url": "https://clinicaltrials.gov/study/NCT07880106",
+    "searches": [
+      "nsclc-drivers",
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "nct:NCT07880106"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42894882",
+    "doi": "10.1016/j.jlb.2026.100506",
+    "pmcid": "PMC13677242",
+    "title": "NK cell immune fitness stratifies small cell lung cancer into four functional states associated with clinical response.",
+    "authors": "De Rosa C, Somma F, Amato L et al.",
+    "journal": "J Liq Biopsy",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "The reasons why some patients with small-cell lung cancer (SCLC) benefit from chemotherapy and immunotherapy, while others rapidly develop resistance, are still undefined. Despite improved outcomes with platinum-based chemotherapy combined with immune checkpoint inhibitors have been correlated to activation of the innate immunity, the role of immune cells as potential markers of response is incompletely understood. Here, we characterized the transcriptional and functional landscape of circulating natural killer (NK) cells in patients with SCLC at baseline and after cisplatin treatment, stratified by clinical response. By integrating transcriptomics, cytokine profiling, and high-dimensional flow cytometry, we identified distinct NK cell subsets and developed an NK immune-fitness signature validated in independent intratumoral cohorts. At baseline, responders exhibited strong interferon signaling, enrichment of CD16+ cytotoxic NK1 cells, and enhanced activation, correlating with prolonged progression-free survival, whereas non-responders showed a quiescent NK3-dominant profile. Following treatment, responders displayed further expansion of cytotoxic NK1 cells, while non-responders shifted toward reduced functional capacity. Analyses of immune infiltrate confirmed CD16, but not CD56, as a predictor of improved survival. Integration of effector and evasion programs defined four immunological states, with the infiltrated-active phenotype associated with the most favorable outcomes. These findings show that both baseline NK cell fitness and therapy-induced remodelling may shape clinical response and identify CD16+ NK cells as a potential clinically actionable biomarker to guide patient stratification and also inform NK-targeted new therapeutic strategies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894882/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42894882",
+      "doi:10.1016/j.jlb.2026.100506"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42894433",
+    "doi": "10.1111/1744-7917.70379",
+    "pmcid": "",
+    "title": "Epigenetic remodeling of DNA methylation is associated with pupal diapause regulation in Helicoverpa armigera.",
+    "authors": "Li Y, Xia S, Cai D et al.",
+    "journal": "Insect Sci",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Diapause is a key seasonal adaptation that enables insects to survive predictable environmental adversity, yet the molecular mechanisms linking environmental cues to stable developmental decisions remain incompletely understood. We hypothesized that DNA methylation contributes to the epigenetic regulation of pupal diapause in the cotton bollworm Helicoverpa armigera. To test this hypothesis, we combined gene expression analyses, pharmacological manipulation, whole-genome bisulfite sequencing (WGBS), transcriptome profiling, and functional validation of candidate genes. Diapause-destined pupae exhibited reduced expression of DNA methylation-associated factors, accompanied by lower genomic 5-methylcytosine levels. Pharmacological inhibition of DNA methylation delayed pupal development and induced a reversible diapause-like arrest in a subset of nondiapause pupae. Integrated methylome and transcriptome analyses revealed extensive stage-dependent remodeling of DNA methylation and gene expression, identifying pathways associated with developmental regulation, energy metabolism, and amino acid metabolism. Among the methylation-associated candidates, BCAT1 was consistently upregulated during diapause, and pharmacological inhibition of BCAT1 promoted diapause termination, supporting its involvement in diapause regulation. Taken together, our findings identify DNA methylation as an important epigenetic component associated with diapause programming and provide a framework for understanding how seasonal environmental signals shape developmental plasticity in insects.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894433/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42894433",
+      "doi:10.1111/1744-7917.70379"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42894390",
+    "doi": "10.1093/bib/bbag572",
+    "pmcid": "",
+    "title": "Dynamic perturbation analysis: a modular rewiring framework for decoding cancer stage progression and identifying therapeutic vulnerabilities.",
+    "authors": "Yang B, Li M, Liu X et al.",
+    "journal": "Brief Bioinform",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Disease progression is driven not only by transcriptional alterations but also by dynamic reorganization of molecular interaction networks. However, most existing approaches focus on differential gene expression and fail to capture modular-level reorganization. Here, we present dynamic perturbation analysis (DPA), a modular rewiring framework that quantifies dynamic perturbations across disease stages using a novel metric termed the degree of perturbation. Using gastric cancer (GC) progression as a model system, DPA revealed that extensive modular rewiring persists despite limited stage-specific transcriptional changes after tumor initiation. DPA identified progression-associated perturbation programs characterized by extracellular matrix remodeling, oncogenic signaling activation, stemness acquisition, and late-stage microenvironmental adaptation. Perturbation analysis revealed two major disease-driving programs and prioritized previously unrecognized regulators, including protein tyrosine phosphatase non-receptor type 12 (PTPN12) and leucine rich repeat and Ig domain containing 1 (LINGO1), whose functional roles in GC progression were experimentally validated. Furthermore, modular rewiring-guided drug repurposing uncovered PJ-34 as a promising therapeutic candidate targeting late-stage disease-associated perturbations. Collectively, DPA provides a generalizable framework for decoding disease progression through dynamic modular rewiring, enabling the identification of driver programs, candidate regulators, and therapeutic vulnerabilities. This framework offers a scalable strategy for network-guided mechanistic discovery and therapeutic prioritization in complex diseases.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894390/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42894390",
+      "doi:10.1093/bib/bbag572"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07881705",
+    "ct_event": "registered",
+    "title": "A Phase III, Randomized, Double-blind, Multi-center Trial Comparing Efficacy and Safety of Trilaciclib Versus Placebo in Participants With Limited-stage Small Cell Lung Cancer",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 106,
+    "sponsor": "Jiangsu Simcere Pharmaceutical Co., Ltd.",
+    "conditions": [
+      "Myelosuppression"
+    ],
+    "interventions": [
+      "Trilaciclib",
+      "Trilaciclib Placebo",
+      "Etoposide Injection",
+      "Carboplatin or Cisplatin Injection",
+      "Radiotherapy"
+    ],
+    "summary": "The primary goal of this study is to evaluate the myelo-protective effect and safety of Trilaciclib in participants with limited stage small cell lung cancer (LS-SCLC) who are receiving concurrent chemo-radiotherapy.\n\nResearchers will compare Trilaciclib with placebo (a look-alike substance that contains no drug) to see if Trilaciclib works better in protecting the participant's marrow function while receiving concurrent chemo-radiotherapy.",
+    "posted": "2026-10-19",
+    "url": "https://clinicaltrials.gov/study/NCT07881705",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "nct:NCT07881705"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42893629",
+    "doi": "10.1016/j.lungcan.2026.109667",
+    "pmcid": "",
+    "title": "Multi-omics liquid biopsy for leptomeningeal metastases in lung cancer: from molecular mechanisms to precision diagnosis and treatment.",
+    "authors": "Zhang R, Zhao Q, Cao Y et al.",
+    "journal": "Lung Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Lung cancer remains the leading cause of cancer-related deaths worldwide. Leptomeningeal metastasis (LM), a serious complication of advanced lung cancer, poses significant challenges in both clinical diagnosis and treatment monitoring, and is associated with a poor prognosis. Conventional diagnostic methods include magnetic resonance imaging (MRI) and cerebrospinal fluid (CSF) cytology; however, their sensitivity is limited, particularly in the early stages of the disease. Against this backdrop, liquid biopsy has emerged as a minimally invasive and practical approach for molecular assessment and longitudinal monitoring of LM. Recent studies have reported that, in selected cohorts of patients with non-small cell lung cancer (NSCLC) and LM, CSF-derived circulating tumor DNA (ctDNA) detects driver and resistance-associated alterations more frequently than paired plasma, while epithelial cell adhesion molecule (EpCAM)-based CSF circulating tumor cell (CTC) assays have reported sensitivities of 76%-100% and specificities of 84%-100%, compared with a first-lumbar-puncture sensitivity of 44%-67% for conventional CSF cytology. These performance estimates should be interpreted in the context of selected cohorts and heterogeneous reference frameworks. Furthermore, cerebrospinal fluid circulating tumor cell (CSF-CTC) burden holds prognostic value, with higher CTC levels associated with poorer survival outcomes. This review summarizes recent advances in liquid biopsy biomarkers including ctDNA, DNA methylation, microRNA (miRNA), proteins, and circulating tumor cells (CTCs), focusing on their applications in the diagnosis, treatment monitoring, and prognostic assessment of lung cancer-associated LM, and provides a comparative discussion of liquid biopsy based on plasma and cerebrospinal fluid specimens. It further explores the potential, current challenges, and directions for clinical translation of multi-omics integration in the personalized management of LM.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42893629/",
+    "searches": [
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:42893629",
+      "doi:10.1016/j.lungcan.2026.109667"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42895475",
+    "doi": "10.1158/1055-9965.EPI-26-0120",
+    "pmcid": "",
+    "title": "Large-scale association study identifies lung cancer susceptibility copy number variants and their potential functional role in genetic instability.",
+    "authors": "Xiao F, Qin F, Luo X et al.",
+    "journal": "Cancer Epidemiol Biomarkers Prev",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Genome-wide association studies (GWAS) have identified numerous lung cancer susceptibility loci based on single nucleotide polymorphisms (SNPs), yet a substantial proportion of heritability remains unexplained. We therefore evaluated germline copy number variants (CNVs) as an underexplored source of genetic susceptibility and potential contributors to genomic instability in lung cancer.\nMETHODS: We conducted a genome-wide analysis of germline CNVs using 19,342 cases and 15,917 controls from the Transdisciplinary Research in Cancer of the Lung (TRICL) consortium, with replication in two independent cohorts. High-confidence CNVs were identified by integrating two CNV callers including PennCNV and modSaRa2. Association analyses were performed using both gene-based and CNV region-based approaches. Polygenic risk scores (PRS) were constructed from top loci, and functional validation was conducted using siRNA-mediated knockdown in lung fibroblast cells.\nRESULTS: We identified CNVs in four genomic regions (1p36.22, 2q31.2, 6p21.32, and 19q13.32) significantly or suggestively associated with lung cancer risk. Two loci (1p36.22 and 2q31.2) were consistently supported across both analytical strategies. A CNV-based PRS constructed from four key genes (CLCN6, NFE2L2, OPA3, and PSMB8) was significantly associated with lung cancer risk and replicated across independent datasets. Functional assays demonstrated that knockdown of NFE2L2 and OPA3 increased endogenous DNA damage, supporting a role in genomic stability.\nCONCLUSIONS: Germline CNVs contribute to lung cancer susceptibility and may influence carcinogenesis through mechanisms related to genomic instability.\nIMPACT: These findings expand our knowledge of the genetic architecture of lung cancer and suggest that the cumulative burden of germline CNVs may contribute to lung cancer susceptibility.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42895475/",
+    "searches": [
+      "lung-nordic"
+    ],
+    "keys": [
+      "pmid:42895475",
+      "doi:10.1158/1055-9965.epi-26-0120"
+    ]
+  }
+]

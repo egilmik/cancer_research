@@ -1,0 +1,90 @@
+{
+ "pmid:42895061": {
+  "relevance": "medium",
+  "reason": "Model-based CEA of osimertinib+chemo (FLAURA2 regimen) vs osimertinib in China; ICER $21,410/QALY, but relies on extrapolated survival and Chinese prices."
+ },
+ "pmid:42895018": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42893831": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42893668": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42896162": {
+  "relevance": "medium",
+  "reason": "Integrative review (146 studies) of LDCT screening implementation in US primary care; qualitative, US-specific."
+ },
+ "pmid:42894739": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42894176": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42894563": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42894252": {
+  "relevance": "low",
+  "reason": "Single case report of sintilimab neuro-irAE."
+ },
+ "pmid:42894313": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42894261": {
+  "relevance": "medium",
+  "reason": "Review of CAR-T engineering and in vivo strategies; general, not lung/solid-tumour specific data."
+ },
+ "pmid:42895674": {
+  "relevance": "medium",
+  "reason": "Author reflections on adjuvant chemotherapy in resected ALK-positive lung cancer; commentary without abstract/data."
+ },
+ "pmid:42895117": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42894778": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07880353": {
+  "relevance": "medium",
+  "reason": "Single-centre observational cohort (n=16) of sevabertinib in HER2-mutant NSCLC, primary endpoint real-world PFS; not yet recruiting."
+ },
+ "nct:NCT07880106": {
+  "relevance": "low",
+  "reason": "Liquid-biopsy biomarker cohort focused on breast cancer; lung only as retrospective pan-cancer subset."
+ },
+ "pmid:42894882": {
+  "relevance": "medium",
+  "reason": "Translational study of circulating NK-cell signatures predicting response in SCLC; small mechanistic cohort."
+ },
+ "pmid:42894433": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42894390": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07881705": {
+  "relevance": "medium",
+  "reason": "Phase III (n=106) placebo-controlled trilaciclib for myeloprotection in LS-SCLC chemoradiotherapy (Simcere); supportive-care endpoint, not efficacy."
+ },
+ "pmid:42893629": {
+  "relevance": "medium",
+  "reason": "Review of multi-omics liquid biopsy for leptomeningeal metastases in lung cancer; no new primary data."
+ },
+ "pmid:42895475": {
+  "relevance": "low",
+  "reason": ""
+ }
+}
