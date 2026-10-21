@@ -1,0 +1,170 @@
+{
+ "pmid:42900325": {
+  "relevance": "medium",
+  "reason": "Review of NSCLC-to-SCLC transformation, relevant to post-osimertinib resistance."
+ },
+ "pmid:42899760": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42899412": {
+  "relevance": "high",
+  "reason": "Single-arm phase (n=23) firmonertinib 160 mg after EGFR-TKI failure with brain metastases: intracranial PFS 14.6 months, intracranial ORR 34.8%; small, single-centre, exploratory."
+ },
+ "pmid:42898914": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42898404": {
+  "relevance": "medium",
+  "reason": "Retrospective n=33 ivonescimab plus chemotherapy in EGFR-mutant NSCLC with leptomeningeal metastasis after dose-escalated TKI; hypothesis-generating."
+ },
+ "pmid:42897224": {
+  "relevance": "medium",
+  "reason": "Preclinical: LAMC2 cleavage by MMP14 drives osimertinib resistance."
+ },
+ "pmid:42896970": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42900736": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42898983": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42898856": {
+  "relevance": "medium",
+  "reason": "Phase I capmatinib plus trametinib after MET-TKI progression stopped at n=3 for toxicity and no responses; negative but informative."
+ },
+ "nct:NCT07882940": {
+  "relevance": "high",
+  "reason": "New registration: phase 2 induction becotatug vedotin (EGFR ADC) plus pucotenlimab and platinum then CCRT in unresectable stage III NSCLC (n=24, single-arm)."
+ },
+ "pmid:42900351": {
+  "relevance": "high",
+  "reason": "KEYVIBE-008 randomised phase 3 (n=460) in ES-SCLC met the futility criterion for OS (HR 1.26) versus atezolizumab plus EP; a negative TIGIT result relevant to the SCLC and immunotherapy searches."
+ },
+ "pmid:42899477": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42898671": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of six observational studies on cannabis smoking and lung cancer risk; high heterogeneity, confounding by tobacco likely."
+ },
+ "pmid:42898625": {
+  "relevance": "medium",
+  "reason": "ESTRO systematic review of single-fraction SBRT, includes lung."
+ },
+ "pmid:42898494": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 10 RCTs (n=1,569): ERAS/prehabilitation reduced pulmonary complications after lung resection (OR 0.48)."
+ },
+ "pmid:42897486": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42896976": {
+  "relevance": "medium",
+  "reason": "Chinese-language review of perioperative immunotherapy paradigms in resectable NSCLC."
+ },
+ "pmid:42896885": {
+  "relevance": "medium",
+  "reason": "Review of exhaled breath analysis for lung cancer detection."
+ },
+ "pmid:42898221": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42900516": {
+  "relevance": "medium",
+  "reason": "Review of hydrogel depots for CAR-T in solid tumours."
+ },
+ "pmid:42898905": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42898659": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42898640": {
+  "relevance": "medium",
+  "reason": "Review of CAR-T in GI cancers anchored on the satri-cel (CT041) NMPA approval, June 2026; not lung, but relevant to solid-tumour CAR-T."
+ },
+ "pmid:42898014": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42897856": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42897545": {
+  "relevance": "medium",
+  "reason": "Preclinical Claudin18.2 VHH CAR-T cells."
+ },
+ "doi:10.64898/2026.10.18.26365819": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.10.19.760245": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42898290": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42897144": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42899372": {
+  "relevance": "medium",
+  "reason": "Single-centre retrospective IPTW study in older ES-SCLC: chemo-immunotherapy OS 14.95 vs 10.28 months (HR 0.66)."
+ },
+ "pmid:42898293": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42896972": {
+  "relevance": "medium",
+  "reason": "Case series (n=49) of lung cancer with interstitial lung disease."
+ },
+ "pmid:42896412": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42898843": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42896975": {
+  "relevance": "medium",
+  "reason": "Review of postoperative recurrence risk prediction in NSCLC."
+ },
+ "pmid:42896974": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42898410": {
+  "relevance": "medium",
+  "reason": "Tumour-agnostic TIL manufacturing platform (NTU101), including NSCLC lesions; process feasibility, no clinical outcomes."
+ },
+ "pmid:42896977": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.10.13.758862": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.10.19.760040": {
+  "relevance": "low",
+  "reason": ""
+ }
+}
