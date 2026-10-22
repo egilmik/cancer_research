@@ -1,0 +1,582 @@
+[
+  {
+    "source": "pubmed",
+    "pmid": "42901386",
+    "doi": "10.1016/j.jtho.2026.106162",
+    "pmcid": "",
+    "title": "Brief Report: Characterization of the Potentially Actionable TP53 Y220C Mutation in Non-Small Cell Lung Cancer. A Multicenter, European Thoracic Oncology Platform Study.",
+    "authors": "Molina-Vila MA, Tsourti Z, Stenzinger A et al.",
+    "journal": "J Thorac Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRODUCTION: The tumor suppressor TP53 is the most frequently mutated gene in human cancer, and drugs targeting specific mutant p53 proteins have been developed. Rezatapopt, which reactivates the Y220C p53 protein, was recently evaluated in the Phase I PYNNACLE trial in patients with solid tumors, with promising results. The trial did not enrol any non-small cell lung cancer (NSCLC) cases, and little is known about the clinicopathological characteristics and genetic profile of the TP53 Y220C NSCLC patients.\nMETHODS: In this multicenter, European Thoracic Oncology Platform-sponsored study, we retrospectively collected data from NSCLC patients from several European institutions with Next Generation Sequencing data available.\nRESULTS: The study included 28,244 NSCLC patients. We found that 195 (0.7%) harbored the TP53 Y220C mutation, a prevalence higher than the average in solid tumors (0.4%). Half of these TP53 Y220C NSCLC patients did not carry any known drivers. No significant association was observed between the TP53 Y220C and gender, smoking status, histology or stage. However, the mutation was significantly more prevalent in EGFR-mutant than EGFR-wild-type tumors (1.7% vs. 0.7%; p=0.029). Finally, 17.0% of Y220C patients carried a second mutation in TP53.\nCONCLUSIONS: The TP53 Y220C has a frequency similar to other low abundance, actionable alterations in NSCLC. Patients with NSCLC should be screened and included in future trials of Y220C reactivators. Co-mutations in TP53 should also be analyzed, since they might be associated with intrinsic resistance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901386/",
+    "searches": [
+      "egfr-nsclc",
+      "lung-top-journals",
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42901386",
+      "doi:10.1016/j.jtho.2026.106162"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07885709",
+    "ct_event": "registered",
+    "title": "MRD and Imaging Guided Adaptive Neoadjuvant Therapy for Resectable NSCLC",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 100,
+    "sponsor": "Peking University People's Hospital",
+    "conditions": [
+      "Non-Small Cell Lung Cancer (NSCLC)"
+    ],
+    "interventions": [
+      "PD-1 inhibitor",
+      "Carboplatin",
+      "Nab-paclitaxel",
+      "Pemetrexed",
+      "Anlotinib"
+    ],
+    "summary": "Neoadjuvant immunotherapy combined with platinum-based doublet chemotherapy has been established as the standard of care for driver-gene-negative (EGFR/ALK wild-type) stage II-IIIB non-small cell lung cancer (NSCLC), yielding pathological complete response (pCR) rates of 30-40%. Nevertheless, a substantial proportion of patients (approximately 60-70%) do not attain pCR, and strategies to further augment the pCR rate through treatment escalation remain an unmet clinical need. Accumulating evidence indicates that failure of ctDNA clearance and radiological stable disease (SD) following two cycles of neoadjuvant therapy are each robust predictors of unfavorable pathological response, and their combined assessment may enable accurate identification of the patient subset least likely to derive benefit from immunotherapy.\n\nThis single-arm, proof-of-concept study will enroll patients with resectable or borderline resectable, EGFR/ALK wild-type, stage II-IIIB (N2) NSCLC. All participants will initially receive two cycles of a PD-1 inhibitor (nivolumab, pembrolizumab, toripalimab, or tislelizumab) in combination with platinum-based doublet chemotherapy. Following two cycles, patients will undergo ctDNA-MRD assessment and radiological evaluation. Patients in whom ctDNA has not cleared and whose radiological response is stable disease will be assigned to the treatment-escalation group and receive an intensified regimen comprising a PD-1 inhibitor plus anlotinib plus chemotherapy for cycles 3-4, whereas all remaining patients will continue the original regimen. Upon completion of neoadjuvant therapy, patients deemed resectable by a multidisciplinary team (MDT) will proceed to definitive surgery.\n\nThe primary endpoint is the pCR rate in the treatment-escalation population. This study seeks to establish a precision escalation strategy guided by ctDNA-MRD in conjunction with imaging response, thereby providing an effective therapeutic approach for patients with NSCLC who respond p",
+    "posted": "2026-10-21",
+    "url": "https://clinicaltrials.gov/study/NCT07885709",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-drivers",
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "nct:NCT07885709"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42901820",
+    "doi": "10.1016/j.trecan.2026.09.010",
+    "pmcid": "",
+    "title": "Bispecific antibodies in NSCLC: immune reengineering to neutralize adaptive tumor resistance.",
+    "authors": "Li Z, Wang H, Diao M et al.",
+    "journal": "Trends Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Over the past few decades, the emergence of immunotherapy and single-target drugs has brought new promise to the treatment of non-small cell lung cancer (NSCLC). Yet the high heterogeneity of NSCLC leads to both primary and acquired resistance that neither sequential monotherapy nor empirical combinations can effectively overcome. In contrast to the conventional coadministration of two separate monoclonal antibodies, bispecific antibodies (BsAbs) feature a series of molecular engineering designs that confer inherent synergistic antitumor effects. We propose that a network pharmacology perspective can be adopted to understand the application of BsAbs in NSCLC and to guide their subsequent development.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901820/",
+    "searches": [
+      "nsclc-resistance-nextgen",
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:42901820",
+      "doi:10.1016/j.trecan.2026.09.010"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42901717",
+    "doi": "10.1136/jitc-2026-015974",
+    "pmcid": "",
+    "title": "PCSK9 drives acquired resistance to anti-PD-1 immunotherapy through cystine metabolic reprogramming in lung cancer.",
+    "authors": "Jie G, Cao Z, Wang J et al.",
+    "journal": "J Immunother Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901717/",
+    "searches": [
+      "nsclc-resistance-nextgen"
+    ],
+    "keys": [
+      "pmid:42901717",
+      "doi:10.1136/jitc-2026-015974"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42902261",
+    "doi": "10.1186/s12913-026-15819-x",
+    "pmcid": "PMC13682040",
+    "title": "Cancer care: incidence, hospitalization and medical rehabilitation statistics for Germany from 2003 to 2016.",
+    "authors": "Nowossadeck E, Barnes B",
+    "journal": "BMC Health Serv Res",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: In Germany, inpatient hospital and rehabilitation facilities are two main settings for the delivery of cancer care. Epidemiology and demography are major forces that influence the need for care in these settings. This article examines the extent to which cancer incidence is associated with the use of inpatient and rehabilitative care.\nMETHODS: Population-based estimates of cancer incidence and survival came from the German Center for Cancer Registry Data. Statistical data on inpatient and rehabilitative care came from the Federal Statistical Office. Analyses included annual numbers and rates of hospitalizations and rehabilitation cases, and joinpoint regression models of these cases in relation to incident case numbers covering the period 2003-2016. To calculate the ratio of rehabilitation cases to incident cases, the number of incident cases was adjusted for 1-year survival.\nRESULTS: The number of incident cancers increased from 2003 to 2016 (women: +9.6%; men: +7.0), whereas the difference in inpatient cases was far smaller (women -0.4%; men +4.5%). In 2016, there were 2.46 inpatient cases per incident case for women and 2.72 for men. This indicator varied: 1.87 for breast cancer (women only) and 3.33 for lung cancer (women and men). The estimated number of 1-year cancer survivors was 180,000 women and 185,900 men in 2016. The number of estimated cases in oncological rehabilitation per 100 1-year survivors among women increased from 59.2 (2003) to 65.2 (2010) and then decreased to 57.2 (2016). There was also an initial increase among men, from 50.8 (2003) to 51.5 (2008) and a subsequent decline to 46.9 (2016).\nCONCLUSIONS: Inpatient cases far exceed incident cases, which may reflect multiple hospitalizations for diagnostics and therapy of primary or recurring disease. The time trends of inpatient cases differ greatly from those of incident cases. This could be due to structural changes in the German health care system, such as possible shifts of services from the inpatient to the outpatient care sector. Regarding rehabilitation, the change in the trend of utilization has not been previously reported. Whether the ratio of rehabilitation cases to incidence indicates underuse of rehabilitative services cannot be assessed solely on the basis of the analyzed data.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902261/",
+    "searches": [
+      "lung-nonpharm"
+    ],
+    "keys": [
+      "pmid:42902261",
+      "doi:10.1186/s12913-026-15819-x"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42902226",
+    "doi": "10.1186/s12879-026-14064-1",
+    "pmcid": "",
+    "title": "Disseminated Nocardia brasiliensis causing septic arthritis in a patient with non-small cell lung adenocarcinoma: a case report.",
+    "authors": "Jundi I, Asad W, Mehotra P et al.",
+    "journal": "BMC Infect Dis",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Case Reports"
+    ],
+    "abstract": "BACKGROUND: Nocardia brasiliensis is classically associated with localized cutaneous infection and is a rare cause of disseminated disease. Septic arthritis due to Nocardia species is atypical and has rarely been reported without antecedent trauma. We present a case of N. brasiliensis septic arthritis in a patient with active solid organ malignancy.\nCASE PRESENTATION: An 80-year-old male with non-small cell lung adenocarcinoma, chronic obstructive pulmonary disease, and chronic kidney disease stage 3b presented with refractory soft tissue infections of the left upper and right lower extremities despite prior incision and drainage and oral antibiotics. Hospital course was complicated by progressive right knee effusion. Synovial fluid analysis demonstrated 87,000 white blood cells per microliter, 95% neutrophils, glucose less than 20 mg/dL, and no crystals. Nocardia brasiliensis was cultured from multiple noncontiguous sites, including the left upper extremity abscess, right knee synovial fluid, and right lower extremity lesions. Susceptibility testing demonstrated a broad antimicrobial profile but resistance to imipenem and ciprofloxacin. Trimethoprim-sulfamethoxazole and aminoglycosides were relatively contraindicated due to renal function. The patient required right knee arthroscopy with irrigation, debridement, and complete synovectomy, multiple interventional radiology-guided drainages, and prolonged combination antimicrobial therapy with ceftriaxone, linezolid, and minocycline. His course was further complicated by persistent encephalopathy and severe malnutrition requiring enteral nutrition. At the time of reporting, the patient demonstrated clinical improvement of cutaneous and musculoskeletal lesions but remained hospitalized for non-infectious complications.\nCONCLUSIONS: This case highlights that Nocardia brasiliensis can cause disseminated musculoskeletal infection including septic arthritis in immunocompromised patients without clear environmental exposure. In patients with chronic kidney disease, standard first-line therapies may be contraindicated, making early species identification and susceptibility-guided therapy essential, particularly given the potential for carbapenem resistance. The central lesson is that empiric carbapenem therapy may fail in N. brasiliensis and that renal impairment narrows treatment options, so timely identification and susceptibility-directed therapy directly determine management, particularly when advanced malignancy further constrains care.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902226/",
+    "searches": [
+      "lung-nonpharm"
+    ],
+    "keys": [
+      "pmid:42902226",
+      "doi:10.1186/s12879-026-14064-1"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42901462",
+    "doi": "10.1016/j.ypmed.2026.108683",
+    "pmcid": "",
+    "title": "Lung cancer screening knowledge, attitudes, and practices among primary care providers in Georgia, USA: A survey analysis.",
+    "authors": "Escoffery C, Lynam M, Kodali T et al.",
+    "journal": "Prev Med",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "OBJECTIVE: To inform lung cancer screening (LCS) in primary care settings, the study assessed providers' knowledge, attitudes, and practices around LCS and recommended implementation strategies.\nMETHODS: The online survey was administered from May-August 2025 among primary care providers in Georgia, USA. We ran descriptive analyses for all data and linear regression for predictors of greater knowledge.\nRESULTS: Providers (N = 112) had an average knowledge score of 3.72/5 (SD = 1.11). Physicians (N = 73) scored significantly higher than nurses/nurse practitioners (β = -1.0, 95% CI: -1.6, -0.44). Overall, participants viewed LCS positively, and about 45% reported offering LCS at their facility while 50% reported referring patients to LCS programs. Most (75.5%) had strategies to follow-up with patients who screened positive, but few (22.6%) offered tobacco cessation services. Top barriers were cost, lack of patient knowledge/interest, and transportation; cost assistance, patient education materials, and patient navigation were the top facilitators. Providers (N = 86) identified 'Distributing patient educational materials' and 'Reminding clinicians' as highly feasible and important implementation strategies.\nCONCLUSIONS: While most providers had sufficient knowledge, positive perceptions, and high availability of LCS services, few engage in patient education or offer smoking cessation resources. Patient education and clinician reminders may be beneficial implementation strategies for primary care-based LCS.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901462/",
+    "searches": [
+      "lung-nonpharm",
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42901462",
+      "doi:10.1016/j.ypmed.2026.108683"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42901891",
+    "doi": "10.1038/s41467-026-77645-3",
+    "pmcid": "",
+    "title": "Learning chemical-induced gene expression perturbations with WAVE.",
+    "authors": "Lv T, Chen B, Dai X et al.",
+    "journal": "Nat Commun",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Chemical-induced transcriptional profiles facilitate systematic characterization of compound-driven perturbations, offering critical insights into mechanisms of action, especially for compounds with poorly defined molecular targets. However, experimentally profiling gene expression across all combinations of cell lines and compounds is impractical, limiting the large-scale application of comparative transcriptomics in drug screening. To address this, we developed a deep learning framework named WAVE (Wave Action-of-Drug with Variational Encoder), which predicts gene expression profiles from chemical structures and the basal states of cell lines and single cells. By effectively integrating drug molecular representations and cellular basal transcriptional profile using a β-variational autoencoder (β-VAE) framework, WAVE accurately predicts untested chemical-induced transcriptional profiles. Leveraging this integration of cellular insights and molecular characteristics, WAVE excels in drug discovery and drug repurposing based on in silico perturbation experiment. It's application in lung adenocarcinoma (LUAD) drug discovery showcased its potential to identify potentially effective compounds. Our results demonstrate the utility of WAVE for elucidating mechanisms of action for potential drugs and enabling large-scale drug screening.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901891/",
+    "searches": [
+      "lung-repurposed"
+    ],
+    "keys": [
+      "pmid:42901891",
+      "doi:10.1038/s41467-026-77645-3"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07886229",
+    "ct_event": "registered",
+    "title": "Propranolol Hydrochloride Combined With Toripalimab and Platinum-based Chemotherapy in Resectable Non-Small Cell Lung Cancer",
+    "status": "RECRUITING",
+    "phases": [
+      "PHASE1"
+    ],
+    "enrollment": 9,
+    "sponsor": "Second Xiangya Hospital of Central South University",
+    "conditions": [
+      "Resectable Non-Small-Cell Lung Cancer"
+    ],
+    "interventions": [
+      "Propranolol Hydrochloride",
+      "Toripalimab",
+      "Chemotherapy"
+    ],
+    "summary": "This is a prospective, multicenter, open-label study designed to evaluate the safety and tolerability of propranolol hydrochloride in combination with toripalimab and platinum-based chemotherapy as perioperative treatment in patients with resectable non-small cell lung cancer (NSCLC). Propranolol hydrochloride is a beta- adrenergic blocking agent which is associated with augment of immune cell responses. Propranolol hydrochloride may improve the responses of immune checkpoint inhibitors in treating patients with resectable NSCLC.",
+    "posted": "2026-10-21",
+    "url": "https://clinicaltrials.gov/study/NCT07886229",
+    "searches": [
+      "lung-repurposed"
+    ],
+    "keys": [
+      "nct:NCT07886229"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07886047",
+    "ct_event": "registered",
+    "title": "Propranolol Hydrochloride Combined With Adebrelimab and Platinum-Based Chemotherapy in Small Cell Lung Cancer",
+    "status": "RECRUITING",
+    "phases": [
+      "PHASE1"
+    ],
+    "enrollment": 18,
+    "sponsor": "Second Xiangya Hospital of Central South University",
+    "conditions": [
+      "Small Cell Lung Cancer (SCLC)"
+    ],
+    "interventions": [
+      "Propranolol Hydrochloride",
+      "Adebrelimab",
+      "Chemotherapy"
+    ],
+    "summary": "This is a prospective multicenter, open-label, Phase I clinical study designed to evaluate the safety, tolerability, and preliminary efficacy of propranolol hydrochloride in combination with adebrelimab and platinum-based chemotherapy in patients with small cell lung cancer (SCLC).The study includes two cohorts: patients with previously untreated extensive-stage SCLC and patients with resectable early-stage (T1-2N0M0) SCLC. Propranolol hydrochloride is a beta- adrenergic blocking agent which is associated with augment of immune cell responses. Propranolol hydrochloride may improve the responses of immune checkpoint inhibitors in treating patients with SCLC.",
+    "posted": "2026-10-21",
+    "url": "https://clinicaltrials.gov/study/NCT07886047",
+    "searches": [
+      "lung-repurposed",
+      "sclc"
+    ],
+    "keys": [
+      "nct:NCT07886047"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42902385",
+    "doi": "10.1186/s12967-026-08685-y",
+    "pmcid": "PMC13682069",
+    "title": "Epigenetic modulation of NKG2D ligands enhances NKG2D-CAR T cell efficacy in neuroblastoma.",
+    "authors": "Navarro-Zapata A, De Santisteban MO, Regojo-Zapata RM et al.",
+    "journal": "J Transl Med",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Neuroblastoma (NB) is the most common extracranial solid tumor in children and is associated with high mortality despite aggressive multimodal therapies for high-risk patients. Novel treatments such as CAR T cell therapy offer promise, yet challenges persist due to immune evasion mechanisms by tumor cells. Specifically, the interaction between the natural killer group 2D (NKG2D) receptor on cytotoxic immune cells and its ligands (NKG2DL) is critical for antitumor immunity. However, the expression of NKG2DL is tightly regulated by different means, including epigenetic mechanisms. NB cells often downregulate NKG2DL expression to evade immune control, and this reduction is associated with poorer survival and worse prognosis.\nMETHODS: The NKG2DL expression was assessed in a set of NB cell lines and patient-derived xenograft organoids (PDXOs) under basal conditions and following treatment with epigenetic drugs, valproic acid (VPA) and tazemetostat (TZM). NKG2D-CAR T cells were generated, and their proliferation, phenotype, cell-killing assays and cytokine production were performed in vitro. Cell-based assays were performed combining epigenetic drugs and NKG2D-CAR T cells in the different NB models.\nRESULTS: Our study revealed that NKG2DL expression in NB models and patient samples exhibited considerable heterogeneity, but it was low overall. Although NKG2DL expression does not necessarily preclude susceptibility, its downregulation may compromise the cytotoxicity of NKG2D-CAR T cells. Treatment with epigenetic drugs, VPA and TZM, significantly increased NKG2DL expression and improved NKG2D-CAR T cell-mediated killing in vitro and in vivo.\nCONCLUSION: This work suggests that targeting epigenetic pathways can enhance the susceptibility of NB cells to NKG2D-CAR T cell therapy, thereby providing a potential new approach to treat high-risk NB.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902385/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42902385",
+      "doi:10.1186/s12967-026-08685-y"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42901433",
+    "doi": "10.1016/j.canlet.2026.218899",
+    "pmcid": "",
+    "title": "Next-Generation CAR-Macrophage Therapies: Design Principles and Advances in Cancer Treatment.",
+    "authors": "Wang W, Guo S, Chu Q et al.",
+    "journal": "Cancer Lett",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Macrophages possess intrinsic tumor-homing and tissue-infiltrating abilities, performing various effector functions, including phagocytosis and antigen presentation. These properties make chimeric antigen receptor macrophages (CAR-M) a promising approach to overcoming major barriers in cellular therapy for solid tumors. This review systematically compares and critically evaluates key design variables that determine the therapeutic activity and clinical feasibility of CAR-M, including CAR architecture, macrophage source, gene-delivery method, and manufacturing strategy. We also discuss emerging engineering approaches tailored to macrophage biology, including macrophage-adapted intracellular signaling, regulation of phagocytic checkpoints, metabolic and phenotypic reprogramming, and combinations with immunomodulatory therapies. Their therapeutic potential and translational boundaries are assessed based on current preclinical evidence and early clinical findings. Notably, the major barriers to clinical translation are shifting from focusing solely on antitumor potency to addressing system-level challenges involving cell source and product consistency, in vivo expansion and persistence, phenotypic stability, off-target toxicity, and scalable manufacturing. Therefore, we propose that next-generation CAR-M development should move beyond conventional optimization of the CAR construct to multidimensional engineering centered on macrophage biology. Coordinated optimization of receptor signaling, antigen recognition, cell-state control, delivery, and safety mechanisms will be essential to balance efficacy, persistence, safety, and manufacturability. This review provides an integrated framework for the rational design and clinical evaluation of CAR-M and the development of next-generation CAR-M cellular therapy platforms.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901433/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42901433",
+      "doi:10.1016/j.canlet.2026.218899"
+    ]
+  },
+  {
+    "source": "feed",
+    "feed": "http://connect.biorxiv.org/biorxiv_xml.php?subject=cancer_biology",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.10.13.758999v1?rss=1",
+    "doi": "10.64898/2026.10.13.758999",
+    "title": "Novel retinoic acid receptor-related orphan receptor gamma inverse agonist enhances checkpoint blockade in hepatocellular carcinoma: a preclinical mouse study",
+    "summary": "Background and Aims: Neutrophil-associated inflammation is associated with poor outcomes in hepatocellular carcinoma (HCC), but tumour-intrinsic regulators of neutrophil recruitment and checkpoint response remain unclear. We evaluated whether inhibiting retinoic acid receptor-related orphan receptor gamma (RORgamma) alters neutrophil recruitment, programmed death-ligand 1 (PD-L1) expression, and response to PD-L1 blockade. Approach and Results: Survival associations were analysed in The Cancer Genome Atlas HCC cohort. Neutrophil migration toward HCC cells and PD-L1 expression were assessed after RORC silencing or TF-S10 treatment. Immunocompetent mice bearing orthotopic Hep-55.1c tumours received vehicle, TF-S10, anti-PD-L1, or combination treatment. Higher S100A9 and CXCL8 expression was associated with shorter survival (P = 0.000459 and P = 0.0004413, respectively), and tumour-bearing mice had higher neutrophil-to-lymphocyte ratios (P < 0.0001). RORgamma; targeting reduced neutrophil migration and intratumoural Ly6G; infiltration while increasing tumour-cell PD-L1 expression in vitro. Combination treatment reduced endpoint liver tumour volume versus anti-PD-L1 monotherapy (P < 0.01). Half of combination-treated mice had tumour volumes less than or equal to 0.10 cm^3 and none exceeded 1.00 cm^3, compared with 62% of controls exceeding 1.00 cm^3. Histologically, 85% of combination-treated mice had less than 10% liver tumour involvement, versus no controls. Combination treatment also reduced tumour-associated neutrophil populations and peripheral neutrophil-to-lymphocyte ratios. All active treatments reduced pulmonary metastatic burden versus controls, without significant differences among treatment groups; 53% of combination-treated mice had no detectable lung metastases. Conclusions: RORgamma inhibition reduces neutrophil recruitment and increases tumour-cell PD-L1 expression. Combined RORgamma inhibition and PD-L1 blockade improves hepatic tumour control in precli",
+    "published": "2026-10-21",
+    "searches": [
+      "preprints"
+    ],
+    "keys": [
+      "doi:10.64898/2026.10.13.758999",
+      "url:https://www.biorxiv.org/content/10.64898/2026.10.13.758999v1?rss=1"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42901437",
+    "doi": "10.1016/j.canlet.2026.218915",
+    "pmcid": "",
+    "title": "Early transcriptional divergence and spatial remodeling toward immune activation and evasion shape lung adenocarcinoma precancer evolution.",
+    "authors": "Li JR, Zhu B, Chi Y et al.",
+    "journal": "Cancer Lett",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Tumor heterogeneity is a universal feature of cancer and may arise as early as precancer stages during lung adenocarcinoma evolution, yet the emergence of aggressive transcriptional programs remains incompletely understood. Here, we integrated spatial transcriptomics with single-cell RNA sequencing to characterize inter- and intratumoral heterogeneity across hyperplasia, adenoma, and invasive adenocarcinoma (IAC) in a genetically engineered mouse model (129S4/Sv KrasLSL-G12D/+). Disease progression was accompanied by coordinated remodeling of epithelial, stromal, and immune compartments, along with dynamic changes in proliferation, immune response, and metabolic pathways. Notably, lesions of the same histological stage exhibited substantial transcriptional heterogeneity. By quantifying dedifferentiation states, we identified a subset of adenomas that had already diverged toward highly proliferative and metabolically active programs despite lacking invasive features. These lesions were further marked by early chromosome 6 amplification, whose corresponding human ortholog signature recapitulated aggressive proliferation-associated programs in early-stage human lung adenocarcinoma. Spatial analyses further revealed pronounced intratumoral heterogeneity within IAC, with tumor core regions showing increased proliferation and metabolism but reduced immune signaling compared to peripheral regions. In addition, immune checkpoint gene expression in T cells was transiently elevated at the hyperplasia stage, suggesting early immune modulation prior to overt malignancy. Together, these findings indicate that aggressive transcriptional divergence can emerge early during lung adenocarcinoma evolution and that spatial organization critically shapes tumor and immune programs before and after invasion.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901437/",
+    "searches": [
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42901437",
+      "doi:10.1016/j.canlet.2026.218915"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42902489",
+    "doi": "10.1111/ans.71027",
+    "pmcid": "",
+    "title": "Recurrence Risk After Resection of Typical and Atypical Pulmonary Carcinoids: A Systematic Review and Meta-Analysis.",
+    "authors": "Guevara-Tirado A, Barra GG, Espinoza MFXB",
+    "journal": "ANZ J Surg",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "BACKGROUND: Pulmonary carcinoids generally have favorable outcomes after surgery, but postoperative recurrence differs substantially by histological subtype. Existing guidance recognizes atypical histology and nodal involvement as adverse features, yet a focused quantitative synthesis of the magnitude and consistency of this association remains limited.\nMETHODS: MEDLINE/PubMed, Scopus, and Embase were searched from inception to July 12, 2026 for surgical cohorts reporting postoperative recurrence. Two reviewers independently screened titles and abstracts and assessed full-text eligibility, with disagreements resolved by consensus. The primary meta-analysis emphasized the risk ratio (RR) of observed recurrence in atypical versus typical carcinoids using random-effects models with restricted maximum likelihood and modified Hartung-Knapp intervals; odds ratios (ORs) and risk differences were complementary measures. Time-defined recurrence, adjusted prognostic factors, and anatomical patterns were synthesized separately because of incompatible outcome definitions and effect measures.\nRESULTS: Eighteen reports were included in the review, 11 contributed structured quantitative evidence, and 7 independent comparative cohorts entered the primary meta-analysis. Among 1074 resected tumors, recurrence occurred in 24 of 816 typical carcinoids and 51 of 258 atypical carcinoids. The pooled RR of observed recurrence was 6.57 (95% CI, 3.65-11.84), with a complementary OR of 8.08 (95% CI, 4.20-15.53). No statistical heterogeneity was detected (I2 = 0%), but this result was interpreted cautiously because only seven studies were available and clinically important differences in follow-up, staging, pathological review, and surveillance remained. Leave-one-out RR estimates ranged from 5.77 to 7.48. Time-defined evidence suggested recurrence of approximately 18%-25% by 5 years and 29%-32% by 10 years in atypical tumors, whereas node-negative typical tumors generally remained below 5% at 10 years, although late events occurred. Nodal involvement, advanced pT category, and larger tumor size were adverse prognostic features.\nCONCLUSION: Observed recurrence after resection was substantially more frequent in atypical than in typical pulmonary carcinoids. Histology and nodal status provide a clinically useful basis for postoperative risk stratification, but the available evidence does not establish the optimal surveillance modality, interval, or duration.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902489/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42902489",
+      "doi:10.1111/ans.71027"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07885332",
+    "ct_event": "registered",
+    "title": "Real-World Use of Tarlatamab in Chinese Patients With Small-Cell Lung Cancer",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phases": [],
+    "enrollment": 26,
+    "sponsor": "Ruijin Hospital",
+    "conditions": [
+      "Extensive-Stage Small Cell Lung Cancer"
+    ],
+    "interventions": [
+      "Tarlatamab"
+    ],
+    "summary": "This is an investigator-initiated, single-center, observational, noninterventional retrospective real-world cohort study evaluating the effectiveness and safety of tarlatamab as second-line or later-line therapy in Chinese adults with extensive-stage small-cell lung cancer. Clinical data are retrospectively collected from patients who received tarlatamab as part of routine clinical care. The primary outcome is overall objective response rate (ORR). Secondary outcomes include overall disease control rate (DCR) and the incidence and severity of adverse events, including cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS). Treatment with tarlatamab and supportive management was determined independently by treating physicians and was not assigned by the study protocol.",
+    "posted": "2026-10-21",
+    "url": "https://clinicaltrials.gov/study/NCT07885332",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "nct:NCT07885332"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07885540",
+    "ct_event": "registered",
+    "title": "Preoperative Pneumococcal and Influenza Vaccination to Prevent Postoperative Pulmonary Infection in Patients Undergoing Lung Resection for Pulmonary Nodules or Lung Cancer",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [
+      "PHASE4"
+    ],
+    "enrollment": 1278,
+    "sponsor": "The First Affiliated Hospital of Guangzhou Medical University",
+    "conditions": [
+      "Pneumococcal Polysaccharide Vaccine",
+      "Influenza Vaccines",
+      "Preoperative",
+      "Lung Resection Surgery",
+      "Thoracic Surgery"
+    ],
+    "interventions": [
+      "23-valent pneumococcal polysaccharide vaccine",
+      "Quadrivalent split-virion influenza vaccine"
+    ],
+    "summary": "Postoperative pneumonia (POP) affects 4%-24% of lung cancer surgery patients, increasing mortality, stay, costs and worsening prognosis, especially in older patients. Perioperative immunosuppression and synergistic influenza/pneumococcal infection support perioperative vaccination, which may also induce trained immunity; thoracic surgery data are lacking.\n\nThis multicenter, prospective, randomized, open-label, blinded-endpoint (PROBE) trial will enroll \\~1278 patients aged ≥50 undergoing anatomical lung resection for pulmonary nodules or lung cancer, randomized 1:1 to vaccination or no vaccination, with 180-day follow-up.\n\nRandomization uses a computer-generated, site-stratified block sequence, concealed via central IWRS or sealed envelopes. An unblinded team handles screening, randomization and vaccination data; surgeons and assessors are blinded. No site may exceed 50% of enrollment.\n\nVaccination group receives 23-valent pneumococcal polysaccharide and quadrivalent influenza vaccines intramuscularly in separate arms 14-28 days preoperatively. Controls receive no vaccine/placebo, with surgery scheduled 14-28 days after randomization. Concomitant indicated treatments are permitted and recorded.\n\nPrimary endpoint is POP per modified CDC/NHSN criteria: new/progressive imaging infiltrate (excluding atelectasis, edema, embolism, tumor), plus ≥1 clinical sign (fever \\>38 °C, WBC ≤4000 or ≥12,000/mm³, or altered mental status if ≥70 years) and ≥2 respiratory signs. Findings on days 3-5 are excluded unless persistent/worsening. Microbiology is confirmatory, not required.",
+    "posted": "2026-10-21",
+    "url": "https://clinicaltrials.gov/study/NCT07885540",
+    "searches": [
+      "lung-vaccines-cell"
+    ],
+    "keys": [
+      "nct:NCT07885540"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42901803",
+    "doi": "10.1136/thorax-2026-224731",
+    "pmcid": "",
+    "title": "Randomised pilot and feasibility study comparing video-assisted thoracoscopic partial pleurectomy-decortication with indwelling pleural catheter for trapped lung in pleural mesothelioma.",
+    "authors": "Rintoul RC, Freeman C, Maskell NA et al.",
+    "journal": "Thorax",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901803/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:42901803",
+      "doi:10.1136/thorax-2026-224731"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42901775",
+    "doi": "10.1136/medhum-2026-013854",
+    "pmcid": "",
+    "title": "When art anticipates disease: asbestos, conceptual painting and mesothelioma.",
+    "authors": "Mangiameli G, Brascia D, Marulli G",
+    "journal": "Med Humanit",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901775/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:42901775",
+      "doi:10.1136/medhum-2026-013854"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42901539",
+    "doi": "10.1111/ases.70390",
+    "pmcid": "",
+    "title": "Associations Between Tumor-Left Brachiocephalic Vein Distance and Operative Time in Minimally Invasive Subxiphoid Surgery for Thymoma.",
+    "authors": "Kimura T, Miyashita Y, Nagata H et al.",
+    "journal": "Asian J Endosc Surg",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRODUCTION: Tumor proximity to the left brachiocephalic vein (LBCV) may affect vascular exposure and dissection during the subxiphoid approach (SXA). We investigated the association between tumor-LBCV distance and operative time in patients undergoing subxiphoid robot-assisted or video-assisted thoracoscopic surgery for thymoma.\nMETHODS: Consecutive patients who underwent minimally invasive SXA for thymoma between 2019 and 2024 were retrospectively reviewed. The shortest tumor-LBCV distance (d-LBCV) was measured on preoperative computed tomography. Associations of d-LBCV and tumor size with operative time were evaluated using correlation, interaction, and multivariable linear regression analyses.\nRESULTS: Among 64 patients with clinical Stage I thymoma without radiological evidence of vascular invasion, 45 and 19 underwent robot- and video-assisted thoracoscopic surgery, respectively. Overall, shorter d-LBCV (r = -0.357, p = 0.0037) and larger tumor size (r = 0.328, p = 0.0082) were correlated with longer operative time. In multivariable analysis adjusting for tumor size, surgical platform, and surgical procedure, shorter d-LBCV remained significantly associated with longer operative time (regression coefficient, -7.62 min per 10-mm increase; 95% CI, -13.21 to -2.03; p = 0.008). Surgical procedure was also significantly associated with operative time, whereas tumor size and surgical platform were not. Although platform-specific analyses showed different association patterns, interaction analyses showed no significant differences between RATS and VATS for tumor size or d-LBCV.\nCONCLUSION: Shorter d-LBCV was independently associated with longer operative time during minimally invasive SXA for thymoma, despite adjustment for tumor size, surgical platform, and surgical procedure. d-LBCV may provide useful anatomical information for preoperative planning; although further validation is required.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901539/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:42901539",
+      "doi:10.1111/ases.70390"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07885306",
+    "ct_event": "registered",
+    "title": "Safety and Preliminary Antitumor Activity of Ivonescimab Plus Pemetrexed and Platinum-Based Chemotherapy in Advanced Malignant Pleural Mesothelioma",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phases": [
+      "PHASE1"
+    ],
+    "enrollment": 9,
+    "sponsor": "Ruijin Hospital",
+    "conditions": [
+      "Malignant Pleural Mesothelioma, Advanced"
+    ],
+    "interventions": [
+      "Ivonescimab Combined With Chemotherapy"
+    ],
+    "summary": "This Phase 1a, open-label, dose-escalation study evaluates the safety, tolerability, and preliminary antitumor activity of ivonescimab in combination with pemetrexed and platinum-based chemotherapy as first-line treatment for advanced malignant pleural mesothelioma. Ivonescimab is evaluated at sequential dose levels of 3, 10, and 20 mg/kg using a 3+3 dose-escalation design.",
+    "posted": "2026-10-21",
+    "url": "https://clinicaltrials.gov/study/NCT07885306",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "nct:NCT07885306"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07885319",
+    "ct_event": "registered",
+    "title": "Efficacy and Safety of Ivonescimab Plus Pemetrexed and Platinum-Based Chemotherapy in Advanced Malignant Pleural Mesothelioma",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 78,
+    "sponsor": "Ruijin Hospital",
+    "conditions": [
+      "Malignant Pleural Mesothelioma, Advanced"
+    ],
+    "interventions": [
+      "Ivonescimab Combined With Chemotherapy"
+    ],
+    "summary": "This Phase 1b/2, open-label, multicenter, single-arm study evaluates the safety and efficacy of ivonescimab in combination with pemetrexed and platinum-based chemotherapy as first-line treatment for advanced malignant pleural mesothelioma. Phase 1b evaluates the candidate recommended Phase 2 dose (RP2D), followed by Phase 2 evaluation at the confirmed RP2D.",
+    "posted": "2026-10-21",
+    "url": "https://clinicaltrials.gov/study/NCT07885319",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "nct:NCT07885319"
+    ]
+  },
+  {
+    "source": "feed",
+    "feed": "http://connect.biorxiv.org/biorxiv_xml.php?subject=immunology",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759372v1?rss=1",
+    "doi": "10.64898/2026.10.15.759372",
+    "title": "Harnessing the PRDM1-PGC1A axis to enhance CAR T cell efficacy",
+    "summary": "Despite its promise in treating B cell malignancies, chimeric antigen receptor (CAR) T cell therapy remains limited by resistance mechanisms that impair CAR T cell stemness, persistence, and effector function. Here, we identified PRDM1, which encodes the transcriptional repressor, BLIMP-1, as a crucial regulator of CAR T cell terminal differentiation and exhaustion. PRDM1 was highly enriched in exhausted-like tumor-infiltrating CAR T cells from lymphoma patients and in pre-infusion products from clinical non-responders. These findings link increased PRDM1 expression to CAR T cell dysfunction and poor clinical outcomes. Genetic deletion of PRDM1 significantly promoted CAR T cell proliferative capacity, memory differentiation and antitumor efficacy in both hematologic and solid tumor models. Mechanistically, PRDM1 deletion increased the activity of PGC1a;, a transcriptional coactivator central to mitochondrial biogenesis and antioxidant capacity, thereby improving mitochondrial function, oxidative stress resistance, and metabolic reserve. Depletion of PGC1a; attenuated the improved efficacy of PRDM1-deficient CAR T cells, indicating an essential role for this pathway downstream of PRDM1 loss. Pharmacologic activation of the PPAR-PGC1a; program with a clinically approved agonist, bezafibrate, enhanced CAR T cell antitumor activity without direct tumoricidal effects. Notably, transient exposure to bezafibrate during CAR T cell manufacturing was sufficient to confer durable treatment benefits. Together, our study defines a PRDM1-PGC1a; axis that controls CAR T cell differentiation, mitochondrial fitness and therapeutic response, which provides a mechanistic and translational framework for advancing CAR T cell therapy across distinct tumor contexts.",
+    "published": "2026-10-21",
+    "searches": [
+      "preprints-cell-therapy"
+    ],
+    "keys": [
+      "doi:10.64898/2026.10.15.759372",
+      "url:https://www.biorxiv.org/content/10.64898/2026.10.15.759372v1?rss=1"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://news.bms.com/news/details/2026/Bristol-Myers-Squibb-to-Showcase-Next-Generation-Cancer-Modalities-and-Leadership-Across-Solid-Tumors-at-ESMO-2026/default.aspx",
+    "doi": "",
+    "title": "Bristol Myers Squibb to Showcase Next-Generation Cancer Modalities ... at ESMO 2026",
+    "summary": "Late-breaking phase 3 of izalontamab brengitecan (EGFR x HER3 bispecific ADC) incl. EGFR-mutated NSCLC; phase 2 pumitamig ROSETTA Lung-107.",
+    "published": "2026-10-19",
+    "searches": [
+      "guidelines-meetings"
+    ],
+    "keys": [
+      "url:https://news.bms.com/news/details/2026/Bristol-Myers-Squibb-to-Showcase-Next-Generation-Cancer-Modalities-and-Leadership-Across-Solid-Tumors-at-ESMO-2026/default.aspx"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://finviz.com/news/395807/pfizer-advances-todays-cancer-care-and-tomorrows-potential-breakthroughs-at-esmo",
+    "doi": "",
+    "title": "Pfizer Advances Today's Cancer Care and Tomorrow's Potential Breakthroughs at ESMO 2026",
+    "summary": "SigVie-002 (LBA68) sigvotatug vedotin OS/PFS in previously treated non-squamous NSCLC.",
+    "published": "2026-10",
+    "searches": [
+      "guidelines-meetings"
+    ],
+    "keys": [
+      "url:https://finviz.com/news/395807/pfizer-advances-todays-cancer-care-and-tomorrows-potential-breakthroughs-at-esmo"
+    ]
+  }
+]

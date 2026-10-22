@@ -1,0 +1,102 @@
+{
+ "pmid:42901386": {
+  "relevance": "high",
+  "reason": "Large (n=28,244) ETOP multicentre NGS cohort defining TP53 Y220C prevalence in NSCLC, relevant to the emerging rezatapopt target and to EGFR-mutant co-occurrence."
+ },
+ "nct:NCT07885709": {
+  "relevance": "high",
+  "reason": "Registered phase 2 single-arm MRD- and imaging-guided neoadjuvant escalation (PD-1 + chemo, then anlotinib) in resectable NSCLC; novel ctDNA-adaptive design."
+ },
+ "pmid:42901820": {
+  "relevance": "medium",
+  "reason": "Narrative review of bispecific antibodies in NSCLC."
+ },
+ "pmid:42901717": {
+  "relevance": "medium",
+  "reason": "Preclinical PCSK9 mechanism of acquired anti-PD-1 resistance in lung cancer; PCSK9 inhibitors are repurposable."
+ },
+ "pmid:42902261": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42902226": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42901462": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42901891": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07886229": {
+  "relevance": "medium",
+  "reason": "Phase 1, n=9 safety study of propranolol with toripalimab + chemo in resectable NSCLC; repurposed drug, safety endpoint only."
+ },
+ "nct:NCT07886047": {
+  "relevance": "medium",
+  "reason": "Phase 1, n=18 propranolol + adebrelimab + chemo in SCLC (ES and early stage); repurposed drug, early phase."
+ },
+ "pmid:42902385": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42901433": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.10.13.758999": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42901437": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42902489": {
+  "relevance": "medium",
+  "reason": "Meta-analysis (7 cohorts, 1074 resections): recurrence RR 6.57 (3.65-11.84) atypical vs typical pulmonary carcinoid; heterogeneous follow-up."
+ },
+ "nct:NCT07885332": {
+  "relevance": "medium",
+  "reason": "Retrospective single-centre real-world study of tarlatamab in Chinese ES-SCLC (n=26); registration only."
+ },
+ "nct:NCT07885540": {
+  "relevance": "medium",
+  "reason": "Phase 4 RCT (n~1278) of pneumococcal/influenza vaccination to prevent postoperative pneumonia after lung resection; supportive-care relevance."
+ },
+ "pmid:42901803": {
+  "relevance": "medium",
+  "reason": "Randomised pilot/feasibility of VATS partial pleurectomy-decortication vs indwelling pleural catheter in mesothelioma (no abstract available)."
+ },
+ "pmid:42901775": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42901539": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07885306": {
+  "relevance": "high",
+  "reason": "New registration: phase 1a ivonescimab + pemetrexed/platinum first-line pleural mesothelioma, 3+3 dose escalation, n=9."
+ },
+ "nct:NCT07885319": {
+  "relevance": "high",
+  "reason": "New registration: phase 1b/2 single-arm ivonescimab + pemetrexed/platinum first-line pleural mesothelioma, n=78."
+ },
+ "doi:10.64898/2026.10.15.759372": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "url:https://news.bms.com/news/details/2026/Bristol-Myers-Squibb-to-Showcase-Next-Generation-Cancer-Modalities-and-Leadership-Across-Solid-Tumors-at-ESMO-2026/default.aspx": {
+  "relevance": "medium",
+  "reason": "Sponsor ESMO 2026 preview: late-breaking phase 3 izalontamab brengitecan (EGFR x HER3 ADC) incl. EGFR-mutated NSCLC; no results yet."
+ },
+ "url:https://finviz.com/news/395807/pfizer-advances-todays-cancer-care-and-tomorrows-potential-breakthroughs-at-esmo": {
+  "relevance": "medium",
+  "reason": "Sponsor ESMO 2026 preview: sigvotatug vedotin SigVie-002 late-breaker in pretreated non-squamous NSCLC; results not yet presented."
+ }
+}
