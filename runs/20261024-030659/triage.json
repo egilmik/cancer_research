@@ -1,0 +1,286 @@
+{
+ "pmid:42913244": {
+  "relevance": "high",
+  "reason": "ORCHARD phase II module (n=31): osimertinib + platinum-pemetrexed after first-line osimertinib gave ORR 26%, median PFS 5.6 mo, OS 10.9 mo, grade>=3 AEs 65% - modest, single-arm."
+ },
+ "pmid:42913138": {
+  "relevance": "medium",
+  "reason": "Review on continuing TKI after progression in oncogene-driven NSCLC."
+ },
+ "pmid:42913055": {
+  "relevance": "medium",
+  "reason": "Review of precision oncology in lung adenocarcinoma."
+ },
+ "pmid:42911709": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42909660": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42909031": {
+  "relevance": "medium",
+  "reason": "Retrospective propensity-matched bicenter study (n=60/arm) favouring TKI+chemo in brain metastases; non-randomised."
+ },
+ "pmid:42906730": {
+  "relevance": "medium",
+  "reason": "Review of ADCs after EGFR-TKI resistance."
+ },
+ "pmid:42906158": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42905322": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42911720": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42911352": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42909136": {
+  "relevance": "medium",
+  "reason": "Narrative review of ADC data from ASCO 2026, largely preliminary conference data."
+ },
+ "pmid:42908912": {
+  "relevance": "medium",
+  "reason": "Systematic review/single-arm meta-analysis of ADCs in SCLC; early-phase evidence."
+ },
+ "pmid:42906731": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42906174": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42912505": {
+  "relevance": "medium",
+  "reason": "Updated meta-analysis on ICI infusion timing; no abstract available."
+ },
+ "pmid:42912496": {
+  "relevance": "medium",
+  "reason": "RCT protocol: acupuncture for appetite loss in lung cancer on immunotherapy."
+ },
+ "pmid:42911028": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42910403": {
+  "relevance": "medium",
+  "reason": "Single-centre retrospective cohort (n=112, 30 serplulimab) in ES-SCLC."
+ },
+ "pmid:42910049": {
+  "relevance": "medium",
+  "reason": "Protocol of randomised trial of ventilation-imaging functional avoidance RT."
+ },
+ "pmid:42908627": {
+  "relevance": "medium",
+  "reason": "Study protocol: neoadjuvant immunochemotherapy then surgery or CRT plus durvalumab in resectable/borderline stage III NSCLC."
+ },
+ "pmid:42907951": {
+  "relevance": "medium",
+  "reason": "Real-world MDT study of LLM decision support in lung cancer."
+ },
+ "pmid:42906942": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 58 studies (19,436 pts): physical function measures prognostic for survival in NSCLC."
+ },
+ "pmid:42906938": {
+  "relevance": "high",
+  "reason": "Meta-analysis (14 studies): SDM+navigation OR 4.34 and outreach+navigation OR 2.20 raise LDCT uptake; education alone does not."
+ },
+ "pmid:42906635": {
+  "relevance": "high",
+  "reason": "ESTRO/ReCOG expert consensus on technical workflow for lung reirradiation; consensus from expert panel, evidence base limited."
+ },
+ "pmid:42905748": {
+  "relevance": "high",
+  "reason": "COPE randomized non-comparative phase II (n=176): serial ctDNA + MTB feasible, ctDNA clearance prognostic, but no clinical benefit shown."
+ },
+ "pmid:42912151": {
+  "relevance": "medium",
+  "reason": "Preclinical long-read RNA-seq study linking STAT2 intron retention to anti-PD-L1 response in lung adenocarcinoma."
+ },
+ "pmid:42908789": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42909369": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42912539": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42908576": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42913427": {
+  "relevance": "medium",
+  "reason": "Review of TCR-T in solid tumours."
+ },
+ "pmid:42913258": {
+  "relevance": "high",
+  "reason": "Phase I (n=7) CD20 CAR-T in melanoma: DLTs at dose level 2, only stable disease, all progressed by month 6."
+ },
+ "pmid:42911633": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42909255": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42909156": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42907869": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42907426": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42907136": {
+  "relevance": "medium",
+  "reason": "Review of cell therapies for glioma."
+ },
+ "pmid:42906236": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42905522": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42905164": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.10.23.26365904": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42913021": {
+  "relevance": "medium",
+  "reason": "Preclinical: CASTOR1 inactivation in KRAS-mutant NSCLC resistance."
+ },
+ "pmid:42909821": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42909554": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42907305": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42913071": {
+  "relevance": "high",
+  "reason": "Prospective phase 4 EMERGE 402 (n=267): ORR 29%, median PFS 3.3 mo, OS 7.6 mo in previously treated SCLC; real-world benchmark."
+ },
+ "pmid:42912498": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42907953": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42907122": {
+  "relevance": "medium",
+  "reason": "Protocol of single-arm neoadjuvant trial in limited-stage SCLC."
+ },
+ "pmid:42906939": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42905834": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07892625": {
+  "relevance": "high",
+  "reason": "New phase 1 registration (n=338) combining B7-H3 ADC HS-20093 with DLL3 agent ZG006 +/- adebrelimab in ES-SCLC."
+ },
+ "pmid:42913121": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42912828": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42911634": {
+  "relevance": "medium",
+  "reason": "Screening/early-detection item; see title."
+ },
+ "pmid:42907936": {
+  "relevance": "medium",
+  "reason": "Screening/early-detection item; see title."
+ },
+ "pmid:42907933": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42907269": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42906366": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42911130": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42908716": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42908534": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42907568": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42907838": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42913257": {
+  "relevance": "medium",
+  "reason": "Expert panel pathology review of thymic epithelial tumour classification."
+ },
+ "nct:NCT07892300": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07893340": {
+  "relevance": "medium",
+  "reason": "New phase 2 registration (n=19, Fudan): sintilimab+ipilimumab N01+bevacizumab in peritoneal mesothelioma, primary endpoint PFS."
+ },
+ "doi:10.64898/2026.10.19.760044": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.10.21.760687": {
+  "relevance": "medium",
+  "reason": "Preprint on microRNA networks and CAR T response in paediatric brain tumours."
+ }
+}

@@ -1,0 +1,1637 @@
+[
+  {
+    "source": "pubmed",
+    "pmid": "42913244",
+    "doi": "10.1016/j.cllc.2026.09.001",
+    "pmcid": "",
+    "title": "Osimertinib Plus Platinum-based Chemotherapy in Patients With EGFR-Mutated Advanced NSCLC Post-progression on First-Line Osimertinib: ORCHARD.",
+    "authors": "Goldman JW, Riess JW, Cho BC et al.",
+    "journal": "Clin Lung Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: ORCHARD (NCT03944772) was a biomarker-directed, phase II, platform study conducted to characterize resistance mechanisms and evaluate novel treatment combinations in patients with epidermal growth factor receptor (EGFR)-mutated non-small cell lung cancer (NSCLC) following progression on first-line osimertinib. We report results from the module evaluating osimertinib plus platinum-based chemotherapy.\nMETHODS: Patients received osimertinib (80 mg once daily) plus ≤ 4 cycles of platinum-based doublet chemotherapy (pemetrexed 500 mg/m2 plus carboplatin AUC5) on day 1 of every 21-day cycle, followed by pemetrexed maintenance until disease progression, unacceptable toxicity, or another discontinuation criterion. The primary endpoint was objective response rate (ORR) using Response Evaluation Criteria in Solid Tumors v1.1. Secondary endpoints were progression-free survival (PFS), duration of response (DoR), overall survival (OS), and safety.\nRESULTS: Thirty-one patients received study treatment. Eight patients had a confirmed partial response (ORR 26%; 80% CI, 16-39). Median DoR was 7.6 months (95% CI, 4.2-not calculable). Median PFS was 5.6 months (95% CI, 4.0-7.5); PFS events were reported in 29 (94%) patients. Median OS was 10.9 months (95% CI, 8.5-15.0); 20 (65%) patients had died at data cut-off. Grade ≥ 3 adverse events (AEs) occurred in 20 (65%) patients; AEs leading to discontinuation of any treatment occurred in 7 (23%) patients.\nCONCLUSION: In patients with EGFR-mutated advanced NSCLC who had progressed on first-line osimertinib, osimertinib plus platinum-based chemotherapy demonstrated a modest clinical benefit and manageable safety profile, consistent with the individual drug profiles.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913244/",
+    "searches": [
+      "egfr-nsclc",
+      "lung-key-evidence",
+      "lung-nordic"
+    ],
+    "keys": [
+      "pmid:42913244",
+      "doi:10.1016/j.cllc.2026.09.001"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42913138",
+    "doi": "10.1016/j.ctrv.2026.103235",
+    "pmcid": "",
+    "title": "Role of maintaining the TKI backbone in oncogene-driven NSCLC after progression.",
+    "authors": "Piazza F, Sharma R, Esposito A et al.",
+    "journal": "Cancer Treat Rev",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Tyrosine kinase inhibitors (TKIs) have marked a turning point in the treatment of oncogene-addicted non-small cell lung cancer (NSCLC), offering unprecedented efficacy. Yet, most tumors eventually develop resistance and progress, often prompting discontinuation of the targeted agent and a switch to non-targeted therapies such as chemotherapy. We explored current evidence on maintaining inhibition of the oncogenic driver beyond progression in a narrative literature review through August 24, 2026, including clinical trials, retrospective analyses, case reports, case series, and preclinical models. Among all drivers, only EGFR-mutated NSCLC provided phase II/III evidence supporting maintenance of driver inhibition beyond progression. Combinations of EGFR-directed therapies with chemotherapy or MET inhibitors were associated with improved response rates and progression-free survival (PFS) compared with chemotherapy or MET inhibitor monotherapy, although these trials had several limitations. ALK and KRAS G12C evidence was limited to early-phase trials with small cohorts and modest clinical signals, while the remaining drivers (RET, METex14, NTRK, HER2, ROS1, BRAF, and EGFR exon 20) evidence was largely preclinical or anecdotal, making continuation experimental. Co-occurring resistance mechanisms, heterogeneous tumor evolution, and potential additive toxicity complicate interpretation of the backbone's contribution to clinical benefit. Continuation should therefore not be applied routinely but tailored to the pattern and site of progression, re-biopsy findings, CNS disease control, expected toxicity, and patient preferences. Given the rarity of many oncogenic drivers and the challenges of conducting adequately powered randomized trials, definitive data may remain available for several resistance scenarios.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913138/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-resistance-nextgen",
+      "lung-key-evidence",
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42913138",
+      "doi:10.1016/j.ctrv.2026.103235"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42913055",
+    "doi": "10.1016/j.prp.2026.156711",
+    "pmcid": "",
+    "title": "Biomarker-guided targeted therapy in lung adenocarcinoma: A concise review of precision oncology advances, resistance mechanisms, and emerging strategies.",
+    "authors": "Mall T, Bachhar V, Joshi V et al.",
+    "journal": "Pathol Res Pract",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Lung adenocarcinoma (LUAD), a major subtype of non-small cell lung cancer (NSCLC), remains a leading cause of cancer-related mortality despite major therapeutic advances. Precision oncology has revolutionized the management of LUAD by identifying actionable molecular biomarkers and developing targeted therapies. In this review, we summarize the major predictive biomarkers in LUAD, including EGFR, KRAS, ALK, ROS1, MET, RET, BRAF, HER2, NTRK, and PD-L1, and describe the currently approved targeted therapies and emerging therapeutic strategies. Recent advances in selective inhibitors, antibody-drug conjugates, and immune checkpoint inhibitors that have improved clinical outcomes in molecularly defined patient populations are highlighted. The review also discusses the molecular basis of acquired resistance, such as on-target mutations, bypass signalling activation, histological transformation, and epithelial-mesenchymal transition that continue to limit long-term therapeutic efficacy. We also discuss emerging strategies to overcome resistance, including combination therapies, next-generation inhibitors, liquid biopsy-guided monitoring, and artificial intelligence-assisted precision medicine. Collectively, these findings highlight the need for comprehensive molecular characterization and integrated biomarker-guided treatment strategies to improve therapeutic decision-making and clinical outcomes in LUAD.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913055/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-resistance-nextgen",
+      "nsclc-drivers",
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:42913055",
+      "doi:10.1016/j.prp.2026.156711"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42911709",
+    "doi": "10.1021/acs.jmedchem.6c01760",
+    "pmcid": "",
+    "title": "Development of Potent and Selective EGFR-PROTACs Based on Macrocyclic Fourth-Generation EGFR Inhibitors.",
+    "authors": "He Q, Cheng Y, Zhang Q et al.",
+    "journal": "J Med Chem",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Epidermal growth factor receptor (EGFR) mutant-driven non-small cell lung cancer (NSCLC) frequently develops acquired resistance to third-generation tyrosine kinase inhibitors (TKIs), particularly through the EGFR C797S mutation. Existing EGFR-targeting proteolysis-targeting chimeras (PROTACs) remain limited by unfavorable pharmacokinetics and suboptimal selectivity inherited from their parent TKIs. To address these limitations, we developed HQY1480, a next-generation PROTAC derived from the macrocyclic fourth-generation EGFR inhibitor BI-4020. Systematic linker and E3 ligase ligand optimization enabled potent and selective degradation of multiple clinically relevant EGFR mutants with single-digit nanomolar DC50 values. HQY1480 exhibited favorable pharmacokinetics, stronger suppression of oncogenic signaling than BI-4020, and no detectable off-target degradation in proteomic profiling. In xenograft models, HQY1480 outperformed BI-4020, overcame osimertinib resistance, and effectively inhibited tumor growth at low doses, while inducing robust EGFR degradation in patient-derived xenografts. These findings establish HQY1480 as an effective and well-tolerated lead PROTAC for EGFR-mutant NSCLC with acquired resistance to third-generation TKIs.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911709/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-resistance-nextgen"
+    ],
+    "keys": [
+      "pmid:42911709",
+      "doi:10.1021/acs.jmedchem.6c01760"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42909660",
+    "doi": "10.1007/s10585-026-10444-8",
+    "pmcid": "",
+    "title": "Molecular, histopathological, and clinical risk factors for overall metastatic disease and brain metastases in surgically resected stage I-III lung cancer.",
+    "authors": "Dyrbekk APH, Suhrke P, Ludahl MO et al.",
+    "journal": "Clin Exp Metastasis",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Lung cancer remains a major cause of cancer-related mortality, including among patients diagnosed with potentially curable disease. Current decisions regarding perioperative treatment and follow-up rely on a limited number of established prognostic factors. Further knowledge is needed regarding the clinical, histopathological, and molecular factors associated with subsequent metastatic disease, particularly brain metastasis (BM), which is associated with poor prognosis. We investigated these factors in a large cohort of patients with surgically resected stage I-III lung cancer followed for more than five years. BM was associated with higher pathological tumour and lymph-node stage and younger age at surgery. Lung adenocarcinoma was associated with a higher risk of BM than lung squamous cell carcinoma. Several molecular alterations were associated with metastatic disease or BM, including KRAS mutations in lung adenocarcinoma and NFE2L2 mutations in lung squamous cell carcinoma. Additional associations involving specific EGFR and KRAS mutation subtypes and rarer alterations were observed, but were based on small numbers of cases and should be considered exploratory. Several of the associated genes are involved in the RAS/MAPK, PI3K/AKT/mTOR, or NRF2-related pathways. However, pathway activation and causality could not be established in this observational study. These findings support further investigation of clinical, histopathological, and molecular factors associated with metastatic progression after surgical resection. Validation in larger, independent, stage-stratified and contemporary cohorts with comprehensive treatment data is required before the identified molecular alterations can be considered for clinical risk stratification or surveillance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909660/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-drivers",
+      "lung-nordic"
+    ],
+    "keys": [
+      "pmid:42909660",
+      "doi:10.1007/s10585-026-10444-8"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42909031",
+    "doi": "10.3389/fphar.2026.1959801",
+    "pmcid": "PMC13683676",
+    "title": "Third-generation EGFR-TKI plus pemetrexed-platinum chemotherapy versus TKI monotherapy as first-line treatment for EGFR-mutant lung adenocarcinoma with brain parenchymal metastases.",
+    "authors": "Zhou J, Wang Y, Wen K et al.",
+    "journal": "Front Pharmacol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "OBJECTIVE: To evaluate the efficacy and safety of first-line third-generation EGFR-tyrosine kinase inhibitor (EGFR-TKI) combined with pemetrexed-platinum chemotherapy in patients with EGFR-mutant advanced lung adenocarcinoma and brain parenchymal metastases.\nMETHODS: A bicenter retrospective cohort study was conducted. A total of 150 eligible patients were enrolled and balanced by 1:1 propensity score matching. Tumor response, survival outcomes, and treatment-related adverse events were compared between groups.\nRESULTS: After matching, 60 patients were assigned to each group. The intracranial objective response rate was 78.3% in the combination group versus 61.7% in the monotherapy group (P = 0.046). The median intracranial progression-free survival was 28.3 months in the combination group (hazard ratio = 0.536, 95% confidence interval: 0.350-0.820, P = 0.002). Systemic progression-free survival and overall survival were also significantly prolonged in the combination arm. Adverse events were predominantly chemotherapy-related toxicities and were generally manageable.\nCONCLUSION: First-line third-generation EGFR-TKI plus pemetrexed-platinum chemotherapy is associated with superior intracranial and systemic survival benefits in EGFR-mutant lung adenocarcinoma patients with brain parenchymal metastases, with a favorable safety profile. This study provides real-world evidence to support clinical treatment decision-making.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909031/",
+    "searches": [
+      "egfr-nsclc"
+    ],
+    "keys": [
+      "pmid:42909031",
+      "doi:10.3389/fphar.2026.1959801"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42906730",
+    "doi": "10.1016/j.critrevonc.2026.105661",
+    "pmcid": "",
+    "title": "Antibody-drug conjugates after EGFR-TKI resistance in EGFR-mutant NSCLC: Evidence boundaries, post-progression reassessment, and therapeutic sequencing.",
+    "authors": "Wang L, Feng Y, Jia R et al.",
+    "journal": "Crit Rev Oncol Hematol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Antibody-drug conjugates (ADCs) are emerging therapeutic options for epidermal growth factor receptor (EGFR)-mutant non-small cell lung cancer (NSCLC) after the development of resistance to EGFR tyrosine kinase inhibitors (EGFR-TKIs). However, the founding EGFR alteration alone does not guide ADC selection. At progression, actionable resistance mechanisms, altered antigen expression, central nervous system (CNS) involvement, spatial heterogeneity, and histological transformation may shift treatment priorities. This narrative review links agent-specific evidence boundaries to an eight-domain assessment of the post-progression disease state and distinguishes ADC eligibility from therapeutic priority. The framework first identifies clinical scenarios requiring immediate local, CNS-directed, or lineage-specific treatment. It then evaluates resistance-directed therapy and other systemic options in the context of prior treatment. Finally, each ADC is assessed according to its evidence base, biomarkers, construct fit, disease distribution, availability, and patient-specific safety. Currently, selected TROP2-directed ADCs have the most mature evidence. HER3-directed therapy remains under investigation, whereas c-Met- and human epidermal growth factor receptor 2-directed ADCs may be relevant in biomarker-defined settings. Tissue biopsy, plasma circulating tumor DNA analysis, and selected cerebrospinal fluid testing should be considered when the findings could alter clinical management. Accordingly, ADCs should be positioned relative to competing local and systemic strategies rather than considered a uniform post-osimertinib class. Prospective validation is required to determine whether this framework improves treatment outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906730/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-resistance-nextgen",
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:42906730",
+      "doi:10.1016/j.critrevonc.2026.105661"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42906158",
+    "doi": "10.1021/acs.molpharmaceut.6c00580",
+    "pmcid": "",
+    "title": "A Self-Assembled Affibody-Drug Conjugate Nanoagent for EGFR-Targeted Synergistic Codelivery of Exatecan and an MDM2 Inhibitory Peptide.",
+    "authors": "Zhao M, Gao W, Xia X et al.",
+    "journal": "Mol Pharm",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Regulation of the tumor suppressor p53 is a promising approach for cancer treatment; however, a single regulatory method often shows limited efficacy. Here, we develop an affibody-drug conjugate nanoagent (ADCN) for the targeted codelivery of topoisomerase I inhibitor DX8591 and p53-MDM2 inhibitor PMI to upregulate p53 levels in cancer cells. The tripartite conjugate ZEGFR:1907-PMI-DX8591 self-assembled into nanoparticles with an average diameter of 74.4 nm, resulting in improved pharmacokinetic profiles and enhanced tumor-targeting ability. After efficient EGFR-mediated cellular uptake, the ZEGFR:1907-PMI-DX8591 ADCN released DX8591 and PMI intracellularly, leading to synergistic p53 activation by inducing p53 production and blocking its degradation. In EGFR-positive non-small cell lung tumor models, the ADCN showed excellent tumor accumulation and achieved 81.7% tumor growth inhibition, which was 1.5-fold and 1.2-fold higher than those of the ZEGFR:1907-PMI and ZEGFR:1907-DX8591 monotherapies, respectively. This affibody-based delivery system provides a promising strategy for synergistic cancer therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906158/",
+    "searches": [
+      "egfr-nsclc"
+    ],
+    "keys": [
+      "pmid:42906158",
+      "doi:10.1021/acs.molpharmaceut.6c00580"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42905322",
+    "doi": "10.1007/s12033-026-01608-8",
+    "pmcid": "",
+    "title": "Exploring the Potential Mechanism of Ethyl Acetate Extract from Tumor Vine in Combination with Cisplatin for Treating Non-Small Cell Lung Cancer Based on Network Pharmacology and Cellular Experiments.",
+    "authors": "Jang L, Qing B, Zhong W et al.",
+    "journal": "Mol Biotechnol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "To investigate the mechanism of the ethyl acetate extract of Tumor Vine (PT-EAE) in combination with cisplatin (DDP) for the treatment of non-small cell lung cancer (NSCLC), using network pharmacology prediction and validation through cellular experiments. The chemical components of PT-EAE were identified using Ultra-Performance Liquid Chromatography-Quadrupole-Orbitrap Mass Spectrometry (UPLC-Q-Exactive-Orbitrap-MS). Network pharmacology was employed to predict the potential active components of PT-EAE and their molecular targets affecting NSCLC cell functions. A \"PT-EAE-active components-targets-disease\" interaction network was constructed. Gene Ontology (GO) functional annotation and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis were performed on the potential targets to identify core targets and signaling pathways closely related to the active components of PT-EAE. Subsequently, in A549 cells, the effects of PT-EAE alone, DDP alone, and their combination (PT-EAE & DDP) were evaluated. Cell Counting Kit-8 (CCK-8) assay, wound healing assay, transwell assay, and flow cytometry were used to detect cell proliferation, migration, invasion, and apoptosis, respectively. Finally, western blotting and quantitative reverse transcription polymerase chain reaction (RT-qPCR) were utilized to detect the expression levels and phosphorylation status of the predicted core molecular proteins following treatment with PT-EAE and DDP. PT-EAE inhibited the proliferation, migration, and invasion of A549 cells, while promoting apoptosis. Compared to the DDP monotherapy group, the PT-EAE & DDP combination group reduced the IC50 of DDP for inhibiting A549 cell proliferation. Network pharmacology analysis identified 12 active components in PT-EAE, which were mapped to 124 NSCLC-related targets and multiple key signaling pathways. Among these, EGFR, Src, and PI3K were identified as potential core nodes. At the molecular level, PT-EAE downregulated the protein expression levels of EGFR and Src in A549 cells, as well as the phosphorylation levels of downstream molecules in the Src signaling pathway-PI3K, Akt, and mTOR. It also suppressed the mRNA expression of EGFR, Src, PI3K, Akt, and mTOR. The ethyl acetate extract of Tumor Vine, when combined with cisplatin, shows promising anti-tumor activity through multi-component, multi-target, and multi-pathway actions, with the PI3K/Akt/mTOR signaling pathway likely representing one of its therapeutic routes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42905322/",
+    "searches": [
+      "egfr-nsclc"
+    ],
+    "keys": [
+      "pmid:42905322",
+      "doi:10.1007/s12033-026-01608-8"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42911720",
+    "doi": "10.1021/acs.jmedchem.6c01340",
+    "pmcid": "",
+    "title": "Discovery and Optimization of Isoform Selective ULK1 Degraders to Enhance Antitumor Activity in KRAS-Mutant Cancer.",
+    "authors": "Chin Chan S, Bayle S, Lamptey M et al.",
+    "journal": "J Med Chem",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Selective targeting of ULK1 represents a promising approach to overcome autophagy-mediated resistance in KRAS-driven cancers. However, achieving selectivity over the closely related ULK2 isoform with ATP-competitive inhibitors remains challenging due to the high sequence homology within their kinase domains. Here, we describe the design, synthesis, and structure-degradation relationship studies of two cereblon-recruiting ULK1 degraders, MR-9034 and MR-9036. Structure-guided optimization led to the discovery of MR-9036 as a potent and selective ULK1 PROTAC that degrades ULK1 without affecting ULK2 or IMiD neo-substrates. Cellular and biophysical studies confirm ternary complex formation and proteasome-dependent degradation. Compared with the clinical ULK1/2 inhibitor DCC-3116, MR-9036 produces sustained autophagy suppression following compound washout. In KRASG12C-mutant NSCLC models, ULK1 degradation enhances the antiproliferative activity of sotorasib. Pharmacokinetic/pharmacodynamic (PK/PD) studies in mice support in vivo feasibility. These findings establish selective ULK1 degradation as a chemical strategy to interrogate ULK1 biology and enhance therapeutic response in KRAS-driven cancers.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911720/",
+    "searches": [
+      "nsclc-resistance-nextgen",
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42911720",
+      "doi:10.1021/acs.jmedchem.6c01340"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42911352",
+    "doi": "10.1007/s40265-026-02405-y",
+    "pmcid": "",
+    "title": "Small Molecules Prescribed On- and Off-Label for Thoracic Cancers During Pregnancy: A Combined VigiBase and Systematic Review Analysis.",
+    "authors": "Noseda R, Salfi G, Bedussi F et al.",
+    "journal": "Drugs",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Thoracic cancers during pregnancy are rare but increasingly encountered because of delayed childbearing and the rising incidence of cancer in younger individuals. Despite guideline recommendations, exposure to targeted small-molecule therapies occurs across all trimesters, but safety data remain limited.\nOBJECTIVE: To investigate the safety of targeted small-molecule therapies for thoracic cancers during pregnancy by combining VigiBase data with a systematic review.\nPATIENTS AND METHODS: We performed a pharmacovigilance disproportionality analysis based on the reporting odds ratio (ROR) and a systematic review. Individual case safety reports from VigiBase (January 1, 2006-February 24, 2026) were analysed. A systematic review of PubMed, EMBASE, and Scopus through June 25, 2026 included case reports and case series.\nRESULTS: The VigiBase analysis included 15,023 reports of anticancer exposure during pregnancy, of which 162 involved small molecules currently used on- and off-label for thoracic cancers, including 75 with approved agents for non-small-cell lung cancer (NSCLC). Compared with other anticancer agents, including cytotoxic drugs, immune checkpoint inhibitors, other immunotherapies, antibody-drug conjugates, molecularly targeted therapies (including biologics and small molecules other than those of interest), and anticancer agents not further specified, the small molecules of interest were associated with disproportionate reporting of premature labor (ROR: 2.64; 95% confidence interval [CI]: 1.21-5.75), foetal growth restriction (ROR: 2.10; 95% CI 1.15-3.84), neonatal respiratory distress syndrome (ROR: 3.78; 95% CI 1.50-9.57), and low birth weight (ROR: 2.27; 95% CI 1.18-4.37). Among approved small molecules for NSCLC, signals were observed for premature labor (ROR: 4.17; 95% CI 1.65-10.53), neonatal respiratory complications (ROR: 2.56; 95% CI 1.02-6.42), and low birth weight (ROR: 3.55; 95% CI 1.61-7.83). Of note, anaplastic lymphoma kinase (ALK) inhibitor ICSRs were fewer, and 14/18 alectinib reports described pregnancy exposure without pregnancy-related ADRs of interest, precluding alectinib-specific disproportionality analysis. The systematic review included 26 women (27 pregnancies) with oncogene-driven metastatic NSCLC. Live births occurred in 96.3% of pregnancies, with 53.8% preterm deliveries, 33.3% pregnancy complications, and 19.2% neonatal complications. Maternal outcomes were favourable (objective response rate 80.8%). There were no clinically significant pregnancy complications reported in the 10 cases involving alectinib exposure alone.\nCONCLUSIONS: Exposure during pregnancy to small molecules currently used on- and off-label for thoracic cancers was associated with disproportionate reporting signals for selected adverse foetal outcomes. The available clinical evidence remains limited, and although no clinically significant pregnancy complications were reported with alectinib exposure, the current data are insufficient to establish its safety. Treatment decisions should therefore be individualised and made within a multidisciplinary expert setting.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911352/",
+    "searches": [
+      "nsclc-resistance-nextgen",
+      "lung-key-evidence",
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42911352",
+      "doi:10.1007/s40265-026-02405-y"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42909136",
+    "doi": "10.3389/fonc.2026.1943176",
+    "pmcid": "PMC13683836",
+    "title": "Emerging antibody-drug conjugates in lung cancer: highlights from the 2026 ASCO Annual Meeting.",
+    "authors": "Wang X, Miao J, Bao Y et al.",
+    "journal": "Front Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "The 2026 American Society of Clinical Oncology (ASCO) Annual Meeting presented substantial new data on antibody-drug conjugates (ADCs) in lung cancer, highlighting the ongoing expansion of ADC-based strategies from later-line treatment toward first-line combination regimens. This focused narrative review summarizes and discusses the efficacy and safety findings of ADCs targeting TROP2, HER2, Nectin-4, PD-L1, c-Met, B7-H3, DLL3, SEZ6, and other emerging targets in non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC), with particular attention to emerging ADC plus immune checkpoint inhibitor combinations in the first-line setting. Taken together, these findings highlight an expanding ADC landscape in lung cancer. However, many of the emerging strategies remain supported primarily by preliminary conference-reported or early-phase data and therefore require confirmation in mature peer-reviewed studies and adequately powered randomized clinical trials.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909136/",
+    "searches": [
+      "nsclc-resistance-nextgen",
+      "lung-key-evidence",
+      "nsclc-drivers",
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42909136",
+      "doi:10.3389/fonc.2026.1943176"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42908912",
+    "doi": "10.3389/fimmu.2026.1929911",
+    "pmcid": "PMC13683592",
+    "title": "Antibody-drug conjugates in advanced small-cell lung cancer: a systematic review and single-arm meta-analysis of later-line monotherapy.",
+    "authors": "Chen X, Li S, Li H",
+    "journal": "Front Immunol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "abstract": "OBJECTIVE: Antibody-drug conjugates (ADCs) are being investigated in advanced small-cell lung cancer (SCLC), but the evidence is dominated by early-phase studies conducted in non-exchangeable treatment settings. We evaluated the activity and toxicity of ADCs while separating later-line monotherapy from frontline combination therapy, later-line combination therapy, and post-induction maintenance.\nMETHODS: PubMed, Embase, the Cochrane Library, and Web of Science Core Collection were searched from inception and in 28 August 2026. ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) were searched on 28 August 2026. We constructed an arm-level dataset that recorded regimen, dose, clinical context, target, outcome definition, numerator, denominator, analysis set, and source. The primary quantitative synthesis was restricted to second-line or later ADC monotherapy; other clinical contexts were summarized descriptively. Single-arm proportions were synthesized using a binomial-normal random-intercept generalized linear mixed model on the logit scale. We reported 95% confidence intervals (CIs), between-study variance, heterogeneity, and 95% prediction intervals. An inverse-variance logit random-effects model with restricted maximum likelihood estimation and Hartung-Knapp inference was used as a sensitivity analysis. Fixed-time Kaplan-Meier survival estimates and inconsistently defined common adverse events were not pooled.\nRESULTS: 16 trial families evaluating eight ADCs across five target classes met the eligibility criteria. In the primary later-line monotherapy analysis, the pooled ORR was 25.7% (95% CI, 16.4%-37.9%), and the pooled DCR was 72.7% (95% CI, 60.7%-82.2%). The pooled incidences of grade ≥3 TEAEs and grade ≥3 TRAEs were 62.8% (95% CI, 59.6%-65.9%) and 45.5% (95% CI, 35.5%-56.0%), respectively. The prediction intervals for ORR, DCR, and grade ≥3 TRAEs were wide. Proportions observed in a new study may therefore differ substantially from the pooled estimates. Frontline combinations, later-line combinations, and maintenance therapy yielded context-specific signals but were not compared with later-line monotherapy. Target-stratified analyses were exploratory; B7-H3 and DLL3 estimates were based on small, non-comparative groups, whereas Trop-2 and SEZ6 were not pooled because fewer than three studies were available.\nCONCLUSIONS: Later-line ADC monotherapy showed antitumor activity but frequent clinically important toxicity, with substantial between-study variation. The evidence does not establish superiority by treatment line, regimen, agent, or molecular target; single-arm response estimates also do not demonstrate a survival benefit. Randomized, context-specific trials using harmonized efficacy and safety definitions are needed.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42908912/",
+    "searches": [
+      "nsclc-resistance-nextgen",
+      "lung-key-evidence",
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42908912",
+      "doi:10.3389/fimmu.2026.1929911"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42906731",
+    "doi": "10.1016/j.critrevonc.2026.105659",
+    "pmcid": "",
+    "title": "Lung Cancer Organoid Models for Studying Resistance to Anti-Angiogenic Therapy: Mechanisms and Applications.",
+    "authors": "Lin H, Wang K, Chen H et al.",
+    "journal": "Crit Rev Oncol Hematol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Anti-angiogenic therapies provide clinically meaningful benefit in selected treatment settings for advanced non-small cell lung cancer, but durable responses are limited by heterogeneous and adaptive resistance. This resistance is not solely tumor-intrinsic; it emerges from interactions among tumor plasticity, compensatory angiogenic signaling, hypoxia, stromal and immune remodeling, vascular recovery, and alternative blood-supply mechanisms. These processes require different biological variables and therefore cannot be adequately interrogated by a single experimental model. Patient-derived lung cancer organoids preserve patient-specific tumor features and are useful for studying tumor-intrinsic responses, but tumor-only organoids do not reproduce perfusion-dependent vascular physiology, permeability, or drug-delivery dynamics. Microenvironment-integrated co-culture, vascularization, and microfluidic or perfusion engineering can extend these capabilities, although model complexity alone does not establish stronger evidence. This review integrates the clinical and mechanistic basis of anti-angiogenic resistance with the capabilities and limitations of current lung cancer organoid models and other three-dimensional systems. We propose a mechanism-matched framework linking the resistance mechanism to the required variable, the minimum set of model capabilities, and claim-matched readouts. Particular emphasis is placed on distinguishing structural from functional vascularization, tumor drug response from anti-angiogenic resistance, and acute treatment effects from acquired resistance. Current lung cancer organoid systems can model tumor-intrinsic and selected microenvironment-mediated responses and, increasingly, vascular responses, but direct longitudinal evidence of acquired anti-angiogenic resistance remains limited. Future progress will depend on fit-for-purpose standardization, functional qualification, longitudinal modeling, and prospective alignment with clinically observed resistance trajectories.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906731/",
+    "searches": [
+      "nsclc-resistance-nextgen"
+    ],
+    "keys": [
+      "pmid:42906731",
+      "doi:10.1016/j.critrevonc.2026.105659"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42906174",
+    "doi": "10.1021/acs.molpharmaceut.6c00454",
+    "pmcid": "",
+    "title": "Preclinical Evaluation of B7-H3-Targeted ADC-Based Molecular Imaging in Lung and Triple-Negative Breast Cancer.",
+    "authors": "Sui J, Qin J, Hsu JC et al.",
+    "journal": "Mol Pharm",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "B7-H3 is widely expressed in multiple solid tumors but shows minimal expression in normal tissues, making it an ideal target for molecular imaging; however, its systematic investigation remains limited. In this study, we utilized the clinically investigated B7-H3-targeted antibody-drug conjugate (ADC) HS-20093 to develop and evaluate a novel immuno-positron emission tomography (immuno-PET) tracer, [89Zr]Zr-DFO-HS-20093, for accurate imaging of B7-H3 expression in lung cancer and triple-negative breast cancer models. [89Zr]Zr-DFO-HS-20093 was synthesized with high radiochemical purity (98.2 ± 0.6%). Cellular uptake assays revealed significantly higher tracer uptake in A549 cells than in 4T1 cells at 1, 2, and 4 h (all P < 0.0001), which was markedly reduced by blocking with excess unlabeled antibody. Immunofluorescence revealed predominant membrane localization of B7-H3 in 4T1 cells, whereas A549 cells exhibited pronounced intracellular distribution, suggesting enhanced internalization. In tumor-bearing mice, [89Zr]Zr-DFO-HS-20093 positron emission tomography (PET)/CT enabled clear tumor visualization, with peak uptake at 24 h post-injection in both A549 and 4T1 xenografts (9.63 ± 1.97 and 7.15 ± 3.14 μCi/mL, respectively), supporting its potential for tumor imaging. Ex vivo biodistribution data corroborated the PET findings, showing significantly higher tracer uptake in A549 tumors (5.01 ± 1.19 % ID/g) than in blocked tumors (2.89 ± 0.43 % ID/g) and 4T1 tumors (1.89 ± 0.47 % ID/g) (P = 0.034 and P = 0.003, respectively). Immunohistochemical analysis of A549 xenografts showed strong B7-H3 expression (3+), whereas 4T1 tumors exhibited lower expression levels (1-2+), further confirming that B7-H3 expression patterns were consistent with the imaging results. [89Zr]Zr-DFO-HS-20093 enables sensitive immuno-PET imaging of B7-H3 and reveals tumor-type-dependent differences in B7-H3 expression and intracellular behavior.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906174/",
+    "searches": [
+      "nsclc-resistance-nextgen"
+    ],
+    "keys": [
+      "pmid:42906174",
+      "doi:10.1021/acs.molpharmaceut.6c00454"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42912505",
+    "doi": "10.1097/MJT.0000000000002253",
+    "pmcid": "",
+    "title": "Impact of Administration Timing of Immune Checkpoint Inhibitors in Metastatic and Advanced Non-small Cell Lung Cancer: Systematic Review and Updated Meta-Analysis.",
+    "authors": "Khan A, Nasrallah J, Shafi N et al.",
+    "journal": "Am J Ther",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912505/",
+    "searches": [
+      "lung-key-evidence"
+    ],
+    "keys": [
+      "pmid:42912505",
+      "doi:10.1097/mjt.0000000000002253"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42912496",
+    "doi": "10.1177/15347354261499341",
+    "pmcid": "",
+    "title": "Effect of Acupuncture for Loss of Appetite in Advanced Lung Cancer Undergoing Immunotherapy: Protocol of a Randomized Controlled Trial.",
+    "authors": "Fan J, Zhan Y, Chen H et al.",
+    "journal": "Integr Cancer Ther",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Clinical Trial Protocol"
+    ],
+    "abstract": "BackgroundLoss of appetite (LOA) is a highly prevalent and distressing symptom in advanced lung cancer, leading to malnutrition, poorer treatment tolerance, and reduced quality of life. Although acupuncture may help manage cancer-related symptoms, its effect on LOA in patients receiving immunotherapy is unclear. This study aims to assess the efficacy and safety of acupuncture for alleviating LOA in this population.MethodsThis multicenter, randomized, double-blind, sham-controlled trial will enroll 80 eligible patients with advanced lung cancer undergoing immunotherapy who experience LOA, defined as a Visual Analogue Scale (VAS) score ≥30 mm. Participants will be randomly assigned to either true acupuncture or sham acupuncture in a 1:1 ratio, administered over 24 sessions within a 12-week period. The primary outcome is the LOA response rate at week 12. Secondary outcomes include changes in LOA severity, nutritional and hematologic markers, patient-reported measures (appetite/cachexia, disease symptoms, psychological distress, and sleep), and tumor response. Safety and blinding success will also be assessed. Data will be analyzed using SPSS 20.0 and R software.DiscussionTo our knowledge, this is the first rigorously designed trial evaluating acupuncture for LOA in advanced lung cancer patients undergoing immunotherapy. The findings may inform integrative supportive care strategies for this patient population.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912496/",
+    "searches": [
+      "lung-key-evidence",
+      "lung-nonpharm"
+    ],
+    "keys": [
+      "pmid:42912496",
+      "doi:10.1177/15347354261499341"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42911028",
+    "doi": "10.1515/reveh-2026-0040",
+    "pmcid": "",
+    "title": "A systematic review and probabilistic meta-analysis of health risks and disability-adjusted life years (DALYs) associated with heavy metals in global drinking water: a continental comparison.",
+    "authors": "Shorif MJU, Chowdhury S, Al-Mamun A et al.",
+    "journal": "Rev Environ Health",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Heavy metal contamination in drinking water is a public health issue. This study conducted a probabilistic meta-analysis of health risk assessment for six commonly reported heavy metals (arsenic [As], lead [Pb], mercury [Hg], cadmium [Cd], chromium [Cr] and nickel [Ni]) in drinking water across six continents (Asia, Europe, Africa, North America, South America and Oceania) using the data from 2000 to 2024. Human exposure and risks were quantified in terms of cancer risks (CRs) and loss of disability-adjusted life years (DALYs). Monte Carlo simulation was employed to generate 5,000 random scenarios to incorporate uncertainty in risk assessment. Africa exhibited the average concentrations of As, Pb, Hg, Cd, Cr and Ni in drinking water of 176.7, 123.3, 93.7, 80.2, 91.0 and 35.1 μg/L respectively. The overall averages of CRs in Asia, Europe, North America, South America, Africa and Oceania were predicted to be 3.25 × 10-4, 1.34 × 10-4, 2.26 × 10-4, 1.18 × 10-3, 4.1 × 10-3 and 5.83 × 10-5 respectively while the DALYs were 1.48 × 105, 7.14 × 103, 1.20 × 104, 5.51 × 104, 8.63 × 105 and 2.68 × 102 respectively. Across six continents, inorganic fraction of arsenic (iAs) was the dominant carcinogen, contributing (45-91) % to total cancer risks in Asia, contributions of iAs and Cd were almost similar. The loss of DALYs were highest in Africa (8.63 × 105), due mainly to arsenic-induced bladder and cadmium-induced lung cancers. The global economic burden was USD 29 billion, with Africa accounting for almost 52 %. Sensitivity analysis identified iAs as the key parameter. The heavy metal contamination is a public health issue that requires decisive actions in Africa, South America and Asia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911028/",
+    "searches": [
+      "lung-key-evidence"
+    ],
+    "keys": [
+      "pmid:42911028",
+      "doi:10.1515/reveh-2026-0040"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42910403",
+    "doi": "10.7150/jca.140183",
+    "pmcid": "PMC13686793",
+    "title": "Real-World Comparative Survival Outcomes of First-Line Serplulimab Plus Chemotherapy in Extensive-Stage Small-Cell Lung Cancer: A Single-Center Retrospective Cohort Study.",
+    "authors": "Jing Y, Li M, Li S et al.",
+    "journal": "J Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Extensive-stage small-cell lung cancer (ES-SCLC) remains an aggressive malignancy with poor survival despite platinum-etoposide chemotherapy. Although serplulimab plus chemotherapy has demonstrated a survival benefit in randomized trials, comparative real-world evidence remains limited. We therefore evaluated survival outcomes with first-line serplulimab plus chemotherapy versus chemotherapy alone in patients with ES-SCLC.\nMETHODS: We conducted a single-center retrospective cohort study at Tianjin Chest Hospital. Patients with ES-SCLC who initiated first-line platinum-etoposide-based chemotherapy between January 2020 and December 2024 were screened, with follow-up censored on May 1, 2025. Patients were classified according to whether serplulimab was incorporated into first-line treatment. The primary endpoint was overall survival (OS), and the secondary endpoint was real-world progression-free survival (rwPFS). Treatment effects were estimated using Kaplan-Meier analyses and Cox proportional hazards models. Because of the limited sample size and event count, the primary adjusted Cox model was restricted to prespecified clinical covariates. Sensitivity analyses included treatment-year adjustment, restriction to patients treated during 2022-2024, reduced propensity score overlap weighting and stabilized trimmed inverse probability of treatment weighting (IPTW).\nRESULTS: The final cohort included 112 patients, of whom 30 received serplulimab plus chemotherapy and 82 received chemotherapy alone. Median OS was 18.69 months with serplulimab plus chemotherapy and 11.86 months with chemotherapy alone (HR = 0.49, 95% CI: 0.27-0.90; P = 0.021; log-rank P = 0.017). The association remained significant after parsimonious clinical adjustment (adjusted HR = 0.50, 95% CI: 0.27-0.93; P = 0.028). Sensitivity analyses yielded directionally similar OS estimates across treatment-year adjustment, 2022-2024 restriction, overlap weighting, and stabilized trimmed IPTW. Median rwPFS was also numerically longer with serplulimab plus chemotherapy, although the difference was not statistically significant (10.64 vs 8.18 months; HR = 0.76, 95% CI: 0.48-1.20; P = 0.244).\nCONCLUSIONS: In this single-center real-world cohort, first-line serplulimab plus chemotherapy was associated with longer OS than chemotherapy alone in patients with ES-SCLC, whereas the rwPFS difference was not statistically significant. The findings were directionally supported by multiple sensitivity analyses but should be interpreted cautiously because of the limited sample size, potential calendar-time confounding, and incomplete standardized safety assessment. Larger prospective studies are needed for confirmation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42910403/",
+    "searches": [
+      "lung-key-evidence",
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42910403",
+      "doi:10.7150/jca.140183"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42910049",
+    "doi": "10.1016/j.ctro.2026.101312",
+    "pmcid": "PMC13684938",
+    "title": "Study protocol for the TROG 21.08 VITaL trial: a randomized controlled trial investigating ventilation imaging to improve the quality of life for patients with lung cancer treated with radiation therapy.",
+    "authors": "Vino D SK, Gebski V, Senthi S et al.",
+    "journal": "Clin Transl Radiat Oncol",
+    "year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Radiation therapy (RT) is indicated for 77% of patients with lung cancer. Over 20% of patients are affected by radiation-induced lung injury. Computed tomography ventilation imaging (CTVI) estimates high and low functioning lung regions. During RT planning, CTVI can guide preferential avoidance of higher ventilated regions by redirecting dose to less well ventilated regions, sparing healthy lung tissue. The double-masked randomized Trans-Tasman Radiation Oncology Group (TROG) 21.08 VITaL trial will investigate if sparing healthy lung can improve the quality of life (QoL) for patients with stage 3 non-small cell lung cancer (NSCLC) treated with RT.\nMETHODS: 165 patients will be recruited to test the hypothesis that patients receiving healthy lung-sparing RT have better QoL than patients receiving standard RT. CTVI will be generated from exhale and inhale breath-hold CT scan pairs. A healthy lung-sparing plan and a standard treatment plan will be created for each patient and randomly assigned in a 1:1 ratio for the patient's treatment. QoL will be assessed with the Functional Assessment of Cancer Therapy-Lung questionnaire before and after treatment. Secondary hypotheses include that patients in the healthy lung-sparing arm will have fewer treatment side effects, better lung function, be more likely to receive and complete adjuvant immunotherapy, and healthy lung-sparing treatment will be cost-effective. Patient follow-up will continue for three years.\nDISCUSSION: This prospective randomized trial will determine whether the incorporation of healthy lung-sparing RT based on CTVI improves QoL, reduces pulmonary toxicity, and increases eligibility to receive curative immunotherapy for patients with stage 3 NSCLC.\nTRIAL REGISTRATION: ClinicalTrials.gov (NCT06127654).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42910049/",
+    "searches": [
+      "lung-key-evidence",
+      "nsclc-immunotherapy",
+      "lung-toxicity"
+    ],
+    "keys": [
+      "pmid:42910049",
+      "doi:10.1016/j.ctro.2026.101312"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42908627",
+    "doi": "10.3389/fonc.2026.1909979",
+    "pmcid": "PMC13682969",
+    "title": "InDuRanS: neoadjuvant immunochemotherapy followed by surgery or definitive chemoradiotherapy and consolidation durvalumab in resectable and borderline resectable stage IIB-IIIA/B non-small-cell lung cancer.",
+    "authors": "Gkika E, Waller CF, Dejonckheere CS et al.",
+    "journal": "Front Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: The optimal integration of surgery and definitive chemoradiotherapy (CRT) following modern neoadjuvant immunochemotherapy in stage IIB-IIIA/B non-small-cell lung cancer (NSCLC) remains controversial. Although immune checkpoint inhibitors have substantially improved outcomes in both resectable and unresectable disease, prospective randomized data directly comparing surgery and definitive CRT after neoadjuvant immunochemotherapy are lacking.\nMETHODS: InDuRanS is a prospective, multicenter, randomized, open-label phase II trial conducted in Germany. Patients with (borderline) resectable stage IIB-IIIA/B (N2) NSCLC receive three cycles of neoadjuvant immunochemotherapy with durvalumab plus platinum-paclitaxel. Patients with persistent resectability are randomized 1:1 to surgery or definitive CRT. Both treatment arms receive consolidation durvalumab for up to 12 months. The primary endpoint is 2-year event-free survival in 158 randomized patients. Key secondary endpoints include progression-free survival, overall survival, safety and tolerability, health-related quality of life, and an extensive exploratory translational research program.\nDISCUSSION: InDuRanS is the first randomized trial to directly compare surgery versus definitive CRT within a contemporary multimodal treatment sequence incorporating both neoadjuvant and consolidation immunotherapy in stage IIB-IIIA/B NSCLC. Its results are expected to help define optimal local treatment strategies in an evolving therapeutic landscape. InDuRanS is currently active and open to enrollment as of April 2025, with primary completion anticipated in 2028 (NCT06810609).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42908627/",
+    "searches": [
+      "lung-key-evidence",
+      "nsclc-immunotherapy",
+      "lung-local-therapy"
+    ],
+    "keys": [
+      "pmid:42908627",
+      "doi:10.3389/fonc.2026.1909979"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42907951",
+    "doi": "10.1186/s12911-026-03723-7",
+    "pmcid": "PMC13689129",
+    "title": "LLM-assisted multidisciplinary decision-making in lung cancer: efficacy of Gemini-2.5-Pro and GPT-5 in a real-world MDT setting.",
+    "authors": "Zhou Z, Wang M, Li J et al.",
+    "journal": "BMC Med Inform Decis Mak",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Multidisciplinary team (MDT) review is essential for individualized treatment planning in lung cancer, where decisions often require integration of staging, pathology, molecular findings, performance status, and multimodal treatment options. However, the effective implementation of MDT review remains constrained by limited specialist availability in resource-limited hospitals and by high patient volume, heavy physician workload, and tight clinical schedules in tertiary care centers. Large language models (LLMs) may support MDT workflows by synthesizing clinical information and generating preliminary treatment recommendations for clinician review. This study compared GPT-5 and Gemini-2.5-Pro with expert MDT recommendations in real-world lung cancer cases and evaluated how information completeness and input format influenced LLM-generated treatment recommendations.\nMETHODS: We conducted a head-to-head evaluation of GPT-5 and Gemini-2.5-Pro for lung-cancer multidisciplinary team decision support. For each of 150 consecutively collected cases, structured vignettes were entered using three information-completeness levels in both natural-language and isomorphic JavaScript Object Notation (JSON) formats. Each model produced a single-sentence recommendation. Outputs were compared with the expert multidisciplinary team plan, which was treated as a clinical reference standard for concordance analysis rather than an objective guideline-only gold standard, using predefined plan-level categories. To better quantify model performance, we applied keyword extraction and semantic matching to normalize both multidisciplinary team recommendations and model outputs into ten treatment categories with subsequent manual review and correction.\nRESULTS: Stratifying by information level and format, Information Level III produced the best overall performance for Gemini-2.5-Pro under natural-language input, with F1 0.7603, accuracy 0.8647, precision 0.7031, and recall 0.8278. GPT-5 achieved its highest recall under Information Level III with JSON input (recall 0.9132), but this was accompanied by lower precision and F1. Under the same natural-language Information Level III, GPT-5 reached recall 0.8770 with F1 0.6826 and accuracy 0.7967.\nCONCLUSIONS: Gemini-2.5-Pro show promise as adjuncts to MDT decision-making in lung cancer, offering high agreement with expert plans under controlled conditions. With appropriate clinician oversight, LLM-based tools may help expand access to standardized, high-quality recommendations where specialist availability is limited.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907951/",
+    "searches": [
+      "lung-key-evidence"
+    ],
+    "keys": [
+      "pmid:42907951",
+      "doi:10.1186/s12911-026-03723-7"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42906942",
+    "doi": "10.1183/16000617.0230-2025",
+    "pmcid": "",
+    "title": "The prognostic value of physical functioning on survival in patients with nonsmall cell lung cancer: a systematic review and meta-analysis.",
+    "authors": "Arents E, Haesevoets S, Van Overbeke M et al.",
+    "journal": "Eur Respir Rev",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis",
+      "Review"
+    ],
+    "abstract": "BACKGROUND: Physical functioning has emerged as a potentially valuable prognostic indicator in patients with nonsmall cell lung cancer (NSCLC). This systematic review and meta-analysis aimed to evaluate the prognostic value of objectively measured components of physical functioning on survival outcomes across treatment modalities.\nMETHODS: Medline, Web of Science and Scopus were searched up to May 2025. Eligible studies included adult patients with NSCLC and assessed at least one objectively measured physical functioning indicator in relation to survival outcomes. Indicators were categorised using the International Classification of Functioning, Disability and Health (ICF) framework into \"body functions and structures\", \"activities\" and \"participation\" and studies were stratified into \"surgery\" and \"nonsurgery\" groups. Meta-analyses were conducted when data permitted it.\nRESULTS: 58 studies (19 436 patients) were included. Most assessments were performed before treatment. In the surgical group, only \"activities\"-based measures were evaluated. A meta-analysis restricted to this group showed that survivors had substantially higher (functional) exercise capacity, measured through cardiopulmonary exercise testing and field tests (standardised mean difference 0.79). In nonsurgical cohorts, prognostic value extended across all ICF domains, with low handgrip strength (hazard ratio (HR) 1.27), low (functional) exercise capacity (HR 2.11) and physical inactivity (HR 2.86) associated with significantly higher mortality. Notably, no studies in surgical cohorts evaluated \"body functions\" or \"participation\". Heterogeneity and varying thresholds were noted across studies.\nCONCLUSIONS: Objectively measured physical functioning is a significant prognostic indicator of survival in NSCLC. Routine assessment could enhance risk stratification and guide personalised care. Future research should address longitudinal changes, standardisation of measures and targeted interventions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906942/",
+    "searches": [
+      "lung-key-evidence",
+      "lung-nonpharm"
+    ],
+    "keys": [
+      "pmid:42906942",
+      "doi:10.1183/16000617.0230-2025"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42906938",
+    "doi": "10.1183/16000617.0108-2026",
+    "pmcid": "",
+    "title": "Interventions to increase participation in lung cancer screening programmes: a systematic review and meta-analysis.",
+    "authors": "Djuric O, Guida A, Bononi F et al.",
+    "journal": "Eur Respir Rev",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis",
+      "Review"
+    ],
+    "abstract": "INTRODUCTION: We aimed to systematically review and meta-analyse the effectiveness of interventions in increasing informed choice and participation in lung cancer screening based on low-dose computed tomography (LDCT).\nMETHODS: Five electronic databases, Medline (PubMed version), Embase, Cinahl (Ebsco version), Scopus and Cochrane CENTRAL, were searched for randomised controlled trials, nonrandomised controlled trials and before-after studies published from 2000 until 15 March 2023. A random-effects meta-analysis was conducted to assess the effectiveness of interventions to increase rates of LDCT completion.\nRESULTS: Out of 3483 studies identified, 14 completed and 21 ongoing studies were included in the review. Shared-decision making (SDM)+navigation (OR 4.34, 95% CI 2.50-7.54) and outreach+navigation (OR 2.20, 95% CI 1.70-2.84) resulted in a higher proportion of LDCT performed compared to the control group. Educational/informational interventions (OR 1.03, 95% CI 0.89-1.19) as well as SDM alone (OR 1.15, 95% CI 0.57-2.32) did not improve LDCT uptake, despite the second improving decisional outcomes in both intervention and control groups. Multicomponent interventions showed significantly higher LDCT uptake (OR 2.64, 95% CI 1.79-3.90), compared to unicomponent interventions (OR 1.00, 95% CI 0.87-1.14). The vast majority of interventions, including those in ongoing trials, are patient-oriented, while community-based, provider-level and system-level interventions remain rare.\nCONCLUSIONS: Combining high-intensity patient-oriented interventions, such as patient navigation, active outreach and SDM, appears to be the most promising strategy to increase lung cancer screening uptake (low certainty of evidence). However, implementation studies are needed to evaluate interventions targeting both provider and healthcare systems level.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906938/",
+    "searches": [
+      "lung-key-evidence",
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42906938",
+      "doi:10.1183/16000617.0108-2026"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42906635",
+    "doi": "10.1016/j.radonc.2026.111837",
+    "pmcid": "",
+    "title": "How to plan and deliver lung cancer reirradiation: A consensus approach from the ESTRO reirradiation and lung focus groups and ReCOG.",
+    "authors": "Hoffmann L, Matrosic CK, Andratschke N et al.",
+    "journal": "Radiother Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Lung reirradiation is seeing increased use, yet the evidence base guiding its practice remains limited despite significant technological advances. This paper provides a consensus approach addressing the technical factors underpinning clinical decision-making. It aims to answer the central question: how can clinical teams implement a safe, reproducible, and technically robust workflow for high-dose lung reirradiation? The recommendations are developed by an expert panel of radiation oncologists, medical physicists, and radiation therapists (RTT) from 14 European, American, and Canadian centres, synthesizing a broad range of clinical perspectives. The scope of this work/manuscript is to provide a structured, practical workflow applicable across diverse clinical settings. Using a clinical case, the manuscript demonstrates key conceptual principles, such as the rationale for advanced dose accumulation and the impact of anatomical changes during treatment, with clear, stepwise guidance to support consistent implementation and informed clinical judgement. Key recommended steps include retrieval of prior treatment data; consideration of prior positioning and motion management; and equieffective dose accumulation using deformable image registration or organ-at-risk (OAR)-focused rigid registration. Treatment planning should explicitly incorporate prior dose while balancing target coverage against OAR limits. Daily online volumetric image guidance is central to evaluating both bony and soft-tissue anatomy, enabling setup adjustments to protect critical structures approaching tolerance. Clear documentation and multidisciplinary communication are integral throughout. This consensus approach is intended to support both centres that aim to establish reirradiation practice and experienced teams seeking to harmonize best practices.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906635/",
+    "searches": [
+      "lung-key-evidence"
+    ],
+    "keys": [
+      "pmid:42906635",
+      "doi:10.1016/j.radonc.2026.111837"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42905748",
+    "doi": "10.1158/1078-0432.CCR-26-2812",
+    "pmcid": "",
+    "title": "Serial circulating tumour DNA monitoring in first-line advanced NSCLC (COPE): a randomized, two-arm non-comparative phase II trial.",
+    "authors": "Tambaoan CFB, Phan L, Cousin S et al.",
+    "journal": "Clin Cancer Res",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "PURPOSE: COPE evaluated serial circulating tumor DNA (ctDNA) profiling with molecular tumor board (MTB) review during first-line therapy for advanced non-small cell lung cancer (NSCLC).\nEXPERIMENTAL DESIGN: COPE was a multicenter, randomized (2:1), noncomparative phase II trial. Arm A underwent serial plasma profiling with every report reviewed at a weekly virtual MTB; Arm B received standard management. The primary endpoint was 18-month overall survival (OS) in Arm A versus a prespecified 40% historical benchmark; no between-arm comparison was planned.\nRESULTS: Among 176 patients, 117 were assigned to Arm A and 59 to Arm B. Eighteen-month OS was 53.8% (95% CI, 44.3-62.5) and 65.7% (95% CI, 52.0-76.3), respectively. Baseline plasma profiling provided contributory information in 32 of 35 patients with noncontributory or unavailable tissue, increasing genotyping success from 69% to 97%. Paired baseline and early on-treatment samples were available in 90 patients (median, 21 days; range, 19-64). ctDNA clearance was associated with higher objective response rate (83% vs. 52%), longer progression-free survival (22.9 vs. 5.4 months; P<0.001), and longer OS (not reached vs. 17.1 months; P=0.004) than persistent detection.\nCONCLUSIONS: Serial ctDNA profiling with weekly MTB review was operationally feasible and complemented tissue genotyping. Clinical benefit was not demonstrated; early ctDNA kinetics require validation in interventional trials.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42905748/",
+    "searches": [
+      "lung-key-evidence",
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:42905748",
+      "doi:10.1158/1078-0432.ccr-26-2812"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42912151",
+    "doi": "10.1126/science.aea7156",
+    "pmcid": "",
+    "title": "Intron retention regulates STAT2 function and associates with immunotherapy response in lung cancer.",
+    "authors": "Englander RP, Brugiolo M, Devoucoux M et al.",
+    "journal": "Science",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Immunotherapy with checkpoint inhibitors has revolutionized cancer therapy and enabled considerable therapeutic advances for treating various diseases, including lung cancer. However, the molecular determinants of variable patient outcomes remain unclear. Using long-read RNA sequencing, we mapped the landscape of alternative RNA splicing in human primary lung adenocarcinomas. We identified more than 149,000 full-length messenger RNA (mRNA) isoforms, more than half of which were unannotated and many that occurred in immune-related genes, particularly within the type I interferon response pathway. We functionally characterized retained introns in the STAT2 gene that produced altered protein isoforms that regulated immune signaling and interferon responses and correlated with patient survival after anti-programmed death-ligand 1 (PD-L1) immunotherapy. These findings position alternative splicing as a regulator of tumor immune responses and reveal intron retention in STAT2 as an interferon regulatory axis that correlates with PD-L1 checkpoint inhibitor response.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912151/",
+    "searches": [
+      "lung-top-journals"
+    ],
+    "keys": [
+      "pmid:42912151",
+      "doi:10.1126/science.aea7156"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42908789",
+    "doi": "10.3389/fonc.2026.1859604",
+    "pmcid": "PMC13683138",
+    "title": "Global, regional and national cancer burden and trends of middle-aged and older populations: a GBD 2021-based analysis, prediction and prevention.",
+    "authors": "Sun R, Shi F, Tang Y et al.",
+    "journal": "Front Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Middle-aged and older adults (MAOs; defined as individuals aged ≥40 years) account for the global cancer burden, contributing to 70-80% of cases. Characterizing cancer profiles in this demographic is essential for developing targeted prevention and treatment strategies to mitigate global impacts.\nMETHODS: Using Global Burden of Diseases (GBD) 2021 data, we analyzed incidence, prevalence, mortality and Disability-Adjusted Life Years (DALYs) for 31 cancers among MAOs (aged≥40) across 204 countries/21 regions(1990-2021). Trends were quantified via Joinpoint regression, and autoregressive integrated moving-average (ARIMA) models projected the burden through 2035. Risk attribution utilized population attributable fractions across Socio-demographic Index (SDI) quintiles. An order-independent Shapley decomposition attributed projected cancer incidence changes during 2021-2035 to population growth, aging, and age-specific incidence rate shifts.\nRESULTS: In 2021, MAOs accounted for 48,804,114 incident cases and 9,434,210 deaths. Females exhibited a 1.14-fold higher age-standardized incidence rate (ASIR) than males, yet males had a higher age-standardized mortality rate (ASMR). Projections suggested a continued rise in cancer burden through 2035. Peak incidence occurred in ages 60-69 and the highest mortality in ages 70-79. Breast cancer was the main cancer in females; tracheal/bronchus/lung cancer in males. Tracheal/bronchus/lung cancer dominated mortality across all groups except middle-aged women (breast cancer). High-SDI regions bore the greatest burden, characterized by tracheal/bronchus/lung and colorectal cancers, while low-SDI regions shifted toward breast, cervical and stomach cancer. Risk factor analysis from 2010-2021 revealed rising metabolic risks, with high body mass index (BMI) and fasting plasma glucose-attributable DALYs increasing by 12.39% and 11.36% respectively, especially in high-SDI regions. Conversely, while most behavioral risks declined, smoking remained the leading risk factor, contributing over 60% to lung cancer DALYs. In low-SDI regions, behavioral drivers such as unsafe sex (accounting for >90% of cervical cancer risk) and air pollution remained the dominant persistent risks.\nDISCUSSION: This study, the first focusing on MAOs' global cancer burden, reveals heterogeneous patterns by age, gender, and SDI. Lung cancer was the leading cause of death (smoking as main risk). Metabolic risks rose in high-SDI regions, behavioral risks in low-SDI regions. In conclusion, MAOs' cancer burden will rise through 2035; region-specific precision strategies are essential.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42908789/",
+    "searches": [
+      "lung-nonpharm",
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42908789",
+      "doi:10.3389/fonc.2026.1859604"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42909369",
+    "doi": "10.1016/j.omtn.2026.103116",
+    "pmcid": "PMC13685007",
+    "title": "Insights into extracellular vesicles: From biogenesis and tumor immune modulation to their clinical potential in immunotherapy.",
+    "authors": "Ma S, Qi A, Wu J et al.",
+    "journal": "Mol Ther Nucleic Acids",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Extracellular vesicles (EVs) constitute a key mode of intercellular communication that remodels the complex tumor immune microenvironment by delivering diverse bioactive cargoes between tumor and immune cells. Nucleic acid species, encompassing microRNAs (miRNAs), messenger RNA (mRNAs), and other RNA transcripts, are functionally potent EV cargoes whose selective packaging dictates downstream immune signaling output. This review describes the molecular mechanisms driving selective RNA sorting into EVs, emphasizing sequence-motif recognition and core RNA-binding proteins FMR1 and TRIM25, which govern the enrichment of distinct RNA populations. We illustrate how EV-shuttled RNA molecules elicit context-dependent functional changes across regulatory T cells, myeloid-derived suppressor cells, and macrophages to shape antitumor or pro-tumor immune states. It critically integrates liquid biopsy evidence for EV-borne RNAs and EV-associated programmed death-ligand 1 (PD-L1) as predictive biomarkers of immunotherapy response in melanoma, non-small cell lung cancer, and hepatocellular carcinoma and dissects technical confounders such as non-vesicular RNA contamination and inconsistent isolation protocols. This review further compares nucleic acid loading strategies for native EVs versus cell-membrane-mimetic nanovesicles and explores their applicability for mRNA-based nanovaccines and combinatorial immunotherapy. We highlight underappreciated translational obstacles, noting that harmonized analytical standards, strict encapsulated cargo validation, and independent prospective multicenter trials are essential to translate EV-nucleic acid signatures into personalized cancer immunotherapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909369/",
+    "searches": [
+      "lung-mrna",
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:42909369",
+      "doi:10.1016/j.omtn.2026.103116"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42912539",
+    "doi": "10.1097/RLU.0000000000006710",
+    "pmcid": "",
+    "title": "Sarcoid-like Reaction With Pleural Involvement After Neoadjuvant Chemo-immunotherapy For Lung Cancer: A Rare Mimic of Disease Progression.",
+    "authors": "Coussement A, Van Mol P, Boeckxstaens L et al.",
+    "journal": "Clin Nucl Med",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "We report a patient with stage IIA (cT2bN0M0) lung adenocarcinoma who developed new diffuse pleural, pulmonary, and nodal FDG uptake on 18FDG-PET/CT after three cycles of neoadjuvant nivolumab plus cisplatin-pemetrexed, with slight regression of the primary tumour. These findings raised the diagnostic dilemma between disease progression and immune checkpoint inhibitor (ICI)-related sarcoid-like reaction (SLR). Rapid clinical and metabolic improvement after corticosteroid therapy supported SLR, which was subsequently confirmed histologically by noncaseating granulomas without viable tumour at surgery. This case highlights pleural involvement in SLR as a rare and diagnostically challenging immune-related adverse event.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912539/",
+    "searches": [
+      "lung-repurposed",
+      "nsclc-immunotherapy",
+      "lung-toxicity"
+    ],
+    "keys": [
+      "pmid:42912539",
+      "doi:10.1097/rlu.0000000000006710"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42908576",
+    "doi": "10.3389/fphar.2026.1937378",
+    "pmcid": "PMC13683115",
+    "title": "Case Report: Fatal varicella-zoster virus meningoencephalitis with Froin-like cerebrospinal fluid and hydrocephalus following pembrolizumab-containing chemoimmunotherapy.",
+    "authors": "Shen F, Fan S, Wang Y et al.",
+    "journal": "Front Pharmacol",
+    "year": "2026",
+    "pub_types": [
+      "Case Reports",
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: In patients receiving immune checkpoint inhibitors (ICIs), central nervous system (CNS) infections may mimic or coexist with neurological immune-related adverse events (irAEs). ICI-driven immune dysregulation has been proposed to amplify inflammation against latent pathogens (\"immunotherapy infections due to dysregulated immunity\", ITI-DI), but this remains a hypothesis-generating framework rather than a validated diagnosis.\nCASE PRESENTATION: A 54-year-old man with stage IIIC lung adenocarcinoma developed a herpes zoster eruption and lumbosacral pain 7 days after the first infusion of pembrolizumab-containing chemoimmunotherapy, followed by rapidly progressive flaccid paraplegia, urinary incontinence, and declining consciousness. Intravenous acyclovir was not initiated until 20 days after rash onset. The first cerebrospinal fluid (CSF) sample was xanthochromic and coagulated spontaneously in the collection tube (Froin-like CSF), precluding protein measurement. A second lumbar puncture showed mild pleocytosis (8 cells/ μ L; 70% neutrophils) and undetectable glucose; varicella-zoster virus (VZV) DNA was detected in CSF by post-mortem targeted polymerase chain reaction. Spinal Magnetic resonance imaging (MRI) showed diffuse meningeal enhancement; follow-up cranial imaging showed acute hydrocephalus. Despite intravenous acyclovir, corticosteroids, and intravenous immunoglobulin, the patient died 43 days after pembrolizumab initiation.\nCONCLUSION: This case highlights VZV CNS infection as an important diagnostic consideration in ICI-treated patients who develop herpes zoster and neurological symptoms, because infection may mimic or coexist with a neurological irAE. The temporal relationship with pembrolizumab raises, but does not establish, the possibility that PD-1 blockade modified the inflammatory response. Prompt virological testing and adequately dosed antiviral therapy are central to management; the role of adjunctive immunomodulation remains uncertain and should be individualized.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42908576/",
+    "searches": [
+      "lung-repurposed",
+      "nsclc-immunotherapy",
+      "lung-toxicity"
+    ],
+    "keys": [
+      "pmid:42908576",
+      "doi:10.3389/fphar.2026.1937378"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42913427",
+    "doi": "10.1146/annurev-med-042425-051841",
+    "pmcid": "",
+    "title": "T Cell Receptor-Engineered T Cell Therapy in Solid Tumors: Where We Stand and What's to Come.",
+    "authors": "Ferriol-Martínez C, D'Angelo SP",
+    "journal": "Annu Rev Med",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "T cell receptor-engineered T (TCR-T) cell therapy has emerged as a promising adoptive cellular therapy for solid tumors by enabling recognition of intracellular antigens presented via human leukocyte antigen (HLA) molecules. Unlike chimeric antigen receptor T cell therapy, TCR-T cell therapy targets a broader antigen repertoire, including cancer-testis antigens, neoantigens, and viral antigens. Recent clinical advances, highlighted by the approval of afamitresgene autoleucel in synovial sarcoma, demonstrate meaningful antitumor activity. However, several limitations remain, including HLA restriction, antigen heterogeneity, toxicity related to on-target/off-tumor effects, and mechanisms of resistance such as antigen loss and T cell exhaustion. Advances in antigen selection, gene editing, and synthetic biology are improving both safety and efficacy. Combination strategies and next-generation engineered constructs are expected to overcome current barriers. This review summarizes the biological rationale, clinical evidence, safety considerations, and resistance mechanisms of TCR-T cell therapy in solid tumors and discusses future directions to optimize their therapeutic potential.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913427/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42913427",
+      "doi:10.1146/annurev-med-042425-051841"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42913258",
+    "doi": "10.1016/j.ejca.2026.117780",
+    "pmcid": "",
+    "title": "Outcomes of CD20-targeting CAR T-cell therapy in patients with advanced melanoma: MB-CART20.1 Melanoma phase I trial.",
+    "authors": "Balke-Want H, Theurich S, Gödel P et al.",
+    "journal": "Eur J Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Previous studies identified CD20+ cells within the melanoma tumor microenvironment, including tumor-associated B-cells and putative cancer stem cells (CSC), as potential therapeutic targets. We therefore evaluated CD20-targeting CAR T-cells in patients with advanced melanoma.\nMETHODS: This prospective, open-label phase I trial evaluated a 3 +3 design in patients with advanced melanoma, refractory to approved treatments, to assess safety and preliminary activity of autologous anti-CD20 CAR T-cells (MB-CART20.1). Following lymphodepleting chemotherapy, patients received a single MB-CART20.1 infusion. Primary endpoints were safety and tolerability; secondary endpoints included kinetics and early evidence for antitumor activity. Three patients received dose level 1 (DL1) (1.0 ×10⁵ cells/kg) and four patients DL2 (1.0 ×10⁶ cells/kg).\nRESULTS: No DLTs occurred at DL1, while two patients experienced DLTs at DL2 (grade 3 ICANS and grade 4 hepatotoxicity). Overall, 43 serious TEAEs were reported across all seven patients. Stable disease was observed in three patients at week 16; all had progressed by month 6. All had received immune checkpoint inhibitors within 6 months before leukapheresis and showed reduced exhaustion marker expression on CD8+ T-cells. In addition, the frequency of CD19+CD24+CD27+ Breg cells trended to associate with progressive disease and inversely correlate with toxicity. MB-CART20.1 showed robust in vivo expansion however, severe DLTs at DL2 without durable clinical benefit led to early trial termination.\nCONCLUSIONS: In advanced melanoma, MB-CART20.1 was associated with marked expansion and toxicity, suggesting that Breg depletion and the melanoma-typical treatment history might have driven distinct CAR T-associated immunotoxicities.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913258/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42913258",
+      "doi:10.1016/j.ejca.2026.117780"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42911633",
+    "doi": "10.1093/neuonc/noag266",
+    "pmcid": "",
+    "title": "EGFRvIII-Positive Glioblastoma: Structural Rewiring, Immune Microenvironmental Remodeling, and Therapeutic Resistance.",
+    "authors": "Ye H, Qiu J, Zhu F et al.",
+    "journal": "Neuro Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Glioblastoma (GBM) harboring EGFRvIII represents a biologically distinct and highly aggressive tumor subset characterized by aberrant receptor signaling, marked intratumoral heterogeneity, and profound immune remodeling. Rather than acting as a constitutively active truncated receptor, EGFRvIII represents a structurally rewired EGFR variant whose altered extracellular architecture, receptor assembly, and trafficking promote ligand-independent signaling and signaling plasticity, thereby supporting tumor proliferation, stemness, invasion, and angiogenesis. Beyond tumor-intrinsic effects, EGFRvIII also contributes to the formation of a spatially heterogeneous, myeloid-dominant and immunosuppressive tumor microenvironment, characterized by myeloid-cell expansion, impaired T cell effector function, and mesenchymal-like tumor-immune plasticity. Despite extensive therapeutic efforts including tyrosine kinase inhibitors, monoclonal antibodies, vaccines, immune checkpoint blockade, and EGFRvIII-targeted CAR-T cell strategies, durable clinical efficacy remains limited by the interplay of antigen heterogeneity, adaptive signaling, clonal evolution, and microenvironmental immunosuppression. Taken together, EGFRvIII can be viewed as a structural and evolutionary regulator that links receptor rewiring and signaling plasticity with immune ecosystem remodeling and therapeutic resistance, underscoring the need for integrated strategies that target both tumor cell-intrinsic signaling and the suppressive microenvironment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911633/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42911633",
+      "doi:10.1093/neuonc/noag266"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42909255",
+    "doi": "10.3389/fimmu.2026.1963794",
+    "pmcid": "PMC13684363",
+    "title": "Chemokines as regulators of CAR-T cell trafficking, function, and context-dependent tumor cell death.",
+    "authors": "Levchuk K, Petukhov A, Tursymbek S et al.",
+    "journal": "Front Immunol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Chimeric antigen receptor (CAR)-T cell therapy has transformed the treatment of hematological malignancies, yet its efficacy in solid tumors remains limited by inefficient trafficking, suppressive myeloid and regulatory T-cell populations, and metabolic stress. These barriers contribute to incomplete tumor cell killing and loss of CAR-T cell function. Chemokines are usually viewed as migratory guides, but in solid tumors they also orchestrate immune cell positioning and inflammatory state. In this review, we discuss how chemokine gradients form inflammatory niches and control CAR-T-cell recruitment, intratumoral distribution, retention, and egress. We also examine how chemokine programs interact with cytokine signaling and regulated tumor cell death to shape local and potentially tissue-wide antitumor immunity, including through the release of damage-associated molecular patterns (DAMPs). Finally, we outline translational strategies that include engineered chemokines and matched chemokine receptor programs to enhance the efficacy of chemokine/cytokine-armored CAR-T cells, and related combination therapies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909255/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42909255",
+      "doi:10.3389/fimmu.2026.1963794"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42909156",
+    "doi": "10.3389/or.2026.1850627",
+    "pmcid": "PMC13683840",
+    "title": "The role of personalised medicine in treating high-risk neuroblastoma in paediatric patients.",
+    "authors": "Ammeti D, Curci D, Franzin M et al.",
+    "journal": "Oncol Rev",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Neuroblastoma (NB) is one of the most challenging paediatric malignancies, accounting for 15% of childhood cancer-related deaths. It is characterised by a high heterogeneity ranging from spontaneous regression to high frequency of metastatic disease at diagnosis. Although current treatment strategies, including chemotherapy, surgery and radiotherapy, have improved outcomes, recurrence often occurs in high-risk NB patients, thus affecting overall survival. In this context, personalised medicine is emerging as a promising approach taking advantage of predictive biomarkers to refine risk stratification and to predict treatment response, together with the development of innovative treatments for high-risk NB. This review summarises the landscape of biomarkers in NB, focusing on genomic, transcriptomic, proteomic, and metabolomic signatures associated with aggressive disease biology, therapeutic resistance, and clinical outcome. We highlight how improved patient stratification could help to identify actionable targets resulting in innovative therapeutic strategies. These include GD2-directed immunotherapy, CAR-T and CAR-NK cell approaches, and pathway-directed agents targeting mainly ALK, and MYCN-associated dependencies. Ultimately, the transition from standardised protocols to a systematic integration of multidimensional biomarker profiles with next-generation therapies promises to transform the clinical management of high-risk NB. Addressing the biological complexity of NB ensures more effective and less toxic interventions, paving the way for personalised therapeutic approaches aimed at preventing relapse in high-risk cases and significantly improving long-term survival.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909156/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42909156",
+      "doi:10.3389/or.2026.1850627"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42907869",
+    "doi": "10.1186/s13045-026-01861-z",
+    "pmcid": "PMC13688899",
+    "title": "Reprogramming tumor-associated macrophages in breast cancer: from myeloid plasticity and tumor-promoting programs to CAR-macrophage therapy.",
+    "authors": "Heydari F, Derakhshani M, Naghinezhad J",
+    "journal": "J Hematol Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Breast cancer develops within spatially organized, multicellular microenvironments in which particular tumor-associated macrophage (TAM) states can influence immune access and stromal remodeling. Conventional M1/M2 classification and total macrophage density fail to capture the developmental, transcriptional, metabolic, and spatial heterogeneity that determines TAM function. This macrophage-focused review examines breast cancer within its multicellular microenvironment, integrating lineage-tracing, single-cell, spatial, mechanistic, and clinical evidence while distinguishing breast-specific findings from hypotheses extrapolated from other tumors. We examine how tissue-resident and monocyte-derived macrophages are recruited, retained, expanded, and reprogrammed across primary and metastatic sites, emphasizing interactions with malignant cells, cancer-associated fibroblasts, extracellular matrix, vasculature, adipose tissue, and lymphoid populations. In defined breast-tumor contexts, TAM programs have been implicated in immune exclusion, invasion, metastatic dissemination, and adaptation to systemic treatment, although evidence strength varies across mechanisms and therapeutic modalities. Small and heterogeneous clinical studies have not established a benefit from broad CSF1/CSF1R-axis targeting in breast cancer, despite encouraging preclinical findings. Accordingly, we highlight a shift toward state-selective, spatially resolved, and temporally coordinated targeting. Emerging approaches include restoring phagocytosis, disrupting chemokine and fibrotic circuits, metabolic reprogramming, and converting suppressive TAMs into inflammatory, antigen-presenting effectors. A major focus is chimeric antigen receptor macrophage (CAR-M) therapy, which combines antigen-directed phagocytosis with tumor infiltration, matrix remodeling, antigen presentation, and recruitment of endogenous immunity. Although early clinical data support manufacturing feasibility, tumor trafficking, and acceptable initial safety, limited antitumor activity underscores challenges involving antigen heterogeneity, persistence, metabolic fitness, biodistribution, and scalable production. We propose a translational roadmap integrating spatial biomarkers, quantitative target selection, macrophage-adapted CAR design, checkpoint-resistant phagocytosis, metabolic engineering, safety switches, and biomarker-guided combination therapy. This framework positions macrophage reprogramming as a context-dependent strategy for modifying selected breast-tumor niches, with therapeutic targets chosen according to the macrophage program and its surrounding cellular architecture.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907869/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42907869",
+      "doi:10.1186/s13045-026-01861-z"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42907426",
+    "doi": "10.1038/s41467-026-77904-3",
+    "pmcid": "",
+    "title": "Histone deacetylase inhibition induces an antitumor IRF8-dependent trained immunity-like status in macrophages.",
+    "authors": "Qin X, Xiang M, Guo Y et al.",
+    "journal": "Nat Commun",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "abstract": "Epigenetic reprogramming underlies innate immune memory. However, whether trained immunity can be induced via epigenetic intervention to combat tumors, and the key regulators controlling this process, remain unclear. Here, we demonstrate that histone deacetylase inhibitor (HDACi) priming establishes a trained immunity-like state in monocytes/macrophages, conferring potent antitumor effect in multiple models of triple-negative breast cancer (TNBC) in female mice. Interferon regulatory factor 8 (IRF8) is identified as the master regulator of the inflammatory transcriptional program, which is governed by IRF8-associated super-enhancers and reinforced by HDACi. Myeloid-specific IRF8 deficiency impairs pro-inflammatory macrophage differentiation and abrogates HDACi-induced antitumor efficacy. Moreover, an IRF8-driven, CCL8-expressing macrophage subset recruits and activates cytotoxic CCR5+CD8+ T cells in the TNBC microenvironment. As a proof-of-principle with translational relevance, CCL8-overexpressing EGFR-targeted CAR T cells exhibit enhanced trafficking and improved efficacy in a humanized TNBC model. Our study defines the IRF8-CCL8-CCR5 axis as an epigenetically potentiated nexus of innate and adaptive antitumor immunity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907426/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42907426",
+      "doi:10.1038/s41467-026-77904-3"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42907136",
+    "doi": "10.1093/stcltm/szag084",
+    "pmcid": "",
+    "title": "Cell-based therapies for malignant glioma.",
+    "authors": "Mooney R, Abd El-Fattah EE, Ngai G et al.",
+    "journal": "Stem Cells Transl Med",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Despite innovative progress, cellular therapies have not produced durable, population-level survival gains in glioblastoma. Across 3 major modalities, engineered effectors such as chimeric antigen receptor T cell (CAR-T) and natural killer (NK) cells, immune-education platforms such as dendritic and whole-cell vaccines, and carrier cells delivering oncolytic or drug payloads, trials have shown measurable bioactivity, but durability has varied. This likely reflects systemic barriers, including therapy-induced lymphopenia, myeloid dominance, and T-cell sequestration, as well as local barriers such as antigen heterogeneity and immune suppression. To understand why some studies nevertheless showed more favorable efficacy signals, we reviewed clinical outcomes across these modalities and identified 4 recurring design features that appeared repeatedly among studies reporting more favorable survival signals: treatment in the minimal residual disease setting, a T-helper type 1 supportive context, broadened antigenic coverage, and effective immune hand-off from the initiating therapy to endogenous or adoptively transferred effectors. Across heterogeneous early-phase studies, greater feature alignment sometimes co-occurred with more favorable signals, although this retrospective pattern is descriptive and does not establish association or causality. These observations may help guide future biomarker-informed strategies and provide a practical framework for organizing multimodal trials aimed at converting transient bioactivity into more durable, polyclonal control.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907136/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42907136",
+      "doi:10.1093/stcltm/szag084"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42906236",
+    "doi": "10.1016/j.colsurfb.2026.116266",
+    "pmcid": "",
+    "title": "Internalizing RGD (iRGD)-modified liposomal nanoparticles as a universal antigen-delivering platform for remodeling tumors and enhancing T-cell receptor-engineered T cell immunotherapy.",
+    "authors": "Qi H, Zhang H, Wang C et al.",
+    "journal": "Colloids Surf B Biointerfaces",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "T cell receptor-engineered T cell (TCR-T) therapy holds promise for solid tumors but faces challenges from insufficient and non-uniform antigen presentation and inefficient T-cell tumor delivery. Current strategies that rely on endogenous tumor antigen expression are often limited by transcriptional silencing or downregulation of target antigens in a substantial fraction of tumor cells, resulting in incomplete tumor recognition. To address this, we developed iRGD-modified liposomal nanoparticles (iRNY-LNPs) as a universal antigen-delivering platform for remodeling tumors and enhancing TCR-T immunotherapy. The iRNY-LNPs, co-assembled from DSPE-PEG-iRGD and DSPE-PEG-NY-ESO-1 (New York Esophageal Squamous Cell Carcinoma-1), exhibited a uniform size of 206.3 ± 5.4 nm and demonstrated significantly enhanced penetration into 3D tumor spheroids compared to non-targeted nanoparticles. In vitro, iRNY-LNPs enabled uniform NY-ESO-1 antigen presentation on tumor cells, potently activating TCR-T cells and enhancing interferon-γ secretion and cytotoxicity. In vivo imaging confirmed efficient tumor accumulation and retention of iRNY-LNPs. In a gastric cancer model, the combination of iRNY-LNPs and NY-ESO-1 TCR-T cells achieved 73.0% tumor growth inhibition and significantly prolonged survival, with no observed systemic toxicity. This study establishes a proactive tumor-remodeling strategy that circumvents the reliance on endogenous antigen expression by enforcing uniform antigen display. Given its modular design based on lipid-peptide conjugates, the platform can be readily adapted to deliver other tumor-associated antigens by simply substituting the peptide moiety, offering a versatile framework for TCR-T immunotherapy against diverse solid tumors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906236/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42906236",
+      "doi:10.1016/j.colsurfb.2026.116266"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42905522",
+    "doi": "10.1172/JCI193053",
+    "pmcid": "",
+    "title": "Engineered NKG2C+ CD8+ TKLR cells exhibit effective antitumor control in mice while mitigating cytokine release syndrome.",
+    "authors": "Lupo KB, Panjwani MK, Halawi AG et al.",
+    "journal": "J Clin Invest",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Engineered T and NK cell therapies have widely been used to treat hematologic malignancies and solid tumors, with promising clinical results. Current chimeric antigen receptor (CAR) T cell therapeutics are, however, associated with treatment-related adverse events such as cytokine release syndrome (CRS) and are prone to immunologic exhaustion. CAR-NK therapeutics, while not associated with CRS, have limited in vivo persistence. We now demonstrate that a population of NK-like TCRαβ+ CD8 T cells (TKLR), identified and expanded ex vivo through its expression of the activating receptor NKG2C, can be transduced to express a second-generation CD19 CAR (1928z). These CAR+ TKLR demonstrates superior tumor clearance and longer persistence compared to 1928z CAR+ conventional CD8 T cells (TConv) and 1928z CAR+ NK cells in mouse xenograft models. Moreover, CAR-modified TKLR had decreased expression of PD-1, TIM-3, and LAG-3 and elicited significantly reduced CRS compared to CAR+ CD8 TConv in mouse xenograft models. Similarly, NKG2C+ TKLR engineered with a TCR targeting the NY-ESO-1 antigen exhibited robust tumor control compared to TCR-engineered CD8 TConv in a mouse xenograft model. These data establish NKG2C+ TKLR as a promising platform for cell engineering, and offer a safer, more durable alternative to conventional CAR-T and CAR-NK therapies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42905522/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42905522",
+      "doi:10.1172/jci193053"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42905164",
+    "doi": "10.1007/s11033-026-12948-8",
+    "pmcid": "",
+    "title": "Novel approaches to target prostate cancer stem cells driving therapy resistance and cancer progression.",
+    "authors": "Alatawi FS",
+    "journal": "Mol Biol Rep",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Prostate cancer remains one of the most common malignancies in men, and its global burden continues to rise. Although androgen deprivation therapy and other standard treatments can provide substantial disease control, advanced tumors may progress to castration-resistant prostate cancer, which is associated with poor outcomes. Preclinical and translational evidence implicates prostate cancer stem-like cells (PCSCs) in treatment persistence, progression, and relapse, without establishing them as the sole cause of resistance in patients. PCSC-associated states share functional traits with normal stem cells, including self-renewal and survival under stress; reduced androgen receptor activity occurs in some, but not all, stem-like populations. Their behavior is influenced by the genomic context, including PTEN loss, TP53/RB1 alterations, SPOP mutations, and TMPRSS2-ERG rearrangements, as well as hypoxia, stromal interactions, and inflammatory signaling. These alterations are not specific markers of PCSC identity. Multiple interconnected pathways, notably PI3K/AKT/mTOR, RAS/MAPK, Hedgehog, Wnt/β-catenin, Hippo, JAK/STAT, Notch, EGFR, and hypoxia-driven HIF signaling, provide candidate therapeutic targets. Additional strategies include modifying the microenvironment to suppress epithelial-to-mesenchymal plasticity, restoring tumor-suppressive microRNAs, and developing checkpoint inhibitors, vaccines, and CAR-T cells against relevant tumor-associated antigens. Most PCSC-specific evidence remains experimental, even when a pathway-directed agent has clinical activity or regulatory approval in a molecularly selected prostate cancer population. Clinical tumor responses do not by themselves demonstrate selective PCSC depletion. This narrative review distinguishes mechanistic findings from clinical outcomes and considers limitations involving marker specificity, model selection, drug delivery, toxicity, and therapeutic escape. Functionally validated biomarkers and appropriately designed combination trials are needed to determine whether targeting PCSC-associated states can improve durable disease control.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42905164/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42905164",
+      "doi:10.1007/s11033-026-12948-8"
+    ]
+  },
+  {
+    "source": "feed",
+    "feed": "http://connect.medrxiv.org/medrxiv_xml.php?subject=Oncology",
+    "url": "https://www.medrxiv.org/content/10.64898/2026.10.23.26365904v1?rss=1",
+    "doi": "10.64898/2026.10.23.26365904",
+    "title": "Site-specific immune remodeling underlies resistance to dual immune checkpoint blockade in metastatic colorectal cancer",
+    "summary": "Immune checkpoint inhibitors (ICIs) have limited efficacy in metastatic colorectal cancer (mCRC) with proficient mismatch repair and microsatellite stability (pMMR/MSS), with liver metastases emerging as a dominant determinant of resistance. Whether this reflects a failure to activate antitumor immunity or a failure to direct it remains unclear. We investigated this in the phase II SERPENTINE trial of dual PD-L1 and CTLA-4 blockade by integrating paired pre-treatment and on-treatment single-cell transcriptomic and T-cell receptor (TCR) profiling (388,196 cells; 95,617 clonotypes) metastatic biopsies with deep TCR sequencing of matched peripheral blood (57,902,418 clonotypes). In MSS mCRC, clinical benefit was restricted to patients without liver metastases, whereas all patients with liver metastases progressed. Dual ICI induced systemic T-cell priming regardless of metastatic site, mobilizing therapy-expanded clones that trafficked to both lung and liver lesions, but the fate of this response was determined locally. In lung metastases, therapy-specific clones focused into tissue-resident, proliferative, tumor-reactive CD8+ T-cell states. In liver metastases, the same activation was dispersed: regulatory T cells and suppressive myeloid populations expanded, TCR repertoires diversified, and exhaustion-associated T-cell gene networks fragmented. Cross-lineage co-expression analysis further revealed that tumor proliferation increased in concert with cytotoxic CD8+ T-cell programs, indicating effector engagement that fails to restrain tumor growth. These findings show that resistance to ICI in liver metastases arises from tissue-specific misdirection of immune activation away from productive antitumor immunity, identifying multicellular coordination of the immune response in the metastatic microenvironment as a determinant of therapeutic efficacy.",
+    "published": "2026-10-23",
+    "searches": [
+      "preprints"
+    ],
+    "keys": [
+      "doi:10.64898/2026.10.23.26365904",
+      "url:https://www.medrxiv.org/content/10.64898/2026.10.23.26365904v1?rss=1"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42913021",
+    "doi": "10.1126/sciadv.aeb9836",
+    "pmcid": "",
+    "title": "CASTOR1 functional inactivation drives KRAS-mutant NSCLC and therapy resistance by a noncanonical mechanism of tumor suppression.",
+    "authors": "Wang X, Ding L, Meng W et al.",
+    "journal": "Sci Adv",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "CASTOR1, a cytosolic arginine sensor and regulator of mTORC1 signaling, is identified here as a tumor suppressor in KRAS-driven non-small cell lung cancer (NSCLC). In a KRASG12D mouse model, CASTOR1 deletion enhances tumor initiation and progression, accompanied by increased proliferation. Although CASTOR1 is rarely mutated or deleted in human cancers, its expression progressively declines during tumor progression and is associated with increased AKT activation and CASTOR1 phosphorylation, consistent with functional inactivation. Loss of CASTOR1 results in constitutive mTORC1 hyperactivation, impaired arginine-dependent regulation of mTORC1 signaling, elevated p-4EBP1 and p-S6 levels, increased AKT and ERK activation, genomic instability, and resistance to KRASG12D inhibitors. Tumors and tumor-derived organoids deficient in CASTOR1 are resistant to KRAS inhibition, but this resistance can be overcome by cotargeting mTORC1 or dual PI3K/mTOR inhibition. These findings identify CASTOR1 as a critical link between nutrient sensing and oncogenic signaling and reveal its functional inactivation as an important mechanism contributing to KRAS-driven NSCLC progression and therapeutic resistance. The results further support rational combination therapies to overcome KRAS inhibitor resistance in CASTOR1-low NSCLC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913021/",
+    "searches": [
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42913021",
+      "doi:10.1126/sciadv.aeb9836"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42909821",
+    "doi": "10.1007/s40265-026-02410-1",
+    "pmcid": "",
+    "title": "Zidesamtinib: First Approval.",
+    "authors": "Shirley M",
+    "journal": "Drugs",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Zidesamtinib (Jideytro™) is a brain-penetrant, selective small-molecule inhibitor of ROS1 being developed by Nuvalent (a subsidiary of GSK) for the treatment of advanced ROS1-positive non-small cell lung cancer (NSCLC) and other solid tumours. ROS1 fusions are oncogenic drivers in a range of cancers and are identified in approximately 1-2% of NSCLCs. Zidesamtinib potently inhibits diverse ROS1 fusion proteins and clinically relevant ROS1 resistance mutations. Further, zidesamtinib has been shown to induce intracranial tumour regression in xenograft models. Supported by findings from the phase I/II ARROS-1 trial, in July 2026, zidesamtinib was approved in the USA for use in the treatment of adult patients with locally advanced or metastatic ROS1-positive NSCLC who received a prior ROS1 kinase inhibitor. This article summarises the milestones in the development of zidesamtinib leading to this first approval for advanced ROS1-positive NSCLC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909821/",
+    "searches": [
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42909821",
+      "doi:10.1007/s40265-026-02410-1"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42909554",
+    "doi": "10.1007/s12328-026-02471-5",
+    "pmcid": "",
+    "title": "Unusual metastatic recurrence of pulmonary adenocarcinoma with a focal neuroendocrine component presenting with bilateral renal metastases and an accompanying pancreatic neuroendocrine tumor-like lesion: a case report.",
+    "authors": "Ueda T, Miyagawa K, Nakamura K et al.",
+    "journal": "Clin J Gastroenterol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "A 72-year-old woman with a history of resected lung adenocarcinoma presented with a pancreatic mass and multiple bilateral renal masses. Endoscopic ultrasound-guided tissue acquisition of the pancreatic lesion showed neuroendocrine morphology, synaptophysin positivity, focal chromogranin A positivity, and a Ki-67 labeling index of 2%, leading to an initial diagnosis of pancreatic neuroendocrine tumor grade 1. Renal biopsy also demonstrated neuroendocrine differentiation with a Ki-67 labeling index of 17%. However, the pancreatic lesion was hypovascular and poorly defined, and the multifocal bilateral renal involvement was atypical for a low-grade pancreatic neuroendocrine tumor. Re-evaluation of the resected lung specimen revealed a focal neuroendocrine component showing large cell neuroendocrine carcinoma-like features, although the strict diagnostic criteria for such a diagnosis were not fully met. Genomic analysis identified a KRAS G12V mutation shared by the renal and lung tumors, supporting the interpretation that the renal lesions represented metastatic recurrence of the previously resected lung tumor. Direct molecular confirmation was unavailable for the pancreatic lesion because of insufficient residual endoscopic ultrasound-guided tissue acquisition material; therefore, its origin remained diagnostically uncertain. Nevertheless, based on the overall clinicopathological context, the pancreatic lesion was interpreted as an accompanying neuroendocrine tumor-like lesion most consistent with metastatic recurrence. This case highlights the importance of integrating clinical history, imaging features, disease distribution, archival pathology, and molecular findings when evaluating neuroendocrine tumor-like lesions in patients with a prior malignancy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909554/",
+    "searches": [
+      "nsclc-drivers",
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42909554",
+      "doi:10.1007/s12328-026-02471-5"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42907305",
+    "doi": "10.1016/j.jfma.2026.10.019",
+    "pmcid": "",
+    "title": "Comment on: \"Impact of ALK rearrangement on survival in resected lung adenocarcinoma: A real-world analysis\": Toward risk-adapted adjuvant therapy beyond ALINA.",
+    "authors": "Lin H, Chen H, Huang Z et al.",
+    "journal": "J Formos Med Assoc",
+    "year": "2026",
+    "pub_types": [
+      "Letter"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907305/",
+    "searches": [
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42907305",
+      "doi:10.1016/j.jfma.2026.10.019"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42913071",
+    "doi": "10.1016/j.lungcan.2026.109644",
+    "pmcid": "",
+    "title": "Real-world effectiveness and safety of lurbinectedin in previously treated small cell lung cancer: results from Jazz EMERGE 402.",
+    "authors": "Badin FB, Lammers PE, Liu G et al.",
+    "journal": "Lung Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: In extensive-stage small cell lung cancer (ES-SCLC), lurbinectedin is approved for first-line maintenance treatment with atezolizumab and as monotherapy following disease progression, but prospective real-world data on its use are lacking.\nMETHODS: Jazz EMERGE 402 was a prospective, observational, phase 4 trial (NCT04894591) that evaluated lurbinectedin for previously treated SCLC in a diverse, real-world population. The primary endpoint was overall response rate (ORR). Key secondary endpoints were progression-free survival (PFS), overall survival (OS), and safety.\nRESULTS: As of July 17, 2025, 267 patients received ≥ 1 lurbinectedin dose. At baseline, the median age was 67 years, 52 (19%) patients had an Eastern Cooperative Oncology Group score ≥ 2, 67 (25%) had brain metastases, and 88 (33%) had platinum-resistant disease. ORR (95% confidence interval [CI]) was 29% (23%-36%) overall (n = 189) and 33% (25%-42%) in second-line treatment (n = 118). Patients with brain metastases had lower ORR (17% vs 32% without; odds ratio, 0.28 [95% CI: 0.10-0.76]). Median (95% CI) PFS and OS were 3.3 (2.6-4.1) and 7.6 (6.4-8.7) months. OS was shorter with platinum-resistant vs platinum-sensitive disease (5.8 vs 9.3 months; hazard ratio, 1.63 [95% CI: 1.17-2.28]). Eighty-eight (33%) patients had treatment-related adverse events, including anemia (8%) and neutropenia (7%); 21 (8%) discontinued treatment due to adverse events.\nCONCLUSIONS: In a broad, real-world population with previously treated SCLC, lurbinectedin was associated with clinically meaningful effectiveness and predictable and manageable safety. Lower ORR and OS were seen in patients with brain metastases and platinum-resistant disease, respectively.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913071/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42913071",
+      "doi:10.1016/j.lungcan.2026.109644"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42912498",
+    "doi": "10.1016/j.xpro.2026.104916",
+    "pmcid": "",
+    "title": "Protocol for profiling chromatin accessibility in human small-cell lung cancer FFPE-derived samples using Omni-ATAC-seq.",
+    "authors": "Salataj E, Kawasaki K, Massagué J et al.",
+    "journal": "STAR Protoc",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "The assay for transposase-accessible chromatin using sequencing (ATAC-seq) on formalin-fixed paraffin-embedded (FFPE) samples maps accessible chromatin in archival tissues, but DNA degradation and crosslinking remain significant challenges when processing these samples. Here, we present a protocol for Omni-ATAC-seq on degraded human small-cell lung cancer (SCLC) FFPE-derived samples. We detail steps for successful nuclei isolation, efficient tagmentation, and optimal library amplification to overcome the low signal-to-noise ratio. This protocol enables high-quality epigenetic profiling, turning archived SCLC samples into valuable resources for studying disease progression. For complete details on the use and execution of this protocol, please refer to Kawasaki et al.1.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912498/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42912498",
+      "doi:10.1016/j.xpro.2026.104916"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42907953",
+    "doi": "10.1186/s12885-026-16618-7",
+    "pmcid": "PMC13689304",
+    "title": "Clinical and pathological characteristics, immune microenvironment, and survival analysis of molecular subtypes of surgically resected small cell lung cancer.",
+    "authors": "Tian J, He J, Tian H et al.",
+    "journal": "BMC Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Small cell lung cancer (SCLC) remains a lethal malignancy with limited therapeutic progress, largely due to its heterogeneity and the lack of biomarkers for patient stratification. This study aims to validate the prevalent molecular subtyping system in a surgically resected cohort and elucidate the subtype-specific tumor immune microenvironment (TIME) and its clinical implications.\nMETHODS: We retrospectively analyzed the clinical and pathological characteristics of 80 patients with surgically resected SCLC. The expression levels of Achaete-scute family BHLH transcription factor 1 (ASCL1), neuronal differentiation 1 (NEUROD1), POU class 2 homeobox 3 (POU2F3), as well as the immune markers CD8, forkhead box P3 (FOXP3), and programmed death-ligand 1 (PD-L1), were assessed in 80 pathological tissue samples using immunohistochemistry (IHC). Statistical analyses, including the chi-square test, t-test, and univariate and multivariate Cox regression, were performed to evaluate the associations between SCLC molecular subtype expression levels and patients' clinicopathological features, immune marker profiles, and prognostic outcomes.\nRESULTS: All four molecular subtypes were successfully identified and exhibited distinct distribution patterns: ASCL1-dominant SCLC (SCLC-A, 53.8%), NEUROD1-dominant SCLC (SCLC-N, 5.0%), POU2F3-dominant SCLC (SCLC-P, 3.8%), and SCLC-triple-negative (37.5%). These subtypes were not associated with conventional clinicopathological characteristics. Each subtype displayed unique TIME features. SCLC-A correlated with an immunosuppressive microenvironment enriched in FOXP3 + regulatory T cells (Tregs) (r = 0.458, P < 0.001). SCLC-triple-negative, despite showing higher PD-L1 expression, exhibited an immune-infiltrated phenotype and was positively correlated with CD8 + T cells (r = 0.451, P < 0.001). In contrast, SCLC-N and SCLC-P presented an \"immune-desert\" phenotype. Furthermore, elevated levels of carcinoembryonic antigen (CEA) and PD-L1 were identified as independent prognostic risk factors for shorter overall survival (OS), and these molecular subtypes were significantly associated with OS (log-rank P = 0.043).\nCONCLUSIONS: This study based on IHC detection, validated the proposed molecular subtyping classification of small cell lung cancer (SCLC) through the expression patterns of transcriptional regulators. The findings demonstrated that SCLC-A and SCLC-triple-negative were respectively associated with distinct tumor immune microenvironment (TIME) features and poorer prognostic outcomes. Furthermore, carcinoembryonic antigen (CEA) and programmed death ligand-1 (PD-L1) were identified as independent prognostic factors in surgically resected SCLC patients. These conclusions may contribute to treatment decision-making for SCLC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907953/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42907953",
+      "doi:10.1186/s12885-026-16618-7"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42907122",
+    "doi": "10.1136/bmjopen-2026-118036",
+    "pmcid": "",
+    "title": "Adebrelimab combined with apatinib and chemotherapy for neoadjuvant therapy and biomarker analysis in limited-stage small cell lung cancer: study protocol for a single-arm trial.",
+    "authors": "Jin Y, Lu W, Lou L et al.",
+    "journal": "BMJ Open",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907122/",
+    "searches": [
+      "sclc",
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:42907122",
+      "doi:10.1136/bmjopen-2026-118036"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42906939",
+    "doi": "10.1183/16000617.0145-2026",
+    "pmcid": "",
+    "title": "Carcinoids of the lung caused by exogenous noxious agents: a scoping review.",
+    "authors": "Kilo S, Schröder C, Frei-Stuber L et al.",
+    "journal": "Eur Respir Rev",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Scoping Review",
+      "Review"
+    ],
+    "abstract": "BACKGROUND: Approximately 2% of lung tumours are pulmonary carcinoids (PCs), divided into typical (90%) and atypical (AC) (10%). The link with external exposure to carcinogens remains controversial.\nOBJECTIVE: To investigate the association between occupational exposure to carcinogens and PC tumours.\nMETHODS: A PRISMA-ScR-guided scoping review was performed. A systematic search was conducted in PubMed and Embase (January 2025). Studies were reviewed, data extracted, analysed and summarised narratively.\nRESULTS: 1302 studies were reviewed. 27 original studies and seven conference papers on topics including exposure to cigarette smoke (n=23) and asbestos (n=6), or mechanistic information, were included. Following the collapse of the World Trade Center in 2001, carcinoids accounted for 6% of lung cancer cases in people exposed to the resulting dust (9% in women, 3% in men). The proportion of ACs among carcinoids rose from 9.3% (controls) to 16.3% (smokers) and from ∼25% to 45% (probable versus definite asbestos exposure). Basic research has identified biological pathways linking harmful exposures (such as asbestos and cigarette smoke) to neuroendocrine cell proliferation and the potential progression of PCs to higher-grade lung tumours.\nDISCUSSION: The significance these of findings is limited due to 1) the limited number of studies, 2) the small number of tumours within those studies and 3) the lack of rigid diagnostic (morphological and molecular) criteria for PCs in most studies. Nevertheless, a consistent finding is a higher proportion of AC among carcinoids, particularly following asbestos exposure.\nCONCLUSIONS: Based on these findings, a link between carcinogenic substances (especially asbestos and cigarette smoke) and carcinoids seems plausible. More stringent analyses in epidemiological surveys are needed to further clarify the pathogenesis of PCs.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906939/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42906939",
+      "doi:10.1183/16000617.0145-2026"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42905834",
+    "doi": "10.1126/sciadv.aef1693",
+    "pmcid": "",
+    "title": "CREBBP loss drives immune evasion by epigenetically silencing STING and MHC-I in small cell lung cancer.",
+    "authors": "Gao Q, Wei K, Pan D et al.",
+    "journal": "Sci Adv",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Most small cell lung cancers (SCLCs) exhibit low immunogenicity and intrinsic resistance to immunotherapy, yet the underlying mechanisms remain poorly understood. Here, we identify CREBBP loss, a frequent genetic alteration in SCLC, as a key suppressor of tumor cell-intrinsic immune responses that drives an immune-cold tumor microenvironment in Rb1/Trp53-driven autochthonous mouse models. Consistently, Crebbp deletion promotes immune escape in syngeneic SCLC models. Mechanistically, Crebbp loss suppresses Sting and major histocompatibility complex class-I expression by reducing histone H3 acetylation. Notably, HDAC inhibition restores histone acetylation, reactivates these silenced genes, and induces tumor cell-intrinsic immune responses. Moreover, pharmacological HDAC inhibition synergizes with immune checkpoint blockade to suppress tumor growth in both Crebbp-mutant and Crebbp-wild-type SCLCs, with a more prominent effect in Crebbp-mutant tumors. Collectively, these findings establish CREBBP loss as a key mechanism of immune evasion and immunotherapy resistance in SCLC, highlighting HDAC inhibition as a promising strategy to enhance immunotherapy efficacy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42905834/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42905834",
+      "doi:10.1126/sciadv.aef1693"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07892625",
+    "ct_event": "registered",
+    "title": "A Phase I Study of HS-20093 in Combination With ZG006 With or Without Adebrelimab in Patients With ES-SCLC",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [
+      "PHASE1"
+    ],
+    "enrollment": 338,
+    "sponsor": "Hansoh BioMedical R&D Company",
+    "conditions": [
+      "Extensive Stage Small Cell Lung Cancer (ES-SCLC)"
+    ],
+    "interventions": [
+      "HS-20093 for Injection",
+      "ZG006",
+      "Adebrelimab Injection"
+    ],
+    "summary": "This is a multicenter, open-label Phase I study evaluating the safety, tolerability, pharmacokinetic, and efficacy of Intravenous HS-20093 in combination with ZG006 with or without adebrelimab in patients with extensive-stage small cell lung cancer.",
+    "posted": "2026-10-23",
+    "url": "https://clinicaltrials.gov/study/NCT07892625",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "nct:NCT07892625"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42913121",
+    "doi": "10.1016/j.apradiso.2026.113013",
+    "pmcid": "",
+    "title": "Study of radon diffusion coefficient of synthetic and natural fibers for radon mitigation applications.",
+    "authors": "Prajith R, Rout RP, Mishra R et al.",
+    "journal": "Appl Radiat Isot",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "As long-term exposure to elevated radon (222Rn) levels has been associated with an increased risk of developing lung cancer, radon mitigation is essential in high radon background areas to decrease the inhalation dose as well as in underground laboratories where 222Rn can be a background for high-energy physics experiments. In this regard, the generally used radon mitigation strategies comprise of soil depressurization, sealing the emanating surfaces, using barriers and membranes, providing appropriate ventilation etc. In the present study a dual chamber diffusion sampler based on ISO/TS 11665-13:2017 was developed to test the radon mitigation factors of commercially available synthetic and natural fibers. Radon diffusion coefficient in these barrier materials was also determined. Use of natural fibers for radon mitigation will form a database of eco-friendly barrier materials for sustainable mitigation of radon.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913121/",
+    "searches": [
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42913121",
+      "doi:10.1016/j.apradiso.2026.113013"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42912828",
+    "doi": "10.1080/09553002.2026.2745882",
+    "pmcid": "",
+    "title": "Associations of hematological and biochemical parameters with radon exposure among male miners in China.",
+    "authors": "Guo X, Gao G, Ruan J et al.",
+    "journal": "Int J Radiat Biol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "PURPOSE: Radon is a radioactive gas that produces a large amount of alpha particles during its decay process and a well-recognized health hazard, particularly an established risk factor for lung cancer in high-risk populations such as miners. Although hematological and biochemical parameters are useful indicators of human health status, the impact of radon exposure on these parameters among male miners remains unclear.\nMETHODS: The participants of this study are 283 male miners in a tin mine in China. A targeted research design was adopted to conduct a questionnaire survey, physical examination, blood sample analysis coupled with radon concentration measurements, statistical analysis was performed to investigate the impact of varying levels of radon exposure on hematological and biochemical parameters among the participants.\nRESULTS: Mean platelet volume (MPV), plateletcrit (PCT), and platelet-large cell ratio (P-LCR) decreased significantly across the working-level month (WLM) groups (Bonferroni-corrected P < 0.003), as did albumin (ALB) and the albumin-to-globulin (A/G) ratio (Bonferroni-corrected P < 0.0045). In contrast, urea and aspartate aminotransferase (AST) increased significantly (Bonferroni-corrected P < 0.0045), whereas platelet count did not differ significantly among groups. Multiple linear regression confirmed WLM as an independent predictor for MPV (β= -0.282, P < 0.0001), PCT (β= -0.165, P = 0.010), P-LCR (β= -0.206, P = 0.002), urea (β = 0.178, P = 0.008), and platelet distribution width (β = 0.184, P = 0.006). All values remained within clinically normal reference ranges.\nCONCLUSION: Cumulative occupational radon exposure was independently associated with decreased platelet volume indices and elevated urea levels in miners, suggesting subclinical hematological changes and altered renal-related parameters. MPV may serve as a candidate indicator requiring further validation of radiation-related hematopoietic alterations. These findings contribute to occupational health surveillance frameworks for populations chronically exposed to radon in mining environments.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42912828/",
+    "searches": [
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42912828",
+      "doi:10.1080/09553002.2026.2745882"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42911634",
+    "doi": "10.1093/bjr/tqag236",
+    "pmcid": "",
+    "title": "CT low attenuation area quantification versus visual scoring for early pulmonary emphysema detection in lung cancer screening.",
+    "authors": "Liu H, Han D, Heuvelmans MA et al.",
+    "journal": "Br J Radiol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "OBJECTIVES: To compare low-attenuation analysis (LAA) with visual scoring and explore their application in the detection of emphysema in low-dose CT (LDCT) scans.\nMETHODS: A random cohort of 352 CT examinations from health-check participants was selected from a lung cancer screening(LCS) dataset. Scans were evaluated for emphysema by four readers according to latest Fleischner criteria, and emphysema was quantified by LAA with thresholds from -900 HU to -980 HU. Fleiss' Kappa assessed inter-reader agreement on visual detection and severity classification. Cases with full agreement on emphysema presence were used to compare LAA quantification and visual detection. Spearman correlation test measured their correlation and Cohen's Kappa evaluated the agreement between LAA%-measured emphysema and visual detection.\nRESULTS: Agreement among four observers was found in 266 cases on emphysema presence based on visual evaluation (K = 0.738, 0.737-0.739). Concordance between emphysema presence using a LAA% cutoff of 6% and binary visual classification was 61.3% (163/266, Cohen's Kappa:0.173. Spearman analysis showed a correlation between LAA% and visual scores (P < 0.05).\nCONCLUSIONS: LAA emphysema quantification shows in comparison with visual scoring limited performance for discrimination of normal and emphysematous lung parenchyma in a Low dose CT Lung cancer screening dataset.\nADVANCES IN KNOWLEDGE: Full agreement among four readers regarding visual emphysema classification was achieved in only three-quarters of cases. Limited concordance was found between LAA%-measured emphysema and visual detection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911634/",
+    "searches": [
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42911634",
+      "doi:10.1093/bjr/tqag236"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42907936",
+    "doi": "10.1186/s40644-026-01140-7",
+    "pmcid": "",
+    "title": "ACR lung-RADS: updates and future directions.",
+    "authors": "Petranović M, Prosper AE, Hunsaker AR et al.",
+    "journal": "Cancer Imaging",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Lung cancer remains the leading cause of cancer-related mortality worldwide, and low-dose CT (LDCT) screening has been shown to significantly reduce lung cancer deaths in high-risk populations. The American College of Radiology (ACR) introduced the Lung CT Screening Reporting and Data System (Lung-RADS) in 2014 to standardize the reporting and management of screen-detected pulmonary nodules. Since its inception, Lung-RADS has undergone iterative updates reflecting advances in evidence, clinical practice, and the expanding scope of lung cancer screening. This review summarizes the major updates to Lung-RADS, highlights areas of active discussion within the Lung-RADS Committee, and outlines future research directions. Key topics include the ongoing evaluation of volumetric versus diameter-based nodule measurement, the management of subsolid nodules and the balance between surveillance and intervention, the implementation of Category 0 for infectious or inflammatory findings, clarification of juxtapleural nodule classification, the approach to incidental findings, and the development of a Lung-RADS Atlas. Future directions address the integration of risk-based and category-based assessment approaches, the role of artificial intelligence and deep learning in nodule stratification, the potential incorporation of incidental nodules into Lung-RADS, and the prospect of international harmonization for lung cancer screening reporting and management. Lung-RADS has become an essential reporting and quality tool for lung cancer screening in the United States and increasingly worldwide. Continued refinement, guided by emerging evidence, multidisciplinary collaboration, and technological innovation, will be critical to advancing precision screening strategies and reducing the global burden of lung cancer.Clinical trial numberNot applicable.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907936/",
+    "searches": [
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42907936",
+      "doi:10.1186/s40644-026-01140-7"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42907933",
+    "doi": "10.1186/s40644-026-01138-1",
+    "pmcid": "",
+    "title": "Tumor growth rate as a new imaging biomarker in early detection of lung cancer.",
+    "authors": "Oudkerk M",
+    "journal": "Cancer Imaging",
+    "year": "2026",
+    "pub_types": [
+      "Editorial"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907933/",
+    "searches": [
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42907933",
+      "doi:10.1186/s40644-026-01138-1"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42907269",
+    "doi": "10.1016/j.acra.2026.09.063",
+    "pmcid": "",
+    "title": "Full-Cohort Organ Dose Assessment from Low-Dose CT Lung Cancer Screening in the National Lung Screening Trial.",
+    "authors": "Lee C, Moroz B, Hwang EJ et al.",
+    "journal": "Acad Radiol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "RATIONALE AND OBJECTIVES: Organ-specific dose estimates are needed to characterize radiation exposure from repeated low-dose computed tomography (CT) lung cancer screening in the National Lung Screening Trial (NLST). The objective was to estimate study-level doses and participant-level cumulative doses in the NLST CT screening cohort.\nMATERIALS AND METHODS: This retrospective dosimetry study included 25,051 NLST CT screening participants from the Lung Screening Study and American College of Radiology Imaging Network components after excluding participants with any examination lacking a valid manufacturer-appropriate tube current-time input. Image-series metadata were linked with age, sex, height, and weight, and then valid records were grouped into 69,601 study-level screening examinations. Organ absorbed doses and effective dose were calculated using the National Cancer Institute dosimetry system for Computed Tomography with sex- and body-size-specific adult phantoms. Scan-range-related dose uncertainty was assessed with 50 stochastic simulations.\nRESULTS: Participants underwent a mean of 2.78 study-level screening examinations; the median study-level volume CT dose index was 3.30 mGy. Median (interquartile range) study-level lung, breast, heart wall, active marrow, and effective doses were 3.93 (3.13-4.96), 3.94 (3.14-5.04), 3.94 (3.14-5.01), and 1.26 (0.99-1.60) mGy, and 2.07 (1.65-2.59) mSv, respectively. Corresponding cumulative participant-level doses were 11.30 (8.89-14.50), 11.39 (9.01-14.75), 11.41 (8.93-14.66), and 3.63 (2.79-4.66) mGy, and 5.94 (4.69-7.64) mSv. Scan-range-related dose uncertainty was greatest for thyroid dose (mean coefficient of variation, 21.1%) and low for in-field organs.\nCONCLUSION: Using NLST low-dose CT screening data, we estimated participant-level cumulative organ and effective doses and characterized variation across organs and body-size groups.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907269/",
+    "searches": [
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42907269",
+      "doi:10.1016/j.acra.2026.09.063"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42906366",
+    "doi": "10.1016/j.ecoenv.2026.120951",
+    "pmcid": "",
+    "title": "Carbon nanoparticle exposure promotes the progression of non-small cell lung cancer via the ARNT2/ARL14 axis: Findings from in vivo and in vitro models.",
+    "authors": "Jiang W, Lu C, Yang Y et al.",
+    "journal": "Ecotoxicol Environ Saf",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "We investigated whether carbon nanoparticles (CNPs), a shared core component of coal dust, ambient PM2.5, and tobacco smoke, drive non-small cell lung cancer (NSCLC) progression. In an experimental mouse model of CNP‑induced pulmonary fibrosis (intranasal instillation, 200 µg/kg every other day for 90 days), we used transcriptomic screening to identify aryl hydrocarbon receptor nuclear translocator 2 (ARNT2) as a key upregulated transcription factor. In an ectopic xenograft model (nude mice pre‑exposed to 15 µg/kg CNPs for 1 week, subsequently inoculated with A549/A427 cells with or without ARNT2 silencing, with CNP administration continued for a total of 40 days), CNP exposure increased tumor volume at day 36 (A549, 194 ± 17-308 ± 22 mm³; A427, 245 ± 31-417 ± 42 mm³), proliferation (Ki‑67/PCNA: A549, 2.93‑/3.33-fold; A427, 1.94‑/3.55-fold), and levels of epithelial-mesenchymal transition markers (N‑cadherin/Vimentin: A549, 1.61‑/3.17-fold; A427, 2.44‑/1.98-fold), while ARNT2 knockdown reversed these effects. In vitro, CNP treatment (2 µg/mL, 48 h) enhanced proliferation (A549, 2.01‑fold; A427, 1.43-fold), migration (A549, 1.83‑fold; A427, 3.61‑fold), invasion (A549, 2.50‑fold; A427, 2.40‑fold), levels of stemness markers (CD133/SOX2/Oct4: A549, 2.38-/1.93-/2.02-fold; A427, 2.44-/1.44-/1.60-fold), and concentrations of inflammatory cytokines (TNF‑α/IL‑1β/IL‑6: A549, 5.39‑/6.41-/13.70-fold; A427, 3.59‑/10.02-/9.66-fold), reduced apoptosis (A549, 0.47‑fold; A427, 0.36-fold) and senescence (A549, 0.61-fold; A427, 0.37-fold), and increased reactive oxygen species levels (A549, 2.32‑fold; A427, 2.01‑fold); all these changes were attenuated by ARNT2 silencing. Transcriptomic and bioinformatic analyses identified ADP-ribosylation factor-like protein 14 (ARL14) as a downstream effector of ARNT2; ARL14 overexpression in ARNT2‑silenced cells restored proliferation and invasion and reduced apoptosis. Overall, experimental CNP exposure promotes NSCLC progression in an ARNT2-dependent manner, with ARL14 as a downstream mediator, which suggests potential targets for intervention in particulate-associated lung cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906366/",
+    "searches": [
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42906366",
+      "doi:10.1016/j.ecoenv.2026.120951"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42911130",
+    "doi": "10.1080/17501911.2026.2751832",
+    "pmcid": "",
+    "title": "From discovery to clinical implementation: a bibliometric analysis of DNA methylation biomarkers in non-small cell lung cancer, 1999-2025.",
+    "authors": "Li Y, Wu F, Liu W et al.",
+    "journal": "Epigenomics",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "BACKGROUND: DNA methylation alterations are stable, biologically informative, and detectable in tissue and circulating DNA, making them promising biomarkers for non-small cell lung cancer (NSCLC). However, few methylation biomarkers have entered routine clinical practice. We aimed to characterize the evolution and translational challenges of this field.\nMETHODS: Publications on NSCLC, DNA methylation, and biomarker applications were retrieved from the Web of Science Core Collection through 31 December 2025. After PRISMA-based screening, bibliometric and knowledge-map analyses were performed.\nRESULTS: A total of 1,910 publications were included. Annual output increased after 2010 and peaked in 2022. Lung Cancer was the most productive journal, whereas Cancer Research had the highest citation impact. China contributed the largest publication volume, while the United States had the highest citation impact. Foundational studies focused on promoter hypermethylation, methylation-specific PCR, and methylated DNA detection in accessible biospecimens. Research priorities shifted from candidate-gene studies toward methylation signatures, liquid biopsy, multi-omics integration, immunotherapy-related applications, and computational modeling.\nCONCLUSION: NSCLC methylation biomarker research has evolved toward integrated translational frameworks. Future progress requires multicenter validation, standardized platforms, clinically defined methylation panels, and AI-assisted integration.\nPROTOCOL REGISTRATION: www.crd.york.ac.uk/prospero identifier is CRD420261426546.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911130/",
+    "searches": [
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:42911130",
+      "doi:10.1080/17501911.2026.2751832"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42908716",
+    "doi": "10.62347/GUYO5014",
+    "pmcid": "PMC13683281",
+    "title": "Clinical characteristics and prognostic analysis of patients with connective tissue disease complicated by non-small cell lung cancer.",
+    "authors": "Zhang G, Ding Q, Zhang L et al.",
+    "journal": "Am J Cancer Res",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "AIMS: To summarize the clinical features, treatment patterns and survival outcomes of patients with non-small cell lung cancer (NSCLC) combined with connective tissue disease (CTD), and to determine whether CTD independently influences prognosis and treatment-related toxicity in this special patient population.\nMETHODS: In this retrospective study, we enrolled 200 consecutive patients with pathologically confirmed NSCLC. Among them, 95 patients met the diagnostic criteria for CTD were set as the CTD group, and the remaining 105 patients with simple NSCLC as the control group. The primary endpoint was overall survival (OS). Secondary endpoints included progression-free survival (PFS), baseline tumor characteristics, metastatic patterns, first-line treatment patterns and delivery, and treatment-related adverse events (AEs). We adopted Kaplan-Meier method for survival analysis and Cox proportional hazards regression model for prognostic analysis. Prespecified subgroup analyses were performed to evaluate the prognostic effect of CTD and identify independent survival predictors.\nRESULTS: The CTD group presented more severe intrathoracic tumor dissemination, including higher incidence of bilateral pulmonary lesions (P = 0.042) and pleural effusion (P = 0.011). Compared with controls, the CTD group were less likely to receive platinum-based doublet chemotherapy (P = 0.035), cisplatin-based chemotherapy (P = 0.017), immune checkpoint inhibitor (ICI)-containing therapy (P = 0.009) and thoracic radiotherapy (P = 0.029). Meanwhile, the CTD group had higher risks of chemotherapy dose reduction (P = 0.011), treatment delay longer than 7 days (P = 0.015) and early treatment discontinuation (P = 0.002). In survival outcomes, the median PFS was 5.4 vs 7.8 months (HR, 1.58; 95% CI, 1.17-2.13; P = 0.003), and the median OS was 9.7 vs 14.6 months (HR, 1.76; 95% CI, 1.29-2.40; P<0.001). The incidence of grade 3-4 treatment-related AEs was significantly higher in the CTD group (P = 0.010). Multivariate regression analysis confirmed that CTD was an independent adverse prognostic factor for poor OS (HR, 1.41; 95% CI, 1.01-1.97; P = 0.044).\nCONCLUSION: For patients diagnosed with NSCLC, comorbid CTD is correlated with aggravated intrathoracic tumor dissemination, reduced treatment intensity and treatment tolerance, increased severe toxicity, and dismal long-term survival.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42908716/",
+    "searches": [
+      "lung-local-therapy"
+    ],
+    "keys": [
+      "pmid:42908716",
+      "doi:10.62347/guyo5014"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42908534",
+    "doi": "10.3389/fonc.2026.1955295",
+    "pmcid": "PMC13682974",
+    "title": "Relevance between patients' clinical factors and 4D-CT lung ventilation heterogeneity for evaluating the adoption of functional avoidance thoracic radiotherapy with a large patient database.",
+    "authors": "Deng G, Ying Y, Wang X et al.",
+    "journal": "Front Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "OBJECTIVE: Four-dimensional computed tomography (4D-CT)-guided functional-avoidance radiotherapy reduces radiation pneumonitis, but the lack of patient selection criteria limits its adoption. This study aimed to identify clinical predictors of lung ventilation heterogeneity and determine which patients derive the greatest dosimetric benefit from functional-avoidance planning.\nMETHODS: We retrospectively analyzed 274 lung cancer patients. 4D-CT ventilation imaging was generated via deformable registration and a density-change algorithm, and the coefficient of variation (CoV) across six lung zones quantified heterogeneity. Clinical factors were assessed using Mann-Whitney U, Spearman, and multivariable logistic regression for three ventilation outcomes. Thirty-two patients were selected from CoV quartiles and re-planned with functional-avoidance plans; dosimetric parameters were compared using the Wilcoxon signed-rank test, with False Discovery Rate (FDR) correction applied to address multiple comparisons.\nRESULTS: Univariate analysis showed chronic obstructive pulmonary disease (COPD) and airway obstruction reduced bilateral mean ventilation, while central tumors impaired ipsilateral ventilation. Higher CoV was observed in stage III-IV versus I-II, central versus peripheral tumors, and patients with airway obstruction. Multivariable analysis identified airway obstruction as an independent predictor of elevated CoV (adjusted OR = 2.914, 95% CI: 1.315-6.454, P<0.05). Central location and advanced stage showed borderline significance, while COPD trended toward lower CoV. Dosimetrically, functional-avoidance plans reduced functional lung metrics in a heterogeneity-dependent manner. After FDR correction, key metrics (fMLD, fV10, fV20, fV30) remained significant in Group 1 (highest CoV; Q = 0.040-0.049), while significance diminished in lower CoV groups. Leave-one-out (LOO) sensitivity analysis confirmed fMLD and fV20 as robust endpoints. Furthermore, beam arrangement modifications were most frequent in Group 1 (5/8 patients) and absent in Group 4 (0/8), reflecting clinical optimization needs rather than confounding.\nCONCLUSIONS: Ventilation heterogeneity is driven by tumor burden and airway patency. Patients with advanced stage, central tumors, or airway obstruction exhibit the strongest heterogeneity and may represent appropriate candidates for functional-avoidance radiotherapy in future prospective trials. However, as this replanning study lacked clinical follow-up for radiation pneumonitis, these findings reflect dosimetric rather than confirmed clinical patient-level benefit. Notably, CoV quartiles were derived from internal median splits within this cohort and require external validation. This study provides a dosimetric basis for hypothesis-generating patient selection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42908534/",
+    "searches": [
+      "lung-local-therapy",
+      "lung-toxicity"
+    ],
+    "keys": [
+      "pmid:42908534",
+      "doi:10.3389/fonc.2026.1955295"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42907568",
+    "doi": "10.1007/s00408-026-00953-4",
+    "pmcid": "",
+    "title": "Utility and Safety of a Novel Preoperative Marking via Ultrathin Bronchoscopy in Thoracic Surgery.",
+    "authors": "Kimura H, Ito T, Nakamura S et al.",
+    "journal": "Lung",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "PURPOSE: Virtual-assisted lung mapping (VAL-MAP) is a safe and useful procedure for identifying suitable lines for sublobar lung resections. Nonetheless, the current VAL-MAP technique using a thin bronchoscope limits access to peripheral lung regions, including the upper lobes or the S6 region.\nMETHODS: To overcome this limitation, we developed a new technique utilizing an ultrathin bronchoscope (UTB), termed 'UTB VAL-MAP', enabling precise dye marking of the visceral pleura which is difficult to access with a thin bronchoscope. We retrospectively evaluated the efficacy and safety of UTB VAL-MAP with those of conventional VAL-MAP at our institution.\nRESULTS: Overall, 178 preoperative markings (75 patients) were included: 74 markings in 35 patients in the UTB VAL-MAP group and 104 markings in 40 patients in the conventional VAL-MAP group. The overall detection rate in the UTB VAL-MAP group was significantly higher than that in the conventional VAL-MAP group [97.3% (72/74) vs. 84.6% (88/104); P = 0.005]. Furthermore, the marking success rate using indigo carmine in the UTB VAL-MAP group was higher for lesions located in the upper lobe and S6 region than that in the conventional VAL-MAP group (P < 0.001). In multivariate generalized estimating equations models, UTB use (odds ratio = 7.390, P = 0.015) was significantly associated with overall detection rate. No severe procedure-related complications occurred in either group.\nCONCLUSION: UTB VAL-MAP appears useful for increasing the rate of successful visceral pleura marking, particularly in the upper lobes or S6 areas, which the conventional VAL-MAP technique has difficulty reaching, without increasing complications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907568/",
+    "searches": [
+      "lung-local-therapy"
+    ],
+    "keys": [
+      "pmid:42907568",
+      "doi:10.1007/s00408-026-00953-4"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42907838",
+    "doi": "10.1186/s12911-026-03719-3",
+    "pmcid": "PMC13689268",
+    "title": "Quality assessment of synthetic data in healthcare: a critical appraisal with a focus on subgroup bias.",
+    "authors": "Chatzichristos C, Katsimpokis D, Lai C et al.",
+    "journal": "BMC Med Inform Decis Mak",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: The creation of synthetic data in healthcare research has emerged as a compelling solution to address challenges related to data privacy, in case of data-sharing and data scarceness for training machine learning models.\nOBJECTIVE: The current paper aims to provide a critical landscape analysis of synthetic data quality metrics used in healthcare, mapping the state of the field, examining how current fidelity and utility scores often fail to capture weaknesses that appear in specific patient subgroups, and illustrating these blind spots with a lung-cancer case study. We specifically set out to highlight the need for assessing synthetic datasets not only at the aggregate level but also across clinically meaningful subgroups, to ensure reliability and fairness in downstream applications.\nMETHODS: By examining the landscape of synthetic data adoption in healthcare, we highlight the methodological and utility considerations that shape its integration into the research ecosystem. We elucidate how synthetic data can expedite research initiatives, support data-driven decision-making, and facilitate innovative methodologies while safeguarding sensitive patient information. Conversely, while many papers focus solely on the advantages of synthetic data, we aim to highlight also the potential constraints of using synthetic data in a real-world case involving lung cancer patient level data. Our analysis centers on identifying situations where synthetic data might introduce biases or inaccuracies that hinder the generation of meaningful clinical insights.\nRESULTS: We demonstrate the limitations of using synthetic data in a lung cancer case study, especially when dealing with small subgroups from the original dataset. While high values for fidelity and utility metrics are achieved when considering the entire synthetic dataset, significant discrepancies arise in cross-classification performance when examining subsets. Additionally, visual inspection reveals spurious correlations in the synthetic data that are not present in the real data.\nCONCLUSION: Global realism scores can give a false sense of security: in our case study, metrics that rate the full dataset as \"high quality\" overlook errors which appear once we zoom in on specific subgroups. We argue that future work must (i) design subgroup-aware fidelity and utility metrics, (ii) favor conditional generators that model rare strata explicitly, and (iii) report metric panels alongside qualitative, clinical sanity checks. Until such standards mature, our analysis highlights that researchers and regulators should treat synthetic data with caution.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907838/",
+    "searches": [
+      "lung-nordic"
+    ],
+    "keys": [
+      "pmid:42907838",
+      "doi:10.1186/s12911-026-03719-3"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42913257",
+    "doi": "10.1016/j.ejca.2026.117786",
+    "pmcid": "",
+    "title": "Diagnostic challenges in WHO classification of thymic epithelial tumors: The clinical value of an international expert pathology panel.",
+    "authors": "Dimmers MM, Dumoulin DW, den Bakker MA et al.",
+    "journal": "Eur J Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Thymic epithelial tumors (TETs) are rare mediastinal tumors classified according to the WHO classification system. Classification can be challenging due to overlapping histological features. Subtyping on biopsy specimens is often inaccurate due to tumor heterogeneity and sampling effect. Since 2012 an international thymic tumor pathology expert panel is available in the Netherlands. This study evaluates the added value of this panel by assessing the discrepancies in diagnosis, inter-observer agreement and concordance on diagnosis between biopsy and the subsequent resection specimen.\nMETHODS: All pathology excerpts from 2012 until 2024 for patients diagnosed with a thymic tumor were extracted from the national PALGA database and evaluated for histological subtype, assessment and the thymoma panel result.\nRESULTS: In total 1163 resection and 304 biopsy specimens were included, of which 36.1% were submitted to the thymoma panel. The diagnosis changed in 15.7% of cases after assessment. The subtypes AB and Bmix were most often submitted to the thymoma panel and the diagnosis changed most often for subtype A, B3 or Bmix. In 72.8% the concordance between the panel members exceeded 90%. The biopsy diagnosis varied from the resection diagnosis in 46.8%, but the differentiation between thymoma and thymic carcinoma was accurate on biopsy.\nCONCLUSION: A panel of dedicated pathologists with experience in thymic abnormalities contributed substantially to a more accurate classification of TETs, thereby guiding optimal treatment planning and prognostic evaluation. Despite the discrepancies between biopsy and resection specimens, distinguishing thymoma from thymic carcinoma was accurate on biopsy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913257/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:42913257",
+      "doi:10.1016/j.ejca.2026.117786"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07892300",
+    "ct_event": "registered",
+    "title": "Implantable Microdevices for in Situ Evaluation of Drug Responses in Lung Cancer",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [
+      "EARLY_PHASE1"
+    ],
+    "enrollment": 20,
+    "sponsor": "Oliver Jonas",
+    "conditions": [
+      "Lung Cancer",
+      "Mesothelioma",
+      "Suspected Lung Cancer",
+      "Suspected Mesothelioma"
+    ],
+    "interventions": [
+      "Implantable Micro- drug delivery Microdevice (IMD)"
+    ],
+    "summary": "This research is being done to study the safety and feasibility of implanting and retrieving a microdevice that releases microdoses of 20 specific drugs or drug combinations as a possible tool to evaluate the effectiveness of several cancer drugs against lung cancer or mesothelioma.\n\nThe name of the intervention(s) involved in this study are:\n\nImplantable Microdevice (IMD) Surgery (excision of tumor) Drugs used in this study will include drugs already used as standard of care for the treatment of lung cancer and mesothelioma, or other drugs that are approved or being investigated for these indications.",
+    "posted": "2026-10-23",
+    "url": "https://clinicaltrials.gov/study/NCT07892300",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "nct:NCT07892300"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07893340",
+    "ct_event": "registered",
+    "title": "First-line Treatment With Dual Immunotherapy Combined With Anti-angiogenesis for Unresectable Advanced Malignant Peritoneal Mesothelioma",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 19,
+    "sponsor": "Fudan University",
+    "conditions": [
+      "Peritoneal Mesothelioma",
+      "First-line Therapy"
+    ],
+    "interventions": [
+      "Sintilimab",
+      "Ipilimumab N01",
+      "Bevacizumab"
+    ],
+    "summary": "This is a prospective, multicenter, single-arm, Phase II clinical study evaluating the efficacy and safety of sintilimab in combination with ipilimumab N01 and bevacizumab as first-line treatment in patients with unresectable malignant peritoneal mesothelioma. Eligible patients will receive sintilimab plus ipilimumab N01 and bevacizumab until disease progression, death, unacceptable toxicity, withdrawal of informed consent, initiation of a new anti-tumor therapy, or other protocol-defined reasons, with a maximum treatment duration of 24 months. The primary endpoint is progression-free survival (PFS).",
+    "posted": "2026-10-23",
+    "url": "https://clinicaltrials.gov/study/NCT07893340",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "nct:NCT07893340"
+    ]
+  },
+  {
+    "source": "feed",
+    "feed": "http://connect.biorxiv.org/biorxiv_xml.php?subject=cancer_biology",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.10.19.760044v1?rss=1",
+    "doi": "10.64898/2026.10.19.760044",
+    "title": "Recurrent leukaemia stem cell states define the antigenic landscape of paediatric Acute Myeloid Leukaemia",
+    "summary": "Paediatric acute myeloid leukaemia (pAML) remains a leading cause of childhood cancer mortality, with disease heterogeneity representing a major obstacle to effective immunotherapy. To enable rational immunotherapy design accounting for such heterogeneity, we combined single-cell transcriptomics and surface proteomics (CITE-seq). Using an integrated framework for malignant cell identification and unbiased gene program identification, we resolved three conserved leukaemia stem cell (LSC) subtypes, primitive (P-LSC), monocytic (M-LSC), and erythroid-like (E-LSC), that frequently coexist within individual patients in varying proportions and represent distinct stem-cell states with characteristic immunophenotypes and transcriptional programmes. Quantitative surface antigen profiling revealed that no single target achieved full LSC coverage. CLEC12A, an antigen currently being evaluated clinically, was expressed across P-LSC and M-LSC but was largely absent from E-LSC. In contrast, CD84 provided complementary coverage in the P and M groups and served as the primary target in the E-LSC population. The combination of CLEC12A and CD84 provided broad coverage across all three LSC subtypes, while sparing healthy haematopoietic stem cells. Validation across independent single-cell and bulk cohorts confirmed the robustness of this combination. These findings establish a paediatric-specific framework for antigen prioritisation in AML, identify CLEC12A/CD84 as a robust dual-targeting strategy across heterogeneous LSC states, and provide a blueprint for the rational design of next-generation CAR T-cell combinations.",
+    "published": "2026-10-23",
+    "searches": [
+      "preprints-cell-therapy"
+    ],
+    "keys": [
+      "doi:10.64898/2026.10.19.760044",
+      "url:https://www.biorxiv.org/content/10.64898/2026.10.19.760044v1?rss=1"
+    ]
+  },
+  {
+    "source": "feed",
+    "feed": "http://connect.biorxiv.org/biorxiv_xml.php?subject=cancer_biology",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.10.21.760687v1?rss=1",
+    "doi": "10.64898/2026.10.21.760687",
+    "title": "Pan-pediatric brain tumor microRNA networks define immune microenvironment states and responses to CAR T-cell therapy",
+    "summary": "Pediatric central nervous system (CNS) tumors remain a leading cause of cancer-related mortality in children, yet molecular programs that shape their immune microenvironments and response to immunotherapy remain poorly defined. Because microRNAs (miRNAs) coordinately regulate gene expression across multiple pathways, we hypothesized that miRNA programs may capture broader immune states than individual immune-regulatory molecules. We integrated small RNA and bulk transcriptomic profiles from diffuse midline glioma, medulloblastoma, ependymoma, and low-grade glioma to identify miRNA programs associated with tumor immune states. Across tumor histologies, dysregulated miRNAs were associated with T-cell, natural killer cell, antigen-presentation, and myeloid programs. Diffuse midline glioma exhibited a distinct miRNA program associated with reduced lymphocyte signatures and increased suppressive myeloid features. Longitudinal profiling of immunocompetent glioma models during B7-H3 CAR T-cell therapy revealed dynamic remodeling of miRNA and immune transcriptional programs. Human tumor-associated miRNAs were significantly enriched among miRNAs associated with CAR T response in vivo. Functional interrogation of miR-149 demonstrated enhanced CAR T-cell expansion and sustained antitumor activity during repeated antigen stimulation. Together, these data define miRNA programs associated with immune states across pediatric CNS tumors and identify miR-149 as a candidate regulator of CAR T-cell function, providing a genomic framework for developing miRNA-directed strategies to improve CAR T-cell therapy.",
+    "published": "2026-10-23",
+    "searches": [
+      "preprints-cell-therapy"
+    ],
+    "keys": [
+      "doi:10.64898/2026.10.21.760687",
+      "url:https://www.biorxiv.org/content/10.64898/2026.10.21.760687v1?rss=1"
+    ]
+  }
+]
