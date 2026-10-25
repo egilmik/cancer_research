@@ -1,0 +1,222 @@
+{
+ "pmid:42920570": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 15 comparative studies (n=1,902): almonertinib ORR benefit not robust after trim-and-fill; no significant PFS/OS difference."
+ },
+ "pmid:42920059": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42919761": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42919442": {
+  "relevance": "medium",
+  "reason": "Review of RAS signalling and resistance-informed therapy design."
+ },
+ "pmid:42919317": {
+  "relevance": "medium",
+  "reason": "Preclinical: ERK/GATAD2A/SAA1 axis in osimertinib resistance."
+ },
+ "pmid:42919040": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42918663": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42917888": {
+  "relevance": "medium",
+  "reason": "Preclinical VHL-recruiting EGFR PROTAC degraders (EGFR Del19/L858R) with anti-NSCLC activity."
+ },
+ "pmid:42917552": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42915270": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42919469": {
+  "relevance": "medium",
+  "reason": "Preclinical: SRC activation in pemetrexed resistance, targetable by dasatinib."
+ },
+ "pmid:42920190": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42919963": {
+  "relevance": "medium",
+  "reason": "Nat Med phase 1/2 START-001 of invikafusp alfa in mostly ICB-resistant solid tumors: ORR 14.8% (4/27) at optimal doses, including PD-L1-negative NSCLC; early, mixed tumor types."
+ },
+ "pmid:42919785": {
+  "relevance": "medium",
+  "reason": "Pilot RCT protocol adding abdominal CT to lung cancer screening LDCT."
+ },
+ "pmid:42918583": {
+  "relevance": "high",
+  "reason": "Randomized phase 2 PET-BOOST (n=78, stage III NSCLC): PET-guided dose escalation did not significantly improve 2-year locoregional failure (18.4% vs 27.5%, P=.13) or survival."
+ },
+ "pmid:42918419": {
+  "relevance": "high",
+  "reason": "Randomized phase 2 RELATIVITY-104 part 2 (NSCLC 1L): nivolumab+relatlimab+chemo vs nivolumab+chemo missed the ORR primary endpoint (51.3% vs 45.0%; PFS HR 0.89), with exploratory signal in PD-L1 \u22651% nonsquamous."
+ },
+ "pmid:42918128": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42914683": {
+  "relevance": "medium",
+  "reason": "Review of pulmonary complications during T-cell-engaging bispecific therapy, incl. SCLC."
+ },
+ "pmid:42914522": {
+  "relevance": "medium",
+  "reason": "Systematic review of adherence to invasive mediastinal staging in resectable NSCLC trials."
+ },
+ "pmid:42913766": {
+  "relevance": "medium",
+  "reason": "Pilot of multicomponent strategy to raise LDCT screening in primary care."
+ },
+ "pmid:42913765": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42913764": {
+  "relevance": "medium",
+  "reason": "Pilot RCT of a culturally adapted intervention to improve LCS uptake in Hispanic patients."
+ },
+ "pmid:42914976": {
+  "relevance": "medium",
+  "reason": "Cell paper: cell-state-specific cysteine dependency determines ferroptosis vs apoptosis in SCLC (preclinical)."
+ },
+ "pmid:42913635": {
+  "relevance": "high",
+  "reason": "Preclinical (Cancer Cell): tumor-derived serotonin acting via HTR7 on macrophages drives resistance to the DLL3 T-cell engager tarlatamab in SCLC/NEC models."
+ },
+ "pmid:42920068": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42919143": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42919626": {
+  "relevance": "medium",
+  "reason": "Preclinical: local T-cell engager secretion enhances CAR-T persistence in solid tumors."
+ },
+ "pmid:42919351": {
+  "relevance": "medium",
+  "reason": "Review of adoptive cell therapies for solid tumors."
+ },
+ "pmid:42915066": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42914561": {
+  "relevance": "medium",
+  "reason": "CAR-T therapy and CTC mobilization in mCRPC (no abstract)."
+ },
+ "pmid:42913791": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42920049": {
+  "relevance": "medium",
+  "reason": "Multicentre CReGYT-03 ALK study on adjuvant chemotherapy in ALK-positive stage II-III LUAD (no abstract; visual abstract)."
+ },
+ "pmid:42918659": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42918304": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42915722": {
+  "relevance": "medium",
+  "reason": "Mechanistic study of lorlatinib hepatotoxicity via inflammasome activation."
+ },
+ "pmid:42914791": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42915819": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42915589": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42914184": {
+  "relevance": "medium",
+  "reason": "J Nucl Med DLL3-targeted imaging in SCLC (no abstract)."
+ },
+ "pmid:42915410": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42914904": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42914520": {
+  "relevance": "medium",
+  "reason": "Editorial on risk thresholds for risk-based lung cancer screening."
+ },
+ "pmid:42914170": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42914168": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42913880": {
+  "relevance": "medium",
+  "reason": "Qualitative study of LCS follow-up determinants in ACCELL trial."
+ },
+ "pmid:42913865": {
+  "relevance": "medium",
+  "reason": "Retrospective study of resting heart rate rise as early cardiotoxicity sign after thoracic RT in NSCLC."
+ },
+ "pmid:42916089": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42920493": {
+  "relevance": "medium",
+  "reason": "Retrospective single-centre cohort (n=98): EQD2 mean lung dose and short ICI-RT interval associated with grade \u22652 pneumonitis (26.5% at 90 days)."
+ },
+ "pmid:42919171": {
+  "relevance": "high",
+  "reason": "Retrospective real-world study (n=101) of durvalumab after CCRT: grade \u22652 radiation pneumonitis 47.5%; durvalumab re-administration feasible in 25/42 interrupted patients with one recurrence."
+ },
+ "pmid:42914684": {
+  "relevance": "medium",
+  "reason": "Pilot study (n=26) of web-based decision aid for surgery vs SBRT in stage I NSCLC."
+ },
+ "pmid:42913863": {
+  "relevance": "medium",
+  "reason": "Phase 1 (n=19) of papaverine as hypoxic radiosensitizer with SBRT: MTD \u22652 mg/kg, 2-year local control 100%; small, uncontrolled."
+ },
+ "pmid:42919859": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42918620": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.10.19.760184": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.10.22.760485": {
+  "relevance": "low",
+  "reason": ""
+ }
+}
