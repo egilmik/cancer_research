@@ -1,0 +1,222 @@
+{
+ "pmid:42929693": {
+  "relevance": "practice-changing",
+  "reason": "SAFFRON phase 3 shows PFS and final OS benefit for osimertinib-savolitinib over platinum-pemetrexed after osimertinib in MET-overexpressed/amplified disease.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "SAFFRON, randomised open-label phase 3, n=338, osimertinib+savolitinib vs platinum-pemetrexed after osimertinib progression (MET IHC3+/FISH>=10); primary PFS by BICR HR 0.55 (95% CI 0.42-0.72), final OS HR 0.68 (0.50-0.91); 12-mo PFS 36% vs 10%."
+  }
+ },
+ "pmid:42929702": {
+  "relevance": "practice-changing",
+  "reason": "DeLLphi-305 phase 3 shows large OS gain from adding tarlatamab to durvalumab maintenance in ES-SCLC.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "DeLLphi-305, randomised open-label phase 3, n=563, tarlatamab+durvalumab vs durvalumab maintenance after first-line chemoimmunotherapy; primary OS median 21.1 vs 12.7 mo, HR 0.42 (95% CI 0.32-0.54); PFS 7.4 vs 1.9 mo, HR 0.34 (0.28-0.42); interim analysis."
+  }
+ },
+ "pmid:42929675": {
+  "relevance": "practice-changing",
+  "reason": "Krascendo 1 phase 3 shows PFS and OS benefit of divarasib over sotorasib/adagrasib in previously treated KRAS G12C NSCLC.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "Krascendo 1, randomised open-label phase 3, n=338, divarasib vs sotorasib or adagrasib; primary PFS 9.8 vs 5.7 mo, HR 0.58 (95% CI 0.44-0.76); OS 17.7 vs 12.0 mo, HR 0.56 (0.41-0.78); grade 3-4 TRAEs 24.6% vs 34.5%."
+  }
+ },
+ "pmid:42928710": {
+  "relevance": "high",
+  "reason": "Phase 3 (n=314) dalmelitinib-aumolertinib beat chemotherapy on PFS (6.2 vs 4.4 mo, HR 0.60) in EGFR-mutant MET-amplified NSCLC after EGFR-TKI; OS immature, short follow-up."
+ },
+ "pmid:42929694": {
+  "relevance": "high",
+  "reason": "OptiTROP-Lung06 phase 3 (n=455): sac-TMT plus pembrolizumab vs chemo plus pembrolizumab in PD-L1-negative nonsquamous NSCLC, PFS 15.0 vs 5.7 mo (HR 0.49); interim, OS immature."
+ },
+ "pmid:42927884": {
+  "relevance": "high",
+  "reason": "NeoCOAST-2 phase 2: ctDNA clearance strongly associated with EFS in perioperative chemo-durvalumab combinations; Dato-DXd arm numerically best (pCR 35.2%, 24-mo EFS 77.9%); non-comparative."
+ },
+ "pmid:42927854": {
+  "relevance": "high",
+  "reason": "PERSEE phase 3 (n=321): adding chemotherapy to pembrolizumab in PD-L1>=50% improved PFS (16.1 vs 6.9 mo, HR 0.56) but OS not significant (HR 0.77, 0.56-1.05) with more grade>=3 TRAEs (54% vs 19%)."
+ },
+ "pmid:42928801": {
+  "relevance": "high",
+  "reason": "Randomised phase 2 of lucitanib in advanced thymic carcinoma (n=68) missed its primary IRC-PFS endpoint (HR 0.60, p=0.105); post hoc RMST and investigator PFS favourable."
+ },
+ "nct:NCT07895992": {
+  "relevance": "high",
+  "reason": "New phase 3 registration: SHR-A2009 plus bevacizumab vs sacituzumab tirumotecan in nonsquamous NSCLC (n=490, Suncadia), not yet recruiting."
+ },
+ "nct:NCT07896005": {
+  "relevance": "high",
+  "reason": "New phase 3 registration: SHR-A1811 plus adebrelimab vs platinum doublet plus tislelizumab, first-line HER2-overexpressing nonsquamous NSCLC (n=436, Suncadia)."
+ },
+ "nct:NCT07895043": {
+  "relevance": "high",
+  "reason": "New phase 2 registration: ABBV-706 plus alveltamig plus atezolizumab in untreated ES-SCLC (n=80, AbbVie), two ABBV-706 dose arms."
+ },
+ "nct:NCT07895056": {
+  "relevance": "high",
+  "reason": "New phase 2 registration: ABBV-706 plus tarlatamab plus atezolizumab in untreated ES-SCLC (n=80, AbbVie), two ABBV-706 dose arms."
+ },
+ "pmid:42930180": {
+  "relevance": "medium",
+  "reason": "Case report of EGFR/ALK/MET co-alterations at furmonertinib resistance."
+ },
+ "pmid:42930153": {
+  "relevance": "medium",
+  "reason": "Claims-database cohort on heart failure hospitalisation risk during osimertinib."
+ },
+ "pmid:42928172": {
+  "relevance": "medium",
+  "reason": "Retrospective real-world safety of tislelizumab regimens in lung cancer."
+ },
+ "pmid:42927948": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42932869": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42932604": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42931848": {
+  "relevance": "medium",
+  "reason": "ENTR\u00c9E Lung: dostarlimab plus belrestotug (TIGIT) +/- nelistotug in 62 pretreated NSCLC pts; tolerable but one partial response."
+ },
+ "pmid:42930660": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42930207": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42930053": {
+  "relevance": "medium",
+  "reason": "Opportunistic cardiovascular assessment during LDCT screening, review."
+ },
+ "pmid:42928874": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42928436": {
+  "relevance": "medium",
+  "reason": "Perioperative antifibrotics in IPF patients undergoing lung cancer surgery."
+ },
+ "pmid:42927946": {
+  "relevance": "medium",
+  "reason": "Interpretation of Chinese Medical Association lung cancer guideline 2026."
+ },
+ "pmid:42930886": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42930206": {
+  "relevance": "medium",
+  "reason": "Retrospective n=81 ES-SCLC: low skeletal muscle index associated with worse OS."
+ },
+ "pmid:42928853": {
+  "relevance": "medium",
+  "reason": "Retrospective: serum vitamin D and irAEs on PD-(L)1 inhibitors."
+ },
+ "pmid:42929531": {
+  "relevance": "medium",
+  "reason": "Gut microbiome signal in never-smoker lung cancer."
+ },
+ "pmid:42928485": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42928018": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42932091": {
+  "relevance": "medium",
+  "reason": "PD-L1 expression and ALK-TKI efficacy in ALK-positive NSCLC, retrospective."
+ },
+ "pmid:42930174": {
+  "relevance": "medium",
+  "reason": "Olink proteomic blood biomarkers for irAEs in NSCLC."
+ },
+ "pmid:42930173": {
+  "relevance": "medium",
+  "reason": "Review of immunotherapy and irAEs in NSCLC."
+ },
+ "pmid:42930170": {
+  "relevance": "medium",
+  "reason": "Single-centre rheumatic irAEs after ICI in lung cancer."
+ },
+ "pmid:42932790": {
+  "relevance": "medium",
+  "reason": "Transport of NLST screening effect to US screening-eligible population."
+ },
+ "pmid:42931773": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42931699": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42931483": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42930928": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42928481": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42930142": {
+  "relevance": "medium",
+  "reason": "Paired tissue and plasma genomic profiling in an Indian pan-cancer cohort."
+ },
+ "nct:NCT07894458": {
+  "relevance": "medium",
+  "reason": "New registration: single-arm MRD-guided adaptive adjuvant strategy after neoadjuvant immunotherapy in resectable NSCLC (n=100, Peking University People's Hospital)."
+ },
+ "pmid:42930770": {
+  "relevance": "medium",
+  "reason": "Digital twin framework for toxicity prediction in lung SBRT."
+ },
+ "pmid:42929434": {
+  "relevance": "medium",
+  "reason": "Retrospective n=83 NSCLC brain metastases with limited systemic therapy access."
+ },
+ "pmid:42928202": {
+  "relevance": "medium",
+  "reason": "Retrospective n=648 SABR cohort stratified by ESTRO/EORTC oligometastatic classification."
+ },
+ "pmid:42930635": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42928917": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42932864": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42932297": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42929161": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42927675": {
+  "relevance": "low",
+  "reason": ""
+ }
+}
