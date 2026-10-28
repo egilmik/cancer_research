@@ -1,0 +1,426 @@
+{
+ "pmid:42943298": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42943200": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42942861": {
+  "relevance": "medium",
+  "reason": "Osimertinib population PK dosing simulation."
+ },
+ "pmid:42942547": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42941790": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42941324": {
+  "relevance": "medium",
+  "reason": "Ommaya CSF chemotherapy for leptomeningeal metastasis with targeted therapy."
+ },
+ "pmid:42938905": {
+  "relevance": "medium",
+  "reason": "HBV reactivation in EGFR-TKI-treated patients."
+ },
+ "pmid:42938831": {
+  "relevance": "medium",
+  "reason": "Real-world use of tissue-free ctDNA MRD testing in NSCLC."
+ },
+ "pmid:42938349": {
+  "relevance": "medium",
+  "reason": "Broad-panel profiling co-mutation patterns in NSCLC."
+ },
+ "pmid:42937553": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42936980": {
+  "relevance": "medium",
+  "reason": "Case series of laryngeal lesions on lazertinib."
+ },
+ "pmid:42936928": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42935635": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42935491": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of Chinese medicine plus EGFR-TKIs; low-quality trials likely."
+ },
+ "pmid:42935484": {
+  "relevance": "medium",
+  "reason": "EGFR-TKI-associated colitis, retrospective."
+ },
+ "pmid:42935205": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42933461": {
+  "relevance": "practice-changing",
+  "reason": "PANKU-Lung01 phase 3: iza-bren improved BICR PFS vs platinum-pemetrexed (HR 0.40) after third-generation EGFR TKI.",
+  "practice_change": {
+   "kind": "trial",
+   "basis": "PANKU-Lung01, randomised open-label phase 3 (Lancet), n=432 (mITT 422), iza-bren vs pemetrexed+platinum after 3rd-gen EGFR TKI; primary BICR PFS 11.1 vs 5.7 mo, HR 0.40 (95% CI 0.31-0.51); grade>=3 TRAEs 79% vs 62%; OS interim only"
+  }
+ },
+ "pmid:42933457": {
+  "relevance": "high",
+  "reason": "HERON-Lung01 phase 3 interim: HER3 ADC ruzaltatug rezetecan beat chemotherapy on PFS (HR 0.47), but interim with 7.7 mo follow-up and mixed first/third-generation TKI population."
+ },
+ "pmid:42933456": {
+  "relevance": "high",
+  "reason": "Lancet comment on fragmentation of standards of care after EGFR-TKI, framing the new ADC phase 3 results."
+ },
+ "pmid:42933231": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07897188": {
+  "relevance": "high",
+  "reason": "New registration: ASKC202 plus limertinib first-line in EGFRm/MET+ NSCLC."
+ },
+ "nct:NCT07897019": {
+  "relevance": "medium",
+  "reason": "Newly registered trial in a tracked area."
+ },
+ "pmid:42940040": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42936580": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42945155": {
+  "relevance": "high",
+  "reason": "Cancer Discovery news summary of Krascendo 1 (divarasib vs sotorasib/adagrasib, PFS 9.8 vs 5.7 mo); commentary on a trial already indexed as practice-changing."
+ },
+ "pmid:42941359": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42940439": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42940099": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42938880": {
+  "relevance": "medium",
+  "reason": "Critical review of resectable/oligometastatic NSCLC local therapy."
+ },
+ "pmid:42938871": {
+  "relevance": "medium",
+  "reason": "Review of liquid-biopsy-guided surgery in oligometastatic NSCLC."
+ },
+ "pmid:42937536": {
+  "relevance": "medium",
+  "reason": "NLST secondary analysis: opportunistic bone density at LDCT screening predicts fractures."
+ },
+ "pmid:42937385": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42936872": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42936810": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42935767": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42934326": {
+  "relevance": "high",
+  "reason": "MDT-BRIDGE phase 2: MDT-guided perioperative durvalumab-chemo gave 74.6% resection incl. borderline resectable; single-arm, descriptive primary endpoint."
+ },
+ "pmid:42934010": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42933815": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42933639": {
+  "relevance": "high",
+  "reason": "Neotorch final analysis: perioperative toripalimab EFS HR 0.52 and OS HR 0.66 at 48 mo; confirms an established perioperative chemo-immunotherapy standard rather than a new one."
+ },
+ "pmid:42933636": {
+  "relevance": "high",
+  "reason": "DeLLphi-304 extended follow-up: tarlatamab OS 13.6 vs 8.4 mo at 23 mo follow-up; update of an already-indexed trial."
+ },
+ "pmid:42937295": {
+  "relevance": "high",
+  "reason": "First-in-human phase I of hypoxia-inducible CEA CAR-T in relapsed stage IV NSCLC: ORR 47%, DCR 87%; single-arm, early phase."
+ },
+ "pmid:42943387": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42941705": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42939938": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42937727": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42935059": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42934665": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42939047": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42942833": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42940191": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42940171": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42940064": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42939954": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42939702": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42939451": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42938860": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42936178": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42935544": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42935498": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42935367": {
+  "relevance": "medium",
+  "reason": "Australian review of adoptive cell therapy."
+ },
+ "pmid:42934437": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42934290": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07897968": {
+  "relevance": "medium",
+  "reason": "Newly registered trial in a tracked area."
+ },
+ "nct-results:NCT04317105": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.10.25.761647": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.10.25.761640": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.10.24.761570": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42945028": {
+  "relevance": "medium",
+  "reason": "ALK-rearranged NSCLC clinicopathology/prognosis."
+ },
+ "pmid:42936912": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42935986": {
+  "relevance": "medium",
+  "reason": "Multicentre real-world ICI+bevacizumab-chemotherapy in NSCLC."
+ },
+ "pmid:42942511": {
+  "relevance": "medium",
+  "reason": "Pulmonary LCNEC characteristics."
+ },
+ "pmid:42939967": {
+  "relevance": "medium",
+  "reason": "CTC/EV monitoring to predict chemoimmunotherapy response."
+ },
+ "pmid:42935798": {
+  "relevance": "medium",
+  "reason": "NCDB analysis of SBRT/chemo sequencing in stage I SCLC; no survival difference."
+ },
+ "pmid:42938909": {
+  "relevance": "medium",
+  "reason": "MDT decision-making in perioperative NSCLC."
+ },
+ "pmid:42938883": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42934805": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42934708": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07899086": {
+  "relevance": "medium",
+  "reason": "Newly registered trial in a tracked area."
+ },
+ "pmid:42940155": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42939860": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42937533": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42941865": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42938921": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42944856": {
+  "relevance": "medium",
+  "reason": "Surgery for multifocal ground-glass opacities."
+ },
+ "pmid:42944822": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42942379": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42938821": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42934945": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42934693": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07898241": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42945009": {
+  "relevance": "medium",
+  "reason": "Review of chest RT cardiotoxicity."
+ },
+ "pmid:42941366": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42940086": {
+  "relevance": "medium",
+  "reason": "IPF and radiation pneumonitis risk in NSCLC."
+ },
+ "pmid:42938172": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42944824": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42941952": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42941850": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42941649": {
+  "relevance": "medium",
+  "reason": "Post-recurrence outcomes in a thoracic malignancy cohort."
+ },
+ "pmid:42941511": {
+  "relevance": "medium",
+  "reason": "B7-H3/TROP2 expression in pleural mesothelioma."
+ },
+ "pmid:42939958": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42938892": {
+  "relevance": "medium",
+  "reason": "Review of MTAP loss in pleural mesothelioma."
+ },
+ "pmid:42934446": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42933133": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.10.23.761341": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "url:https://www.nyemetoder.no/49aa3b/contentassets/1deaee85578f4fc386b34ddd596e593e/protokoll-beslutningsforum-18.05.26.pdf": {
+  "relevance": "high",
+  "reason": "Nye Metoder Beslutningsforum protocol 18 May 2026 covers serplulimab ES-SCLC (new price); decision wording not available in item, so not rated practice-changing."
+ }
+}
