@@ -1,0 +1,206 @@
+{
+ "pmid:42955614": {
+  "relevance": "high",
+  "reason": "Meta-analysis of 16 RCTs (n=1,343): local ablative therapy added to systemic therapy improved PFS (HR 0.63) and OS (HR 0.68), driven by EGFR-TKI patients, with more grade>=3 AEs and pneumonitis."
+ },
+ "pmid:42955475": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42955151": {
+  "relevance": "medium",
+  "reason": "Real-world ocular adverse events with first-generation EGFR TKIs."
+ },
+ "pmid:42955060": {
+  "relevance": "medium",
+  "reason": "Prospective longitudinal plasma osimertinib concentrations in EGFR-mutant NSCLC."
+ },
+ "pmid:42955056": {
+  "relevance": "high",
+  "reason": "OASIS (JACTOP-01) protocol: phase 3 non-inferiority trial of osimertinib 40 vs 80 mg adjuvant (n=420, DFS primary); design only, no results."
+ },
+ "pmid:42954455": {
+  "relevance": "high",
+  "reason": "Swedish nationwide registry (n=68 RET+ NSCLC, 2018-22): adjusted median OS 28 months before wide selective RET inhibitor access; Nordic real-world data."
+ },
+ "pmid:42954362": {
+  "relevance": "medium",
+  "reason": "Narrative review of neoadjuvant therapy in NSCLC."
+ },
+ "pmid:42954342": {
+  "relevance": "medium",
+  "reason": "Plain-language summary of NeoADAURA (neoadjuvant osimertinib); no new data."
+ },
+ "pmid:42954122": {
+  "relevance": "medium",
+  "reason": "Narrative review of PM2.5 and lung cancer in nonsmokers."
+ },
+ "pmid:42953564": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42953385": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42952490": {
+  "relevance": "high",
+  "reason": "Meta-analysis of 8 reports: ADCs after EGFR-TKI resistance pooled ORR 39.2%, ILD 6.0%; mostly single-arm data, two RCTs support sac-TMT."
+ },
+ "pmid:42951205": {
+  "relevance": "medium",
+  "reason": "DNA vs RNA-based mutation testing comparison in NSCLC."
+ },
+ "pmid:42951714": {
+  "relevance": "high",
+  "reason": "Review of DLL3-directed therapeutics in SCLC (tarlatamab etc.); review, no new data."
+ },
+ "pmid:42950616": {
+  "relevance": "medium",
+  "reason": "Review of MYC targeting in SCLC."
+ },
+ "nct-results:NCT06171789": {
+  "relevance": "low",
+  "reason": "Terminated phase 1/2 GEN1107 results posted; multi-tumour, n=33."
+ },
+ "pmid:42956324": {
+  "relevance": "high",
+  "reason": "ASCO living guideline 2026.3.4 for stage IV NSCLC with driver alterations; abstract does not state what changed, so not rated practice-changing."
+ },
+ "pmid:42955956": {
+  "relevance": "medium",
+  "reason": "Systematic review: no RCT compares IMRT with 3D-CRT in locally advanced NSCLC; IMRT appears safe with lower pneumonitis."
+ },
+ "pmid:42955021": {
+  "relevance": "high",
+  "reason": "R-ALPS phase 3 (n=553, China): benmelstobart consolidation after CRT improved IRC PFS vs placebo (HR 0.53); anlotinib add-on not significant (HR 0.82) with more grade 5 events; placebo comparator, OS immature."
+ },
+ "pmid:42954316": {
+  "relevance": "medium",
+  "reason": "Unintended uptake of lung cancer screening."
+ },
+ "pmid:42954305": {
+  "relevance": "medium",
+  "reason": "Subgroup variations in benefit from telehealth palliative care in advanced lung cancer."
+ },
+ "pmid:42951963": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42955744": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42953104": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42956329": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42953524": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07902921": {
+  "relevance": "medium",
+  "reason": "New NCI phase 1/2 of STAR0602 (+nivolumab) in NSCLC, mCRPC and thymic carcinoma, n=67."
+ },
+ "pmid:42955966": {
+  "relevance": "medium",
+  "reason": "Immunophenotyping of SCLC molecular subtypes and prognosis."
+ },
+ "pmid:42952863": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42952377": {
+  "relevance": "medium",
+  "reason": "Genomic alterations in pulmonary carcinoids."
+ },
+ "pmid:42951817": {
+  "relevance": "medium",
+  "reason": "French-language review of durvalumab after CRT in limited-stage SCLC (ADRIATIC); no abstract available."
+ },
+ "pmid:42951701": {
+  "relevance": "medium",
+  "reason": "Scoping review of therapeutic apheresis in severe irAEs."
+ },
+ "pmid:42950753": {
+  "relevance": "medium",
+  "reason": "Translational study of immune composition after neoadjuvant PD-1 blockade in NSCLC."
+ },
+ "pmid:42953701": {
+  "relevance": "high",
+  "reason": "Danish registry study of routes to diagnosis and survival in NSCLC, emergency presentation impact; Nordic relevance."
+ },
+ "pmid:42953478": {
+  "relevance": "medium",
+  "reason": "Review of plasma cfDNA origins in solid tumours."
+ },
+ "pmid:42954327": {
+  "relevance": "medium",
+  "reason": "Minimal ablative margin predicts local progression after percutaneous lung ablation."
+ },
+ "pmid:42951128": {
+  "relevance": "medium",
+  "reason": "Outcomes after resection of synchronous primary NSCLC; retrospective."
+ },
+ "pmid:42955647": {
+  "relevance": "medium",
+  "reason": "Single-centre retrospective (n=69): mean lung dose <=12 Gy associated with better PFS/OS in era of immunotherapy; small, confounded."
+ },
+ "pmid:42955547": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42955972": {
+  "relevance": "medium",
+  "reason": "Single-centre retrospective of malignant thymoma outcomes."
+ },
+ "pmid:42955398": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42954443": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42953182": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42952559": {
+  "relevance": "medium",
+  "reason": "PD-L1 and BAP1 loss prognosis in pleural mesothelioma; single-centre retrospective."
+ },
+ "pmid:42951393": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42951316": {
+  "relevance": "medium",
+  "reason": "Imaging in diagnosis/staging of pleural mesothelioma; review."
+ },
+ "doi:10.64898/2026.10.28.762504": {
+  "relevance": "low",
+  "reason": "preprint, not peer reviewed"
+ },
+ "url:https://helsedirektoratet.no/nyheter/utredning-av-lungekreftscreening-i-norge/_/attachment/inline/9c7ed785-f91c-4e6b-8bd6-222f318e2b69:9e98af9e60c660d8c6df17a6125159dcd5ec71ce/Rapport_Lungekreftscreening%20i%20Norge%202025.pdf": {
+  "relevance": "medium",
+  "reason": "Helsedirektoratet 2025 report on lung cancer screening in Norway."
+ },
+ "url:https://www.newswise.com/articles/dana-farber-presents-phase-3-lung-cancer-data-in-esmo-presidential-symposium": {
+  "relevance": "medium",
+  "reason": "Primary source/preview relevant to monitored guidelines or meetings; no new results in snippet."
+ },
+ "url:https://www.ilcn.org/presidential-symposium-to-highlight-late-breaking-practice-changing-research": {
+  "relevance": "medium",
+  "reason": "Primary source/preview relevant to monitored guidelines or meetings; no new results in snippet."
+ },
+ "url:https://www.delveinsight.com/asco-conference/article/asco-2026-lung-cancer-preview": {
+  "relevance": "medium",
+  "reason": "Primary source/preview relevant to monitored guidelines or meetings; no new results in snippet."
+ }
+}
