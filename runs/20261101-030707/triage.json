@@ -1,0 +1,78 @@
+{
+ "pmid:42963764": {
+  "relevance": "medium",
+  "reason": "Retrospective single-centre PD-L1 vs driver cohort (n=299); KRAS-mutant more often PD-L1 high, EGFR lower; hypothesis-generating."
+ },
+ "pmid:42963068": {
+  "relevance": "medium",
+  "reason": "Case report of reverse SCLC-to-EGFR-mutant adenocarcinoma transformation with shared genomic backbone; anecdotal, no abstract."
+ },
+ "pmid:42962921": {
+  "relevance": "medium",
+  "reason": "Brief report: rare germline/somatic EGFR variants in 3 patients with functional Ba/F3 TKI-sensitivity data; preclinical, n=3."
+ },
+ "pmid:42964306": {
+  "relevance": "medium",
+  "reason": "Randomised phase II (n=72) of thalidomide 50 vs 100 mg to prevent camrelizumab RCCEP in ESCC/NSCLC; supportive-care dose-finding, no control arm."
+ },
+ "pmid:42962414": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42962922": {
+  "relevance": "medium",
+  "reason": "Implementation report of LDCT early detection programme in Ethiopia; descriptive, no outcome data."
+ },
+ "pmid:42964018": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42964105": {
+  "relevance": "medium",
+  "reason": "FAERS plus case-pooling of ICI-associated cystitis/ureteritis (45 patients, lung cancer commonest); pharmacovigilance signal only."
+ },
+ "pmid:42963425": {
+  "relevance": "medium",
+  "reason": "Preclinical Nat Cancer: BAZ2A drives palmitate accumulation and CD70 CAR-T exhaustion in mouse RCC; mouse data only."
+ },
+ "pmid:42963101": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42962829": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42962824": {
+  "relevance": "medium",
+  "reason": "Review of in vivo CAR-T approaches incl. solid tumours; narrative review, no new data."
+ },
+ "pmid:42962714": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42962449": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42962497": {
+  "relevance": "high",
+  "reason": "ETOP IBCSG position statement on DLL3-targeted T-cell engagers (tarlatamab etc.) in SCLC incl. CRS/ICANS management; expert consensus, not a formal guideline and not practice-changing by itself."
+ },
+ "pmid:42963966": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42963979": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42963880": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "url:https://pubmed.ncbi.nlm.nih.gov/40930154": {
+  "relevance": "medium",
+  "reason": "Journal digest of NCCN NSCLC Version 7.2025 (Sept 2025); older guideline version, superseded by 2026 versions."
+ }
+}

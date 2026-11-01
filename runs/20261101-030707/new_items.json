@@ -1,0 +1,426 @@
+[
+  {
+    "source": "pubmed",
+    "pmid": "42963764",
+    "doi": "10.1186/s12885-026-16599-7",
+    "pmcid": "",
+    "title": "PD-L1 expression across molecular driver subsets in non-small cell lung carcinoma: a 299-case real-world thoracic oncology cohort.",
+    "authors": "Taşdemir A, Karaman H, Kiremit N et al.",
+    "journal": "BMC Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRODUCTION: PD-L1 immunohistochemistry and molecular driver testing are complementary components of non-small cell lung carcinoma (NSCLC) evaluation. We examined the distribution of PD-L1 tumor proportion score (TPS) across routinely detected molecular driver subsets in a consecutive real-world thoracic oncology cohort.\nMETHODS: We retrospectively reviewed 299 consecutive NSCLC cases that underwent clinical targeted next-generation sequencing (NGS) between 2023 and 2025. Archived VENTANA SP263-stained PD-L1 slides were re-reviewed by two pathologists and categorized as TPS < 1%, 1-49%, or > = 50%. Driver-association analyses were restricted to PD-L1-tested tumors with an evaluable, mutually exclusive primary driver category; cases with indeterminate DNA-driver status were excluded. Prespecified KRAS and EGFR contrasts used reproducible 2 × 2 methods, with univariable Firth regression as a sparse-cell sensitivity analysis.\nRESULTS: PD-L1 results were available for 237 tumors. TPS was < 1% in 63 cases (26.6%), 1-49% in 108 cases (45.6%), and > = 50% in 66 cases (27.8%). Among 223 PD-L1-tested tumors with an evaluable, mutually exclusive primary driver category, KRAS-mutant tumors were more frequently PD-L1 high than the other evaluable categories (24/54 [44.4%] vs. 35/169 [20.7%]; OR, 3.06; 95% CI, 1.59-5.89; p = 0.001). EGFR-mutant tumors showed a lower PD-L1-high frequency, but this observation was based on only two PD-L1-high events (2/26 [7.7%] vs. 57/197 [28.9%]; OR, 0.20; 95% CI, 0.05-0.89; p = 0.019). Eleven cases with indeterminate DNA-driver status were excluded from driver-frequency and association analyses.\nCONCLUSION: PD-L1 high expression was enriched among KRAS-mutant NSCLC in this diagnostic cohort, whereas EGFR-mutant tumors showed a directionally lower but sparse-data-limited PD-L1-high pattern. These findings support integrated interpretation of PD-L1 and molecular driver results in routine practice, but they should be viewed as biomarker-distribution evidence rather than proof of immunotherapy benefit or prognosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963764/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42963764",
+      "doi:10.1186/s12885-026-16599-7"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42963068",
+    "doi": "10.1136/bcr-2026-277017",
+    "pmcid": "",
+    "title": "Reverse histologic transformation from small cell lung carcinoma to epidermal growth factor receptor mutant lung adenocarcinoma with shared genomic backbone.",
+    "authors": "Nayak R, Nee E, Seetharamu N et al.",
+    "journal": "BMJ Case Rep",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963068/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-resistance-nextgen",
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42963068",
+      "doi:10.1136/bcr-2026-277017"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42962921",
+    "doi": "10.1016/j.jtho.2026.106222",
+    "pmcid": "",
+    "title": "Brief report: Clinical and Functional Characterization of Rare Germline and Somatic EGFR Variants in Three Patients with Non-Small Cell Lung Cancer.",
+    "authors": "Prielipp R, Albers-Leischner C, Sharapova Y et al.",
+    "journal": "J Thorac Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "To date hereditary risk factors for non-small cell lung cancer (NSCLC) are poorly understood. While most cases are considered sporadic, rare monogenic germline alterations in EGFR and TP53 have been reported to be associated with increased risk of NSCLC. While identification and accurate functional characterization of such variants are essential for improving risk assessment and personalized therapeutic strategies, they remain limited. Germline whole genome sequencing (WGS) was performed to identify potential hereditary causes of NSCLC within Task Force 5 of the German National Network for Genomic Medicine. Detected EGFR variants were further investigated using in silico structural modeling and in vitro functional characterization in Ba/F3 cell models to investigate their oncogenic potential and sensitivity to tyrosine kinase inhibitors (TKIs). We identified two different EGFR germline variants (NM_005228.5:c.2155G>A, p.(Gly719Ser); NM_005228.5: c.2327G>A, p.(Arg776His)) in three patients with NSCLC, each harboring a different somatic compound variants (p.(Gly719Ser)+p.(Ser768Ile), p.(Gly719Ala)+p.(Arg776His), p.(Arg776His)+p.(Leu861Gln) (liver metastasis) and p.(Arg776His)+p.(Gly719Ser)). In silico analyses predict that p.(Gly719Ser) and p.(Gly719Ala) stabilize the active EGFR kinase conformation, whereas p.(Ser768Ile), p.(Arg776His) and p.(Leu861Gln) destabilize the inactive conformation. Consistent with these predictions, cis co-expression of the compound variants in the Ba/F3 assay demonstrated oncogenic activity and sensitivity to afatinib. Clinically two individuals achieved a partial response to afatinib treatment. These findings highlight the clinical relevance of germline EGFR variants in NSCLC and support the value of in-silico and in-vitro analyses for variant interpretation and response prediction. Broadening germline testing and functional variant characterization may enhance risk prediction and targeted therapy for individuals with NSCLC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962921/",
+    "searches": [
+      "egfr-nsclc",
+      "lung-top-journals"
+    ],
+    "keys": [
+      "pmid:42962921",
+      "doi:10.1016/j.jtho.2026.106222"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42964306",
+    "doi": "10.3389/fimmu.2026.1917046",
+    "pmcid": "PMC13719562",
+    "title": "Thalidomide dose selection for prevention of camrelizumab-induced reactive cutaneous capillary endothelial proliferation: a multicenter, randomized phase II trial.",
+    "authors": "Fu X, Xu S, Cheng P et al.",
+    "journal": "Front Immunol",
+    "year": "2026",
+    "pub_types": [
+      "Clinical Trial",
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Reactive cutaneous capillary endothelial proliferation (RCCEP) is a characteristic cutaneous adverse event associated with immune checkpoint inhibitors. This study compared two prophylactic thalidomide doses to identify the more promising dose for further evaluation.\nMETHODS: In this multicenter, randomized clinical trial, patients with advanced esophageal squamous cell carcinoma or non-small cell lung cancer (NSCLC) were randomly assigned to receive thalidomide 50 mg/day (Group A) or 100 mg/day (Group B) during first-line treatment with camrelizumab plus standard chemotherapy. The primary endpoint was overall RCCEP incidence; secondary endpoints included grade ≥3 RCCEP, median time to RCCEP onset, week 6 and week 9 RCCEP incidence, and safety.\nRESULTS: A total of 72 patients were randomized. RCCEP occurred in 12 of 36 patients (33.3%) in Group A and 9 of 36 patients (25.0%) in Group B. RCCEP incidence at week 6 was 13.9% in Group A and 19.4% in Group B, and by week 9 was 25.0% and 19.4%, respectively. No grade ≥3 RCCEP occurred; all first RCCEP events were grade 1, with 1 grade 2 event reported in Group A. Among patients who developed RCCEP, median onset time was 1.49 and 1.31 months, respectively. Thalidomide-related adverse events occurred in 22.2% and 41.7% of patients, and grade 3 or higher thalidomide-related adverse events occurred in 8.3% and 22.2%, respectively. Serious adverse events occurred in 11.1% and 13.9% of patients, respectively.\nCONCLUSION: Thalidomide 100 mg/day met the prespecified incidence-based dose-selection criterion compared with 50 mg/day but was associated with a higher incidence of grade 3 or higher toxicity. Further controlled evaluation is warranted.\nCLINICAL TRIAL REGISTRATION: https://clinicaltrials.gov/study/NCT06231680, identifier NCT06231680.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964306/",
+    "searches": [
+      "lung-key-evidence"
+    ],
+    "keys": [
+      "pmid:42964306",
+      "doi:10.3389/fimmu.2026.1917046"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42962414",
+    "doi": "10.1016/j.radonc.2026.111828",
+    "pmcid": "",
+    "title": "Corrigendum to \"Inconsistent definitions of local control for stereotactic body radiation therapy for early-stage lung cancer - A systematic review\" [Radiother. Oncol. 222 (2026) 111695].",
+    "authors": "Nourmohammadi N, Kashani C, Oughourlian T et al.",
+    "journal": "Radiother Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Published Erratum"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962414/",
+    "searches": [
+      "lung-key-evidence",
+      "lung-local-therapy"
+    ],
+    "keys": [
+      "pmid:42962414",
+      "doi:10.1016/j.radonc.2026.111828"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42962922",
+    "doi": "10.1016/j.jtho.2026.106220",
+    "pmcid": "",
+    "title": "Development and Implementation of an Integrated Early Lung Cancer Detection Program in Ethiopia: A Scalable Framework for Resource-Constrained Settings.",
+    "authors": "Bonsa M, Mengistu Z, Yip R et al.",
+    "journal": "J Thorac Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: In low- and middle-income countries(LMICs), barriers to early lung cancer(LC) detection extend beyond CT scanner availability to encompass participant identification pathways, digital management infrastructure, multidisciplinary coordination, and workforce capacity. Ethiopia's high tuberculosis burden, widespread biomass fuel exposure, and centralized oncology services create a distinct implementation environment. This report describes implementation and operational lessons from the first integrated LDCT-based early LC detection program in Ethiopia.\nMETHODS: An integrated program was implemented at two tertiary referral centers in Addis Ababa between March 2024 and May 2026 using a phased strategy that deliberately prioritized infrastructure development before large-scale recruitment. Core components included an Ethiopian Thoracic Society-adapted ten-domain risk assessment framework incorporating locally relevant exposures, the ScreeningPLUS digital management platform, AI-assisted nodule detection, multidisciplinary review, smoking cessation counseling, and integration of tuberculosis and pulmonary medicine referral pathways into a unified detection infrastructure.\nRESULTS: A comprehensive early LC detection infrastructure was successfully established within existing healthcare systems. Key implementation challenges include equipment importation delays exceeding six months, digital infrastructure adaptation, variable patient identification practices, and multi-service workflow integration. The multi-pathway design proved essential: 73.9% of participants had never smoked, confirming that tobacco-based eligibility criteria alone would have excluded the majority of the target population. Following infrastructure maturation and focused outreach,enrollment increased substantially, supporting a phased approach in which operational readiness precedes large-scale recruitment.\nCONCLUSIONS: Integrated early LC detection is achievable in resource-constrained settings when approached as a systems-level effort emphasizing phased infrastructure development, local adaptation, and pathway integration. These lessons provide a practical framework for LMIC implementation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962922/",
+    "searches": [
+      "lung-top-journals",
+      "lung-nonpharm",
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42962922",
+      "doi:10.1016/j.jtho.2026.106220"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42964018",
+    "doi": "10.3389/fpubh.2026.1909233",
+    "pmcid": "PMC13719326",
+    "title": "Financial toxicity profiles and associated factors among lung cancer patients receiving immunotherapy: a latent profile analysis.",
+    "authors": "Nie J, Hu P, Qian W et al.",
+    "journal": "Front Public Health",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "OBJECTIVES: To identify latent profiles of patient-reported financial toxicity and factors associated with profile membership among lung cancer patients receiving immunotherapy.\nMETHODS: A total of 331 lung cancer patients receiving immunotherapy were recruited by convenience sampling. Financial toxicity, perceived social support, and psychological resilience were assessed using the Comprehensive Score for Financial Toxicity (COST-PROM), Perceived Social Support Scale (PSSS), and Connor-Davidson Resilience Scale (CD-RISC), respectively. Latent profile analysis (LPA) based on the 11 COST-PROM items was used to identify financial-toxicity profiles. Factors associated with profile membership were examined using the Mplus three-step R3STEP procedure, which accounts for classification uncertainty. A conventional multinomial logistic regression based on most-likely class assignment was used as a sensitivity analysis. Additional analyses examined the robustness of the LPA solution, an R3STEP model including all available covariates, collinearity, and possible nonlinear effects of PSSS and CD-RISC.\nRESULTS: Three profiles were identified: Severe Financial Toxicity (28.7%), Moderate Financial Toxicity (39.9%), and Mild Financial Toxicity (31.4%). In R3STEP analyses, lower monthly income, out-of-pocket payment, and non-working status were associated with higher odds of Severe Financial Toxicity profile membership (p < 0.05), whereas higher PSSS and CD-RISC scores were associated with lower odds (p < 0.05). The modal-assignment sensitivity analysis yielded materially consistent findings. The three classes differed mainly in overall severity, with broadly parallel item profiles. Average posterior probabilities were 0.989, 0.982, and 0.992 for the Severe, Moderate, and Mild classes, respectively. Both alternative LPA models retained three classes, and the additional multivariable R3STEP model produced similar results.\nCONCLUSION: Patient-reported financial toxicity was heterogeneous among lung cancer patients receiving immunotherapy. Socioeconomic vulnerability and psychosocial characteristics were associated with profile membership. Routine financial-distress screening and financial navigation may be considered for patients with greater financial toxicity, while psychosocial intervention strategies require prospective evaluation before their effectiveness can be inferred. The classes mainly reflected different levels of financial toxicity rather than distinct response patterns.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964018/",
+    "searches": [
+      "lung-nonpharm"
+    ],
+    "keys": [
+      "pmid:42964018",
+      "doi:10.3389/fpubh.2026.1909233"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42964105",
+    "doi": "10.3389/fphar.2026.1918548",
+    "pmcid": "PMC13719441",
+    "title": "Clinical characteristics and pharmacovigilance signals of immune checkpoint inhibitor-associated cystitis and ureteritis: analysis of FAERS reports and published cases.",
+    "authors": "Zhang Y, Yang J",
+    "journal": "Front Pharmacol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Immune checkpoint inhibitor (ICI)-associated cystitis and ureteritis are uncommon urinary immune-related adverse events that are difficult to distinguish from infection or other urinary tract complications. Their clinical phenotype and pharmacovigilance signal remain incompletely defined.\nMETHODS: We combined a pooled analysis of published cases with a FAERS disproportionality analysis from 2004Q1 to 2026Q1. Published cases were reviewed for clinical presentation, treatment, rechallenge, and time-to-onset. FAERS reports were deduplicated at the CASEID level. A broad cystitis-inclusive definition included IMMUNE-MEDIATED CYSTITIS, CYSTITIS NONINFECTIVE, URETERITIS, and CYSTITIS; a high-specificity definition excluded the nonspecific Preferred Term CYSTITIS. Disproportionality was assessed using reporting odds ratios (RORs), proportional reporting ratios, chi-square statistics, and information components.\nRESULTS: Twenty-eight reports comprising 45 unique patients were included. The median age was 56 years, and lung cancer was the most common malignancy. Published cases commonly showed urinary frequency, dysuria, hematuria, leukocyturia, inflammatory imaging or cystoscopic abnormalities, and corticosteroid responsiveness. Upper urinary tract involvement was documented in 13 of 33 patients with available CT data. Median time-to-onset was 62 days among 24 evaluable cases, and recurrence occurred in 5 of 9 rechallenged patients. In FAERS, 20,257,224 deduplicated CASEIDs were analyzed. The broad cystitis-inclusive definition identified 397 ICI-associated cases and showed only a weak signal (ROR, 1.12; 95% CI, 1.02-1.24), whereas the high-specificity definition identified 151 cases and yielded a stronger signal (ROR, 9.04; 95% CI, 7.63-10.70). Class-level signals were also observed, and the overall high-specificity signal remained positive across sensitivity analyses.\nCONCLUSION: These findings support ICI-associated cystitis and ureteritis as an uncommon urothelial inflammatory irAE spectrum. Phenotype-aware outcome definition is important in pharmacovigilance because nonspecific cystitis coding may dilute the reporting signal.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964105/",
+    "searches": [
+      "lung-repurposed",
+      "nsclc-immunotherapy",
+      "lung-toxicity"
+    ],
+    "keys": [
+      "pmid:42964105",
+      "doi:10.3389/fphar.2026.1918548"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42963425",
+    "doi": "10.1038/s43018-026-01267-3",
+    "pmcid": "",
+    "title": "BAZ2A-induced epigenetic states in cancer cells fuel palmitate accumulation in the tumor microenvironment driving CAR-T cell exhaustion.",
+    "authors": "Wang H, Geng H, Zhao J et al.",
+    "journal": "Nat Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Chimeric antigen receptor T (CAR-T) cell therapy shows limited efficacy in solid tumors, partly owing to poorly defined tumor-intrinsic resistance mechanisms. Here we show that the epigenetic regulator BAZ2A drives resistance to CD70-targeted CAR-T therapy by reprogramming tumor lipid metabolism. Using an in vivo CRISPR screen in a mouse renal cell carcinoma model, we identify BAZ2A as a key mediator that promotes the production and accumulation of palmitic acid, a saturated fatty acid in the tumor microenvironment. Excess palmitic acid is taken up by CAR-T cells and impairs mitochondrial fitness by inhibiting PGC-1α activity, thereby enforcing a dysfunctional state. Pharmacologic inhibition of BAZ2A reduces lipid accumulation and restores CAR-T cell activity in vivo. These findings reveal an epigenetic-metabolic mechanism of immune resistance and suggest that targeting tumor lipid remodeling represents a therapeutic strategy to overcome CAR-T resistance in solid tumors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963425/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42963425",
+      "doi:10.1038/s43018-026-01267-3"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42963101",
+    "doi": "10.1136/jitc-2026-015535",
+    "pmcid": "",
+    "title": "Epigenetic demethylation sensitizes cancer cells to CAR-M triggered pyroptosis and remodels inflammatory immune responses in the tumor microenvironment to potentiate CAR-M cell therapy.",
+    "authors": "Chu W, Xu Y, Lin L et al.",
+    "journal": "J Immunother Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963101/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42963101",
+      "doi:10.1136/jitc-2026-015535"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42962829",
+    "doi": "10.1016/j.bcp.2026.118584",
+    "pmcid": "",
+    "title": "CLDN18.2-targeted CAR-NK cells suppress gastric cancer growth in preclinical models.",
+    "authors": "Li W, Xu Y, Tian H et al.",
+    "journal": "Biochem Pharmacol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Targeted immunotherapy for gastric cancer (GC) remains challenging due to safety concerns and limited efficacy against solid tumors. Claudin-18.2 (CLDN18.2) is a highly specific tumor-associated antigen, yet existing CLDN18.2-targeted CAR-T therapies are frequently complicated by cytokine release syndrome (CRS) and on-target/off-tumor toxicity. Natural killer (NK) cells represent a safer \"off-the-shelf\" alternative, but require optimized CAR architectures for effective solid tumor targeting. Here, we designed five CAR constructs targeting CLDN18.2 through combinatorial optimization of single-chain variable fragments and intracellular co-stimulatory domains (including CD28H, 2B4, 4-1BB, and CD3ζ), and delivered them into NK-92 cells via a baboon envelope glycoprotein-pseudotyped lentiviral vector. The lead candidate CAR4-NK, which harbors a CD28H-2B4-CD3ζ signaling domain, exerted superior in vitro cytotoxicity against CLDN18.2-positive GC cells, accompanied by robust secretion of IFN-γ and granzyme B. In NCG mouse xenograft models, intravenously administered CAR4-NK cells specifically trafficked to tumor sites, significantly suppressed tumor growth, and improved overall survival (100% survival at the study endpoint). The CD28H-2B4 combination was shown to be critical for sustained NK cell activation. Notably, irradiated CAR4-NK cells, despite abrogated proliferative capacity, retained tumoricidal efficacy comparable to unmodified parental NK-92 cells and induced minimal production of the inflammatory cytokines TNF-α and MIP-1α, suggesting a reduced risk of CRS-associated cytokine release within the tested panel. These results provide preclinical proof-of-concept for a rationally designed CAR4-NK therapy against CLDN18.2-positive gastric cancer, in which CD28H-2B4 co-stimulatory domains enhance the effector function of CAR4-NK cells, and show the potential of irradiated CAR4-NK cells as a safer, controllable \"off-the-shelf\" product candidate.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962829/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42962829",
+      "doi:10.1016/j.bcp.2026.118584"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42962824",
+    "doi": "10.1016/j.jconrel.2026.115511",
+    "pmcid": "",
+    "title": "In vivo chimeric antigen receptor T cell therapy: From mechanistic innovation to clinical translation.",
+    "authors": "Ren Y, Lin H, Wei J",
+    "journal": "J Control Release",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Conventional ex vivo chimeric antigen receptor (CAR) T cell therapy is limited by cumbersome manufacturing workflows, prohibitive costs and various treatment-related risks. In vivo CAR-T technology directly generates engineered cells within patients, conferring distinct advantages in operational simplicity, biosafety and clinical accessibility. This review systematically evaluates existing delivery platforms and classifies in vivo CAR-T into two core paradigms: persistent engineering and transient reprogramming, each featuring distinct properties tailored to different clinical indications. It further summarizes preclinical advances and clinical data covering hematological malignancies, solid tumors, autoimmune disorders and organ fibrosis, in which numerous investigational candidates have exhibited encouraging efficacy. Ultimately, five translational barriers summarized as the 5S challenges (specificity, stability, safety, suppression and scalability) and their matched optimization tactics are comprehensively discussed. This review provides a clinician-oriented decision matrix that links carriers selection to disease biology, and a 5S optimization framework to guide next-generation vector design. Collectively, these insights establish a translational roadmap for customizing in vivo CAR-T design to specific clinical indications and take a critical step toward realizing the full therapeutic potential of this disruptive modality.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962824/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:42962824",
+      "doi:10.1016/j.jconrel.2026.115511"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42962714",
+    "doi": "10.1111/1759-7714.70410",
+    "pmcid": "PMC13722533",
+    "title": "Predicting for Malignancy in Congenital Lung Malformations: A Single-Center Study of the \"At Risk\" Pediatric and Adult Population.",
+    "authors": "Rao MS, Bradley E, Haddad A et al.",
+    "journal": "Thorac Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRODUCTION: Congenital lung malformations (CLMs) are often identified on antenatal scanning and malignant transformation is cited as an indication for early resection. Long-term follow-up of asymptomatic lesions managed nonoperatively is lacking. Herein, we prospectively follow up children with antenatally identified CLMs and reviewed adult patients diagnosed with adenocarcinoma to look for background CLM changes.\nMETHODS: This is a single-center cohort study of pediatric patients with antenatal or early postnatal diagnosis of CLMs and a retrospective review of adult patients with lung adenocarcinoma. In children, data collected included type or location of CLMs and subsequent follow-up. In adult patients, we reviewed radiology for background CLMs.\nRESULTS: One hundred and twenty-nine pediatric patients diagnosed with CLMs: congenital pulmonary airway malformations (n = 79; 61%), bronchopulmonary sequestrations (n = 26; 20%), congenital lobar emphysema (n = 11; 9%), resolved lesions (n = 10; 8%), bronchogenic cysts (n = 2; 2%), and an unknown lesion (n = 1; 1%). The patients were followed up for 6.7 (IQR: 3.4-10.5; range 0.08-20.6) years. No pediatric patient was subsequently identified on the Northern Ireland Cancer Registry. Three hundred and twenty-three adult patients were diagnosed with lung carcinoma: 37 (11%) were mucinous adenocarcinomas and 21 (57%) had a KRAS mutation. No CLMs were identified on review of radiological imaging in adult patients presenting with malignancy.\nCONCLUSION: In children with CLMs, no resected malignant lesions could be identified on medium-term follow-up. Furthermore, no CLMs were identified in adult patients presenting with resected mucinous adenocarcinoma. Prospective collaborative databases are needed to determine true malignancy risk in asymptomatic CLM lesions and CPAMs.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962714/",
+    "searches": [
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42962714",
+      "doi:10.1111/1759-7714.70410"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42962449",
+    "doi": "10.1016/j.neo.2026.101384",
+    "pmcid": "",
+    "title": "TMPRSS4 promotes cancer stem-like properties in colon and lung cancers through transcriptional and post-transcriptional upregulation of KRAS.",
+    "authors": "Lee Y, Yoon J, Jeong Y et al.",
+    "journal": "Neoplasia",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Transmembrane serine protease 4 (TMPRSS4) is associated with poor prognosis in multiple cancers, including non-small cell lung, pancreatic, and colorectal cancers. We previously showed that TMPRSS4 promotes cancer stem-like properties in prostate cancer in a manner dependent on epithelial-mesenchymal transition (EMT) transcription factors. Here, we identified a novel TMPRSS4-EMT transcription factor-KRAS axis that drives cancer stem-like features and tumorigenesis in colon and lung cancers. TMPRSS4 knockdown suppressed tumor growth and cancer stem-like properties, accompanied by reduced KRAS expression and decreased phosphorylation of ERK1/2 and AKT, consistent with transcriptomic analysis showing activation of RAS, MAPK, and PI3K-AKT signaling pathways by TMPRSS4. Mechanistically, the EMT-inducing transcription factors SLUG and TWIST1 were required for TMPRSS4-mediated KRAS upregulation. These factors enhanced KRAS transcription through the E-box element within the intron 1 regulatory region of KRAS and increased KRAS expression post-transcriptionally via repression of KRAS-targeting miR-200c. Clinically, TMPRSS4 expression positively correlated with KRAS expression, and co-expression of TMPRSS4 and KRAS was associated with poor survival across multiple cancers. Together, these findings reveal a previously unrecognized TMPRSS4-SLUG/TWIST1-KRAS pathway that promotes tumor progression, highlighting the TMPRSS4-KRAS axis as a potential therapeutic target for cancers driven by KRAS mutation and/or elevation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962449/",
+    "searches": [
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "pmid:42962449",
+      "doi:10.1016/j.neo.2026.101384"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42962497",
+    "doi": "10.1016/j.ctrv.2026.103201",
+    "pmcid": "",
+    "title": "T-cell engagers in small-cell lung cancer: current evidence and future directions - a position statement from the ETOP IBCSG Partners Foundation Workshop.",
+    "authors": "Meyer ML, Peters S, Ahn MJ et al.",
+    "journal": "Cancer Treat Rev",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "T-cell engagers (TCEs) are a novel class of immunotherapeutic molecules that enhance immune responses to cancer by directing T cells to target tumour cells. Tumour-associated antigens have been identified for several solid malignancies, including delta-like ligand 3 (DLL3) for small-cell lung cancer (SCLC). Several DLL3-targeted TCEs are being developed for the treatment of SCLC, including tarlatamab, gocatamig and obrixtamig. Tarlatamab is approved by the United States Food and Drug Administration and represents a new standard of care in patients with pretreated SCLC. As experience with TCEs in SCLC increases, consensuses on optimal clinical settings and patient management are evolving. Rapid identification and effective management of potentially life-threatening immune-related side-effects, such as cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS), are essential for successful treatment with TCEs. Here we briefly review the key studies of TCEs in development for solid tumours before providing a comprehensive discussion on the clinical management of TCE therapy in patients with SCLC. We consider issues related to clinical settings, patient evaluation and management of toxicities, with a particular focus on identification and treatment of CRS and ICANS, drawing on experience from other oncology settings. TCEs represent a transformative treatment option for SCLC, offering new hope for a disease traditionally associated with poor therapeutic outcomes. TCEs also, however, bring new challenges, including the effective management of immune-related side-effects and the logistical demands of treatment. Safe implementation will depend on robust infrastructure, multidisciplinary collaboration, and patient and caregiver education.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962497/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:42962497",
+      "doi:10.1016/j.ctrv.2026.103201"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42963966",
+    "doi": "10.5694/mja2.70323",
+    "pmcid": "",
+    "title": "Maximising Cancer Prevention and Early Detection in the Australian Cancer Plan: Where Are We Now and What Should Come Next?",
+    "authors": "Symonds EL, Bonevski B, Edwards R et al.",
+    "journal": "Med J Aust",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Cancer accounts for three in 10 deaths in Australia, yet many cases are preventable or can be detected at an early stage. Maximising cancer prevention and early detection is one of the six strategic objectives of the 10-year Australian Cancer Plan. This perspective article reviews the current progress and challenges of reducing the cancer burden, along with future opportunities. It explores how to address modifiable risk factors, particularly tobacco smoking, alcohol use and sun exposure and the advances in screening programs for bowel, breast, cervical and lung cancers. It highlights the potential for risk-stratified and genomics-informed screening, emphasising the need to support participation through equitable and culturally safe approaches.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963966/",
+    "searches": [
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:42963966",
+      "doi:10.5694/mja2.70323"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42963979",
+    "doi": "10.1111/1759-7714.70409",
+    "pmcid": "",
+    "title": "Preoperative Temporal Elevation of Cytokeratin 19 Fragment in Thymoma With Extensive Necrosis: A Case Report.",
+    "authors": "Nishioka Y, Shomoto T, Kuroda S et al.",
+    "journal": "Thorac Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Case Reports",
+      "Journal Article"
+    ],
+    "abstract": "Thymoma with necrosis is rare. Due to the presence of necrosis, a preoperative diagnosis is challenging to make. Cytokeratin 19 fragment (CYFRA) is reportedly low in thymoma. While CYFRA elevation has been detected when in combination with necrosis, the preoperative transition has rarely been described. The patient was a 73-year-old man who presented with chest pain. An initial computed tomography (CT) scan showed a mediastinal tumor accompanied by pleural effusion. In a serological examination, in addition to elevated white blood cell count (WBC) and C-reactive protein (CRP), CYFRA was elevated (61.3 ng/mL). A second CT examination revealed the disappearance of pleural effusion without a decrease in mass size. His laboratory markers decreased without treatment. Preoperatively, his CYFRA level was 38.7 ng/mL. Thymectomy was performed via median sternotomy, with partial resection of pericardium. A pathological examination revealed thymoma, suggestive of type B, with Masaoka stage II, accompanied by extensive necrosis. There were no signs of recurrence at 5 months postoperatively. A temporal increase in CYFRA before surgery may imply necrosis of thymic tumor cells. Thymoma with necrosis should be considered as a differential diagnosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963979/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:42963979",
+      "doi:10.1111/1759-7714.70409"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "42963880",
+    "doi": "10.1002/eji.70305",
+    "pmcid": "",
+    "title": "High Expression of ACKR4 in Thymic Epithelial Progenitors of Adult Mice.",
+    "authors": "Hub E, Odaka C, Russo S et al.",
+    "journal": "Eur J Immunol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "High ACKR4-expressing cells located in the subcapsular zone and around pericytes at the corticomedullary junction express thymic epithelial cell (TEC) progenitor markers. During cortical TEC regeneration in adult mice, ACKR4 expression is upregulated in cells expressing the transcription factors p63 and Foxn1. Our findings suggest that ACKR4 is preferentially expressed in thymic epithelial progenitors in adult mice.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963880/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:42963880",
+      "doi:10.1002/eji.70305"
+    ]
+  },
+  {
+    "source": "web",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40930154/",
+    "doi": "",
+    "title": "NCCN Guidelines Insights: Non-Small Cell Lung Cancer, Version 7.2025",
+    "summary": "NCCN NSCLC guideline insights; later versions 2026 reported (Version 4.2026 in JNCCN).",
+    "published": "2025",
+    "searches": [
+      "guidelines-meetings"
+    ],
+    "keys": [
+      "url:https://pubmed.ncbi.nlm.nih.gov/40930154"
+    ]
+  }
+]
