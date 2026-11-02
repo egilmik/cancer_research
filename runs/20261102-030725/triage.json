@@ -1,0 +1,110 @@
+{
+ "pmid:42966193": {
+  "relevance": "medium",
+  "reason": "Single-centre series of young patients with stage I lung adenocarcinoma and driver prevalence; retrospective."
+ },
+ "pmid:42965979": {
+  "relevance": "medium",
+  "reason": "Preclinical TALE base-editing LNP targeting KRAS in NSCLC models."
+ },
+ "pmid:42965610": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42965253": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42964983": {
+  "relevance": "medium",
+  "reason": "Preclinical covalent Cys775 EGFR inhibitors active in osimertinib-resistant models."
+ },
+ "pmid:42964815": {
+  "relevance": "high",
+  "reason": "Multicentre real-world cohort (n=385; validation n=200) linking PD-L1 TPS\u226550% to shorter rwPFS/OS on first-line osimertinib; retrospective, association only."
+ },
+ "pmid:42964587": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42965526": {
+  "relevance": "high",
+  "reason": "Systematic review/meta-analysis of local ablation for oligoprogression on ICI (22 studies, 4 per pooled analysis); relevant to local-therapy criteria but low-certainty observational data."
+ },
+ "pmid:42966842": {
+  "relevance": "high",
+  "reason": "Review of PD-(L)1\u00d7VEGF bispecific data from ASCO 2026 incl. phase 3 HARMONi-6 OS benefit in squamous NSCLC; directly on the immunotherapy/bispecific criteria, though a secondary summary."
+ },
+ "pmid:42966192": {
+  "relevance": "high",
+  "reason": "Randomised phase 2 DURATION (n=201) of mCARG-guided first-line treatment in older/vulnerable NSCLC patients incl. early durvalumab switch; relevant to elderly care, phase 2 with prognostic rather than predictive findings."
+ },
+ "pmid:42965695": {
+  "relevance": "medium",
+  "reason": "Exploratory secondary analysis (n=42) of early functional decline on first-line ICI; supportive care."
+ },
+ "pmid:42964859": {
+  "relevance": "high",
+  "reason": "Randomised double-blind phase 2 (n=73) of risedronate to protect ribs after lung SBRT; repurposed-drug RCT, primary endpoint negative."
+ },
+ "pmid:42967056": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42967023": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42966882": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42965079": {
+  "relevance": "medium",
+  "reason": "Preclinical light-switchable mesothelin CAR-T system."
+ },
+ "pmid:42964569": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42964387": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42966660": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42965895": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42965843": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42966828": {
+  "relevance": "medium",
+  "reason": "AI chest X-ray algorithm for urgent lung cancer suspicion, retrospective validation (n\u22482887)."
+ },
+ "pmid:42967173": {
+  "relevance": "medium",
+  "reason": "Retrospective CTC/PD-L1-CTC biomarker study in ICI-treated mNSCLC."
+ },
+ "pmid:42966194": {
+  "relevance": "medium",
+  "reason": "Retrospective FDG-PET biomarkers and failure patterns after SBRT for early NSCLC."
+ },
+ "pmid:42964454": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:42964369": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.10.28.762687": {
+  "relevance": "low",
+  "reason": ""
+ }
+}
