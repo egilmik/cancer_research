@@ -1,0 +1,26 @@
+{
+ "pmid:42994820": {
+  "relevance": "medium",
+  "reason": "Case report of almonertinib rechallenge after gefitinib ILD; single patient, hypothesis-generating."
+ },
+ "pmid:42994117": {
+  "relevance": "low",
+  "reason": "Ultrasound for chest wall invasion meta-analysis (4 studies, n=249); diagnostic, outside core criteria."
+ },
+ "pmid:42994905": {
+  "relevance": "low",
+  "reason": "Single case report of METex14 sarcomatoid carcinoma."
+ },
+ "pmid:42994743": {
+  "relevance": "low",
+  "reason": "Narrative review of CAR-NK, mostly haematological; no new solid-tumour data."
+ },
+ "pmid:42994535": {
+  "relevance": "medium",
+  "reason": "Single-arm single-centre SBRT boost after CRT in stage III NSCLC (n=51) without durvalumab; hemoptysis concern, not comparable to standard CRT+durvalumab."
+ },
+ "pmid:42994831": {
+  "relevance": "low",
+  "reason": "SEER-based prediction model for thymoma lung metastasis; retrospective."
+ }
+}
