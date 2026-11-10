@@ -1,0 +1,466 @@
+[
+  {
+    "source": "pubmed",
+    "pmid": "43002481",
+    "doi": "",
+    "pmcid": "",
+    "title": "From ADAURA to LAURA: the evolving role of EGFR-targeted therapy in NSCLC.",
+    "authors": "Pan K, Ramalingam SS",
+    "journal": "Clin Adv Hematol Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Epidermal growth factor receptor gene (EGFR) mutations, most commonly involving exon 19 deletion or leucine-858-to-arginine substitution (L858R), define a biologically distinct subset of non-small cell lung cancers (NSCLCs). Third-generation EGFR tyrosine kinase inhibitors have transformed outcomes in metastatic disease, and this benefit has since been extended into localized and locally advanced NSCLC through 3 landmark randomized trials: ADAURA, which established adjuvant osimertinib as standard of care after the resection of stage IB-IIIA disease; NeoADAURA, which demonstrated improved pathologic responses with neoadjuvant osimertinib in resectable stage II-IIIB disease; and LAURA, which established osimertinib consolidation after chemoradiation in unresectable stage III disease. Together, these trials mark a shift away from the mutation-agnostic treatment paradigms that previously guided the treatment of earlier stages of NSCLC toward targeted therapy across curative-intent settings. This review summarizes the evidence supporting perioperative and consolidation EGFR tyrosine kinase inhibitor therapy in resectable and unresectable locally advanced EGFR-mutant NSCLC, and it addresses practical considerations including treatment sequencing, the management of radiation-related toxicity, and central nervous system surveillance. It also examines unresolved questions, including the optimal duration of adjuvant and consolidation therapy, the role of circulating tumor DNA in guiding treatment decisions, and the management of atypical EGFR mutations, which remain outside the evidence base guiding current guidelines. As precision oncology extends further into curative-intent settings, molecular selection is becoming central to treatment planning in locally advanced NSCLC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002481/",
+    "searches": [
+      "egfr-nsclc",
+      "lung-key-evidence",
+      "lung-ctdna-mrd",
+      "lung-local-therapy"
+    ],
+    "keys": [
+      "pmid:43002481"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43002340",
+    "doi": "10.1007/s40199-026-00690-2",
+    "pmcid": "",
+    "title": "EGFR-targeted drugs and resistance mechanisms in non-small cell lung cancer: Molecular insights and emerging therapeutic strategies.",
+    "authors": "Mohammad SI, Vasudevan A, AlRamadneh TN et al.",
+    "journal": "Daru",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Epidermal growth factor receptor (EGFR) plays a pivotal role in the pathogenesis and progression of non-small cell lung cancer (NSCLC), with activating mutations serving as key determinants of sensitivity to targeted therapies. The prevalence and spectrum of EGFR mutations are influenced by histology, ethnicity, and environmental factors, encompassing common alterations such as exon 19 deletions and the L858R point mutation, as well as uncommon variants including exon 20 insertions, kinase domain duplications, and other rare substitutions. These molecular distinctions underlie differential responses to first-, second-, and third-generation tyrosine kinase inhibitors (TKIs), emphasizing the necessity of precise molecular profiling for individualized treatment selection. Although EGFR TKIs initially produce robust responses, resistance inevitably develops via on-target mutations (e.g., T790M, C797S), activation of bypass signaling pathways, co-occurring genetic alterations, and histologic or phenotypic transformation, challenging long-term disease control. Contemporary strategies to overcome resistance include combination therapies integrating TKIs with MEK, MET, or AXL inhibitors, antibody-based therapeutics, bispecific antibodies, antibody-drug conjugates, and emerging multifunctional biologics. Additionally, immunomodulatory interventions and nanotechnology-based delivery systems enhance anti-tumor efficacy while mitigating resistance. Non-invasive monitoring techniques, such as liquid biopsies, circulating tumor DNA profiling, and advanced imaging modalities, enable longitudinal assessment of mutation dynamics and therapeutic response, informing adaptive, precision-guided treatment strategies. This review synthesizes current knowledge on EGFR mutations, resistance mechanisms, and emerging therapeutic approaches in NSCLC, highlighting the integration of molecular, immunologic, and technological modalities to improve patient outcomes and advance precision oncology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002340/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-resistance-nextgen",
+      "nsclc-immunotherapy",
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:43002340",
+      "doi:10.1007/s40199-026-00690-2"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43001251",
+    "doi": "10.1016/j.cpt.2026.02.001",
+    "pmcid": "PMC13744910",
+    "title": "From \"undruggable\" to tractable: Therapeutic advances targeting Kristen rat sarcoma viral homolog glycine to cysteine mutation at codon 12 (KRAS G12C)-mutant cancers and emerging resistance mechanisms.",
+    "authors": "Devanahally S, Dubey S",
+    "journal": "Cancer Pathog Ther",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "This review explains the evolution of Kirsten rat sarcoma viral oncogene homolog glycine to cysteine mutation at codon 12 (KRAS G12C) from an \"undruggable\" target to a manageable oncogenic driver in non-small cell lung cancer (NSCLC). While first-generation inhibitors have significantly improved patient care, the emergence of complex resistance mechanisms necessitates a shift toward precision-driven combination therapies and advanced computational drug discovery. The KRAS G12C mutation is a primary driver in approximately 8.9% of NSCLC patients, particularly smokers. The development of covalent inhibitors, which lock the mutant protein in its inactive state, has transformed treatment for these patients. The Food and Drug Administration (FDA)-approved inhibitors AMG510 (sotorasib) and MRTX-849 (adagrasib) achieve response rates of 37.1% and 42.9-43.0%. Patients typically experience a median progression-free survival of 6.5 months, although the duration of response was often limited to 8-11 months due to resistance. New inhibitors, such as garsorasib, glecirasib, and fulzerasib have recently been approved by the National Medical Products Administration (NMPA)in China, reporting objective response rates (ORRs) of up to 47.9%. Co-mutational contexts heavily influence clinical outcomes, which determine whether a tumor is immunologically \"hot\" or \"cold\". Tumor protein p53 (TP53) co-mutations often result in an \"inflamed\" environment, correlating with superior responses to immune checkpoint inhibitors. Serine/threonine kinase 11 (STK11) and kelch-like ECH-associated protein 1(KEAP1) co-mutations typically promote resistance to both immunotherapy and monotherapy, and require multimodal treatment approaches. Tumors eventually evade treatment through secondary mutations or by bypassing signaling pathways such as mesenchymal-epithelial transition tyrosine kinase (MET) or epidermal growth factor receptor (EGFR). To improve disease control, the field is moving towards next-generation inhibitors and enhanced monitoring. next-generation compound development is focused on dual-state and targeting multiple RAS isoforms (pan-RAS) inhibitors that engage the protein in both its active and inactive forms. Computational tools are being used to accelerate scaffold discovery and predict how mutations might evade new drugs. Real-time monitoring utilizing circulating tumor deoxyribonucleic acid (ctDNA)-based liquid biopsies allows for the detection of minimal residual disease and \"molecular lead time\" to anticipate resistance before it is visible on scans. Standardizing biomarker scoring and ensuring global access to these targeted therapies are essential for equitable care. By integrating structure-based design with personalized combination strategies, the goal is to transform KRAS G12C from a transiently targetable mutation into a chronically manageable condition.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001251/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-drivers",
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:43001251",
+      "doi:10.1016/j.cpt.2026.02.001"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43000443",
+    "doi": "10.1186/s12967-026-08778-8",
+    "pmcid": "",
+    "title": "EGFR mutation prediction in NSCLC from CT images via self-supervised disentangled feature learning and multimodal fusion.",
+    "authors": "Jin J, Cai H, Liu Y et al.",
+    "journal": "J Transl Med",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Computed tomography (CT)-based noninvasive prediction of epidermal growth factor receptor (EGFR) mutation status in non-small cell lung cancer (NSCLC) is highly important for advancing precision diagnosis and treatment. Current detection methods that rely on invasive tissue biopsies present several limitations. This study aimed to develop a model that integrated deep learning and multimodal information for the noninvasive prediction of EGFR-sensitizing mutations (exon 19 deletion and L858R point mutation) in NSCLC patients using contrast-enhanced CT (CE-CT) images.\nMETHODS: We retrospectively included 466 pathologically confirmed NSCLC patients from two centers (413 from our own center for model development and internal validation, and 53 from another center for independent external validation), and proposed a novel paradigm combining disentangled self-supervised learning (D-SSL) with multimodal gated fusion. The D-SSL encoder was pretrained on CT images and tumor ROI masks from the entire 413-patient internal cohort without using EGFR mutation labels and was subsequently fixed for downstream classification. An adaptive gated fusion network was subsequently constructed to dynamically integrate these deep features with traditional radiomics features and clinical information to predict the EGFR-sensitizing mutation status.\nRESULTS: In 20 repeated random splits, the D-SSL fusion models achieved mean AUCs of 0.800 (±0.052) and 0.794 (±0.048) on the training set and internal test set, respectively. One-way ANOVA and subsequent Tukey HSD post-hoc test revealed that the performance on the internal test set of the D-SSL fusion models was significantly superior to that of the clinical models, radiomics models, and radiomics-clinical fusion models (all p < 0.001). On the fully independent external validation set, which was not involved in D-SSL pretraining or downstream model development, the D-SSL fusion models maintained robust performance with a mean AUC of 0.680 (±0.038). Ablation studies showed that models using only the shape head or only the texture head achieved mean AUCs of 0.680 (±0.023) and 0.684 (±0.028), respectively, both significantly lower than that of the complete D-SSL fusion models (both p < 0.001), confirming the complementarity of shape and texture features. Subgroup analysis demonstrated that the model achieved accuracies significantly above the random chance level (50%) in female 83.65% (±3.97%), male 68.90% (±3.72%), smoker 85.07% (±4.41%), and nonsmoker 69.21% (±3.44%) subgroups, suggesting that it did not merely rely on clinical features but captured deep imaging phenotypes associated with EGFR-sensitizing mutations. Feature visualization analysis demonstrated that the D-SSL feature space could effectively distinguish among various imaging manifestation types and pathological categories, confirming the model's ability to capture highly discriminative and clinically meaningful imaging phenotypes.\nCONCLUSIONS: This study developed a framework integrating D-SSL and multimodal fusion for the noninvasive prediction of EGFR-sensitizing mutations in NSCLC. The framework demonstrated strong discrimination in the internal transductive evaluation and retained predictive value in a fully independent external cohort. These findings support the potential of self-supervised representation learning and gated multimodal fusion, while larger multicenter studies using strictly inductive split-before-pretraining designs remain necessary.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000443/",
+    "searches": [
+      "egfr-nsclc",
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:43000443",
+      "doi:10.1186/s12967-026-08778-8"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT07926308",
+    "ct_event": "registered",
+    "title": "Real-world Outcome of Zongertinib in Japan (J-HERZ)",
+    "status": "NOT_YET_RECRUITING",
+    "phases": [],
+    "enrollment": 300,
+    "sponsor": "Boehringer Ingelheim",
+    "conditions": [
+      "Non-small Cell Lung Cancer"
+    ],
+    "interventions": [
+      "Zongertinib"
+    ],
+    "summary": "This study aims to evaluate the real-world effectiveness and safety of zongertinib across treatment lines and human epidermal growth factor receptor 2 (HER2) mutation subtypes in Japanese patients with HER2-mutated non-small cell lung cancer (NSCLC).",
+    "posted": "2026-11-09",
+    "url": "https://clinicaltrials.gov/study/NCT07926308",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "nct:NCT07926308"
+    ]
+  },
+  {
+    "source": "clinicaltrials",
+    "nct": "NCT04294810",
+    "ct_event": "results",
+    "title": "A Study of Tiragolumab in Combination With Atezolizumab Compared With Placebo in Combination With Atezolizumab in Patients With Previously Untreated Locally Advanced Unresectable or Metastatic PD-L1-Selected Non-Small Cell Lung Cancer",
+    "status": "COMPLETED",
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 620,
+    "sponsor": "Hoffmann-La Roche",
+    "conditions": [
+      "Non-Small Cell Lung Cancer"
+    ],
+    "interventions": [
+      "Atezolizumab",
+      "Tiragolumab",
+      "Matching Placebo"
+    ],
+    "summary": "The purpose of the study is to evaluate the efficacy and safety of tiragolumab plus atezolizumab compared with placebo plus atezolizumab in participants with previously untreated locally advanced, unresectable or metastatic PD-L1-selected non-small cell lung cancer (NSCLC), with no epidermal growth factor receptor (EGFR) mutation or anaplastic lymphoma kinase (ALK) translocation. Eligible participants will be randomized in a 1:1 ratio to receive either tiragolumab plus atezolizumab or placebo plus atezolizumab.",
+    "posted": "2026-11-09",
+    "url": "https://clinicaltrials.gov/study/NCT04294810",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-drivers"
+    ],
+    "keys": [
+      "nct-results:NCT04294810"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43000769",
+    "doi": "10.1016/j.ymthe.2026.11.004",
+    "pmcid": "",
+    "title": "Therapeutic Landscape of Folate Receptor-α Targeting: Platforms, Progress, and Clinical Translation.",
+    "authors": "Dey A, Doshi MB, Raul SS et al.",
+    "journal": "Mol Ther",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Folate receptor alpha (FRα) has emerged as a clinically relevant tumor-associated antigen, given its limited distribution in normal epithelial tissues and overexpression in diverse malignancies, including ovarian, endometrial, triple-negative breast cancer, and non-small cell lung cancers. This expression profile has established FRα as a compelling target for immunotherapeutic strategies. Different targeting modalities are under active investigation, ranging from monoclonal antibodies and antibody-drug conjugates to T-cell-redirecting bispecific engagers, chimeric antigen receptor T-cell approaches, biparatopic ADCs and peptide vaccines, each demonstrating promising preclinical and clinical activity. Notably, the ADC mirvetuximab soravtansine has achieved regulatory approval for platinum-resistant ovarian cancer, marking a significant milestone in FRα-targeted therapy. Here, we review the biological significance and characteristics of FRα as a promising and now established therapeutic target. This review consolidates current evidence on FRα-targeted immunotherapies from budding therapies to key established ones, highlighting their mechanisms, clinical outcomes across different cancers, and key challenges encountered during development. By synthesizing clinical and translational insights, this review uniquely addresses the gap by bringing together major FRα-targeted strategies within a single framework, positioning clinical trials as the organizing backbone while integrating biological and engineering insights to explain observed outcomes of FRα as both a biomarker and a therapeutic axis in oncology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000769/",
+    "searches": [
+      "nsclc-resistance-nextgen",
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:43000769",
+      "doi:10.1016/j.ymthe.2026.11.004"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43000326",
+    "doi": "10.1186/s13014-026-02903-z",
+    "pmcid": "",
+    "title": "A retrospective study on stereotactic radiotherapy or whole brain radiotherapy for brain metastases of small cell lung cancer.",
+    "authors": "Pan J, Qiang SJ, Wu C et al.",
+    "journal": "Radiat Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "PURPOSES: Small cell lung cancer (SCLC) frequently results in brain metastases, which significantly impact survival rates. Although whole-brain radiotherapy (WBRT) is the conventional approach, it is associated with neurocognitive side effects. Stereotactic radiotherapy (SRT) offers accurate targeting but lacks established guidelines for managing SCLC's numerous metastases. This research conducted a comparative analysis of SRT, WBRT, and WBRT combined with a boost (WBRT+Boost) to inform clinical management strategies.\nMETHODS: A retrospective analysis was conducted involving 337 patients with SCLC who presented with brain metastases and were treated at Zhejiang Cancer Hospital between 2019 and 2026. The patient groups consisted of those receiving SRT (n = 95), WBRT alone (n = 181), and WBRT+Boost (n = 61). The primary endpoints of the study were intracranial progression-free survival (iPFS) and overall survival (OS). Statistical analyses employed Kaplan-Meier curves, log-rank tests, Cox proportional hazards models, and 1:1 propensity score matching (PSM) to control for confounding variables.\nRESULTS: Pre-PSM, SRT demonstrated a longer median OS compared to WBRT alone (13.47 vs. 8.27 months, P = 0.013), although the differences in iPFS were not statistically significant. Following PSM, the differences in OS diminished (SRT vs. WBRT: 11.77 vs. 8.70 months, P = 0.412), while the WBRT+Boost significantly improved iPFS compared to SRT (8.17 vs. 5.87 months, P = 0.021). Multivariate analysis identified a Karnofsky Performance Status (KPS) of ≥ 90 (HR, 0.63; P = 0.006) and the presence of synchronous metastases (HR, 0.62; P = 0.013) as factors associated with improved OS. Conversely, the presence of extracranial metastases (HR, 2.24; P < 0.001) and more than three brain lesions (HR, 1.44; P = 0.045) were linked to worse OS. Additionally, immunotherapy administered after radiotherapy was found to be protective.\nCONCLUSION: Radiotherapy modality did not significantly impact OS, but WBRT+Boost may enhance intracranial control. Immunotherapy integration is critical. Future prospective studies should define optimal strategies and synergy with immunotherapy.\nCLINICAL TRIAL NUMBER: Not applicable.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000326/",
+    "searches": [
+      "lung-key-evidence",
+      "sclc",
+      "lung-local-therapy"
+    ],
+    "keys": [
+      "pmid:43000326",
+      "doi:10.1186/s13014-026-02903-z"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43000376",
+    "doi": "10.1186/s12957-026-04534-w",
+    "pmcid": "",
+    "title": "Predicting long-term survival following lung cancer resection based on early perioperative immune-metabolic response patterns.",
+    "authors": "Xu H, Bie Y, Li Y et al.",
+    "journal": "World J Surg Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Lung cancer resection is usually associated with surgical stress and systemic immune-metabolic shifts. Existing prognostic tools largely depend on static parameters. We aimed to characterize early perioperative Systemic Immune-Inflammation Index (SII) response patterns and construct a predictive nomogram to risk-stratify patients undergoing lung cancer resection.\nMETHODS: We selected patients with malignant lung neoplasms who underwent resection and had complete perioperative laboratory records from the INSPIRE database (2011-2020). Gaussian finite-mixture modeling within an LCGA framework was applied to classify early SII response patterns from baseline to 24 h postoperatively. Primary and secondary endpoints were overall survival (OS) and intensive care unit (ICU) length of stay, respectively. A perioperative immune-metabolic stress index (PIMSI) nomogram via multivariable logistic regression was established to predict the high-risk Severe Surge response pattern and was internally validated using bootstrap resampling.\nRESULTS: A total of 2,186 patients were included and classified into three early perioperative SII response patterns: Class 1 (Stable; 57.4%), Class 2 (Moderate Increase; 35.8%), and Class 3 (Severe Surge; 6.8%). Compared with the Stable group, patients in the Severe Surge group had longer ICU stays and a higher risk of 5-year mortality (Hazard Ratio [HR] = 2.38, 95% Confidence Interval [CI]: 1.69-3.35, p < 0.001). The PIMSI model, incorporating diabetes history, preoperative C-reactive protein, operative time, prognostic nutritional index, body weight, age, and ASA physical status, showed good discrimination for identifying patients at risk of a Severe Surge response pattern (apparent AUC, 0.828; optimism-corrected AUC, 0.820) and demonstrated clinical net benefit on decision curve analysis.\nCONCLUSIONS: Early perioperative SII trajectories were associated with ICU dependency and prognosis after lung cancer resection. The PIMSI nomogram may support early risk stratification and perioperative care escalation, but it needs further validation with oncological staging and histological adjustment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000376/",
+    "searches": [
+      "lung-nonpharm"
+    ],
+    "keys": [
+      "pmid:43000376",
+      "doi:10.1186/s12957-026-04534-w"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43001588",
+    "doi": "10.1172/jci.insight.205984",
+    "pmcid": "",
+    "title": "T cell-mediated antibody-dependent cellular cytotoxicity provides a therapeutic approach for solid cancers.",
+    "authors": "Richter A, Dotan S, Shendrik P et al.",
+    "journal": "JCI Insight",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "The clinical success of chimeric antigen receptor T cells in treating hematological malignancies has highlighted the immense therapeutic potential of engineering T cells with synthetic receptors. However, the limited availability of tumor-specific antigens and the poor ability of T cells to infiltrate solid tumor cores remain major obstacles for applying this approach to solid tumors. In this study, we identify a subset of CD8+ T cells at inflammatory sites that acquire FcγRI through trogocytosis from infiltrating monocytes, enabling them to perform transient TCR-independent antibody-dependent cellular cytotoxicity (ADCC). Analysis of FcγRI signaling in these T cells revealed that phosphorylation occurs only when antigen density on the membrane exceeds 30 molecules/μm². Exploiting this threshold, we engineered peripheral blood CD8+ T cells to express a modified FcγRI receptor, allowing them to selectively kill tumor cells while largely sparing healthy tissues expressing normal physiological levels of the same antigen. Moreover, expression of FcγRI receptor in T cells was associated with reduced basement membrane interactions, enhancing their capacity to infiltrate tumors and establish long-term immune memory. Collectively, this work establishes T cell-mediated ADCC as a potent therapeutic strategy that leverages antigen density, rather than antigen identity, to achieve selective cancer targeting.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001588/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:43001588",
+      "doi:10.1172/jci.insight.205984"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43001484",
+    "doi": "10.1097/WCO.0000000000001524",
+    "pmcid": "",
+    "title": "Immunotherapy for gliomas: from checkpoint blockade to vaccines, cellular therapy, local immune engineering and combinations.",
+    "authors": "Owens E, Chandar MS, Khasraw M",
+    "journal": "Curr Opin Neurol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "PURPOSE OF REVIEW: Immunotherapy has transformed the treatment of many malignancies but has not yet produced comparable improvements in survival for patients with gliomas. This review examines the biological rationale for immunotherapy across molecularly defined gliomas, lessons from unsuccessful immune checkpoint inhibitor trials, and emerging strategies including vaccines, adoptive cellular therapies, bispecific T-cell engagers, immunocytokines, innate immune modulators, oncolytic viruses, and approaches to improve delivery within the central nervous system.\nRECENT FINDINGS: Randomized studies have established that programmed death-1 (PD-1) blockade alone is insufficient for unselected patients with glioblastoma. Treatment resistance reflects multiple interacting barriers, including low and heterogeneous antigen expression, limited T-cell infiltration, T-cell dysfunction, immunosuppressive myeloid populations, corticosteroid exposure, and treatment-associated lymphopenia. Importantly, these features differ across glioma subtypes. Recent studies demonstrate that vaccines directed against clonal IDH1 and H3K27M mutations can generate durable antigen-specific immunity, while locoregionally delivered chimeric antigen receptor T (CAR-T) cells targeting IL13Rα2, EGFR/EGFRvIII, GD2, and B7-H3 can produce rapid and occasionally durable tumor regression. Oncolytic viruses and immunocytokines provide complementary approaches to remodeling the glioma microenvironment.\nSUMMARY: The principal challenge in glioma immunotherapy is no longer demonstrating that immune cells can recognize and kill glioma cells but converting immune recognition into durable tumor control. Future progress will likely depend on matching therapy to molecular subtype, targeting multiple or clonal antigens, optimizing immune-cell trafficking and persistence, modifying the suppressive microenvironment, and longitudinally monitoring tumor and immune evolution.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001484/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:43001484",
+      "doi:10.1097/wco.0000000000001524"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43001235",
+    "doi": "10.4110/in.2026.26.e40",
+    "pmcid": "PMC13744923",
+    "title": "Antigen-Guided Synthetic Receptor Engineering for Safer T Cell Immunotherapy in Solid Tumors.",
+    "authors": "Kang SJ, Cho HJ, Kim JH et al.",
+    "journal": "Immune Netw",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Engineered T cell therapies have transformed cancer immunotherapy, yet their application to solid tumors remains limited by Ag heterogeneity, shared Ag expression in normal tissues, immunosuppressive tumor microenvironments, and immune-mediated toxicities. These barriers indicate that improving cytotoxic potency alone is insufficient. Instead, therapeutic precision depends on how engineered T cells interpret antigenic and immunological context. We discuss solid tumor Ag biology as a determinant of receptor selection, therapeutic efficacy, and on-target off-tumor toxicity. We then examine chimeric Ag receptor, TCR-based, TCR-mimic, soluble TCR, T cell Ag couplers, TCR fusion constructs, and synthetic TCR and Ag receptor/HLA-independent TCR (STAR/HIT) systems with emphasis on Ag accessibility and signaling architecture. We further summarize toxicity mechanisms, including systemic inflammatory amplification, Ag distribution-dependent tissue injury, TCR cross-reactivity, and receptor-associated signaling dysregulation. Finally, we review programmable strategies, including logic-gated receptors, synthetic Notch circuits, quantitative Ag sensing, adaptor-controlled receptors, and genome editing, as approaches for spatial, temporal, and quantitative control. This Ag-guided framework provides a structured basis for matching Ag biology with receptor architecture and safety-control strategies, while emphasizing the need for careful translational evaluation in solid tumor T cell therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001235/",
+    "searches": [
+      "car-t-solid"
+    ],
+    "keys": [
+      "pmid:43001235",
+      "doi:10.4110/in.2026.26.e40"
+    ]
+  },
+  {
+    "source": "feed",
+    "feed": "http://connect.biorxiv.org/biorxiv_xml.php?subject=cancer_biology",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.11.07.764837v1?rss=1",
+    "doi": "10.64898/2026.11.07.764837",
+    "title": "EGF and EREG regulate early oncoprotein-mediated tissue transformation in intestinal organoids.",
+    "summary": "Somatic mutations, coupled with abnormal extracellular signaling cues, promote tumor development. The abundance and affinity of EGF-family ligands for EGFR influence tissue development and play a central role in organoid culture by differentially regulating the balance between crypt proliferation and villus differentiation in mouse small intestinal organoids (mSIOs). To test how medium ligand composition affects early oncogenic transformation, we generated a Ptprg KO organoid line by CRISPR/Cas9 and two previously described organoid lines harboring synthetic bio-orthogonal expression systems for KRASG12V and {beta}-Ctn4A, activated by the membrane-diffusible ligands TMP or TMP-Cl. Measurements of crypt and villus region area showed that acute oncogenic activity did not alter organoid growth in media containing 50 ng/mL EGF; however, organoids grown without EGF consistently showed differential growth of the crypt region. Furthermore, EREG and sub-saturating EGF (0.5-5 ng/mL) treatments differentially affected crypt/villus development in each organoid line. Finally, we measured organoid morphology and found that crypt domain spatial distribution is independent of crypt area and requires EGF or EREG, highlighting the role of both proliferation and crypt organization in oncogenic tissue transformation.",
+    "published": "2026-11-09",
+    "searches": [
+      "preprints"
+    ],
+    "keys": [
+      "doi:10.64898/2026.11.07.764837",
+      "url:https://www.biorxiv.org/content/10.64898/2026.11.07.764837v1?rss=1"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43001178",
+    "doi": "10.2147/CMAR.S637368",
+    "pmcid": "PMC13744731",
+    "title": "The Miao Formula MYYAT Augments the Antitumor Activity of Cisplatin in Small Cell Lung Cancer Models and is Associated with Changes in SHP2-PI3K/mTOR Signaling.",
+    "authors": "Li X, Yu M, Yang Y et al.",
+    "journal": "Cancer Manag Res",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Small cell lung cancer (SCLC) has a dismal prognosis, and strategies that enhance platinum efficacy are urgently needed. The classical Miao formula Miao-Yao-Yi-Ai-Tang (MYYAT) is used clinically for lung malignancies, but its molecular targets and capacity to modulate chemotherapy responses remain unclear.\nMETHODS: We combined systems pharmacology, molecular docking and molecular dynamics to identify active MYYAT constituents and core targets in SCLC, focusing on the SHP2/PTPN11-PI3K/mTOR axis. Co-expression analysis of the U Cologne SCLC cohort from cBioPortal was used to examine associations between PTPN11 and PI3K/AKT/mTOR genes. NCI-H446 cells were treated with MYYAT-containing rat serum (drug-containing serum, DCS) with or without cisplatin, and proliferation, migration, apoptosis and pathway-related gene and protein expression were measured; an NCI-H446 xenograft model was used to evaluate antitumor efficacy, pathway modulation and tolerability in vivo.\nRESULTS: Network analysis identified 57 active components and 260 overlapping MYYAT-SCLC targets, with enrichment of PI3K/AKT/mTOR signaling and PTPN11 among the central targets. Docking and molecular dynamics were consistent with a predicted interaction between arctigenin and PTPN11. In NCI-H446 cells, MYYAT-containing serum reduced proliferation and migration, increased apoptosis, and lowered the p-SHP2/SHP2 ratio and PI3K and mTOR expression; the combination with cisplatin showed the largest effects. In xenografts, MYYAT slowed tumor growth, and the combination had the lowest observed tumor burden, alongside lower SHP2, PI3K and mTOR expression.\nCONCLUSION: MYYAT showed antitumor activity in the SCLC models studied. Combined treatment yielded a lower observed mean tumor burden than cisplatin alone, but neither a statistically distinct effect nor a drug interaction was established. Changes in SHP2/PTPN11-PI3K/mTOR signaling accompanied the observed effects; a causal role for the pathway remains to be tested.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001178/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:43001178",
+      "doi:10.2147/cmar.s637368"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43000997",
+    "doi": "10.1080/1750743X.2026.2758055",
+    "pmcid": "",
+    "title": "Cost-effectiveness analysis of tarlatamab as second-line therapy for small-cell lung cancer after platinum-based chemotherapy.",
+    "authors": "Li Z, Zhu J, Ma K",
+    "journal": "Immunotherapy",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: The DeLLphi‑304 trial demonstrated that tarlatamab provides superior efficacy compared with chemotherapy in patients with relapsed small-cell lung cancer (SCLC) after first‑line platinum‑based chemotherapy. Our study aimed to evaluate the cost‑effectiveness of tarlatamab as a second‑line treatment for SCLC from the US healthcare payer perspective.\nMETHODS: We developed a three-state partitioned survival model to estimate costs, life‑years (LYs), quality‑adjusted life‑years (QALYs), and the incremental cost‑effectiveness ratio (ICER). Clinical efficacy was obtained from the DeLLphi‑304 trial. Costs and utilities were derived from the Centers for Medicare & Medicaid Services data and published literature. Sensitivity, scenario, and subgroup analyses assessed model uncertainty and heterogeneity.\nRESULTS: Compared with chemotherapy, tarlatamab was associated with an ICER of $1,145,233.86/QALY, which substantially exceeded the willingness‑to‑pay (WTP) threshold of $150,000/QALY. The model was most sensitive to the cost of tarlatamab and the utility of progression-free survival. Probabilistic sensitivity analysis indicated a 0% probability that tarlatamab would be cost-effective at the WTP threshold of $150,000/QALY. A price reduction of more than 82.34% would be required for tarlatamab to achieve cost‑effectiveness.\nCONCLUSIONS: Tarlatamab is unlikely to be cost‑effective as a second‑line treatment for SCLC after platinum‑based chemotherapy at its current price. Substantial price reductions may be necessary for tarlatamab to become cost-effective.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000997/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:43000997",
+      "doi:10.1080/1750743x.2026.2758055"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43002412",
+    "doi": "10.1001/jamaneurol.2026.4017",
+    "pmcid": "",
+    "title": "Identification of RIMKLA-IgG Paraneoplastic Neurological Syndrome With Cerebellar Ataxia.",
+    "authors": "Mandel-Brehm C, Witek N, Kung AF et al.",
+    "journal": "JAMA Neurol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "IMPORTANCE: Autoimmune cerebellar ataxias are debilitating neurological syndromes that need early detection and intervention. Antineural antibodies are a crucial diagnostic marker, however, lack of knowledge of specific autoantibodies in seronegative patients remains a significant challenge.\nOBJECTIVE: To pair a cutting-edge, standardized, and rigorous autoantibody detection pathway with global clinical networks to identify novel autoantibody markers of autoimmune ataxia.\nDESIGN, SETTING, AND PARTICIPANTS: This was a multicenter case series study that included samples of patients with uncharacterized central nervous system disorders, collected between 2015 and 2020 at the University of California, San Francisco (UCSF). A comprehensive screening for additional patients was conducted using a blinded cell-based and tissue-based assay in the French reference center on paraneoplastic neurological syndrome (PNS) and autoimmune encephalitis (AE). Analysis was completed in 2026. Referred participants included those with idiopathic neurological disease with suspicion of autoimmune etiology, controls with noninflammatory disease, and patients with known paraneoplastic autoantibody associations who served as positive controls. Sera and cerebrospinal fluid were collected for autoantibody screening and validation experiments.\nEXPOSURES: Autoantibody screening and candidate antibody validations.\nMAIN OUTCOMES AND MEASURES: Detection of autoantibodies and characterization of their usefulness as biomarkers of autoimmune clinical symptoms.\nRESULTS: A total of 35 patients were referred, and 8 patients (median [IQR] age, 65 [47-74] years; 6 male [75%]) were identified to have IgG targeting the intracellular neural protein ribosomal modification protein RimK-like family member A (RIMKLA). Initially, cerebrospinal fluid (CSF) from a UCSF index patient with small cell lung cancer and inflammatory cerebellar ataxia showed a specific staining pattern in the deep nuclei of the cerebellum and brainstem but was seronegative on all known panels of PNS biomarkers. Subsequent screening identified 7 additional patients sharing a similar clinical profile characterized by progressive cerebellar ataxia, diplopia, cranial VI paresis, and sensory and motor abnormalities. The majority of patients (6 of 8 [75%]) had associated small cell lung cancer. All patients also exhibited inflammatory CSF and immunoglobulin synthesis.\nCONCLUSIONS AND RELEVANCE: In this case series, novel PNS autoantibodies targeting the neural protein RIMKLA were identified in patients with small cell lung cancer and cerebellar ataxia. RIMKLA-IgG represents a new diagnostic biomarker for an intracellular-antigen PNS associated with cerebellar and hindbrain encephalitis with possible peripheral and motor involvement.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002412/",
+    "searches": [
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:43002412",
+      "doi:10.1001/jamaneurol.2026.4017"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43001601",
+    "doi": "10.1002/dc.70229",
+    "pmcid": "",
+    "title": "From Single Cells to the Circulating Tumor Microenvironment: Label-Free Size-Selection and a Morphological Taxonomy for Liquid Biopsy in Cytopathology.",
+    "authors": "Sawabata N, Nishihira M, Karube Y et al.",
+    "journal": "Diagn Cytopathol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "BACKGROUND: Liquid biopsy-here, the analysis of blood-has often focused on counting solitary circulating tumor cells (CTCs), a readout that omits the multicellular architecture governing metastasis. We summarize a hierarchical morphological taxonomy built on the circulating tumor microenvironment (cTME), then ask what an isolation method must deliver before that taxonomy can be applied at the microscope.\nMETHODS: We appraised the literature on label-free size-selection (membrane filtration) of whole blood, comparing suction-driven, microfluidic, and gravity-driven platforms for recovery of intact multicellular units and for readability of the resulting preparations by routine cytologic stains and multiplex immunocytochemistry. The critique is paired with the authors' own single-center experience, reported in labeled subsections.\nRESULTS: Circulating tumor-associated cells (C-TACs) form the functional cellular tier of the cTME: a \"mobile niche\" comprising a malignant core-solitary CTCs and circulating tumor emboli (CTE)-together with non-malignant supporting partners. Antigen-dependent capture disrupts these units and misses non-epithelial partners, whereas size-selection retains them by size and deformability, independently of surface phenotype. We propose the driving force, and hence the shear imposed on captured cells, as the primary axis for classifying these platforms-a testable hypothesis rather than an established result. Chemo-response profiling of the intact collective by an independent group showed 97% concordance with radiological response in therapy-naïve patients; in our own series, perioperative CTE detection stratified adjuvant chemotherapy benefit in non-small cell lung cancer.\nCONCLUSION: Size-selection converts a liquid biopsy into a cytology slide, placing interpretation of the circulating tumor ecosystem within the existing competence of the diagnostic laboratory.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001601/",
+    "searches": [
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:43001601",
+      "doi:10.1002/dc.70229"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43001313",
+    "doi": "10.1016/j.jlb.2026.100674",
+    "pmcid": "PMC13744929",
+    "title": "Validation of a ctDNA-Based comprehensive genomic profiling panel (IST80 Plus) for advanced non-small cell lung cancer.",
+    "authors": "Mediavilla-Medel P, Serna-Blasco R, Robado de Lope L et al.",
+    "journal": "J Liq Biopsy",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Circulating tumor DNA (ctDNA) profiling can complement tissue testing in advanced non-small-cell lung cancer (NSCLC), particularly when tissue is unavailable or unable to capture tumor heterogeneity. We evaluated the analytical and clinical performance of Illumina Solid Tumor Panel 80 (IST80 Plus), a focused hybrid-capture next-generation sequencing assay for plasma genomic profiling. Validation included Seraseq-ctDNA reference materials at 2.5% and 0.5% allele frequencies, six external quality-assessment samples, supernatants from three fusion-positive cell lines, and eighteen plasma samples from patients with previously characterized NSCLC alterations. Sensitivity was assessed for small variants, gene fusions, and copy-number variants (CNVs). Quantitative agreement with reference measurements was evaluated using Pearson and Spearman correlations and Bland-Altman analysis. Robustness was explored by downsampling sequencing reads. Among 158 expected variants, 135 were within the panel's reportable range. Overall sensitivity was 95.56% (129/135), comprising 99.06% for small variants (105/106), 88.88% for fusions (16/18), and 72.73% for CNVs (8/11). For 85 detected small variants with available reference allele frequencies, Pearson's r was 0.99 and Spearman's rho was 0.82. Bland-Altman analysis showed minimal bias (0.04%), with 95% limits of agreement from -0.97% to 1.05%. Sensitivity was 98.41% for variants below 1% allele frequency and 100% for variants at or above 1%. All cell-line fusions were detected, as were three of four expected fusions in clinical samples. Following downsampling 50%, 70%, and 90% of the original reads, 81.18%, 85.88%, and 90.59% of 85 reference small variants remained detectable, respectively. Performance was strongest for small variants, whereas lower sensitivity for CNVs was noted. IST80 Plus showed high sensitivity and quantitative accuracy for small variants and reliable fusion detection in ctDNA. Its focused design may support molecular profiling of advanced NSCLC when sample availability and sequencing efficiency are limiting.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001313/",
+    "searches": [
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:43001313",
+      "doi:10.1016/j.jlb.2026.100674"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43001492",
+    "doi": "10.1080/25310429.2026.2758948",
+    "pmcid": "",
+    "title": "Evolution and distribution of malignant pleural mesothelioma mortality in Spain: 2016-2022.",
+    "authors": "Guerra-Tort C, Martin-Gisbert L, Candal-Pedreira C et al.",
+    "journal": "Pulmonology",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001492/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:43001492",
+      "doi:10.1080/25310429.2026.2758948"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43000614",
+    "doi": "10.1097/PAP.0000000000000560",
+    "pmcid": "",
+    "title": "Mesothelial Proliferations Involving the Gynecologic Tract.",
+    "authors": "Churg A, Malpica A, Hung YP",
+    "journal": "Adv Anat Pathol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Mesothelial proliferations, both benign and malignant, can involve the gynecologic tract, usually as processes on the serosal surfaces. While most gynecologic tumors morphologically differ from mesothelial tumors, borderline and low-grade and high-grade serous carcinomas, and to a lesser extent clear cell carcinomas, can be mistaken for mesothelial processes. Mesothelial and gynecologic tumors can overlap in their immunophenotypes; expression of \"traditional\" mesothelial markers (calretinin, WT1, CK5/6, D2-40) and müllerian markers (PAX8, SOX17) is noted in a subset of both tumor types. While highly specific in the thorax, HEG1 is less specific for mesothelial proliferations in the peritoneal cavity, because gynecologic tumors can be HEG1-positive; however, this problem can be resolved by the addition of claudin-4, which is consistently negative in mesothelial processes and positive in many gynecologic carcinomas. BAP1, MTAP, NF2/merlin, and p53, originally identified by genetic analysis of mesotheliomas, can be useful surrogate immunohistochemical markers to separate benign from malignant mesothelial proliferations. BAP1 immunohistochemistry also allows separation of flat mesothelioma in situ from benign single-layered mesothelial reactions. Lesions with the morphology of well-differentiated papillary mesothelial tumor should be stained for BAP1, as some mesotheliomas in situ can be close morphologic mimics. A variety of translocation-associated mesotheliomas have been described and should be suspected with peritoneal tumors in young patients; in particular, ALK fusion-positive mesotheliomas can be detected by immunohistochemistry and may respond to ALK inhibitors. We summarize the pathologic features of various benign and malignant mesothelial proliferations involving the gynecologic tract with their differential diagnosis and pitfalls.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000614/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:43000614",
+      "doi:10.1097/pap.0000000000000560"
+    ]
+  }
+]
