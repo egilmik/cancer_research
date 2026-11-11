@@ -1,0 +1,302 @@
+{
+ "pmid:43008131": {
+  "relevance": "medium",
+  "reason": "Translational: MTAP loss by IHC in 17% of 243 NSCLCs (24% of stage IV driver-positive); PRMT5i+TKI active in cell lines only."
+ },
+ "pmid:43007370": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43005662": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43005116": {
+  "relevance": "low",
+  "reason": "Single case report of small-cell transformation after EGFR-TKI."
+ },
+ "pmid:43004990": {
+  "relevance": "low",
+  "reason": "Single case of primary afatinib resistance in rare EGFR exon 18 PACC mutation."
+ },
+ "pmid:43004360": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43003698": {
+  "relevance": "medium",
+  "reason": "Cross-sectional real-world data (n=324) on testing/treatment access gaps for EGFR/ALK NSCLC in Mexico; descriptive."
+ },
+ "pmid:43003310": {
+  "relevance": "medium",
+  "reason": "Retrospective global study (n=82) of SBRT in stage I–II EGFRm NSCLC: 4-year rwPFS <50%, median rwPFS 47.1 mo; supports trials of adjuvant TKI after SBRT."
+ },
+ "pmid:43002894": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43005658": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43005584": {
+  "relevance": "medium",
+  "reason": "Latin American expert consensus on lorlatinib toxicity management; expert opinion, no new data."
+ },
+ "pmid:43005504": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43004839": {
+  "relevance": "low",
+  "reason": "Pilot RCT of kava in smokers on risk biomarkers; prevention, not treatment."
+ },
+ "pmid:43004257": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 10 RCTs (n=852): perioperative pulmonary rehabilitation improved QoL and symptoms; high heterogeneity, low certainty."
+ },
+ "pmid:43006123": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43004349": {
+  "relevance": "low",
+  "reason": "Observational cohort of inpatient physiotherapy after lung surgery by age."
+ },
+ "pmid:43005018": {
+  "relevance": "low",
+  "reason": "Case report of anti-Hu neurological syndrome on serplulimab in ES-SCLC."
+ },
+ "pmid:43007374": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43005928": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43005634": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43005471": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43004422": {
+  "relevance": "low",
+  "reason": "Preclinical allogeneic B7-H3 CAR γδ T cells in glioblastoma models."
+ },
+ "pmid:43003068": {
+  "relevance": "low",
+  "reason": "Narrative review of CAR-NK engineering for solid tumours."
+ },
+ "doi:10.64898/2026.11.08.26367556": {
+  "relevance": "medium",
+  "reason": "Phase 1 (n=27 at expansion dose, incl. NSCLC) survivin peptide vaccine OVM-200: safety/immunogenicity only; preprint, not peer reviewed."
+ },
+ "doi:10.64898/2026.11.08.764983": {
+  "relevance": "low",
+  "reason": "Preclinical preprint on ultra-low-dose same-target EGFR inhibitor combinations."
+ },
+ "doi:10.64898/2026.11.07.764982": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43005273": {
+  "relevance": "low",
+  "reason": "Case report of modified tepotinib dosing after capmatinib intolerance."
+ },
+ "pmid:43003982": {
+  "relevance": "high",
+  "reason": "Nat Rev Clin Oncol highlight of a head-to-head trial reporting divarasib outperforming sotorasib/adagrasib in KRAS G12C NSCLC (Krascendo 1); no abstract or effect sizes in the item."
+ },
+ "pmid:43003238": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43003045": {
+  "relevance": "medium",
+  "reason": "Retrospective single-centre series (n=29) of tarlatamab in relapsed SCLC: frequent mixed response (38%), median PFS 3.2 mo, intracranial progression common."
+ },
+ "nct:NCT07928882": {
+  "relevance": "low",
+  "reason": "Not-yet-recruiting TCM granules + chemo-immunotherapy trial in ES-SCLC (n=224), single investigator sponsor."
+ },
+ "nct-results:NCT05353439": {
+  "relevance": "medium",
+  "reason": "Results posted for terminated NCI phase 1 (n=22) of tazemetostat + topotecan + pembrolizumab in recurrent SCLC; dose-finding only."
+ },
+ "nct-results:NCT03910660": {
+  "relevance": "low",
+  "reason": "Prostate cancer (mCRPC) trial; outside lung scope."
+ },
+ "pmid:43004398": {
+  "relevance": "medium",
+  "reason": "Observational ctDNA dynamics during neoadjuvant chemoimmunotherapy (n=138): clearance associated with EFS (HR 0.33, 95% CI 0.11–0.97); exploratory."
+ },
+ "pmid:43003719": {
+  "relevance": "medium",
+  "reason": "Editorial on pCR gap between neoadjuvant immunotherapy and targeted therapy in resectable NSCLC; opinion."
+ },
+ "nct:NCT07928258": {
+  "relevance": "low",
+  "reason": "Lilly phase 1 of LY4336619 ± sofetabart mipitecan in advanced solid tumours incl. NSCLC (n=370)."
+ },
+ "pmid:43007652": {
+  "relevance": "low",
+  "reason": "Taiwan Markov model of LDCT screening for familial risk; modelling."
+ },
+ "pmid:43007081": {
+  "relevance": "medium",
+  "reason": "Secondary analysis of NLST/ITALUNG/LUSI: cystic-airspace cancers 6.1% of screen-detected, similar survival; Lung-RADS 2022 may speed diagnosis."
+ },
+ "pmid:43005061": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43004119": {
+  "relevance": "low",
+  "reason": "Qualitative interviews (n=15) on screening barriers."
+ },
+ "pmid:43003044": {
+  "relevance": "medium",
+  "reason": "Incidental nodule programme (n=2,804): 60% of 73 cancers found in screening-ineligible patients, 82% stage 0–II; retrospective, two US centres."
+ },
+ "pmid:43004446": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43006741": {
+  "relevance": "low",
+  "reason": "Retrospective single-centre comparison of complex vs simple segmentectomy."
+ },
+ "pmid:43003091": {
+  "relevance": "low",
+  "reason": "Translational CD39/CD73 tissue profiling in NSCLC."
+ },
+ "pmid:43005528": {
+  "relevance": "low",
+  "reason": "Danish CT referral audit for non-specific cancer symptoms; not lung-specific."
+ },
+ "pmid:43004366": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43007715": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43005885": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43005194": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43005044": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43004801": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.11.08.762395": {
+  "relevance": "low",
+  "reason": "Preclinical CD40/CD28 co-stimulatory CAR-T preprint."
+ },
+ "doi:10.64898/2026.11.09.765236": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-osimertinib-locally-advanced-unresectable-stage-iii-non-small-cell-lung-cancer": {
+  "relevance": "low",
+  "reason": "FDA osimertinib stage III (LAURA) approval from Sept 2024; older announcement newly captured, already known."
+ },
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-sevabertinib-non-squamous-non-small-cell-lung-cancer": {
+  "relevance": "medium",
+  "reason": "FDA accelerated approval of sevabertinib for HER2-mutant NSCLC (Nov 2025); older announcement newly captured."
+ },
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-datopotamab-deruxtecan-dlnk-egfr-mutated-non-small-cell-lung-cancer": {
+  "relevance": "medium",
+  "reason": "FDA accelerated approval of Dato-DXd in pretreated EGFRm NSCLC (2025); older announcement newly captured."
+ },
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-lazertinib-amivantamab-vmjw-non-small-lung-cancer": {
+  "relevance": "low",
+  "reason": "FDA amivantamab+lazertinib approval (2024); older announcement newly captured."
+ },
+ "url:https://www.ema.europa.eu/en/documents/smop-initial/chmp-summary-positive-opinion-zepzelca_en.pdf": {
+  "relevance": "medium",
+  "reason": "CHMP positive opinion (26 Mar 2026) for lurbinectedin + atezolizumab maintenance in ES-SCLC; not new this week."
+ },
+ "url:https://www.ema.europa.eu/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-tagrisso-ii-56_en.pdf": {
+  "relevance": "low",
+  "reason": "CHMP Tagrisso stage III variation (Nov 2024); older."
+ },
+ "url:https://www.nyemetoder.no/49958a/contentassets/951993b769c1456c9e81f444f486fd7d/id2024_032_durvalumab-tremelimumab_imfinzi-imjudo_ikke-smacellet-lungekreft--metodevurdering---kun-offentlig-versjon.pdf": {
+  "relevance": "medium",
+  "reason": "Nye Metoder HTA (ID2024_032) of durvalumab+tremelimumab in NSCLC; document only, no decision in item."
+ },
+ "url:https://www.nyemetoder.no/49be03/contentassets/1deaee85578f4fc386b34ddd596e593e/beslutningsforum-26052025_protokoll.pdf": {
+  "relevance": "low",
+  "reason": "Beslutningsforum minutes May 2025; older."
+ },
+ "url:https://nyemetoder.no/491eb4/siteassets/documents/forslag/id2020_010_durvalumab-imfinzi-i-komb.-med-kjemoterapi-til-smacellet-lungekreft-utbredt-sykdom.pdf": {
+  "relevance": "low",
+  "reason": "2020 HTA proposal; old."
+ },
+ "url:https://www.biopharmadive.com/news/adaptimmune-tecelra-fda-approval-synovial-sarcoma-tcr-cell-therapy/723156": {
+  "relevance": "low",
+  "reason": "Tecelra (afami-cel) synovial sarcoma approval, Aug 2024; older."
+ },
+ "url:https://www.fiercepharma.com/pharma/fda-approves-iovances-amtagvi-first-cell-therapy-solid-tumor": {
+  "relevance": "low",
+  "reason": "Amtagvi melanoma approval, Feb 2024; older."
+ },
+ "url:https://fda.gov/drugs/resources-information-approved-drugs/fda-approves-pembrolizumab-chemotherapy-unresectable-advanced-or-metastatic-malignant-pleural": {
+  "relevance": "low",
+  "reason": "FDA pembrolizumab mesothelioma approval Sept 2024; older."
+ },
+ "url:https://www.onclive.com/view/nccn-releases-nsclc-guideline-update-dato-dxd-designated-as-a-preferred-second-line-regimen-in-egfr-mutated-disease": {
+  "relevance": "medium",
+  "reason": "NCCN NSCLC v1.2026 (Nov 2025) changes; superseded by later versions."
+ },
+ "url:https://scholars.duke.edu/publication/1816777": {
+  "relevance": "medium",
+  "reason": "JNCCN publication of NCCN NSCLC v4.2026 (Apr 2026); no content in item."
+ },
+ "url:https://ascopost.com/issues/june-25-2026/update-to-asco-guideline-on-advanced-nsclc-without-driver-alterations-adds-retifanlimab-to-treatment-options": {
+  "relevance": "medium",
+  "reason": "ASCO living guideline (Jun 2026) adds retifanlimab + chemotherapy for driver-negative stage IV NSCLC."
+ },
+ "url:https://www.curetoday.com/view/4-lung-cancer-results-from-esmo-2026-patients-should-know": {
+  "relevance": "low",
+  "reason": "Patient-oriented ESMO 2026 recap."
+ },
+ "url:https://www.pharmacytimes.com/view/tarlatamab-and-next-generation-targeted-agents-headline-esmo-2026-lung-cancer-data": {
+  "relevance": "medium",
+  "reason": "Trade press recap of ESMO 2026 lung data (DeLLphi-305, Krascendo 1); DeLLphi-305 already covered in earlier digests."
+ },
+ "url:https://www.cancernetwork.com/view/esmo-2026-the-presentations-that-may-transform-the-lung-cancer-paradigm": {
+  "relevance": "medium",
+  "reason": "Trade press overview of ESMO 2026 lung presentations; no primary data."
+ },
+ "url:https://ecancer.org/en/news/28896-wclc-2026-perioperative-atezolizumab-plus-chemotherapy-more-than-doubles-event-free-survival-in-resectable-stage-ii-iiib-nsclc": {
+  "relevance": "medium",
+  "reason": "WCLC 2026 report on IMpower030 perioperative atezolizumab; trade press, numbers not in item."
+ },
+ "url:https://ecancer.org/en/news/28897-wclc-2026-local-consolidative-therapy-does-not-improve-survival-after-dual-immunotherapy-in-metastatic-nsclc": {
+  "relevance": "medium",
+  "reason": "WCLC 2026 report: LONESTAR local consolidative therapy after nivolumab+ipilimumab did not improve OS/PFS; trade press."
+ },
+ "url:https://touchoncology.com/insight/asco-2026-plenary-late-breaking-abstracts-key-takeaways": {
+  "relevance": "medium",
+  "reason": "ASCO 2026 plenary recap (LIBRETTO-432, HARMONi-6); already-known June 2026 results."
+ },
+ "url:https://targetedonc.com/view/2026-asco-plenary-delivers-practice-changing-progress": {
+  "relevance": "low",
+  "reason": "Second ASCO 2026 plenary recap; duplicate content."
+ }
+}
