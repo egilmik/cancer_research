@@ -1,0 +1,170 @@
+{
+ "pmid:43013781": {
+  "relevance": "low",
+  "reason": "Review of gefitinib in breast cancer; not lung cancer."
+ },
+ "pmid:43013682": {
+  "relevance": "high",
+  "reason": "Prospective trial (n=11) of first-line osimertinib + platinum-etoposide in EGFR/TP53/RB1-mutant LUAD: 5/11 still transformed to SCLC, median PFS 11 mo, OS 33 mo; tiny single-arm study with translational plasticity data."
+ },
+ "pmid:43013362": {
+  "relevance": "medium",
+  "reason": "Plain-language summary of the HARMONi trial (ivonescimab + chemo after EGFR-TKI progression); no new data."
+ },
+ "pmid:43012032": {
+  "relevance": "low",
+  "reason": "Small retrospective (n=66) brain-metastasis prediction model in LUAD."
+ },
+ "pmid:43011008": {
+  "relevance": "low",
+  "reason": "Single case report of ICI cholangiopathy in EGFR-mutant combined SCLC."
+ },
+ "pmid:43010933": {
+  "relevance": "low",
+  "reason": "Case report of adenocarcinoma-to-squamous transformation with new SMAD4/ATM variants."
+ },
+ "pmid:43009907": {
+  "relevance": "low",
+  "reason": "Single case report of afatinib-associated pancreatitis."
+ },
+ "pmid:43009809": {
+  "relevance": "medium",
+  "reason": "Single-centre retrospective PSM cohort (64 vs 156): antibiotics within 60 days before 3rd-gen EGFR-TKI associated with worse PFS (HR 1.63) and OS (HR 1.80); confounding likely."
+ },
+ "pmid:43008835": {
+  "relevance": "low",
+  "reason": "Small retrospective cohort (n=129) of NSCLC with malignant pleural effusion; targetable mutations not associated with survival, 2008-2020 era."
+ },
+ "pmid:43008663": {
+  "relevance": "medium",
+  "reason": "Patient-derived osimertinib-resistant EGFR model showing coexisting CD44+ resistant and CD44- sensitive cell states; preclinical."
+ },
+ "pmid:43013488": {
+  "relevance": "low",
+  "reason": "Computational random-forest analysis of scRNA-seq from KRAS G12C cell lines; hypothesis-generating."
+ },
+ "pmid:43011761": {
+  "relevance": "low",
+  "reason": "Narrative review of the gut-lung axis and ICI response in NSCLC."
+ },
+ "pmid:43008701": {
+  "relevance": "low",
+  "reason": "Preclinical DLL3 nanobody panel and MMAE conjugate in SCLC cell lines."
+ },
+ "pmid:43012886": {
+  "relevance": "low",
+  "reason": "Transcriptomic/functional study of ANXA3 in SCLC-N subtype; preclinical."
+ },
+ "pmid:43011476": {
+  "relevance": "high",
+  "reason": "DIAMOND-2 randomised phase 3 (n=275): dirozalkib vs crizotinib first-line ALK+ NSCLC, PFS 29.5 vs 12.9 mo (HR 0.47); crizotinib is no longer the standard comparator, so not practice-changing."
+ },
+ "pmid:43011465": {
+  "relevance": "medium",
+  "reason": "Single-arm phase II (n=83) of hybrid SABR + low-dose RT during ICI maintenance in driver-negative stage IV NSCLC; 1-yr PFS 54.2%, met primary endpoint; no randomised control."
+ },
+ "pmid:43009212": {
+  "relevance": "low",
+  "reason": "AI tool for trial-eligibility matching using synthetic patients; methodological."
+ },
+ "pmid:43009143": {
+  "relevance": "low",
+  "reason": "Narrative review of dendritic-cell and exosome vaccines in NSCLC; no phase 3 data."
+ },
+ "pmid:43009611": {
+  "relevance": "medium",
+  "reason": "Nat Med news piece on a next-generation KRAS G12C inhibitor improving survival in lung cancer; no abstract, underlying trial and numbers not given in the item."
+ },
+ "pmid:43012492": {
+  "relevance": "low",
+  "reason": "STEMI heart-failure study using a lung-cancer inflammation index; not lung cancer."
+ },
+ "pmid:43011602": {
+  "relevance": "low",
+  "reason": "Qualitative interviews (n=10) to adapt a smoking-cessation intervention for lung cancer patients."
+ },
+ "pmid:43013134": {
+  "relevance": "low",
+  "reason": "Narrative review of multi-layered engineering of cell therapies beyond CAR-T."
+ },
+ "pmid:43012817": {
+  "relevance": "low",
+  "reason": "Bibliometric analysis of CAR-T in breast cancer."
+ },
+ "pmid:43012288": {
+  "relevance": "low",
+  "reason": "In silico design of CLDN4-targeting scFvs for CAR-T in NSCLC; no experimental binding data."
+ },
+ "pmid:43011401": {
+  "relevance": "low",
+  "reason": "Conceptual review on senolytic immunotherapy antigen selection; not oncology cell therapy."
+ },
+ "pmid:43008576": {
+  "relevance": "medium",
+  "reason": "Fourth-generation CAR-T against CD133 and integrin αvβ6 with in vivo xenograft activity in cholangiocarcinoma; preclinical."
+ },
+ "doi:10.64898/2026.11.10.26367577": {
+  "relevance": "medium",
+  "reason": "Preprint, not peer reviewed: shotgun metagenomics lung microbiome study (n=106 lung cancer, 10 controls) showing smoking- and tumour-associated dysbiosis."
+ },
+ "doi:10.64898/2026.11.08.765218": {
+  "relevance": "low",
+  "reason": "Preprint on Drosophila kinome screen in bladder cancer; not lung."
+ },
+ "pmid:43010087": {
+  "relevance": "low",
+  "reason": "Reinforcement-learning de novo RET inhibitor design; computational only."
+ },
+ "pmid:43010020": {
+  "relevance": "low",
+  "reason": "lncRNA MZF1-AS1/miR-27b-3p/KRAS axis in LUAD cells; preclinical."
+ },
+ "pmid:43008906": {
+  "relevance": "low",
+  "reason": "Pan-cancer KCNQ3 bioinformatics with cholangiocarcinoma validation; not lung-focused."
+ },
+ "pmid:43012437": {
+  "relevance": "low",
+  "reason": "Small retrospective series (n=14) of cryobiopsy for DIPNECH diagnosis."
+ },
+ "pmid:43012352": {
+  "relevance": "medium",
+  "reason": "ENETS position statement on somatostatin analogues, including a question on pulmonary carcinoids; consensus, not lung-specific."
+ },
+ "pmid:43010894": {
+  "relevance": "medium",
+  "reason": "Cost-effectiveness model of HARMONi-6 (ivonescimab+chemo vs tislelizumab+chemo, sq NSCLC): ICER $40,328/QALY China, $157,444/QALY US; not cost-effective at current price."
+ },
+ "pmid:43011893": {
+  "relevance": "low",
+  "reason": "Historical overview of AI nodule detection on CT."
+ },
+ "pmid:43011611": {
+  "relevance": "low",
+  "reason": "Narrative review of robotic bronchoscopy as a diagnostic-to-treatment platform."
+ },
+ "pmid:43011554": {
+  "relevance": "low",
+  "reason": "Case report of invasive mucinous adenocarcinoma mimicking infection."
+ },
+ "pmid:43012542": {
+  "relevance": "medium",
+  "reason": "Single-centre PSM (54 pairs): left-upper split-lobe segmentectomy vs lobectomy for NSCLC ≤3 cm, similar 5-yr OS (67.1% vs 63.4%) and RFS; retrospective."
+ },
+ "pmid:43011336": {
+  "relevance": "medium",
+  "reason": "SEER overlap-weighted cohort (n=4,072, age ≥70, stage IA ≤2 cm): segmentectomy associated with higher 5-yr lung-cancer mortality (+4.1/100) that attenuated with adequate nodal evaluation; observational."
+ },
+ "pmid:43013824": {
+  "relevance": "low",
+  "reason": "NEJM letter on interferon-γ in thymoma-associated immune dysregulation; letter."
+ },
+ "pmid:43011149": {
+  "relevance": "low",
+  "reason": "Murine thymic epithelial cell biology; not thymoma."
+ },
+ "url:https://osloeconomics.no/wp-content/uploads/2026/06/Helseokonomisk-analyse-lungekreftscreening-2026.pdf": {
+  "relevance": "medium",
+  "reason": "Oslo Economics health-economic analysis (June 2026) commissioned by Helsedirektoratet of a national LDCT screening programme for ages 50-79; relevant to Norwegian screening decision."
+ }
+}
