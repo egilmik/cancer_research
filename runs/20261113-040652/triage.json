@@ -1,0 +1,222 @@
+{
+ "pmid:43019529": {
+  "relevance": "medium",
+  "reason": "Multicentre retrospective study (n=67, median 3 prior lines) of sunvozertinib in EGFR-mutant NSCLC including common mutations: ORR 32.8%, median PFS 3.2 mo, OS 10.7 mo; small, uncontrolled."
+ },
+ "pmid:43017887": {
+  "relevance": "low",
+  "reason": "Single case report of adjuvant furmonertinib in EGFR-mutant pulmonary sarcomatoid carcinoma."
+ },
+ "pmid:43017048": {
+  "relevance": "low",
+  "reason": "Preclinical medicinal chemistry of quinazoline dual EGFR/VEGFR-2 inhibitors."
+ },
+ "pmid:43016463": {
+  "relevance": "low",
+  "reason": "Case report of SJS/TEN-like reaction to aumolertinib plus vebreltinib."
+ },
+ "pmid:43016333": {
+  "relevance": "low",
+  "reason": "Retraction notice for a 2022 preclinical EGFR-inhibitor chemistry paper."
+ },
+ "pmid:43015991": {
+  "relevance": "low",
+  "reason": "Letter commenting on an H1-antihistamine/EGFR-TKI outcomes study; no new data."
+ },
+ "pmid:43015351": {
+  "relevance": "medium",
+  "reason": "Two real-world cohorts (USZ n=43; Flatiron-FMI n=1927): ERBB2, PIK3CA and TP53 co-alterations associated with shorter first-line osimertinib duration; retrospective, DOT as surrogate."
+ },
+ "pmid:43014696": {
+  "relevance": "high",
+  "reason": "Large multicentre retrospective cohort (n=1488) on first-line osimertinib monotherapy: median rwPFS 16.3 mo, OS 36.7 mo; TP53 mutation (ex19del aHR 1.68), tumour-suppressor co-mutations and PD-L1 predicted very early progression, relevant to choosing FLAURA2/MARIPOSA intensification; retrospective, not validated prospectively."
+ },
+ "nct:NCT07933055": {
+  "relevance": "medium",
+  "reason": "New phase 1b/2 registration (Txinno, n=104): TXN10128 with irinotecan or a TROP2 ADC after third-gen TKI and platinum in EGFR-mutant NSCLC; early-phase, no data."
+ },
+ "pmid:43018586": {
+  "relevance": "low",
+  "reason": "Preclinical CENPB-degrading DNA-PROTAC in TKI-resistant NSCLC models."
+ },
+ "pmid:43017412": {
+  "relevance": "medium",
+  "reason": "Narrative review proposing a Time-Immune-Target framework for relapsed SCLC with DLL3 T-cell engagers and B7-H3/SEZ6 ADCs; no new data."
+ },
+ "pmid:43017034": {
+  "relevance": "low",
+  "reason": "Preclinical photodynamic therapy study in lung cancer cells and xenografts."
+ },
+ "pmid:43016888": {
+  "relevance": "low",
+  "reason": "Case report on robotic bronchoscopy of synchronous discordant lung lesions."
+ },
+ "pmid:43015400": {
+  "relevance": "high",
+  "reason": "Exploratory biomarker analysis of TROPION-Lung01 (n=352 evaluable; 221 nonsquamous without AGAs): computational TROP2 normalized membrane ratio was predictive for Dato-DXd (PFS 7.2 vs 4.0 mo, HR 0.40) but not docetaxel (interaction P=0.0098); retrospective post hoc biomarker, needs prospective validation (TROPION-Lung10/AVANZAR)."
+ },
+ "pmid:43018874": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 14 observational studies (n=15,428): postoperative complications after lung cancer surgery associated with worse RFS (HR 1.77) and OS (HR 1.67); observational, confounded."
+ },
+ "pmid:43016708": {
+  "relevance": "low",
+  "reason": "Delphi consensus on a VTE-prevention service framework for hospitalized lung cancer patients."
+ },
+ "pmid:43016078": {
+  "relevance": "medium",
+  "reason": "Non-randomised controlled trial (n=157) of early bedside resistance exercise after lobectomy: smaller decline in grip strength, no safety signal; non-randomised, single centre, short-term outcomes."
+ },
+ "pmid:43013968": {
+  "relevance": "medium",
+  "reason": "Supplementary analysis of phase III JCOG1413 (n=1699) building zone-specific lymph node metastasis prediction models for cStage I-II NSCLC; model development, not outcome data."
+ },
+ "pmid:43013964": {
+  "relevance": "medium",
+  "reason": "Single-centre retrospective cohort (n=133): longer peri-operative 6-minute walk distance associated with better RFS and OS after NSCLC resection; small, observational."
+ },
+ "pmid:43017855": {
+  "relevance": "low",
+  "reason": "Preclinical inhalable ivermectin nanoparticle study in NSCLC cell lines."
+ },
+ "pmid:43016984": {
+  "relevance": "medium",
+  "reason": "Review of corticosteroid-refractory checkpoint-inhibitor pneumonitis mechanisms and second-line options; evidence largely retrospective."
+ },
+ "pmid:43016569": {
+  "relevance": "low",
+  "reason": "Secondary metagenomic analysis (n=70+40) of a probiotic-butyrate score predicting early anti-PD-1 resistance; small, exploratory."
+ },
+ "pmid:43014304": {
+  "relevance": "low",
+  "reason": "SLC35A2 expression and autophagy in LUAD; preclinical/prognostic biomarker."
+ },
+ "pmid:43018930": {
+  "relevance": "low",
+  "reason": "Narrative review of intrapleural therapies for malignant pleural disease."
+ },
+ "pmid:43016782": {
+  "relevance": "medium",
+  "reason": "Registry-based landscape of CAR/TCR-engineered cell therapy trials in musculoskeletal sarcoma; descriptive, no outcome data."
+ },
+ "pmid:43015569": {
+  "relevance": "low",
+  "reason": "Educational curriculum on CAR-T methods."
+ },
+ "pmid:43015294": {
+  "relevance": "low",
+  "reason": "Commentary on immune niche remodeling for CAR-T persistence in solid tumors; no abstract."
+ },
+ "pmid:43014325": {
+  "relevance": "medium",
+  "reason": "Preclinical MANAGE CAR-T with adapter-gated temporal CAR expression reduced exhaustion and gave complete responses in breast cancer and glioblastoma mouse models; preclinical only."
+ },
+ "doi:10.64898/2026.11.11.765714": {
+  "relevance": "low",
+  "reason": "Preprint on LCK-EGFR signalling in cholangiocarcinoma; not lung, preclinical."
+ },
+ "pmid:43019097": {
+  "relevance": "low",
+  "reason": "Mouse study showing adaptive alectinib dosing inferior to continuous therapy in an ALK xenograft model."
+ },
+ "pmid:43018875": {
+  "relevance": "low",
+  "reason": "Letter on interpreting survival after resection of ALK-rearranged NSCLC; no new data."
+ },
+ "pmid:43017344": {
+  "relevance": "low",
+  "reason": "Preclinical cuproptosis nanoparticle overcoming sotorasib resistance."
+ },
+ "pmid:43016973": {
+  "relevance": "low",
+  "reason": "Bioinformatic/mIHC study of Spark-like CD8+ T cells and anti-PD-1 response (n=100)."
+ },
+ "pmid:43014540": {
+  "relevance": "low",
+  "reason": "Transgenic mouse study of CIP2A in LUAD tumorigenesis."
+ },
+ "pmid:43016387": {
+  "relevance": "low",
+  "reason": "Lymphoma transcriptomics; off-topic for SCLC search."
+ },
+ "pmid:43015307": {
+  "relevance": "low",
+  "reason": "Preclinical NCAM1 and NK-cell resistance in SCLC."
+ },
+ "pmid:43014738": {
+  "relevance": "low",
+  "reason": "Case report of paraneoplastic neurological syndrome with probable SCLC."
+ },
+ "pmid:43013992": {
+  "relevance": "low",
+  "reason": "Letter on risk-adapted care in elderly LS-SCLC; no abstract."
+ },
+ "pmid:43018398": {
+  "relevance": "medium",
+  "reason": "German claims-based cohort (n=6350, 4797 NSCLC) starting ICI 2017-2020: 31.4% new-onset irAE within 6 months, respiratory most common (11.7%); claims coding limits accuracy."
+ },
+ "pmid:43014827": {
+  "relevance": "medium",
+  "reason": "Large real-world East Asian study of immune-related hepatitis and HLA-DQB1*06:01 as predictor in ICI-treated lung cancer; no abstract available to assess size or effect."
+ },
+ "pmid:43018894": {
+  "relevance": "medium",
+  "reason": "SOLACE survey (n=56 radiology professionals, 14 countries) on lung screening workload; small survey."
+ },
+ "pmid:43017459": {
+  "relevance": "low",
+  "reason": "Citizen-science indoor radon monitoring in Catalan schools; educational outcomes."
+ },
+ "pmid:43016693": {
+  "relevance": "low",
+  "reason": "Case report of lattice radiotherapy boost in bulky stage IIIB NSCLC."
+ },
+ "pmid:43015578": {
+  "relevance": "medium",
+  "reason": "Single health-system retrospective study (n=4389 eligible, 23.4% screened): seven social-determinant factors associated with not undergoing lung cancer screening."
+ },
+ "pmid:43015098": {
+  "relevance": "low",
+  "reason": "Editorial on air pollution and lung cancer survival; no new data."
+ },
+ "pmid:43014453": {
+  "relevance": "low",
+  "reason": "Modelling study (n=93) of blood dose and haematological toxicity during chemoradiotherapy."
+ },
+ "pmid:43014435": {
+  "relevance": "medium",
+  "reason": "STS-Medicare linked study (n=103,263): mental health disorders in 24% of NSCLC resection patients, associated with higher perioperative morbidity/mortality; observational."
+ },
+ "nct:NCT07930858": {
+  "relevance": "low",
+  "reason": "Registration of a retrospective cohort study (VESPER, n≈400) comparing segmentectomy vs lobectomy in pN1 NSCLC; retrospective, already completed."
+ },
+ "pmid:43015536": {
+  "relevance": "low",
+  "reason": "Retrospective bicentric cohort (n=46) of high-dose vs standard PIPAC in peritoneal mesothelioma."
+ },
+ "pmid:43014759": {
+  "relevance": "low",
+  "reason": "Narrative review of surgical approaches for thymic epithelial tumours."
+ },
+ "doi:10.64898/2026.11.11.765834": {
+  "relevance": "low",
+  "reason": "Preprint on CD19 CAR-T in autoimmune disease; not solid tumour."
+ },
+ "url:https://nyemetoder.no/4aafb4/siteassets/documents/rapporter/id2023_005_opdivo_yervoy_-nsclc---hurtig-metodevurdering---kun-offentlig-versjon.pdf": {
+  "relevance": "low",
+  "reason": "2023 Norwegian simplified HTA of nivolumab+ipilimumab+chemo in PD-L1-negative squamous NSCLC; old document newly indexed."
+ },
+ "url:https://www.helsedirektoratet.no/retningslinjer/lungekreft-mesoteliom-og-thymom-handlingsprogram/ikke-kurativ-behandling-av-ikke-smacellet-lungekreft/medikamentell-behandling-i-forstelinje": {
+  "relevance": "medium",
+  "reason": "Helsedirektoratet handlingsprogram first-line chapter revision (May 2026): repotrectinib for NTRK-positive disease and subcutaneous pembrolizumab introduced; incremental, already reflected in Norwegian practice."
+ },
+ "url:https://www.mdlinx.com/article/esmo-2026-the-3-late-breakers-worth-your-week/55zIQd6auZD4z2yHQx7Rqm": {
+  "relevance": "medium",
+  "reason": "Trade-press summary of ESMO 2026 late-breakers; secondary source, no new primary data."
+ },
+ "url:https://www.labiotech.eu/?p=138199": {
+  "relevance": "medium",
+  "reason": "News coverage of WCLC 2026: B7-H3 ADCs (risvutatug rezetecan, tambotatug pelitecan) vs topotecan in relapsed SCLC reportedly reduced risk of death 54%, plus HARMONi-2 and PAPILLON updates; secondary source, figures unverified."
+ }
+}
