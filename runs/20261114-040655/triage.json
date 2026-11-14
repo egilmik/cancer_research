@@ -1,0 +1,198 @@
+{
+ "pmid:43021317": {
+  "relevance": "medium",
+  "reason": "Preclinical study (Ba/F3, isogenic xenografts, PDX) showing abemaciclib directly inhibits C797S-mutant EGFR and overcomes osimertinib resistance; no clinical data."
+ },
+ "pmid:43019806": {
+  "relevance": "low",
+  "reason": "Narrative review of APOBEC3 mutational signatures and therapy resistance across solid tumours."
+ },
+ "pmid:43019772": {
+  "relevance": "low",
+  "reason": "Two-patient case report of resuming lung cancer treatment (incl. osimertinib rechallenge) after aplastic anaemia."
+ },
+ "pmid:43023285": {
+  "relevance": "low",
+  "reason": "Mini-review of KRAS G12C inhibitor resistance and PI3K/AKT/mTOR rationale."
+ },
+ "pmid:43023238": {
+  "relevance": "low",
+  "reason": "Preclinical: PRMT1 blockade reverses KRAS G12C inhibitor resistance via ferroptosis in cell lines/xenografts."
+ },
+ "pmid:43021706": {
+  "relevance": "medium",
+  "reason": "Narrative review of recent SCLC advances (lurbinectedin+atezolizumab maintenance, intensified maintenance, novel agents)."
+ },
+ "nct:NCT07936422": {
+  "relevance": "low",
+  "reason": "New registration: Centre Léon Bérard tumour-agnostic phase II platform (MOST Express, n=200) of trastuzumab deruxtecan in molecularly selected cohorts incl. advanced NSCLC; not yet recruiting, no data."
+ },
+ "pmid:43024059": {
+  "relevance": "medium",
+  "reason": "Target-trial emulation (TriNetX, 12,622 matched pairs, diabetes + pulmonary nodule): GLP-1RA vs metformin lung cancer HR 0.77 (0.64-0.92), but null vs SGLT2i and null Mendelian randomisation argue against true chemoprevention."
+ },
+ "pmid:43023514": {
+  "relevance": "low",
+  "reason": "Bioinformatic cisplatin-sensitivity risk score in SCLC cell lines and cohorts."
+ },
+ "pmid:43023453": {
+  "relevance": "low",
+  "reason": "Modelling study of probability-based selection for invasive mediastinal staging vs NCCN/ACCP criteria."
+ },
+ "pmid:43022562": {
+  "relevance": "low",
+  "reason": "Review of multidisciplinary team pathways in stage II-III NSCLC."
+ },
+ "pmid:43021226": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 15 RCTs (n=7,127): first-line ICI-based therapy delayed global QoL deterioration vs chemotherapy (HR 0.75, 0.69-0.81), driven by chemo-immunotherapy; trial-level, open-label PRO bias."
+ },
+ "pmid:43019765": {
+  "relevance": "high",
+  "reason": "Flatiron cohort (n=35,060; 20,016 matched): broad genomic sequencing before first-line therapy associated with longer OS (16 vs 14 mo, aHR 0.91, 0.86-0.95) vs focused testing; retrospective, residual confounding."
+ },
+ "pmid:43019550": {
+  "relevance": "low",
+  "reason": "Scoping review of complementary-medicine interactions with cancer treatment; not lung-specific."
+ },
+ "pmid:43020101": {
+  "relevance": "low",
+  "reason": "US Medicaid policy study of smoking-cessation assistance and screening in Latino clinic patients."
+ },
+ "pmid:43023283": {
+  "relevance": "low",
+  "reason": "Case report of ICI-associated HLH and hearing loss on adjuvant pembrolizumab."
+ },
+ "pmid:43020531": {
+  "relevance": "low",
+  "reason": "Preclinical study of cholesterol status and statin sensitivity in NSCLC cell lines."
+ },
+ "pmid:43023427": {
+  "relevance": "low",
+  "reason": "Preclinical B7-H3 CAR-NK cells against paediatric ATRT in xenografts."
+ },
+ "pmid:43022662": {
+  "relevance": "low",
+  "reason": "Review of nanomedicine-enhanced CAR therapy for lung cancer."
+ },
+ "pmid:43021944": {
+  "relevance": "low",
+  "reason": "Three-patient case series of cytokine adsorption for CAR-T toxicities (haematological context)."
+ },
+ "pmid:43021386": {
+  "relevance": "low",
+  "reason": "Review of in vivo CAR immune-cell engineering."
+ },
+ "pmid:43021384": {
+  "relevance": "low",
+  "reason": "Preclinical ZP3-targeted CAR-macrophages in hepatocellular carcinoma models."
+ },
+ "doi:10.64898/2026.11.11.762754": {
+  "relevance": "low",
+  "reason": "Preprint (mouse glioblastoma): mRNA-LNP vaccination remodels TME and induces tissue-resident memory T cells."
+ },
+ "doi:10.64898/2026.11.12.766318": {
+  "relevance": "low",
+  "reason": "Preprint: preclinical NRF2/KEAP1-driven vulnerability to selenite in NSCLC cell models."
+ },
+ "pmid:43023032": {
+  "relevance": "low",
+  "reason": "Case report of amrubicin-induced radiation recall pneumonitis in ES-SCLC."
+ },
+ "pmid:43022029": {
+  "relevance": "low",
+  "reason": "Retrospective single-centre study (n=442) of lymphocyte subset/PD-1 trajectories as prognostic markers."
+ },
+ "pmid:43020822": {
+  "relevance": "low",
+  "reason": "Review of AI approaches to SCLC drug discovery."
+ },
+ "pmid:43022605": {
+  "relevance": "low",
+  "reason": "Preclinical inhalable STING nanoadjuvant vaccine in mouse lung cancer models."
+ },
+ "pmid:43019771": {
+  "relevance": "low",
+  "reason": "Retrospective radiomic/clinical model predicting pathological response to neoadjuvant chemo-immunotherapy."
+ },
+ "nct:NCT07936578": {
+  "relevance": "medium",
+  "reason": "New registration: single-arm exploratory study of ivonescimab + chemo after concurrent chemoradiotherapy in stage IV NSCLC, compared with historical controls."
+ },
+ "pmid:43024743": {
+  "relevance": "low",
+  "reason": "Biosensor development for multiplex miRNA liquid biopsy."
+ },
+ "pmid:43023429": {
+  "relevance": "low",
+  "reason": "US ecological study of county PM2.5 and lung cancer incidence."
+ },
+ "pmid:43021839": {
+  "relevance": "low",
+  "reason": "Case report of Leser-Trélat sign with lung adenocarcinoma."
+ },
+ "pmid:43020876": {
+  "relevance": "medium",
+  "reason": "Prospective cohort (n=119, EVOLUTION) of perioperative ctDNA (PEAC assay): baseline ctDNA-negative DFS HR 0.18; MRD detected in only 48% of relapses, lead time 6.5 mo; single centre, not interventional."
+ },
+ "pmid:43020361": {
+  "relevance": "medium",
+  "reason": "Medicare vs NLST comparison: community screening had less follow-up imaging and more invasive procedures at 6 months, no mortality difference; observational, imputed NLST data."
+ },
+ "pmid:43019606": {
+  "relevance": "medium",
+  "reason": "NELCIN-B3 Chinese LDCT cohort (n=57 cancers): 65% of screen-detected cancers slow-growing (VDT >400 d), especially non-solid and never-smokers; small exploratory sample."
+ },
+ "pmid:43023943": {
+  "relevance": "low",
+  "reason": "Case report of resected right ventricular NSCLC metastasis."
+ },
+ "pmid:43022719": {
+  "relevance": "low",
+  "reason": "In-silico proton therapy planning study in breast cancer; not lung cancer treatment."
+ },
+ "pmid:43020138": {
+  "relevance": "medium",
+  "reason": "Japanese prospective registry (n=96) of particle therapy for cT3N0M0 NSCLC: 3-y OS 48%, local failure 19%, grade>=3 AEs 5%; uncontrolled, selected inoperable patients."
+ },
+ "pmid:43023380": {
+  "relevance": "low",
+  "reason": "Case report of sarcomatoid thymic carcinoma with YAP1::MAML2 fusion."
+ },
+ "pmid:43022139": {
+  "relevance": "low",
+  "reason": "Correction notice for a bioinformatic mesothelioma paper."
+ },
+ "pmid:43021982": {
+  "relevance": "low",
+  "reason": "Case report of CMV retinitis in Good syndrome after thymoma."
+ },
+ "pmid:43021707": {
+  "relevance": "medium",
+  "reason": "Narrative review of pleural mesothelioma advances (CheckMate 743 5-y HR 0.74, BEAT-meso missed OS primary)."
+ },
+ "pmid:43021365": {
+  "relevance": "low",
+  "reason": "Case report of intrathyroidal thymic carcinoma."
+ },
+ "pmid:43020316": {
+  "relevance": "low",
+  "reason": "Preclinical CCL5-CCR5 axis and chemoresistance in mesothelioma models."
+ },
+ "url:https://www.cancer.gov/news-events/cancer-currents-blog/2024/fda-tecelra-synovial-sarcoma-mage-a4": {
+  "relevance": "low",
+  "reason": "Tecelra (TCR-T) FDA approval for synovial sarcoma dated August 2024; old decision surfaced by web search, not lung."
+ },
+ "url:https://www.hmpgloballearningnetwork.com/site/onc/fda-approval/fda-approves-lurbinectedin-plus-atezolizumab-patients-extensive-stage-small": {
+  "relevance": "low",
+  "reason": "Third-party report of the October 2025 FDA approval of lurbinectedin+atezolizumab maintenance; decision already recorded from the FDA page in an earlier run."
+ },
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-pembrolizumab-chemotherapy-unresectable-advanced-or-metastatic-malignant-pleural": {
+  "relevance": "low",
+  "reason": "FDA approval of pembrolizumab+chemo for pleural mesothelioma dated September 2024; old decision outside the window."
+ },
+ "url:https://www.targetedonc.com/view/esmo-2026-adcs-and-new-combinations-advance-lung-cancer-care": {
+  "relevance": "high",
+  "reason": "Conference news summarising ESMO 2026 phase 3 late-breakers in EGFR-mutant NSCLC after TKI (OptiTROP-Lung04 sac-TMT, PANKU-Lung01 iza-bren) and PERSEE; secondary report, no effect sizes in snippet, not peer reviewed."
+ }
+}
