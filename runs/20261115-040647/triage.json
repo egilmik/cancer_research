@@ -1,0 +1,262 @@
+{
+ "pmid:43031614": {
+  "relevance": "low",
+  "reason": "Genomic database/in-silico analysis of CUL3 variants; no clinical implication."
+ },
+ "pmid:43030350": {
+  "relevance": "low",
+  "reason": "Single-centre retrospective cohort (n=124) of first-line EGFR-TKI outcomes; confirms known prognostic factors."
+ },
+ "pmid:43028397": {
+  "relevance": "low",
+  "reason": "Retrospective NGS vs ARMS-PCR detection comparison for EGFR S768 variants; diagnostic-method interest only."
+ },
+ "pmid:43028260": {
+  "relevance": "low",
+  "reason": "Plant extract cytotoxicity in A549 cells with in-silico EGFR docking; preclinical."
+ },
+ "pmid:43028258": {
+  "relevance": "low",
+  "reason": "Transcriptomic risk-score/subtype model in LUAD; bioinformatic, no clinical validation."
+ },
+ "pmid:43027820": {
+  "relevance": "medium",
+  "reason": "Narrative review of resistance mechanisms after osimertinib and matched therapies (ADCs, EGFR-MET); no new data."
+ },
+ "pmid:43026871": {
+  "relevance": "medium",
+  "reason": "Systematic review of 5 retrospective real-world tarlatamab studies in SCLC: ORR 35-67%, mPFS 1.7-4.9 mo, CRS 54-73%, ICANS 23-48%; very low certainty."
+ },
+ "pmid:43026849": {
+  "relevance": "low",
+  "reason": "Narrative review of pulmonary enteric adenocarcinoma diagnostics and treatment."
+ },
+ "pmid:43026801": {
+  "relevance": "medium",
+  "reason": "Single-centre RW study (n=135): only 23% eligible for FLAURA, FLAURA2 and MARIPOSA; ineligible patients had shorter OS (22.3 vs 29.9 mo)."
+ },
+ "pmid:43026778": {
+  "relevance": "medium",
+  "reason": "Narrative review of precision perioperative treatment in resectable NSCLC; no new data."
+ },
+ "pmid:43026585": {
+  "relevance": "medium",
+  "reason": "Korean claims study of drug-induced ILD: pembrolizumab HR 2.14 vs nivolumab; 3rd-gen EGFR-TKI lower risk than 2nd-gen; observational."
+ },
+ "pmid:43026205": {
+  "relevance": "low",
+  "reason": "Perspective on AI prediction of actionable alterations from H&E slides."
+ },
+ "pmid:43025364": {
+  "relevance": "medium",
+  "reason": "US RW cohort (n=158) of HER2-mutant advanced NSCLC describing poor outcomes with pre-HER2-TKI-era therapy; context for zongertinib/sevabertinib."
+ },
+ "pmid:43031331": {
+  "relevance": "high",
+  "reason": "Journal news report of phase III OptiTROP-Lung06: sac-TMT + pembrolizumab mPFS 15 vs 5.7 mo vs chemo-pembrolizumab in PD-L1-negative nonsquamous NSCLC; news item, no HR/CI or OS, so not rated practice-changing."
+ },
+ "pmid:43026874": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of 8 prospective cohorts (n=139): pooled intracranial ORR 32% with deruxtecan ADCs in NSCLC brain metastases; low/very low certainty."
+ },
+ "pmid:43026844": {
+  "relevance": "medium",
+  "reason": "Narrative review of strategies after immunotherapy failure in advanced NSCLC."
+ },
+ "pmid:43031605": {
+  "relevance": "low",
+  "reason": "Systematic review of postoperative pneumonia prediction models; not treatment-related."
+ },
+ "pmid:43030768": {
+  "relevance": "medium",
+  "reason": "Small sham-controlled RCT of transcutaneous acupoint stimulation for analgesia during lung cancer surgery; perioperative pain endpoint."
+ },
+ "pmid:43030093": {
+  "relevance": "low",
+  "reason": "Narrative review of omega-3 fatty acids in cachexia; largely preclinical/mixed evidence, not lung-specific."
+ },
+ "pmid:43028742": {
+  "relevance": "low",
+  "reason": "Review of CPET in COPD; not lung cancer."
+ },
+ "pmid:43026905": {
+  "relevance": "medium",
+  "reason": "Narrative review of LCNEC molecular subtypes and treatment."
+ },
+ "pmid:43026884": {
+  "relevance": "low",
+  "reason": "Narrative review of ADC-ICI combinations across solid tumours."
+ },
+ "pmid:43026805": {
+  "relevance": "medium",
+  "reason": "Narrative review on surgery in limited-stage SCLC in the chemoimmunotherapy era; no new data."
+ },
+ "pmid:43026760": {
+  "relevance": "low",
+  "reason": "Narrative review of AI in thoracic surgery."
+ },
+ "pmid:43024975": {
+  "relevance": "low",
+  "reason": "Delphi consensus developing a nurse-led physical activity programme; no outcome data."
+ },
+ "pmid:43025700": {
+  "relevance": "medium",
+  "reason": "NLST post-hoc (n=31,560): recent quitting associated with lower LC mortality (HR 0.62) than LDCT vs CXR (HR 0.88); observational secondary analysis."
+ },
+ "pmid:43030355": {
+  "relevance": "low",
+  "reason": "Cross-sectional study (n=62) of an exploratory functioning score in NSCLC rehabilitation."
+ },
+ "pmid:43030885": {
+  "relevance": "low",
+  "reason": "Case report of Trousseau syndrome in ROS1-positive NSCLC."
+ },
+ "pmid:43025898": {
+  "relevance": "low",
+  "reason": "Blood transcriptomic bioinformatics in lung SCC; exploratory."
+ },
+ "pmid:43031351": {
+  "relevance": "low",
+  "reason": "Expert review of MAGE-A4 TCR-T (afami-cel) in synovial sarcoma; no new data."
+ },
+ "pmid:43027952": {
+  "relevance": "low",
+  "reason": "Preclinical adaptor CAR-T against PSCA in cervical cancer cells."
+ },
+ "pmid:43026834": {
+  "relevance": "low",
+  "reason": "Preclinical study of IL13Ra2 expression regulation in glioblastoma for CAR-T."
+ },
+ "pmid:43026438": {
+  "relevance": "low",
+  "reason": "Mouse SPECT imaging kinetics of NIS-reporter CAR-T cells."
+ },
+ "pmid:43026322": {
+  "relevance": "medium",
+  "reason": "Nat Immunol preclinical CAR-dendritic cell platform suppressing solid tumours in mice; novel concept, no human data."
+ },
+ "pmid:43026080": {
+  "relevance": "low",
+  "reason": "French pharmacovigilance series of secondary cancers after haematologic CAR-T; not solid tumours."
+ },
+ "pmid:43025794": {
+  "relevance": "low",
+  "reason": "Preclinical clusterin overexpression in TCR-T/GD2 CAR-T to reduce exhaustion."
+ },
+ "pmid:43027965": {
+  "relevance": "low",
+  "reason": "Preclinical HERV-K expression and murine ERV vaccine data in NSCLC."
+ },
+ "pmid:43026791": {
+  "relevance": "low",
+  "reason": "Small Viennese registry (n=28) of ALK-TKI sequencing patterns."
+ },
+ "pmid:43030460": {
+  "relevance": "low",
+  "reason": "Case series (n=6) of DOTATOC PET in DIPNECH."
+ },
+ "pmid:43026877": {
+  "relevance": "low",
+  "reason": "Japanese RW database: hospital size and ES-SCLC chemo-ICI outcomes; retrospective."
+ },
+ "pmid:43026561": {
+  "relevance": "low",
+  "reason": "Case report of etoposide-associated angina."
+ },
+ "pmid:43025418": {
+  "relevance": "medium",
+  "reason": "RNA-seq landscape of 1,824 lung tumours across histologies defining 9 transcriptional clusters; translational resource."
+ },
+ "pmid:43026902": {
+  "relevance": "low",
+  "reason": "Narrative review of metabolomics in thoracic oncology."
+ },
+ "pmid:43026737": {
+  "relevance": "low",
+  "reason": "Narrative review of clinical AI in NSCLC."
+ },
+ "pmid:43025949": {
+  "relevance": "low",
+  "reason": "Protocol for village-doctor-led screening implementation in rural China."
+ },
+ "pmid:43025365": {
+  "relevance": "low",
+  "reason": "Microsimulation of smoking patterns and lung cancer incidence in Spain."
+ },
+ "pmid:43025053": {
+  "relevance": "medium",
+  "reason": "Alberta population cohort (n=180,325) showing elevated subsequent primary lung cancer risk in non-lung cancer survivors; relevant to screening eligibility."
+ },
+ "pmid:43025052": {
+  "relevance": "low",
+  "reason": "Single-centre series of lung cancer after lung transplantation (47/2,541)."
+ },
+ "pmid:43031358": {
+  "relevance": "low",
+  "reason": "Concurrent EBUS-TBNA and liquid-biopsy NGS utility; no abstract available."
+ },
+ "pmid:43027298": {
+  "relevance": "low",
+  "reason": "Review of ovarian cancer biomarkers; off-topic."
+ },
+ "pmid:43030705": {
+  "relevance": "medium",
+  "reason": "US RW cohort of unresectable stage III NSCLC with vs without durvalumab consolidation after cCRT; descriptive."
+ },
+ "pmid:43028493": {
+  "relevance": "low",
+  "reason": "Retrospective series (n=83) of nodule marking before robotic resection."
+ },
+ "pmid:43026896": {
+  "relevance": "low",
+  "reason": "Retrospective study of postoperative lung function vs segment-count prediction."
+ },
+ "pmid:43025235": {
+  "relevance": "medium",
+  "reason": "Multicentre RW study (n=321) of induction chemoimmunotherapy before CRT in stage III NSCLC; retrospective, confounded."
+ },
+ "pmid:43026610": {
+  "relevance": "low",
+  "reason": "Radiomics/dosiomics model for radiation pneumonitis prediction; retrospective dual-centre."
+ },
+ "pmid:43028363": {
+  "relevance": "low",
+  "reason": "Image report of cryoablation analgesia after VATS pleurectomy with HITHOC in thymoma."
+ },
+ "pmid:43027974": {
+  "relevance": "low",
+  "reason": "Single-patient case of thymoma with hypogammaglobulinaemia."
+ },
+ "pmid:43027900": {
+  "relevance": "low",
+  "reason": "Review of MTAP loss as biomarker across cancers."
+ },
+ "pmid:43027710": {
+  "relevance": "low",
+  "reason": "Review of Hassall's corpuscle biology."
+ },
+ "pmid:43026862": {
+  "relevance": "medium",
+  "reason": "Single-centre retrospective study of oral VEGFR-TKI salvage therapy in mesothelioma."
+ },
+ "pmid:43026817": {
+  "relevance": "low",
+  "reason": "Review of BAP1 in sarcoma."
+ },
+ "pmid:43026761": {
+  "relevance": "low",
+  "reason": "Review of mesothelioma registries and biobanks."
+ },
+ "pmid:43025701": {
+  "relevance": "high",
+  "reason": "Final PECATI single-arm phase 2 (n=43): lenvatinib + pembrolizumab in pretreated B3 thymoma/thymic carcinoma, mPFS 22.1 mo, mOS 40.2 mo, ORR 25.6%, grade>=3 TRAEs 44%."
+ },
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-osimertinib-chemotherapy-egfr-mutated-non-small-cell-lung-cancer": {
+  "relevance": "low",
+  "reason": "FDA approval page for osimertinib + chemotherapy in EGFR-mutated NSCLC; an earlier, already-established decision newly captured by web search, not a new action."
+ },
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-neoadjuvantadjuvant-durvalumab-resectable-non-small-cell-lung-cancer": {
+  "relevance": "low",
+  "reason": "FDA approval page for perioperative durvalumab in resectable NSCLC; an earlier, already-established decision newly captured by web search, not a new action."
+ }
+}
