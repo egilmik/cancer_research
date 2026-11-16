@@ -1,0 +1,22 @@
+{
+ "pmid:43034279": {"relevance": "medium", "reason": "Exploratory cfDNA fragment-end motif study; motif features correlated with estimated ctDNA abundance in 50 EGFR-mutant NSCLC patients (rho 0.73); methodological, not yet clinically validated."},
+ "pmid:43033550": {"relevance": "low", "reason": "Narrative review of radiolabelled molecular probes and theranostics in lung cancer; no new clinical data."},
+ "pmid:43032665": {"relevance": "low", "reason": "Narrative review of nanomedicine delivery systems for lung cancer drug resistance; largely preclinical."},
+ "pmid:43032549": {"relevance": "low", "reason": "Narrative review of gut microbiota metabolites and immunotherapy in NSCLC; authors note evidence is from small studies and animal models."},
+ "pmid:43034056": {"relevance": "medium", "reason": "Swedish (Linköping) study on how updated cardiopulmonary exercise testing guidelines affect operability assessment for lung cancer surgery; no abstract available, so the findings are unknown."},
+ "pmid:43033142": {"relevance": "low", "reason": "Narrative review of anaesthetic management and oncological outcome in lung cancer surgery; it concludes current evidence does not support choosing an agent for oncological benefit."},
+ "pmid:43031952": {"relevance": "medium", "reason": "Meta-analysis of 10 non-randomised, mostly retrospective studies: ICI-based subsequent therapy after first-line chemoimmunotherapy in ES-SCLC associated with longer OS (HR 0.62, 95% CI 0.51-0.74); high risk of selection bias."},
+ "pmid:43033040": {"relevance": "medium", "reason": "Umbrella review of 76 meta-analyses of prognostic factors in ICI-treated NSCLC; only 7 of 112 associations reached Class I evidence (e.g., ALI, tissue TMB, thyroid dysfunction)."},
+ "pmid:43032124": {"relevance": "low", "reason": "Single-centre retrospective model (n=134) predicting locoregional recurrence after cCRT in driver-negative stage III NSCLC; no external validation."},
+ "pmid:43034147": {"relevance": "medium", "reason": "Small retrospective real-world study (n=94) of second-line regimens after first-line chemoimmunotherapy in ES-SCLC; anti-angiogenic-containing therapy associated with worse OS."},
+ "pmid:43033602": {"relevance": "low", "reason": "Single-centre retrospective cohort of resected typical carcinoids (n=97, 6 recurrences); nodal positivity associated with recurrence; very few events."},
+ "pmid:43032292": {"relevance": "medium", "reason": "Multicentre retrospective cohort (n=307) of thoracic RT timing in ES-SCLC after first-line therapy: no OS difference between consolidative and delayed TRT, longer PFS-DR with consolidative TRT (HR 0.30), more grade 2 pneumonitis."},
+ "pmid:43032111": {"relevance": "low", "reason": "Case report of SCLC after suspected methotrexate-associated lymphoproliferative disorder."},
+ "pmid:43032902": {"relevance": "high", "reason": "Journal news report that adjuvant nivolumab did not improve disease-free survival in resected NSCLC, a negative adjuvant immunotherapy result; no abstract, so trial name, size and HR are not given in the item."},
+ "pmid:43034549": {"relevance": "low", "reason": "Modelling study of PM2.5-attributable mortality in China under the tightened air quality standard; lung cancer is one of several outcomes, not a screening or never-smoker study."},
+ "pmid:43032239": {"relevance": "low", "reason": "Technical evaluation of a size-based microfluidic CTC isolation platform with spike-ins and a few patient samples; analytical only."},
+ "pmid:43033214": {"relevance": "low", "reason": "Dosimetric planning comparison (n=30, mixed tumours) of optimiser effects on cardiac substructure dose; no clinical outcomes."},
+ "pmid:43034640": {"relevance": "low", "reason": "Single-centre UK retrospective series (n=24) of nivolumab+ipilimumab in mesothelioma: mPFS 4.5 mo, mOS 9.5 mo, grade >=3 irAEs 25%, 83% hospitalised; very small."},
+ "pmid:43034220": {"relevance": "medium", "reason": "Retrospective PSM study (n=130; 44 matched pairs) of cytoreductive surgery with vs without hyperthermic intrathoracic chemotherapy for pleural-disseminated thymic epithelial tumours: 3-yr PFS 87.3% vs 48.6% (HR 0.28)."},
+ "pmid:43032416": {"relevance": "low", "reason": "Historical occupational exposure reconstruction at a Colombian asbestos-cement plant; no clinical data."}
+}

@@ -1,0 +1,461 @@
+[
+  {
+    "source": "pubmed",
+    "pmid": "43034279",
+    "doi": "10.1002/ctm2.70901",
+    "pmcid": "",
+    "title": "Fragment-end sequence architecture of cell-free DNA and its association with tumour DNA in non-small cell lung cancer.",
+    "authors": "Das D, Gupta P, Tambade R et al.",
+    "journal": "Clin Transl Med",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "INTRODUCTION: Circulating cell-free DNA (cfDNA) fragmentation patterns provide a promising source of molecular information for liquid biopsy applications. However, the sequence features underlying fragmentation and their relationship to tumour-derived DNA remain incompletely understood. Here, we characterized fragment-end sequence signatures of extracellular cfDNA across cell lines, extracellular compartments, stress conditions and plasma from patients with non-small cell lung cancer (NSCLC).\nMETHODS: cfDNA derived from cell lines was characterized using Oxford Nanopore sequencing, followed by fragment-end analysis. Publicly available Nanopore cfDNA datasets from healthy individuals and NSCLC patients were analyzed to examine dinucleotide patterns and derive a motif ratio index. These signatures were further assessed for their association with estimated ctDNA abundance in an independent cohort of 50 EGFR-mutant NSCLC patients.\nRESULTS: Nanopore sequencing of A549, H460 and WI38 cell-line cfDNA revealed reproducible end-motif patterns, with enrichment of AT-, GT- and CT-containing termini. Analysis of plasma cfDNA from healthy individuals showed distinct end-motif profiles from cell-line-derived cfDNA, with separation maintained after reducing 4-mer motifs to 5'-terminal dinucleotide features. An exploratory motif ratio based on these patterns showed a modest increase in lung cancer patients compared with healthy individuals. In an independent Illumina cohort of 50 NSCLC patients with activating EGFR mutations, 5'-terminal dinucleotide frequencies were associated with estimated circulating tumour DNA (ctDNA) abundance using cross-validated LASSO (Least Absolute Shrinkage and Selection Operator) regression (Spearman ρ = .73, p = 3.35 × 10‒9). The predefined motif ratio showed a strong correlation with estimated ctDNA concentration (Spearman ρ = .76, p = 1.89 × 10‒10).\nCONCLUSION: These findings suggest that simple, interpretable cfDNA end-motif signatures capture sequence features associated with ctDNA abundance and warrant further validation for non-invasive cancer monitoring.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034279/",
+    "searches": [
+      "egfr-nsclc",
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:43034279",
+      "doi:10.1002/ctm2.70901"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43033550",
+    "doi": "10.1016/j.lungcan.2026.109683",
+    "pmcid": "",
+    "title": "Emerging molecular probes for lung cancer: Targets, translational evidence, and theranostic potential.",
+    "authors": "Yu Z, Sun X, Wang P et al.",
+    "journal": "Lung Cancer",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "BACKGROUND: Lung cancer remains a leading cause of cancer incidence and mortality worldwide, and the management of both non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC) has entered the era of precision medicine.\nMETHODS: This review summarizes current progress in radiolabeled molecular probes for lung cancer. Radiotracers were categorized according to their molecular targets, with emphasis on design strategies, preclinical and clinical evidence, current limitations, and potential theranostic applications.\nRESULTS: Evidence ranged from preclinical studies to validated diagnostic or predictive performance, with occasional management changes. EGFR and FAPI imaging supported mutation assessment, response prediction, and staging, while immune-targeted probes characterized checkpoint heterogeneity and immune-cell distribution. MET, HER2, folate receptor alpha, and CXCR4 imaging showed early human feasibility; ALK and CTLA-4 imaging remained predominantly preclinical. Choline and FLT imaging assessed metabolism and early pharmacodynamic responses. Theranostic strategies enabled target confirmation and dosimetry, with FAPI-directed therapy entering clinical investigation and CXCR4-, CD133-, and DLL3-directed therapies showing preclinical efficacy. Translation still requires standardized thresholds, prospective validation, and evidence of benefit from imaging-guided decisions.\nCONCLUSIONS: Molecular probes should be advanced according to the clinical decision they are intended to inform, not target expression alone. Prospective trials must compare imaging-guided pathways with FDG PET/CT and tissue-based standards and must measure downstream treatment selection and patient-important outcomes before routine implementation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033550/",
+    "searches": [
+      "egfr-nsclc",
+      "nsclc-drivers",
+      "sclc"
+    ],
+    "keys": [
+      "pmid:43033550",
+      "doi:10.1016/j.lungcan.2026.109683"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43032665",
+    "doi": "10.1016/j.ijpx.2026.100701",
+    "pmcid": "PMC13761360",
+    "title": "Smart nanomedicine for lung cancer: Overcoming drug resistance and therapeutic barriers through targeted delivery, phototherapy, and theranostics.",
+    "authors": "Colaco V, Gupta A, Jadhav SR et al.",
+    "journal": "Int J Pharm X",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Lung cancer is a leading cause of death in the world and is highly heterogeneous with extensive molecular changes and often resistant to therapy. Despite significant advances in clinical management through surgery, chemotherapy, radiotherapy, and immunotherapy, some of these treatments are limited in effectiveness by late diagnosis, systemic toxicity, poor accumulation, molecular heterogeneity, and acquired resistance. This review provides a comprehensive overview of current and emerging therapeutic strategies for lung cancer, with particular emphasis on advanced drug delivery systems and nanomedicine-based approaches. Recent advances in lipid-based nanoparticles, polymeric nanoparticles and micelles, inorganic nanoparticles, and nanocrystals are highlighted for their ability to improve drug solubility, pharmacokinetics, tumor accumulation, cellular uptake, and controlled drug release. Active targeting and stimuli-responsive nanocarriers can improve tumor selectivity, intracellular drug delivery, and drug retention, potentially addressing selected resistance-associated mechanisms. Gene-delivery and genome-editing approaches offer additional opportunities to modulate resistance-related pathways, while photodynamic and photothermal therapies provide complementary strategies for localized tumor treatment. However, the extent to which these approaches reverse established drug resistance varies with the targeted mechanism and the experimental model employed. Distinguishing functional resistance reversal from improved drug delivery and general anticancer activity is therefore essential for assessing their translational potential.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032665/",
+    "searches": [
+      "nsclc-resistance-nextgen"
+    ],
+    "keys": [
+      "pmid:43032665",
+      "doi:10.1016/j.ijpx.2026.100701"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43032549",
+    "doi": "10.3389/fimmu.2026.1999117",
+    "pmcid": "PMC13760450",
+    "title": "Immunomodulatory mechanisms of gut microbiota-derived metabolites in non-small cell lung cancer: a gut-lung axis perspective.",
+    "authors": "Ye S, Tian T, Huangfu J et al.",
+    "journal": "Front Immunol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "abstract": "Immunotherapy has emerged as a crucial component in the treatment of non-small cell lung cancer (NSCLC). Nevertheless, interindividual variability in efficacy, along with both primary and acquired resistance, as well as immune-related adverse events, continue to limit the benefits for patients. The gut microbiota and its associated metabolites are believed to play a significant role in pulmonary immune regulation via the gut-lung axis, with alterations in this system being associated with NSCLC development and progression, as well as the outcomes of immunotherapy. This review summarizes the key features of gut microbial and metabolic profiles in patients with NSCLC, focusing particularly on the mechanisms by which short-chain fatty acids, bile acids, gut microbiota-associated Trp metabolites, and other microbial metabolites may influence the tumor immune microenvironment and responses to immunotherapy. Furthermore, we consider their potential value in supporting NSCLC diagnosis, prognostic assessment, and treatment-response prediction. Therapies aimed at targeting metabolic pathways, fecal microbiota transplantation, dietary interventions, and microbiome-based preparations present additional avenues for enhancing the efficacy of NSCLC immunotherapy and managing treatment-related toxicity. However, current evidence primarily stems from small clinical studies and animal models, while methodological discrepancies and limited causal evidence impede clinical translation. Future research that integrates longitudinal multi-omics analyses, metabolic tracing, and controlled clinical trials is essential to elucidate the clinical significance of the gut microbiota-metabolite axis in NSCLC immunotherapy and precision medicine.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032549/",
+    "searches": [
+      "nsclc-resistance-nextgen",
+      "lung-nonpharm",
+      "lung-repurposed",
+      "nsclc-immunotherapy",
+      "lung-toxicity"
+    ],
+    "keys": [
+      "pmid:43032549",
+      "doi:10.3389/fimmu.2026.1999117"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43034056",
+    "doi": "10.1136/bmjresp-2026-004227",
+    "pmcid": "",
+    "title": "Clinical impact of updated cardiopulmonary exercise testing guidelines in lung cancer surgery.",
+    "authors": "Kristenson K, Hedman K",
+    "journal": "BMJ Open Respir Res",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034056/",
+    "searches": [
+      "lung-key-evidence",
+      "lung-nonpharm"
+    ],
+    "keys": [
+      "pmid:43034056",
+      "doi:10.1136/bmjresp-2026-004227"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43033142",
+    "doi": "10.1097/ACO.0000000000001722",
+    "pmcid": "",
+    "title": "Can the anesthetic management affect oncological outcome in lung cancer surgery?",
+    "authors": "Kim J, Choi JW, Ahn HJ",
+    "journal": "Curr Opin Anaesthesiol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "PURPOSE OF THE REVIEW: Lung cancer surgery creates a vulnerable perioperative window where anesthetic and physiological interventions may modulate recurrence. This review evaluates the oncological impact of perioperative strategies in non-small-cell lung cancer, proposing a comprehensive 'oncoanesthesia care bundle'.\nRECENT FINDINGS: Current clinical data expose a persistent gap between compelling preclinical rationales and observable clinical outcomes. The recent General Anesthetics in CAncer REsection Surgery (2026), a large-scale evaluation of propofol versus volatile anesthesia, enrolled mixed cancer cohorts and demonstrated no oncological advantage of propofol, underscoring that the ongoing Inhalational Gas Anesthesia and Propofol-based Total IntraVenous Anesthesia trial will provide the first adequately powered, lung cancer-specific evaluation. Similarly, prospective randomized data regarding regional anesthesia have failed to show a significant recurrence benefit in lung cancer surgery. For nonsteroidal anti-inflammatory drugs, the Adjuvant Low-dose ASpirin in Colorectal CAncer trial's recent biomarker-driven success in colorectal cancer highlights the urgent necessity for analogous molecularly tailored investigations in non-small-cell lung cancer. Beyond pharmacological agents, meticulous physiological optimization remains critical: lung-protective ventilation, restrictive-to-euvolemic fluid management, and maintaining normothermia are biologically coherent strategies that preserve the endothelial glycocalyx, optimize interstitial fluid pressure, and maintain natural killer cell function.\nSUMMARY: Current clinical evidence does not justify selecting individual anesthetic agents solely for oncological benefit. Nevertheless, combining tailored pharmacological strategies, specifically opioid-sparing multimodal analgesia, with meticulous physiological optimization into a structured 'oncoanesthesia care bundle' provides a biologically coherent, low-risk framework available for immediate implementation. Future oncological trials must shift from pragmatic pan-cancer designs toward large-scale, patient-, cancer-, and gene-expression-specific trial protocols to truly capture personalized oncological outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033142/",
+    "searches": [
+      "lung-key-evidence",
+      "lung-repurposed"
+    ],
+    "keys": [
+      "pmid:43033142",
+      "doi:10.1097/aco.0000000000001722"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43031952",
+    "doi": "10.3892/ol.2026.15921",
+    "pmcid": "PMC13760317",
+    "title": "Immune checkpoint inhibitor-based vs. non-immunotherapy subsequent treatment after progression on first-line chemoimmunotherapy in extensive-stage small cell lung cancer: A meta-analysis.",
+    "authors": "Long C, Ruan Y, Yang A et al.",
+    "journal": "Oncol Lett",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "First-line chemoimmunotherapy is currently a standard treatment for extensive-stage small cell lung cancer (ES-SCLC), but the value of immune checkpoint inhibitor (ICI)-based subsequent treatment after progression remains uncertain. The present meta-analysis assessed the efficacy and safety of ICI-based vs. non-immunotherapy subsequent treatment after progression on first-line chemoimmunotherapy. The present systematic review and meta-analysis was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 statement. The PubMed, Embase, Web of Science Core Collection, Scopus and Cochrane Library databases were searched from their respective dates of inception to May 8, 2026. Comparative studies evaluating ICI-based vs. non-immunotherapy subsequent treatment after progression on first-line chemoimmunotherapy in ES-SCLC were eligible for inclusion. The primary outcomes were overall survival (OS) and progression-free survival (PFS). Secondary outcomes included objective response rate (ORR), disease control rate (DCR) and grade ≥3 adverse events (AEs) or treatment-related AEs (TRAEs). Hazard ratios (HRs) and risk ratios (RRs) with 95% CIs were pooled using random-effects models. A total of 10 non-randomized comparative studies, including nine retrospective clinical real-world cohorts and one retrospective translational cohort analysis, were included. Among these, six studies contributed to the primary OS and PFS meta-analyses, whereas the remaining four were included in qualitative synthesis or sensitivity analyses because of incomplete eligibility alignment or non-poolable estimates. Compared with non-immunotherapy subsequent treatment, ICI-based subsequent treatment was associated with longer OS (HR, 0.62; 95% CI, 0.51-0.74; P<0.00001) and PFS (HR, 0.51; 95% CI, 0.38-0.69; P<0.0001). The survival associations remained stable in sensitivity analyses using unmatched estimates or additional partially aligned datasets. ICI-based subsequent treatment was also associated with higher ORR (RR, 2.31; 95% CI, 1.61-3.32; P<0.00001) and DCR (RR, 1.51; 95% CI, 1.16-1.98; P=0.003). No significant increase in grade ≥3 AEs or TRAEs was observed (RR, 0.89; 95% CI, 0.56-1.40; P=0.61). To conclude, these findings suggest that ICI-based subsequent treatment was associated with more favorable survival and tumor-response outcomes after progression on first-line chemoimmunotherapy in ES-SCLC, without evidence of a clear increase in severe toxicity. However, given that all included studies were non-randomized comparative studies, with potential treatment-selection bias and regimen heterogeneity, the present findings require prospective validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031952/",
+    "searches": [
+      "lung-key-evidence",
+      "sclc"
+    ],
+    "keys": [
+      "pmid:43031952",
+      "doi:10.3892/ol.2026.15921"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43033040",
+    "doi": "10.1093/oncolo/oyag453",
+    "pmcid": "",
+    "title": "Prognostic Factors for Survival in ICI-Treated NSCLC: An Umbrella Review of Evidence Certainty and Clinical Relevance.",
+    "authors": "Lu J, Feng Y, Guo K et al.",
+    "journal": "Oncologist",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "PURPOSE: Immune checkpoint inhibitors (ICIs) have reshaped the treatment of non-small cell lung cancer (NSCLC), yet the prognostic value of many reported factors remains uncertain. We conducted an umbrella review to evaluate the strength and credibility of evidence linking prognostic factors to overall survival in ICI-treated NSCLC.\nMETHODS: PubMed, Embase, Web of Science, and the Cochrane Library were searched through July 1, 2026. Overlapping meta-analyses were managed using prespecified criteria. Pooled hazard ratios were recalculated, and heterogeneity, prediction intervals, small-study effects, excess significance, and a 10% credibility ceiling were assessed. Evidence was graded using an adapted Ioannidis framework, and methodological quality was evaluated with AMSTAR 2.\nRESULTS: Seventy-six meta-analyses yielded 113 associations across eight prognostic domains, of which 112 were gradable. Seven associations achieved Class I evidence: pretreatment Advanced Lung Cancer Inflammation Index, tissue tumor mutational burden, probiotic exposure, two pretreatment imaging/artificial intelligence-based risk models, ICI-associated thyroid dysfunction, and setting-specific cutaneous immune-related adverse events. Seventeen associations were Class II, 16 Class III, 31 Class IV, and 41 Class V. Several post-baseline and medication-related associations remained susceptible to time-dependent bias and residual confounding. Only 34 reviews were rated as high or moderate quality by AMSTAR 2.\nCONCLUSIONS: Only a small proportion of proposed prognostic factors were supported by highly credible evidence. Statistical credibility does not establish causality, predictive utility, or clinical applicability. Prospective validation using standardized definitions, appropriate time-dependent analyses, and external validation of prognostic models is warranted.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033040/",
+    "searches": [
+      "lung-repurposed",
+      "nsclc-immunotherapy",
+      "lung-toxicity"
+    ],
+    "keys": [
+      "pmid:43033040",
+      "doi:10.1093/oncolo/oyag453"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43032124",
+    "doi": "10.3892/ol.2026.15930",
+    "pmcid": "PMC13760670",
+    "title": "Risk prediction for locoregional recurrence in mutant-negative unresectable stage III non-small cell lung cancer after concurrent chemoradiotherapy: A retrospective study.",
+    "authors": "Liu J, Qiu Y, Yang Z et al.",
+    "journal": "Oncol Lett",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Locoregional recurrence (LRR) is a major factor affecting prognosis in patients with driver mutation-negative unresectable stage III non-small cell lung cancer (NSCLC) after concurrent chemoradiotherapy. The present study aimed to identify independent risk factors for LRR in this patient population and develop a simple predictive model. The present retrospective study included 134 patients with NSCLC treated between February 2020 and April 2025. Clinicopathological factors were analyzed using Cox regression, and notable predictors were integrated into a risk stratification model. Multivariate analysis identified T3-4 stage and persistently abnormal cytokeratin fragment antigen 21-1 levels after treatment as independent risk factors for LRR. A risk stratification model incorporating these two factors successfully stratified patients into low- and high-risk groups, with marked differences in time to recurrence. The findings of the present study indicate that highrisk patients can benefit from more intensive local treatment or closer surveillance to improve tumor control and clinical outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032124/",
+    "searches": [
+      "nsclc-drivers",
+      "lung-local-therapy"
+    ],
+    "keys": [
+      "pmid:43032124",
+      "doi:10.3892/ol.2026.15930"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43034147",
+    "doi": "10.1002/cam4.72512",
+    "pmcid": "",
+    "title": "Second-Line Treatment of ES-SCLC in the Immunotherapy Era: An Exploratory Real-World Study.",
+    "authors": "Li S, Zhang H, Wang Y et al.",
+    "journal": "Cancer Med",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Currently, immunochemotherapy is the standard first-line treatment for extensive-stage small cell lung cancer (ES-SCLC). However, all recommended second-line strategies have been investigated prior to the advent of immunotherapy, and real-world data on the subsequent treatment landscape in ES-SCLC after disease progression on first-line immunochemotherapy remain limited.\nOBJECTIVES: To characterize the landscape and evaluate clinical outcomes of distinct second-line treatment regimens in patients with ES-SCLC who experienced disease progression following first-line immunochemotherapy in real-world practice.\nDESIGN AND METHODS: We retrospectively enrolled 94 patients with ES-SCLC who progressed after first-line immunochemotherapy and received second-line treatment between February 2020 and February 2024. Eligible patients were divided into three groups based on their second-line treatment regimens: the chemotherapy-alone (C) group, the immunochemotherapy (CI) group, and the anti-angiogenic-containing therapy (AT) group. Kaplan-Meier (K-M) method was applied to compare the survival outcomes. Multivariate Cox regression analyses were conducted to identify independent predictors. Further exploratory subgroup analyses stratified by platinum-free interval (PFI) were performed.\nRESULTS: The median progression-free survival (PFS) and overall survival (OS) for all enrolled patients were 3.77 months and 9.80 months, respectively. Patients in the AT group exhibited the shortest PFS and OS compared to patients in the C group and CI group. Multivariate Cox proportional-hazards regression revealed that adrenal progression pattern was an independent adverse prognostic factor for PFS, whereas AT therapy was independently associated with worse OS. Exploratory subgroup analysis based on PFI showed no significant survival differences among the three treatment groups.\nCONCLUSION: For ES-SCLC patients progressing after first-line immunochemotherapy, second-line AT is associated with inferior OS, but this may reflect treatment selection bias rather than anti-angiogenic therapy itself. Moreover, regardless of PFI status, no significant differences in survival outcomes were observed among patients receiving different treatment regimens; thus, clinical trials should be recommended for patients receiving second-line therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034147/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:43034147",
+      "doi:10.1002/cam4.72512"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43033602",
+    "doi": "10.1016/j.suronc.2026.102587",
+    "pmcid": "",
+    "title": "Pathological nodal involvement and recurrence risk after resection of typical pulmonary carcinoids: A single-centre cohort study.",
+    "authors": "Brascia D, Lo Torto S, Re Cecconi E et al.",
+    "journal": "Surg Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Although typical pulmonary carcinoids (TC) are generally associated with excellent long-term outcomes, a subset of patients develops recurrence after complete resection. Current risk stratification largely relies on tumour size and TNM stage, yet the prognostic determinants of recurrence remain poorly defined. We aimed to identify clinicopathological predictors of recurrence in a homogeneous cohort of resected typical pulmonary carcinoids.\nMETHODS: We retrospectively analysed consecutive patients undergoing surgical resection for pathologically confirmed TC between 2016 and 2022 at a high-volume thoracic surgery centre. Recurrence-free survival was estimated using the Kaplan-Meier method, with deaths occurring without documented recurrence censored at the time of death. Univariable Cox regression identified factors associated with recurrence, and parsimonious multivariable models were constructed according to the number of events.\nRESULTS: Among 115 patients, 97 had complete follow-up; six recurred (6.2%) after a median follow-up of 60.9 months. Nodal positivity showed the strongest recurrence signal and remained associated with recurrence in a parsimonious model including tumour size HR 7.40 (95% CI 1.49-36.83; p = 0.014). Positive node count and lymph node ratio were associated with recurrence in exploratory analyses (both p < 0.001) but were not assessed for incremental value beyond pN. Tumour size, Ki-67, surgical approach, and extent of pulmonary resection did not reach statistical significance. Node-positive patients had worse recurrence-free survival (p = 0.002).\nCONCLUSIONS: In this single-centre cohort of resected typical pulmonary carcinoids, pathological nodal involvement showed a stronger association with recurrence than tumour size. Given the limited number of recurrence events, these findings should be considered hypothesis-generating and require validation in larger multicentre cohorts before informing postoperative risk stratification or surveillance strategies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033602/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:43033602",
+      "doi:10.1016/j.suronc.2026.102587"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43032292",
+    "doi": "10.1016/j.ctro.2026.101345",
+    "pmcid": "PMC13761362",
+    "title": "Delaying thoracic radiotherapy does not compromise overall survival in extensive-stage small cell lung cancer after first-line systemic treatment: a multicenter real-world cohort study.",
+    "authors": "Zheng L, Le X, Huang Y et al.",
+    "journal": "Clin Transl Radiat Oncol",
+    "year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND AND PURPOSE: The optimal timing of thoracic radiotherapy (TRT) following first-line chemoimmunotherapy in patients with extensive-stage small cell lung cancer (ES-SCLC) remains uncertain. This study described TRT timing after first-line treatment and compared the safety and efficacy of consolidative TRT (cTRT) with delay TRT (dTRT) in ES-SCLC.\nMETHODS: A multicenter retrospective cohort study enrolled 307 ES-SCLC patients who received TRT after first-line chemoimmunotherapy or chemotherapy. The primary endpoint was overall survival (OS); progression-free survival from diagnosis to post-radiotherapy recurrence (PFS-DR) was an exploratory endpoint. Propensity score matching (PSM) balanced baseline characteristics. Univariable and multivariable Cox proportional hazards models were used to identify independent prognostic factors for OS and PFS-DR.\nRESULTS: OS did not differ significantly between two groups before or after PSM in either cohort. PFS-DR was longer with cTRT than with dTRT in the full cohort (before PSM: 10.10 vs 6.30 months, HR = 0.30 [95% CI: 0.23-0.39], P < 0.0001; after PSM: 8.70 vs 6.30 months, P < 0.0001) and the immunotherapy-treated subset (before PSM: 9.00 vs 6.63 months, HR = 0.31, P < 0.0001; after PSM: 8.57 vs 6.63 months, P < 0.0001). In the full cohort, the radiation pneumonitis grades differed significantly between groups (P = 0.031), driven by a higher rate of grade II pneumonitis in the cTRT group (11.1% vs 4.0%), while grade ≥ 3 pneumonitis was rare and comparable between groups. In the immunotherapy-treated subset, radiation pneumonitis grades did not differ significantly between groups (grade II, 10.0% vs 6.0%; grade ≥ 3, 2.5% vs 0%). Radiation esophagitis was mostly mild and comparable in either cohort. No treatment-related deaths occurred in either group.\nCONCLUSIONS: Delaying TRT until local progression did not compromise OS relative to cTRT. Exploratory PFS-DR was longer with cTRT than with dTRT. Both strategies showed a favorable safety profile, including in patients receiving immunotherapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032292/",
+    "searches": [
+      "sclc",
+      "lung-local-therapy",
+      "lung-toxicity"
+    ],
+    "keys": [
+      "pmid:43032292",
+      "doi:10.1016/j.ctro.2026.101345"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43032111",
+    "doi": "10.1002/rcr2.70831",
+    "pmcid": "PMC13760264",
+    "title": "Small Cell Lung Cancer Developing After Regression of Clinically Suspected Methotrexate-Associated Lymphoproliferative Disorder: A Diagnostic Pitfall in Rheumatoid Arthritis.",
+    "authors": "Nagayoshi T, Kai Y, Takano M et al.",
+    "journal": "Respirol Case Rep",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Methotrexate-associated lymphoproliferative disorder (MTX-LPD) is a complication of methotrexate therapy in patients with rheumatoid arthritis (RA). Distinguishing suspected MTX-LPD from a new malignancy can be challenging when thoracic lesions appear after regression of earlier lesions. In a 69-year-old man with RA, MTX-LPD was clinically suspected but not histopathologically confirmed during methotrexate therapy. Multiple pulmonary nodules, bilateral adrenal masses and an anterior chest wall lesion regressed after methotrexate withdrawal and corticosteroid therapy. Prednisolone was increased to prevent worsening of RA after methotrexate withdrawal. Approximately 15 months later, he presented with dyspnoea and chest computed tomography revealed multiple right pleural nodules, pleural thickening and pleural effusion. The pleural lesions differed in distribution from the initial abnormalities. Pleural fluid cytology suggested small cell carcinoma and computed tomography-guided biopsy established a diagnosis of small cell lung cancer. Chemotherapy with carboplatin and etoposide resulted in tumour regression and reduced pleural effusion. This case emphasizes that regression following methotrexate withdrawal does not establish MTX-LPD and that new or atypical thoracic lesions warrant renewed diagnostic assessment and tissue confirmation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032111/",
+    "searches": [
+      "sclc"
+    ],
+    "keys": [
+      "pmid:43032111",
+      "doi:10.1002/rcr2.70831"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43032902",
+    "doi": "10.1002/cncr.70638",
+    "pmcid": "",
+    "title": "Adjuvant nivolumab fails to improve disease-free survival in patients with resected NSCLC.",
+    "authors": "Lawrence L",
+    "journal": "Cancer",
+    "year": "2026",
+    "pub_types": [
+      "News"
+    ],
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032902/",
+    "searches": [
+      "nsclc-immunotherapy"
+    ],
+    "keys": [
+      "pmid:43032902",
+      "doi:10.1002/cncr.70638"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43034549",
+    "doi": "10.1016/j.ese.2026.100781",
+    "pmcid": "PMC13769092",
+    "title": "Halving PM2.5 mortality by 2040: China's tightened air quality standard and residual disease burdens.",
+    "authors": "Wang R, Kang N, Zheng Y et al.",
+    "journal": "Environ Sci Ecotechnol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Fine particulate matter (PM2.5) remains one of the leading environmental causes of premature death worldwide, and the World Health Organization has called on countries to halve air-pollution-related mortality by 2040 (the \"halving target\"). China has made major progress in reducing PM2.5 pollution over the past decade, and in 2026 it tightened its National Ambient Air Quality Standards (NAAQS; GB 3095-2026) from 35 to 25 μg m-3 through phased implementation. However, how much this revision moves China toward the halving target, and how its health benefits would differ across diseases, remain unclear. Here we integrated high-resolution PM2.5 data, gridded population estimates, and disease-specific exposure-response functions within a comparative risk assessment framework to estimate PM2.5-attributable mortality in mainland China from 2013 to 2024. In 2024, full compliance with the 25 μg m-3 limit would avert 4.3 times as many deaths as full compliance with the former 35 μg m-3 limit. PM2.5-specific progress toward the halving target would increase from 66.2% under the 35 μg m-3 limit to 83.4% under the 25 μg m-3 limit. Health benefits varied markedly across diseases, with larger responses for chronic obstructive pulmonary disease, stroke, lung cancer, lower respiratory infections, and ischemic heart disease, but much smaller responses for dementia and type 2 diabetes; the dementia estimate requires caution due to weaker evidence. These findings indicate that the revised NAAQS could make a meaningful contribution to reducing PM2.5-attributable mortality and advancing progress toward the halving target, while the marked disease-specific heterogeneity highlights the need to pair future air quality governance with health-oriented strategies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034549/",
+    "searches": [
+      "lung-screening"
+    ],
+    "keys": [
+      "pmid:43034549",
+      "doi:10.1016/j.ese.2026.100781"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43032239",
+    "doi": "10.1016/j.jlb.2026.100678",
+    "pmcid": "PMC13760083",
+    "title": "Performance evaluation of a novel size-based microfluidic platform for rare cell detection in blood and malignant effusions.",
+    "authors": "Saini VM, Oner E, Cahill C et al.",
+    "journal": "J Liq Biopsy",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Circulating tumour cells (CTCs) are promising minimally invasive biomarkers of tumour dissemination and disease biology, but low abundance and phenotypic heterogeneity make them challenging to isolate, particularly in non-small cell lung cancer (NSCLC). Physical cell-selection approaches based on size and deformability may facilitate recovery of heterogeneous tumour populations. This study evaluated the performance of the Bio-Rad™ Genesis Cell Isolation System, a microfluidic platform based on these properties, across different tumour phenotypes and liquid biopsy sample types.\nMETHODS: Recovery capabilities of the Genesis enrichment and enumeration workflows were evaluated using the EpCAM-high H1975 and EpCAM-low H1299 NSCLC cell lines, and a standardised spike-in protocol. Following optimisation, peripheral (Pe) and pulmonary vein (PV) blood from patients with resectable NSCLC, ascites from patients with advanced gynaecological cancers, and matched Pe blood and pleural fluid (PF) from patients with advanced NSCLC were assessed using the enumeration workflow. Tumour cells were identified by immunofluorescence.\nRESULTS: High and consistent recovery was observed for both H1975 and H1299 cells, independent of EpCAM expression, with mean recovery of 68.81 ± 10.53% and 65.17 ± 9.53% using enrichment, and 70.05 ± 10.06% and 80.51 ± 5.72% using enumeration, respectively. CTCs were detected in 2/11 Pe blood and 3/4 PV samples from patients with resectable NSCLC. Ascites contained 69-1113 ascites epithelial cells (AECs)/mL, with 89.31-98.21% occurring within clusters. Pleural epithelial cells (PECs) were identified in 3/3 PF samples from advanced NSCLC patients (16.3-132 cells/mL), predominantly as clusters, but were absent from matched Pe blood. Notably, PECs were detected in PF despite negative cytology in one patient.\nCONCLUSIONS: The Genesis demonstrated consistent, EpCAM-independent recovery, across NSCLC models and enabled tumour cell and cluster detection across diverse clinical liquid biopsy specimens. Its ability to analyse tumour-rich fluids, including a cytology-negative PF sample, supports further investigation as a versatile and complementary platform for rare cell detection and characterisation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032239/",
+    "searches": [
+      "lung-ctdna-mrd"
+    ],
+    "keys": [
+      "pmid:43032239",
+      "doi:10.1016/j.jlb.2026.100678"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43033214",
+    "doi": "10.1002/acm2.70911",
+    "pmcid": "PMC13769377",
+    "title": "Cardiac substructure dose in thoracic VMAT without explicit constraints: FMO versus SPO on uRT-TPOIS with cross-platform reference to eclipse PO.",
+    "authors": "Wu C, Cao Z, Duan T et al.",
+    "journal": "J Appl Clin Med Phys",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "BACKGROUND: Cardiac substructure doses are increasingly recognized as more specific predictors of radiation-induced cardiac toxicity than whole-heart metrics, yet these substructures are often left unconstrained in routine thoracic volumetric-modulated arc therapy (VMAT) planning due to contouring burden or low prioritization.\nPURPOSE: This study aims to evaluate, in the absence of explicit cardiac substructure constraints, whether optimizer selection is associated with differences in cardiac substructure doses within a single treatment planning system (TPS), and to provide a descriptive cross-system reference against a widely used clinical platform.\nMETHODS: Thirty patients (10 each across esophageal, breast, and non-small cell lung cancers) initially treated with clinically delivered Photon Optimizer (PO) plans on the Eclipse platform were retrospectively replanned using two optimization algorithms on the uRT-TPOIS platform: Fluence Map Optimization (FMO) and Stochastic Platform Optimization (SPO). No explicit dose constraints were applied to any cardiac substructure. Prespecified primary endpoints were mean heart dose (MHD), mean dose to the left anterior descending artery (LAD Dmean), mean dose to the left ventricle (LV Dmean), and mean lung dose (MLD), with the latter serving as a pulmonary toxicity reference. All other dosimetric parameters were analyzed as secondary/exploratory endpoints. Paired comparisons used the Wilcoxon signed-rank test, with Benjamini-Hochberg false discovery rate correction applied separately within each cancer type and pairwise comparison for primary endpoints. Secondary endpoints were exploratory and not adjusted for multiplicity.\nRESULTS: Intra-platform comparison within uRT-TPOIS showed that SPO was associated with lower MHD, LAD Dmean, and MLD than FMO in esophageal cancer, and lower MHD, LAD Dmean, and LV Dmean in breast cancer (q < 0.05). In NSCLC, no significant differences were observed for the primary endpoints. In secondary analyses, SPO was associated with shorter beam-on time across all sites and improved target coverage in NSCLC. In descriptive cross-system comparisons with Eclipse PO, SPO was associated with lower primary endpoint doses in esophageal and breast cancers, whereas in NSCLC, only MHD differed significantly, favoring PO. Exploratory analyses suggested additional differences in other cardiac substructures, but these were not adjusted for multiplicity and should be considered hypothesis-generating.\nCONCLUSION: Under the specific uRT-TPOIS protocol and without explicit cardiac substructure constraints, SPO was associated with lower primary endpoint doses than FMO in esophageal and breast cancers, but not in NSCLC. Cross-system comparisons were descriptive and confounded by platform-level factors. Whether explicit cardiac substructure constraints provide incremental benefit remains to be tested in dedicated within-platform studies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033214/",
+    "searches": [
+      "lung-local-therapy",
+      "lung-toxicity"
+    ],
+    "keys": [
+      "pmid:43033214",
+      "doi:10.1002/acm2.70911"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43034640",
+    "doi": "10.7759/cureus.119661",
+    "pmcid": "PMC13769303",
+    "title": "Real-World Toxicity and Hospitalization Outcomes Following Immunotherapy for Malignant Pleural Mesothelioma.",
+    "authors": "David R, Khan R",
+    "journal": "Cureus",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Introduction Malignant pleural mesothelioma (MPM) is an aggressive disease with poor outcomes despite advances in systemic treatment. Combination immune checkpoint inhibitor therapy with nivolumab and ipilimumab is increasingly used in clinical practice for advanced MPM; however, real-world treatment outcomes and treatment-related toxicities remain important considerations. This study evaluated survival outcomes, treatment response, toxicity, and hospitalization in patients with advanced mesothelioma receiving combination immunotherapy with nivolumab and ipilimumab. Methods We conducted a retrospective cohort study of 24 patients with advanced mesothelioma who received nivolumab and ipilimumab at a tertiary NHS hospital in Birmingham, United Kingdom, between April 2021 and October 2025. Demographic and clinical characteristics, treatment exposure, radiological response, progression-free survival (PFS), overall survival (OS), adverse events, and hospital admissions were reviewed. Survival outcomes were assessed using Kaplan-Meier analysis. Results Twenty-four patients were included, of whom 23 (95.8%) had pleural disease and 14 (58.3%) had an Eastern Cooperative Oncology Group performance status of 1. The median number of treatment cycles was five (range, 1-24). Recorded response categories were progressive disease in 12 patients (50%), stable disease in seven (29.2%), partial response in three (12.5%), and mixed response in two (8.3%). Median PFS was 4.5 months, and median OS was 9.5 months. Grade 3 or higher immune-related adverse events occurred in six patients (25%). Twenty patients (83.3%) experienced at least one hospital admission, with 36 admission episodes recorded. Admissions were attributed to immunotherapy-related adverse effects in 16 patients and disease-related or other non-immune complications in four patients. Conclusions Outcomes following nivolumab and ipilimumab varied considerably in this real-world cohort. Hospital admissions occurred in a substantial proportion of patients and were attributed to both immunotherapy-related adverse effects and disease-related complications. These findings highlight the importance of careful assessment, toxicity recognition, and multidisciplinary management during treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034640/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:43034640",
+      "doi:10.7759/cureus.119661"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43034220",
+    "doi": "10.1245/s10434-026-20692-3",
+    "pmcid": "",
+    "title": "Cytoreductive Surgery with or without Hyperthermic Intrathoracic Chemotherapy for Thymic Epithelial Malignancies with Pleural Dissemination.",
+    "authors": "Wang S, Zhu J, Jiang J et al.",
+    "journal": "Ann Surg Oncol",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "OBJECTIVES: Our objectives were to evaluate the comparative clinical outcomes of cytoreductive surgery with or without hyperthermic intrathoracic chemotherapy (HITCH) for thymic epithelial tumors (TETs) with pleural dissemination and to assess the utility of a novel Pleural Tumor Index (PTI) as a practical prognostic tool to guide patient selection.\nMETHODS: This retrospective study evaluated patients with pleural-disseminated TETs who underwent surgery with or without HITCH. The HITCH protocol utilized a standardized sequential dual-agent hyperthermic perfusion (43 °C for 60 mins per session): doxorubicin (25 mg/m2) on postoperative day 1, followed by cisplatin (50 mg/m2) on postoperative day 2. The PTI was used to quantify pleural tumor burden. Propensity score matching was performed to balance baseline covariates. Perioperative and oncological outcomes were compared.\nRESULTS: Of 130 enrolled patients, 66 received surgery plus HITCH (Surg+HITCH) and 64 underwent surgery alone, yielding 44 propensity score-matched pairs. Surg+HITCH was associated with improved 3-year progression-free survival (87.3% vs. 48.6%; hazard ratio 0.28; 95% confidence interval 0.11-0.66; P = 0.013) and lower recurrence (9.09% vs. 36.3%). A PTI score >10 indicated a higher risk of tumor progression. Complication rates were slightly higher in the Surg+HITCH group (75.0% vs. 65.9%) but predominantly involved minor events without increasing intensive care unit stay or mortality.\nCONCLUSIONS: Surg+HITCH safely improves long-term tumor control in patients with pleural-disseminated TETs. The PTI serves as a practical tool for risk stratification to guide patient selection. Further prospective studies are required to validate our findings.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034220/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:43034220",
+      "doi:10.1245/s10434-026-20692-3"
+    ]
+  },
+  {
+    "source": "pubmed",
+    "pmid": "43032416",
+    "doi": "10.5334/aogh.5341",
+    "pmcid": "PMC13761933",
+    "title": "The Sibaté Asbestos-Cement Facility Case Study: Reconstructing the Production Process to Assess Occupational and Environmental Impacts.",
+    "authors": "Giraldo M, Ramos-Bonilla JP, Bedoya L et al.",
+    "journal": "Ann Glob Health",
+    "year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "abstract": "Background: Despite hosting one of the largest asbestos industries in Latin America, Colombia lacked adequate environmental and occupational surveillance, hindering a full understanding of its operations and impacts. The first asbestos-processing facility began operations in the municipality of Sibaté in 1942, where the first cluster of malignant pleural mesothelioma was recently identified. Areas containing friable asbestos waste have also been documented within the urban zone. Objectives: This study aimed to develop and apply a structured approach to (i) reconstruct historical production practices and operational conditions under which workers may have been exposed to asbestos and (ii) identify potential environmental pathways through which asbestos may have been released from the facility into the surrounding environment. Methods: Thirteen former workers were interviewed to reconstruct key production processes, including handling and disposal of raw asbestos and asbestos-containing materials. In parallel, environmental surveillance records from the regional environmental authority for 1980-2019 were reviewed to identify documented environmental management and monitoring practices. Results: Findings identified operational stages and waste-management practices that may have provided potential pathways for asbestos release, including wastewater discharges, sludge disposal, and landfilling in Sibaté and nearby municipalities. Environmental records began only in 1980, leaving the facility's first 38 years of operation (1942-1979) without documented environmental oversight, and included no asbestos-specific monitoring or quantitative exposure data. Conclusions: The Sibaté case shows how asbestos risks persist beyond industrial boundaries, while this study provides a practical framework for countries facing similar surveillance limitations. Findings highlight the need for transparent data, sustained environmental surveillance, and comprehensive remediation to address the long-term environmental and public health consequences of asbestos-contaminated sites.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032416/",
+    "searches": [
+      "thoracic-other"
+    ],
+    "keys": [
+      "pmid:43032416",
+      "doi:10.5334/aogh.5341"
+    ]
+  }
+]
