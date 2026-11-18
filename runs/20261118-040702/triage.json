@@ -1,0 +1,178 @@
+{
+ "pmid:43042116": {
+  "relevance": "medium",
+  "reason": "Medicinal chemistry/structural study of brain-penetrant EGFR TKIs; preclinical."
+ },
+ "pmid:43041313": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43040603": {
+  "relevance": "high",
+  "reason": "Phase 3 ATTLAS QoL: ABCP vs PC after TKI failure (n=228) showed no significant GHS/QoL difference at wk 9/24 but more neuropathy/alopecia; supports the PFS benefit without clear QoL cost."
+ },
+ "pmid:43039370": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43039166": {
+  "relevance": "medium",
+  "reason": "NCDB: only 56% of resected stage IB-IIIB adenocarcinoma tested for EGFR, wide hospital variation (20.8-89.7%)."
+ },
+ "nct:NCT07943325": {
+  "relevance": "medium",
+  "reason": "Investigator-initiated trial (n=198) of delayed ICI application in advanced NSCLC; design question on timing."
+ },
+ "nct:NCT07941583": {
+  "relevance": "high",
+  "reason": "Phase II ivonescimab + iza-bren (n=43) in advanced NSCLC after progression; PD-1/VEGF bispecific plus ADC, early-stage registration."
+ },
+ "nct:NCT07941609": {
+  "relevance": "high",
+  "reason": "AstraZeneca Dato-DXd-based combination (with durvalumab/carboplatin) trial, n=250, relevant to next-gen ADC and resistance criteria."
+ },
+ "pmid:43042846": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43039758": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43038739": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43043991": {
+  "relevance": "medium",
+  "reason": "Preclinical plus retrospective data: alcohol use linked to reduced ICI benefit in lung cancer; hypothesis-generating."
+ },
+ "pmid:43042514": {
+  "relevance": "medium",
+  "reason": "Cohort (n=28,612 men): higher fitness linked to lower lung cancer risk (HR 0.81/MET) and better post-diagnosis survival; observational."
+ },
+ "pmid:43040022": {
+  "relevance": "medium",
+  "reason": "Observational study (n=83 pts): 82% willing for pulmonary rehab after information, 51.5% started; barrier is lack of physician recommendation."
+ },
+ "pmid:43041748": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43042313": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43041962": {
+  "relevance": "medium",
+  "reason": "Preclinical: in vivo-transduced HSC producing CAR T cells delays tumor growth."
+ },
+ "pmid:43041669": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43041613": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43041590": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43040071": {
+  "relevance": "medium",
+  "reason": "Nat Biotechnol: CD7-targeted AAV for in vivo T/NK engineering; preclinical enabling technology for in vivo CAR."
+ },
+ "pmid:43038762": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.11.13.26368045": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.11.14.26368097": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.11.09.765391": {
+  "relevance": "medium",
+  "reason": "Preprint (not peer reviewed): FasL blockade suppresses SCLC liver metastasis in preclinical models."
+ },
+ "pmid:43041481": {
+  "relevance": "medium",
+  "reason": "Case report of lorlatinib-associated sensorineural deafness; anecdotal toxicity signal."
+ },
+ "pmid:43040186": {
+  "relevance": "medium",
+  "reason": "Daraxonrasib first approval was for metastatic PDAC (26 Aug 2026), not NSCLC; relevant only as RAS(ON) inhibitor development context."
+ },
+ "pmid:43039865": {
+  "relevance": "medium",
+  "reason": "Single case report: brigatinib plus chemo after lorlatinib failure with ALK I1171N/G1269A; anecdotal."
+ },
+ "pmid:43039876": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43039378": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43038756": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43042960": {
+  "relevance": "medium",
+  "reason": "Retrospective single-centre (n=116) stage III pathways; imprecise, no superiority claims possible."
+ },
+ "pmid:43041879": {
+  "relevance": "medium",
+  "reason": "Review of T-cell engagers in solid tumors; background."
+ },
+ "pmid:43041755": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43039167": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43043066": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43040999": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43039978": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43042885": {
+  "relevance": "medium",
+  "reason": "Radiation pneumonitis risk biomarker (endothelial activation index) after thoracic RT; method/biomarker paper."
+ },
+ "pmid:43042145": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43040166": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43040162": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43039493": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.11.16.766910": {
+  "relevance": "medium",
+  "reason": "Preprint (not peer reviewed): tumor-responsive AAV to enhance CAR-T in solid tumors; preclinical."
+ }
+}
