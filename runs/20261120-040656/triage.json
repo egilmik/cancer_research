@@ -1,0 +1,246 @@
+{
+ "pmid:43055329": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43055230": {
+  "relevance": "medium",
+  "reason": "Retrospective n=78 comparison of afatinib 30 vs 40 mg in uncommon EGFR mutations; no PFS difference, small and non-randomised."
+ },
+ "pmid:43054806": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43054772": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43054699": {
+  "relevance": "medium",
+  "reason": "IHC-quantified mutant EGFR protein compared with NGS for EGFR testing."
+ },
+ "pmid:43054484": {
+  "relevance": "medium",
+  "reason": "Single-cell profiling of EGFR-mutant tumour remodelling."
+ },
+ "pmid:43054042": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43053735": {
+  "relevance": "medium",
+  "reason": "Protocol of PTR-1 (primary tumour resection after afatinib induction, EGFR-mutant NSCLC)."
+ },
+ "pmid:43053353": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43051939": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43051937": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43051933": {
+  "relevance": "medium",
+  "reason": "Retrospective n=11 amivantamab regimens in EGFR-mutant leptomeningeal disease; very small, short follow-up."
+ },
+ "pmid:43051451": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43051368": {
+  "relevance": "high",
+  "reason": "Updated ESMO Living Guideline recommendations for oncogene-addicted metastatic NSCLC (keywords: EGFR ex20ins, HER2, NRG1, ALK, cMET); no abstract, so which recommendation changed is not stated in the item."
+ },
+ "nct:NCT07948408": {
+  "relevance": "high",
+  "reason": "New phase 3 registration of WSD0922-FU vs platinum-pemetrexed in EGFR C797S+ NSCLC after first-line third-generation TKI; directly in the post-osimertinib setting."
+ },
+ "pmid:43053937": {
+  "relevance": "medium",
+  "reason": "Single-arm meta-analysis of MET-targeted therapy (25 studies, 1,636 pts); pooled ORR 49%."
+ },
+ "pmid:43052868": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43051935": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43056109": {
+  "relevance": "high",
+  "reason": "Large Medicare/SEER cohort linking LDCT screening to earlier-stage SCLC and better survival; observational, so not practice-changing."
+ },
+ "pmid:43055830": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43055353": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43054085": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43053675": {
+  "relevance": "medium",
+  "reason": "Pilot smoking cessation study in lung screening."
+ },
+ "pmid:43051603": {
+  "relevance": "medium",
+  "reason": "Hong Kong Delphi consensus on local ablative therapy in oligometastatic oncogene-driven NSCLC; regional expert consensus."
+ },
+ "pmid:43051336": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43051096": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of sleep apnoea and lung cancer risk."
+ },
+ "pmid:43056125": {
+  "relevance": "medium",
+  "reason": "Korean target-trial emulation of CT surveillance beyond 5 years after lung cancer diagnosis."
+ },
+ "pmid:43056383": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43054014": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43052127": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43051938": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43056504": {
+  "relevance": "medium",
+  "reason": "Preclinical NKTR-255 with CAR-T."
+ },
+ "pmid:43054747": {
+  "relevance": "medium",
+  "reason": "Review of GPC3 CAR-T antigen availability in HCC."
+ },
+ "pmid:43051941": {
+  "relevance": "medium",
+  "reason": "Preclinical B7-H3 CAR-T with IL-4 chimeric receptor."
+ },
+ "pmid:43051155": {
+  "relevance": "medium",
+  "reason": "iPSC-derived CAR macrophages for HCC (preclinical)."
+ },
+ "nct:NCT07949448": {
+  "relevance": "high",
+  "reason": "New phase 1 registration of B7-H3 CAR-T (iC9 safety switch) in high-grade glioma; relevant to CAR-T in solid tumours, not lung."
+ },
+ "doi:10.64898/2026.11.18.767282": {
+  "relevance": "medium",
+  "reason": "Preprint: radiation-selected NSCLC survivors (preclinical)."
+ },
+ "doi:10.64898/2026.11.17.767321": {
+  "relevance": "medium",
+  "reason": "Preprint: murine EGFR-mutant model with osimertinib (preclinical)."
+ },
+ "pmid:43056511": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43054652": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43053083": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43052254": {
+  "relevance": "medium",
+  "reason": "Preclinical crizotinib adaptation mechanism."
+ },
+ "pmid:43051903": {
+  "relevance": "medium",
+  "reason": "Case report of intracranial response to zongertinib in HER2-mutant NSCLC."
+ },
+ "pmid:43056244": {
+  "relevance": "medium",
+  "reason": "PDX transcriptional subsets of SCLC."
+ },
+ "pmid:43055761": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43054644": {
+  "relevance": "medium",
+  "reason": "CRISPR screen identifies POU2F1 regulating DLL3 in SCLC."
+ },
+ "pmid:43054169": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43054435": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43051932": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43054627": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43053703": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43051936": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43051934": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43053135": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43051557": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43055942": {
+  "relevance": "medium",
+  "reason": "Prospective multicentre observational study: early checkpoint-inhibitor pneumonitis linked to shorter OS."
+ },
+ "pmid:43052672": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43055757": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43051912": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "url:https://www.ema.europa.eu/en/node/289118": {
+  "relevance": "practice-changing",
+  "reason": "Positive CHMP opinion is a regulatory decision recommending EU authorisation of sintilimab for first-line non-squamous NSCLC.",
+  "practice_change": {
+   "kind": "regulatory",
+   "basis": "EMA CHMP, 12 Nov 2026: positive opinion for Zybrivo (sintilimab; applicant Fortvita Biologics) with pemetrexed and platinum chemotherapy, first-line non-squamous NSCLC without EGFR/ALK aberrations (locally advanced not amenable to curative therapy, or metastatic); EC decision pending."
+  }
+ }
+}
