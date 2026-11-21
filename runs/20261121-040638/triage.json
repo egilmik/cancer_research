@@ -1,0 +1,258 @@
+{
+ "pmid:43060583": {
+  "relevance": "medium",
+  "reason": "Case report of clonal evolution in EGFR-mutant adenocarcinoma with MET ex14/EML4-ALK."
+ },
+ "pmid:43060461": {
+  "relevance": "medium",
+  "reason": "Case report: long survival with EGFR 19del/T790M/C797S plus NTRK1 fusion."
+ },
+ "pmid:43057628": {
+  "relevance": "high",
+  "reason": "Final 7.5-year OS of CheckMate 227 (nivo+ipi vs chemo) with HRs and ongoing-response data; mature follow-up of an already-approved regimen, so high rather than practice-changing."
+ },
+ "pmid:43057129": {
+  "relevance": "medium",
+  "reason": "Review of sequencing decisions across EGFR-mutant NSCLC disease course."
+ },
+ "pmid:43057128": {
+  "relevance": "medium",
+  "reason": "Korean EGFR registry, n=1,522: rapid third-generation TKI uptake, NGS in only ~23%."
+ },
+ "nct:NCT07951463": {
+  "relevance": "high",
+  "reason": "New phase 3 (n=375) registration: glumetinib (MET inhibitor) + osimertinib vs placebo-controlled regimen in EGFR-mutant, MET-overexpressed/amplified NSCLC first line."
+ },
+ "pmid:43063368": {
+  "relevance": "high",
+  "reason": "ALNEO phase II (n=33): neoadjuvant alectinib in stage III ALK+ NSCLC met its MPR primary endpoint (42%), a new perioperative TKI strategy; single-arm with short follow-up."
+ },
+ "pmid:43062512": {
+  "relevance": "medium",
+  "reason": "Post hoc ORIENT-11 model for severe irAEs (n=266); retrospective, no external validation."
+ },
+ "pmid:43062053": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43061927": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of pulmonary rehabilitation timing after lung cancer surgery."
+ },
+ "pmid:43061705": {
+  "relevance": "medium",
+  "reason": "25.4M EU adults eligible for LCS by USPSTF criteria; relevant to screening policy."
+ },
+ "pmid:43061692": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43060051": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43058996": {
+  "relevance": "medium",
+  "reason": "Commentary on lorlatinib dyslipidaemia and VTE risk with CROWN 7-year context."
+ },
+ "pmid:43057869": {
+  "relevance": "high",
+  "reason": "ERS guideline with 11 conditional recommendations for lung cancer in IPF (surgery, SBRT, avoiding concurrent chemoradiation); specialty-society guideline of narrow population, conditional evidence."
+ },
+ "pmid:43057181": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43056903": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43063374": {
+  "relevance": "medium",
+  "reason": "Editorial on timing of alectinib in resectable ALK+ NSCLC, accompanying ALNEO."
+ },
+ "pmid:43058594": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43058555": {
+  "relevance": "medium",
+  "reason": "Prospective n=50 gut microbiome study in Indian NSCLC patients on ICI; small, observational."
+ },
+ "pmid:43062217": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43061481": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43061364": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43060940": {
+  "relevance": "medium",
+  "reason": "Review of macrophage states in perioperative immunotherapy resistance."
+ },
+ "pmid:43060744": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43060148": {
+  "relevance": "medium",
+  "reason": "Preprint-indexed preclinical CAR-T work (oncogenic RNA sensing)."
+ },
+ "pmid:43059722": {
+  "relevance": "medium",
+  "reason": "Preprint-indexed preclinical PD-1 switch receptor T cells."
+ },
+ "pmid:43057069": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43056754": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.11.18.26368446": {
+  "relevance": "medium",
+  "reason": "Preprint (not peer reviewed): LCatlas predictor of ICI outcome, n=79, small validation cohort."
+ },
+ "doi:10.64898/2026.11.15.26368161": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.11.18.767633": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.11.18.767479": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43063076": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43056990": {
+  "relevance": "medium",
+  "reason": "Patient-derived models: navitoclax overcomes EMT-associated alectinib resistance in ALK+ NSCLC."
+ },
+ "pmid:43061724": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43059609": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43058127": {
+  "relevance": "medium",
+  "reason": "Multi-omics of 27 LCNEC cases; hypothesis-generating lineage plasticity."
+ },
+ "pmid:43057868": {
+  "relevance": "high",
+  "reason": "First-in-human phase I of clesitamig, a DLL3 x CD3 x 4-1BB trispecific T-cell engager in SCLC/neuroendocrine carcinoma; early-phase, no abstract detail available."
+ },
+ "pmid:43057499": {
+  "relevance": "high",
+  "reason": "Review of DLL3 T-cell engagers (tarlatamab) in SCLC with CRS/ICANS management; secondary evidence."
+ },
+ "nct-results:NCT06140407": {
+  "relevance": "medium",
+  "reason": "Terminated phase II (n=1) of pembrolizumab after chemoradiation in LS-SCLC; results posted, uninformative."
+ },
+ "pmid:43060949": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43058266": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43062399": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43061014": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43059108": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43060732": {
+  "relevance": "medium",
+  "reason": "Review of pathology/ctDNA/imaging discordance after neoadjuvant chemoimmunotherapy."
+ },
+ "pmid:43061566": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43057873": {
+  "relevance": "medium",
+  "reason": "CXCL9/PD-1+CD8+ axis predicting checkpoint pneumonitis (AUC 0.954); prospective cohorts, needs validation."
+ },
+ "pmid:43056744": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43063366": {
+  "relevance": "medium",
+  "reason": "UK real-world (n=147) mesothelioma sequencing, retrospective."
+ },
+ "pmid:43063279": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43062534": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43062186": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43061761": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43061432": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43060053": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43059885": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43058576": {
+  "relevance": "medium",
+  "reason": "Real-world second-line thymic carcinoma (n=107), retrospective."
+ },
+ "pmid:43057052": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43056991": {
+  "relevance": "medium",
+  "reason": "Review of molecular/immune landscape of pleural mesothelioma."
+ },
+ "url:https://www.ema.europa.eu/en/documents/smop-initial/chmp-summary-positive-opinion-aumseqa_en.pdf": {
+  "relevance": "high",
+  "reason": "Positive CHMP opinion for aumolertinib (EGFR TKI, ex19del/L858R first line, T790M) in NSCLC; opinion date is conflicting across sources (11 Dec 2025 vs 12 Nov 2026), so not rated practice-changing until verified."
+ },
+ "url:https://www.aacr.org/patients-caregivers/progress-against-cancer/new-approvals-for-engineered-t-cell-receptor-therapy-for-rare-soft-tissue-cancer": {
+  "relevance": "high",
+  "reason": "Reported full FDA approval of afami-cel (TCR-T, MAGE-A4) in synovial sarcoma, extension to age >=12; secondary source only (AACR), date unverified; non-lung but relevant to solid-tumour cell therapy."
+ },
+ "url:https://www.clinicaltrialsarena.com/news/esmo-2026-lung-cancer-highlights": {
+  "relevance": "high",
+  "reason": "Press roundup of ESMO 2026 lung data (DeLLphi-305, Krascendo 1, OptiTROP-Lung04 etc.); secondary reporting, useful pointer to trials to track."
+ }
+}
