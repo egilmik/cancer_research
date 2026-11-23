@@ -1,0 +1,106 @@
+{
+ "url:https://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications": {
+  "relevance": "practice-changing",
+  "reason": "FDA approval of zidesamtinib for previously treated ROS1+ NSCLC (decision itself; approval dated 22 Jul 2026, first surfaced by this monitor now).",
+  "practice_change": {
+   "kind": "regulatory",
+   "basis": "FDA, 22 Jul 2026, zidesamtinib (Jideytro, Nuvalent) for adults with locally advanced/metastatic ROS1-positive NSCLC after at least one prior ROS1 TKI; rests on single-arm ARROS-1, efficacy population n=117, ORR 44% (per FDA announcement)."
+  }
+ },
+ "url:https://www.ema.europa.eu/en/medicines/human/EPAR/aumseqa": {
+  "relevance": "high",
+  "reason": "CHMP positive opinion for aumolertinib (first-line EGFR-mutated NSCLC); opinion date conflicts between sources (12 Nov 2026 vs a summary-of-opinion PDF dated 11 Dec 2025), so not rated practice-changing until verified."
+ },
+ "url:https://pubmed.ncbi.nlm.nih.gov/41632927": {
+  "relevance": "high",
+  "reason": "ASCO living guideline 2026.3.0 for stage IV NSCLC without driver alterations adds retifanlimab + chemotherapy; item does not detail other changes, so rated high not practice-changing."
+ },
+ "pmid:43066993": {
+  "relevance": "medium",
+  "reason": "Retrospective real-world study (n=132) of RET-TKIs in Chinese RET+ NSCLC; mPFS 16.0 mo, first-line better than later lines."
+ },
+ "pmid:43067256": {
+  "relevance": "medium",
+  "reason": "Japanese C-CAT genomic profiling of small cell carcinoma (320 SCLC, 295 extrapulmonary); actionability analysis, observational."
+ },
+ "pmid:43067867": {
+  "relevance": "medium",
+  "reason": "Prediction model (n=452, AUC 0.71) for eligibility for adjuvant durvalumab after CRT in stage III NSCLC; single-cohort."
+ },
+ "pmid:43067517": {
+  "relevance": "medium",
+  "reason": "Systematic review of germline pharmacogenomics of NSCLC treatment toxicity; no marker meets CPIC standards."
+ },
+ "pmid:43068350": {
+  "relevance": "medium",
+  "reason": "Retrospective mobile LDCT screening implementation, 1279 people, 5 cancers detected; single region."
+ },
+ "pmid:43067216": {
+  "relevance": "medium",
+  "reason": "HER2 IHC in 53 pleural mesotheliomas: faint staining, no amplification, scoring discordant between guidelines."
+ },
+ "pmid:43066322": {
+  "relevance": "low",
+  "reason": "Single case report of serplulimab-induced TEN-like reaction."
+ },
+ "pmid:43066106": {
+  "relevance": "low",
+  "reason": "Systematic review of PRS-stratified screening across six cancers; lung not the focus."
+ },
+ "pmid:43067142": {
+  "relevance": "low",
+  "reason": "Pathomics model for neoadjuvant immunotherapy response, mainly breast; lung only exploratory."
+ },
+ "pmid:43068439": {
+  "relevance": "low",
+  "reason": "Off-topic for lung/thoracic criteria (preclinical, non-lung or non-solid-tumour)."
+ },
+ "pmid:43066075": {
+  "relevance": "low",
+  "reason": "Off-topic for lung/thoracic criteria (preclinical, non-lung or non-solid-tumour)."
+ },
+ "pmid:43068140": {
+  "relevance": "low",
+  "reason": "Off-topic for lung/thoracic criteria (preclinical, non-lung or non-solid-tumour)."
+ },
+ "pmid:43068431": {
+  "relevance": "low",
+  "reason": "Off-topic for lung/thoracic criteria (preclinical, non-lung or non-solid-tumour)."
+ },
+ "pmid:43067807": {
+  "relevance": "low",
+  "reason": "Off-topic for lung/thoracic criteria (preclinical, non-lung or non-solid-tumour)."
+ },
+ "pmid:43067666": {
+  "relevance": "low",
+  "reason": "Off-topic for lung/thoracic criteria (preclinical, non-lung or non-solid-tumour)."
+ },
+ "pmid:43066174": {
+  "relevance": "low",
+  "reason": "Off-topic for lung/thoracic criteria (preclinical, non-lung or non-solid-tumour)."
+ },
+ "doi:10.64898/2026.11.18.767665": {
+  "relevance": "low",
+  "reason": "Off-topic for lung/thoracic criteria (preclinical, non-lung or non-solid-tumour)."
+ },
+ "pmid:43066020": {
+  "relevance": "low",
+  "reason": "Off-topic for lung/thoracic criteria (preclinical, non-lung or non-solid-tumour)."
+ },
+ "pmid:43068231": {
+  "relevance": "low",
+  "reason": "Off-topic for lung/thoracic criteria (preclinical, non-lung or non-solid-tumour)."
+ },
+ "pmid:43065860": {
+  "relevance": "low",
+  "reason": "Off-topic for lung/thoracic criteria (preclinical, non-lung or non-solid-tumour)."
+ },
+ "pmid:43065627": {
+  "relevance": "low",
+  "reason": "Off-topic for lung/thoracic criteria (preclinical, non-lung or non-solid-tumour)."
+ },
+ "pmid:43068469": {
+  "relevance": "low",
+  "reason": "Off-topic for lung/thoracic criteria (preclinical, non-lung or non-solid-tumour)."
+ }
+}
