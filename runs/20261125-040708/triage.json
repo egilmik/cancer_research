@@ -1,0 +1,238 @@
+{
+ "pmid:43077001": {
+  "relevance": "medium",
+  "reason": "Review of FGFR bypass resistance to EGFR-TKIs."
+ },
+ "pmid:43076438": {
+  "relevance": "medium",
+  "reason": "Editorial on uncommon EGFR mutation treatment selection."
+ },
+ "pmid:43076406": {
+  "relevance": "medium",
+  "reason": "Primary-brain metastasis molecular discordance in NSCLC."
+ },
+ "pmid:43075841": {
+  "relevance": "medium",
+  "reason": "Preclinical RNA-level EGFR/KRAS targeting review."
+ },
+ "pmid:43075504": {
+  "relevance": "medium",
+  "reason": "Review of immune ecosystem in EGFR-TKI resistance."
+ },
+ "pmid:43075265": {
+  "relevance": "medium",
+  "reason": "Review of high-dose EGFR-TKIs; evidence mostly small retrospective."
+ },
+ "pmid:43075063": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43074973": {
+  "relevance": "medium",
+  "reason": "Case report of ERBB2 exon 20 NSCLC with hyperprogression."
+ },
+ "pmid:43074778": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43074125": {
+  "relevance": "medium",
+  "reason": "German CRISP registry: private vs statutory insurance, OS HR 1.01 in matched NSCLC cohort."
+ },
+ "pmid:43074063": {
+  "relevance": "high",
+  "reason": "Retrospective study (n=49) of third-gen EGFR-TKI plus local consolidative therapy: median PFS 32.0 vs 21.0 months (HR 0.39); small, retrospective, high bias risk."
+ },
+ "pmid:43073884": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43072446": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43072177": {
+  "relevance": "high",
+  "reason": "Retrospective cohort (n=162; 42 conversion surgery) after EGFR-TKI induction in unresectable stage III EGFR-mutant NSCLC: R0 97.6%, MPR 31%; longer EFS/OS after weighting but selected and confounded."
+ },
+ "nct:NCT07956520": {
+  "relevance": "high",
+  "reason": "New phase 2 registration (NCT07956520, Kelun-Biotech, SKB571 + SKB118 \u00b1 platinum, n=180) in NSCLC; no results."
+ },
+ "pmid:43072366": {
+  "relevance": "high",
+  "reason": "Cancer Cell study linking SCLC transcription-factor subtype (ASCL1/NEUROD1/POU2F3) to tarlatamab response and resistance, using plasma chromatin and a mouse model; mechanistic, not a clinical trial."
+ },
+ "pmid:43077025": {
+  "relevance": "medium",
+  "reason": "Letter on randomised evidence for SBRT in oligometastatic NSCLC."
+ },
+ "pmid:43076292": {
+  "relevance": "medium",
+  "reason": "Implementation of guideline-based LDCT screening."
+ },
+ "pmid:43075576": {
+  "relevance": "medium",
+  "reason": "Review of lung cancer early detection."
+ },
+ "pmid:43074069": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43073612": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43073091": {
+  "relevance": "high",
+  "reason": "Chinese Thoracic Surgeons expert consensus on perioperative treatment of locally advanced NSCLC by technical resectability; no abstract available, so the recommendations could not be assessed and it is not rated practice-changing."
+ },
+ "pmid:43071962": {
+  "relevance": "high",
+  "reason": "Cluster-randomised pragmatic trial (n=34,686, 24 clusters) of less vs more intensive nodule follow-up missed the 5-point non-inferiority margin for cancers >20 mm at diagnosis (36.3% vs 27.7%; adjusted +7 points, 95% CI -2.0 to 15.9), relevant to screening/early-detection criteria."
+ },
+ "pmid:43075711": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43075370": {
+  "relevance": "medium",
+  "reason": "Nursing overview of advanced lung cancer."
+ },
+ "pmid:43075121": {
+  "relevance": "medium",
+  "reason": "Cohort of perioperative symptoms after lung cancer surgery."
+ },
+ "pmid:43075117": {
+  "relevance": "medium",
+  "reason": "Resilience/sleep/fatigue in lung cancer patients."
+ },
+ "pmid:43074909": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43073882": {
+  "relevance": "medium",
+  "reason": "Qualitative study of treatment discontinuation practices."
+ },
+ "pmid:43072460": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43072543": {
+  "relevance": "medium",
+  "reason": "Preclinical mRNA-LNP (mbIL-12 + mesothelin T-cell engager) boosting TCR-T in lung adenocarcinoma xenograft."
+ },
+ "pmid:43075758": {
+  "relevance": "medium",
+  "reason": "Mouse study: inhaled antibiotics boost anti-PD-1 by removing lung tumour bacteria."
+ },
+ "pmid:43072429": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43077277": {
+  "relevance": "medium",
+  "reason": "Review of CAR cell therapy for breast cancer."
+ },
+ "pmid:43077125": {
+  "relevance": "medium",
+  "reason": "Preclinical CD70 CAR-NK against glioblastoma."
+ },
+ "pmid:43073246": {
+  "relevance": "high",
+  "reason": "First-in-human single-arm trial (n=10) of locoregional CD44/CD133 CAR-T in recurrent glioma: no DLT, 3 partial responses, median OS 465 days; solid-tumour CAR-T feasibility only, tiny and uncontrolled."
+ },
+ "pmid:43072454": {
+  "relevance": "medium",
+  "reason": "Review of CAR-NK in solid tumours."
+ },
+ "pmid:43075790": {
+  "relevance": "medium",
+  "reason": "Flatiron cohort (n=552) of ALK-positive NSCLC: high PD-L1 associated with poorer OS (HR 0.71 low vs high)."
+ },
+ "pmid:43076194": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07957820": {
+  "relevance": "high",
+  "reason": "New phase 1 registration (NCT07957820, Zymeworks, ZW209 DLL3 T-cell engager, n=140) in SCLC/NEC; early-phase, no data."
+ },
+ "pmid:43077162": {
+  "relevance": "medium",
+  "reason": "TLS prognostic value in NSCLC."
+ },
+ "pmid:43072721": {
+  "relevance": "medium",
+  "reason": "Study protocol: digital irAE monitoring in stage IV NSCLC/mesothelioma (CONNECT)."
+ },
+ "pmid:43072482": {
+  "relevance": "medium",
+  "reason": "Preclinical nanovaccine."
+ },
+ "pmid:43077577": {
+  "relevance": "medium",
+  "reason": "Burden vs prevention opportunity in COPD and lung cancer."
+ },
+ "pmid:43074740": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43074202": {
+  "relevance": "medium",
+  "reason": "Language preference and screening adherence."
+ },
+ "pmid:43072576": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43075042": {
+  "relevance": "medium",
+  "reason": "Granzyme B biomarker in NSCLC immunotherapy."
+ },
+ "pmid:43073962": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "nct:NCT07956065": {
+  "relevance": "medium",
+  "reason": "Exercise prehabilitation observational study registration before lung resection (n=150)."
+ },
+ "pmid:43071987": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43077684": {
+  "relevance": "medium",
+  "reason": "Phase 1 (n=12) of anti-TIGIT HH-101; ORR 0%, DCR 11.1%."
+ },
+ "pmid:43076448": {
+  "relevance": "high",
+  "reason": "Randomised multicentre trial (n=122) of robotic vs VATS thymectomy for stage I-II thymic epithelial tumours: lower drainage volume (170 vs 266 ml), more nodes retrieved, longer operating time; surrogate primary endpoint, no oncologic outcomes."
+ },
+ "pmid:43075357": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43075316": {
+  "relevance": "medium",
+  "reason": "Review of perioperative management in thymoma-associated myasthenia."
+ },
+ "pmid:43074581": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43073890": {
+  "relevance": "medium",
+  "reason": "Cross-sectional analysis of mesothelioma trial reporting: 24.6% of completed trials unreported."
+ },
+ "pmid:43072553": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.11.23.768631": {
+  "relevance": "medium",
+  "reason": "Preprint (not peer reviewed): DNMT inhibition during CAR-T manufacturing in mouse brain/ovarian models."
+ }
+}
