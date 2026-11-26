@@ -1,0 +1,166 @@
+{
+ "pmid:43083961": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43082463": {
+  "relevance": "high",
+  "reason": "Retrospective n=41: grade \u22652 pneumonitis 12.2% (one grade 5) after thoracic RT with osimertinib; relevant to local-therapy/toxicity criteria."
+ },
+ "pmid:43081065": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43080489": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43079664": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43079391": {
+  "relevance": "medium",
+  "reason": "Retrospective n=200 single-centre KRAS cohort; no OS difference."
+ },
+ "pmid:43077812": {
+  "relevance": "medium",
+  "reason": "Preclinical EGFR C797S inhibitor, rat data only."
+ },
+ "pmid:43083910": {
+  "relevance": "high",
+  "reason": "Meta-analysis of 23 mostly non-randomised studies (n=4601): RT plus chemo-IO in ES-SCLC pooled OS HR 0.64; confounded by selection."
+ },
+ "pmid:43083897": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43082804": {
+  "relevance": "medium",
+  "reason": "Narrative review of intratumoral injection in lung cancer; evidence mostly small non-randomised."
+ },
+ "pmid:43082793": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43082703": {
+  "relevance": "medium",
+  "reason": "Perspective on why anti-TIGIT phase III programmes failed; no new data."
+ },
+ "pmid:43082485": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43082468": {
+  "relevance": "medium",
+  "reason": "Retrospective n=952 palliative RT cohort; OM vs PM survival, not lung-specific."
+ },
+ "pmid:43081763": {
+  "relevance": "high",
+  "reason": "Meta-analysis of 44 studies: PPI exposure linked to shorter OS (HR 1.32) with very low GRADE certainty; practical for ICI patients."
+ },
+ "pmid:43081603": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43079827": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43081305": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43077746": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43083769": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43079548": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43084644": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43082705": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43078195": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "doi:10.64898/2026.11.23.768752": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43084214": {
+  "relevance": "medium",
+  "reason": "Prospective n=98 brigatinib safety study: 0 adjudicated early-onset pulmonary events with step-up dosing."
+ },
+ "pmid:43082715": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43082130": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43080989": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43080289": {
+  "relevance": "medium",
+  "reason": "Retrospective: no documented LEMS among 436 SCLC patients."
+ },
+ "pmid:43083577": {
+  "relevance": "medium",
+  "reason": "Review of indoor radon levels (Norway among highest) and lung cancer risk."
+ },
+ "pmid:43080882": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43079340": {
+  "relevance": "medium",
+  "reason": "Retrospective n=7319 LDCT cohort in Taiwan on screening beyond smoking criteria."
+ },
+ "pmid:43082462": {
+  "relevance": "medium",
+  "reason": "Retrospective n=392 WBRT score predicting 30/60-day mortality in NSCLC."
+ },
+ "pmid:43083445": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43079395": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43082477": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43079823": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43079822": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "pmid:43079147": {
+  "relevance": "low",
+  "reason": ""
+ },
+ "url:https://www.helsedirektoratet.no/retningslinjer/lungekreft-mesoteliom-og-thymom-handlingsprogram/kurativ-behandling-av-ikke-smacellet-lungekreft": {
+  "relevance": "medium",
+  "reason": "Norwegian national guideline chapter updated 26 May 2026 (subcutaneous pembrolizumab, repotrectinib); no new change this run."
+ }
+}
