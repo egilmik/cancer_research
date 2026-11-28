@@ -1,0 +1,178 @@
+{
+ "pmid:43102874": {
+  "relevance": "medium",
+  "reason": "Preclinical mechanism of therapy-induced senescence escape in lung cancer brain metastases; clinical angle is indirect."
+ },
+ "pmid:43102678": {
+  "relevance": "low",
+  "reason": "Narrative review of citrus phytochemicals."
+ },
+ "pmid:43100864": {
+  "relevance": "low",
+  "reason": "Single case report of SCLC transformation after EGFR-mutant adenocarcinoma."
+ },
+ "pmid:43099760": {
+  "relevance": "low",
+  "reason": "Narrative review of Trop-2 expression across cancers."
+ },
+ "pmid:43099505": {
+  "relevance": "low",
+  "reason": "Histologic-pattern correlates in adenocarcinoma, no treatment implication."
+ },
+ "pmid:43099456": {
+  "relevance": "low",
+  "reason": "Single-centre retrospective of EGFR structural subtypes and TKI efficacy."
+ },
+ "nct:NCT07963540": {
+  "relevance": "low",
+  "reason": "Registered observational single-cell sequencing study of immunotherapy response; not EGFR-directed."
+ },
+ "pmid:43097867": {
+  "relevance": "medium",
+  "reason": "Preclinical ALK-degrading ceritinib-iridium complex; early-stage degrader concept."
+ },
+ "pmid:43102980": {
+  "relevance": "low",
+  "reason": "Teleoncology tutorial, not lung-specific evidence."
+ },
+ "pmid:43102082": {
+  "relevance": "medium",
+  "reason": "Meta-analysis of observational studies of sleeve vs standard lobectomy; perioperative outcomes."
+ },
+ "pmid:43101022": {
+  "relevance": "low",
+  "reason": "Clinician's review of young-onset lung cancer."
+ },
+ "pmid:43100223": {
+  "relevance": "high",
+  "reason": "National (Portugal) expert consensus for early/locally advanced NSCLC (12 experts, voting); abstract names mandatory molecular testing and resectability criteria but no specific changed recommendation, so not rated practice-changing."
+ },
+ "pmid:43099677": {
+  "relevance": "medium",
+  "reason": "Meta-analysis (reconstructed IPD) of long-term survival, sleeve lobectomy vs pneumonectomy; observational source studies."
+ },
+ "pmid:43099517": {
+  "relevance": "low",
+  "reason": "Trial protocol for telerehabilitation; no results."
+ },
+ "pmid:43099436": {
+  "relevance": "medium",
+  "reason": "Systematic review of global stage distribution at diagnosis."
+ },
+ "pmid:43097981": {
+  "relevance": "low",
+  "reason": "Survey of screening-discussion uptake after USPSTF update."
+ },
+ "pmid:43097808": {
+  "relevance": "low",
+  "reason": "Preclinical medicinal chemistry of microtubule inhibitors."
+ },
+ "pmid:43101482": {
+  "relevance": "low",
+  "reason": "Narrative/hypothesis review of CAR-NK metabolism."
+ },
+ "pmid:43101240": {
+  "relevance": "medium",
+  "reason": "Preclinical: IP10 armoring (+IL-15) improves CLDN18.2 CAR-T in pancreatic cancer models."
+ },
+ "nct:NCT07960745": {
+  "relevance": "high",
+  "reason": "New NCI phase 1/2 registration (n=185) of TCR-T with regulatable IL-12 against neoantigens (KRAS, p53) in metastatic solid tumours including NSCLC."
+ },
+ "doi:10.64898/2026.11.24.26368897": {
+  "relevance": "medium",
+  "reason": "Preprint on temporal routes to treatment in NSCLC care; access/pathway differences."
+ },
+ "pmid:43102748": {
+  "relevance": "high",
+  "reason": "Editorial on PMDA approval of zongertinib (HER2-mutant NSCLC) in Japan; regulatory profile, not a first approval anywhere."
+ },
+ "pmid:43102250": {
+  "relevance": "low",
+  "reason": "Review of CUL4B in tumour progression."
+ },
+ "pmid:43101288": {
+  "relevance": "low",
+  "reason": "Single-institution ROS1 crizotinib experience, India."
+ },
+ "pmid:43100496": {
+  "relevance": "low",
+  "reason": "Cell-line genetic regulation of ALK inhibitor response."
+ },
+ "pmid:43100039": {
+  "relevance": "medium",
+  "reason": "Co-mutation signatures in KRAS-mutant NSCLC, Asian cohort, with immunotherapy-response associations."
+ },
+ "pmid:43099565": {
+  "relevance": "low",
+  "reason": "Narrative review of lipid metabolism in NSCLC."
+ },
+ "pmid:43102925": {
+  "relevance": "medium",
+  "reason": "Preclinical SCLC immune-escape mechanism via alternative splicing."
+ },
+ "pmid:43101287": {
+  "relevance": "low",
+  "reason": "Narrative review of LS-SCLC care in LMICs."
+ },
+ "pmid:43099452": {
+  "relevance": "low",
+  "reason": "Retrospective serum markers and PET SUVmax in stage IV lung cancer."
+ },
+ "pmid:43098172": {
+  "relevance": "medium",
+  "reason": "Multicentre Chinese study comparing metastatic lymph node ratio with 9th-edition nodal classification in resected SCLC."
+ },
+ "pmid:43101081": {
+  "relevance": "low",
+  "reason": "Review of eosinophils in NSCLC immunotherapy."
+ },
+ "pmid:43097853": {
+  "relevance": "low",
+  "reason": "Preclinical CEACAM1/VEGF bispecific in pancreatic cancer."
+ },
+ "pmid:43085830": {
+  "relevance": "medium",
+  "reason": "Germline IL7 variants associated with irAEs on checkpoint inhibitors."
+ },
+ "pmid:43101279": {
+  "relevance": "low",
+  "reason": "Narrative review of PM2.5 and mortality."
+ },
+ "pmid:43100851": {
+  "relevance": "low",
+  "reason": "Multi-cancer screening patterns in variant carriers."
+ },
+ "pmid:43101394": {
+  "relevance": "medium",
+  "reason": "Real-world plasma NGS in advanced NSCLC with an SVM CNA prognostic classifier; retrospective."
+ },
+ "pmid:43101255": {
+  "relevance": "low",
+  "reason": "Review of neutrophil extracellular traps."
+ },
+ "pmid:43101145": {
+  "relevance": "low",
+  "reason": "Review of ctDNA translation."
+ },
+ "pmid:43101619": {
+  "relevance": "low",
+  "reason": "Review of right ventricular toxicity after thoracic radiotherapy."
+ },
+ "nct:NCT07962617": {
+  "relevance": "low",
+  "reason": "Bile duct cancer trial; off-topic, matched on radiation terms."
+ },
+ "pmid:43101562": {
+  "relevance": "low",
+  "reason": "Myasthenia gravis case report, off-topic."
+ },
+ "doi:10.64898/2026.11.24.768308": {
+  "relevance": "medium",
+  "reason": "Preprint (not peer reviewed): in vivo screen identifies SLC38A3 as metabolic booster for CAR T cells."
+ },
+ "doi:10.64898/2026.11.25.768846": {
+  "relevance": "low",
+  "reason": "Preprint on CD33 CAR iNKT cells in AML; not solid tumour."
+ }
+}
